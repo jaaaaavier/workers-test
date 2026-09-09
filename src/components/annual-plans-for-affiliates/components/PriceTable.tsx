@@ -3,9 +3,8 @@ import { Transition } from '@headlessui/react';
 import CardSkeleton from '@/components/components/CardSkeleton';
 
 import PriceCard from './PriceCard';
-import { CurrencyCircleDollar, Lifebuoy } from '@phosphor-icons/react';
+import { CurrencyCircleDollar, Lifebuoy, Keyhole } from '@phosphor-icons/react';
 
-import OpenSource from '../../../../public/icons/open-source.svg';
 import usePricing from '@/hooks/usePricing';
 import { PromoCodeName } from '@/lib/types';
 
@@ -42,7 +41,7 @@ const PriceTable: React.FC<PriceTableProps> = ({
       text: textContent.features.guarantee,
     },
     {
-      icon: OpenSource,
+      icon: Keyhole,
       text: textContent.features.openSource,
     },
   ];
