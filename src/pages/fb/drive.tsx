@@ -2,7 +2,6 @@
 import HeroSection from '@/components/ppc/HeroSection';
 import FAQSection from '@/components/shared/sections/FaqSection';
 import Layout from '@/components/layout/Layout';
-import cookies from '@/lib/cookies';
 import { downloadDriveLinks } from '@/lib/get-download-url';
 import { DriveText } from '@/assets/types/drive';
 import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
@@ -178,8 +177,6 @@ export async function getServerSideProps(ctx) {
   const navbarLang = require(`@/assets/lang/${lang}/navbar.json`);
   const footerLang = require(`@/assets/lang/${lang}/footer.json`);
   const relationalLinksText = require(`@/assets/lang/${lang}/relational-links.json`);
-
-  cookies.setReferralCookie(ctx);
 
   return {
     props: {

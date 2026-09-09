@@ -4,7 +4,6 @@ import Footer from '@/components/layout/footers/Footer';
 import Layout from '@/components/layout/Layout';
 import Navbar from '@/components/layout/navbars/Navbar';
 import FAQSection from '@/components/shared/sections/FaqSection';
-import cookies from '@/lib/cookies';
 import { CloudDataCentersPageText } from '@/assets/types/cloud-data-centers';
 import FloatingCtaSectionv2 from '@/components/shared/FloatingCtaSectionV2';
 import { HeroSection } from '@/components/data-centers/HeroSection';
@@ -107,8 +106,6 @@ export async function getServerSideProps(ctx: GetServerSidePropsContext) {
   const textContent = require(`@/assets/lang/${lang}/cloud-data-centers.json`);
   const navbarLang = require(`@/assets/lang/${lang}/navbar.json`);
   const footerLang = require(`@/assets/lang/${lang}/footer.json`);
-
-  cookies.setReferralCookie(ctx);
 
   return {
     props: {

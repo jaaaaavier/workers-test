@@ -1,6 +1,5 @@
 import { GetServerSidePropsContext } from 'next';
 import { PromoCodeName } from '@/lib/types';
-import cookies from '@/lib/cookies';
 
 interface DealConfig {
   heroImage: string;
@@ -27,8 +26,6 @@ export const getDealsProps = async (ctx: GetServerSidePropsContext, config: Deal
   const textContent = require(`@/assets/lang/${lang}/${content.jsonFileName}.json`);
   const navbarLang = require(`@/assets/lang/${lang}/navbar.json`);
   const footerLang = require(`@/assets/lang/${lang}/footer.json`);
-
-  cookies.setReferralCookie(ctx);
 
   return {
     props: {

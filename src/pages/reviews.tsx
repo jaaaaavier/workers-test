@@ -4,7 +4,6 @@ import Footer from '@/components/layout/footers/Footer';
 import Layout from '@/components/layout/Layout';
 import Navbar from '@/components/layout/navbars/Navbar';
 import FAQSection from '@/components/shared/sections/FaqSection';
-import cookies from '@/lib/cookies';
 import FloatingCtaSectionv2 from '@/components/shared/FloatingCtaSectionV2';
 import { ReviewsTextPage } from '@/assets/types/reviews';
 import SupportSection from '@/components/reviews/support-section';
@@ -142,8 +141,6 @@ export async function getServerSideProps(ctx: GetServerSidePropsContext) {
   const textContent = require(`@/assets/lang/${lang}/reviews.json`);
   const navbarLang = require(`@/assets/lang/${lang}/navbar.json`);
   const footerLang = require(`@/assets/lang/${lang}/footer.json`);
-
-  cookies.setReferralCookie(ctx);
 
   return {
     props: {

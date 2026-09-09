@@ -3,7 +3,6 @@ import Footer from "@/components/layout/footers/Footer";
 import Layout from "@/components/layout/Layout";
 import Navbar from "@/components/layout/navbars/Navbar";
 import HeroSection from "@/components/levanteud/HeroSection";
-import cookies from "@/lib/cookies";
 import { GetServerSidePropsContext } from "next";
 import Image from "next/image";
 import DigitalIndependenceSection from "@/components/levanteud/DigitalIndependenceSection";
@@ -81,8 +80,6 @@ export async function getServerSideProps(ctx: GetServerSidePropsContext) {
   const textContent = require(`@/assets/lang/${lang}/levante-ud.json`);
   const navbarLang = require(`@/assets/lang/${lang}/navbar.json`);
   const footerLang = require(`@/assets/lang/${lang}/footer.json`);
-
-  cookies.setReferralCookie(ctx);
 
   return {
     props: {

@@ -5,7 +5,6 @@ import Layout from '@/components/layout/Layout';
 import Navbar from '@/components/layout/navbars/Navbar';
 import FAQSection from '@/components/shared/sections/FaqSection';
 import RelationalLinks from '@/components/shared/sections/RelationalLinks';
-import cookies from '@/lib/cookies';
 import HeroSection from '@/components/cleaner/HeroSection';
 import { CleanerText } from '@/assets/types/cleaner';
 import HowItWorksSection from '@/components/cleaner/HowItWorksSection';
@@ -106,8 +105,6 @@ export async function getServerSideProps(ctx: GetServerSidePropsContext) {
   const navbarLang = require(`@/assets/lang/${lang}/navbar.json`);
   const footerLang = require(`@/assets/lang/${lang}/footer.json`);
   const relationalLinksText = require(`@/assets/lang/${lang}/relational-links.json`);
-
-  cookies.setReferralCookie(ctx);
 
   return {
     props: {
