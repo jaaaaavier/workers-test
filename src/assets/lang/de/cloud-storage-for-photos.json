@@ -1,0 +1,176 @@
+{
+  "HeroSection": {
+    "TitleAndOnePlan": {
+      "title": {
+        "textBeforeBlueText": "Privater ",
+        "blueText": "Cloud-Speicher ",
+        "textAfterBlueText": "für Fotos"
+      },
+      "description": "Internxts Fotospeicher ermöglicht es dir, private Alben zu erstellen sowie deine Fotos sicher in der Cloud zu speichern und zu teilen.",
+      "features": [
+        "Standardmäßig Zero-Knowledge",
+        "Post-Quanten-Verschlüsselung",
+        "Open Source, ISO 27001:2022 zertifiziert"
+      ],
+      "claimDeal": "Wähle deinen Plan"
+    },
+    "TitleAndOnePlanV2": {
+      "title": "Privater Cloud-Speicher für Fotos",
+      "description": "Internxts Fotospeicher ermöglicht es dir, private Alben zu erstellen sowie deine Fotos sicher in der Cloud zu speichern und zu teilen.",
+      "cta": "Wähle deinen Plan"
+    }
+  },
+  "ExplanationSection": {
+    "title": "So wählen Sie Cloud-Speicherdienste für Ihre Fotos aus",
+    "description": "Befolge diese Tipps, um den besten Cloud-Speicher für deine Fotos zu finden",
+    "costExp": {
+      "title": "Kosten",
+      "description": "Kostenloser Cloud-Speicher für Fotos kann für kleine Sammlungen ausreichen, bietet jedoch oft begrenzten Speicherplatz und weniger Sicherheitsfunktionen. Es ist wichtig, Preise nach Speicherbedarf und Funktionen zu vergleichen. Mit Internxt erhältst du sicheren Cloud-Speicher für Fotos ab 2 € im Monat oder kannst einen lebenslangen Plan wählen, bei dem du nur einmal zahlst und lebenslangen Zugang erhältst."
+    },
+    "securityExp": {
+      "title": "Sicherheit",
+      "description": "Nicht alle Anbieter bieten das gleiche Maß an Schutz, und viele Cloud-Speicheranbieter für Fotos setzen auf Bequemlichkeit statt Datenschutz. Einige verfolgen deine Daten, scannen deine Dateien zur KI-Trainingszwecken oder teilen sie mit Dritten. Um die Privatsphäre deiner Fotos zu wahren, suche nach einem Anbieter mit Ende-zu-Ende-Verschlüsselung, Zero-Knowledge-Richtlinien und unabhängigen Sicherheitsprüfungen."
+    },
+    "extraFeaturesExp": {
+      "title": "Zusätzliche Funktionen",
+      "description": "Je nach deinen Anforderungen können zusätzliche Funktionen nötig sein. Die Wahl des richtigen Cloud-Speichers für Fotos kann deine Erfahrung effizienter, zuverlässiger und sicherer machen. Internxt bietet sicheren Cloud-Speicher für Fotos und enthält bei allen kostenpflichtigen Plänen ein VPN und Antivirus – eine All-in-One-Lösung zum Schutz vor Datenlecks, Verlusten und Cyberangriffen."
+    },
+    "cta": "Wähle deinen Plan"
+  },
+  "FeaturesSection": {
+    "title": "Der beste Cloud-Speicher für Ihre Fotosammlung",
+    "description": "Verwalten und sichern Sie Fotos mit Internxt. Stellen Sie verlorene Dateien wieder her, wenn Sie versehentlich ein Album löschen.",
+    "info": [
+      {
+        "title": "Lokalen Speicherplatz freigeben",
+        "description": [
+          "Wir bieten ein virtuelles Laufwerk zur Verwaltung deines Cloud-Fotospeichers, das wie eine normale Festplatte auf deinem Computer funktioniert und Fotos automatisch mit der Cloud synchronisiert, ohne Speicherplatz auf deinem Gerät zu belegen.",
+          "Diese Einrichtung ermöglicht schnellen Zugriff auf deine Fotos zur Sicherung, Organisation und Synchronisation, wodurch Speicherplatz auf deinem Gerät freigegeben wird. Änderungen werden automatisch synchronisiert, sodass du immer Zugriff auf die neueste Version deiner Dateien hast."
+        ]
+      },
+      {
+        "title": "Cloud-Speicher für RAW-Fotos",
+        "description": [
+          "Für Fotografen, die mit großen, hochwertigen Bildern arbeiten, kann es schwierig sein, Cloud-Speicher für RAW-Fotos mit geeigneten Speicherplänen zu finden.",
+          "RAW-Fotos sind unbearbeitet und enthalten mehr Daten als Standardbildformate, ideal zur Bearbeitung, aber auch deutlich größer. Internxt bietet Pläne bis zu 5 TB Cloud-Speicher für Fotos. Bei Bedarf kannst du zusätzliche Pläne erwerben, um deinen Speicher zu erweitern."
+        ]
+      },
+      {
+        "title": "Fotos wiederherstellen",
+        "description": [
+          "Ein häufiges Problem ist der Verlust von Fotos durch Geräteausfall, versehentliches Löschen, Datenverlust oder Ransomware. Sicherer Cloud-Speicher für Fotos beinhaltet Backups, eine zuverlässige Lösung zum Schutz deiner Erinnerungen.",
+          "Internxt verschlüsselt alle deine Dateien und sichert sie automatisch in der Cloud. Nur du hast Zugriff darauf – niemand sonst kann deine Dateien sehen. Unsere Zero-Knowledge-Verschlüsselung garantiert deine Privatsphäre für den sichersten Cloud-Speicher deiner Fotos."
+        ]
+      },
+      {
+        "title": "Postquanten-Verschlüsselung",
+        "description": [
+          "Internxt ist der erste Cloud-Fotospeicher mit Postquanten-Verschlüsselung – der derzeit sichersten Technologie.",
+          "Das bedeutet, dass wir den sichersten Cloud-Speicher für Fotos bieten, der deine Dateien gegen Quantencomputer schützt, die heutige Verschlüsselung knacken könnten. So bleiben deine Bilder auch in Zukunft sicher und privat."
+        ]
+      },
+      {
+        "title": "Antivirus-Schutz",
+        "description": [
+          "Internxt-Pläne enthalten integrierten Antivirus-Schutz in Internxt Drive für mehr Sicherheit deiner Dateien gegen Malware-Angriffe und unbeabsichtigtes Löschen sowie ein unbegrenztes, ultraschnelles VPN für privates Surfen.",
+          "Mit Internxt Antivirus kannst du deine Cloud-Fotos mit vollständigen oder benutzerdefinierten Scans auf potenzielle Malware prüfen. Die Software erkennt und entfernt Infektionen, die deine Bilder beschädigen oder stehlen könnten."
+        ]
+      },
+      {
+        "title": "Open-Source und geprüft",
+        "description": [
+          "Der Open-Source-Cloud-Speicher für Fotos bedeutet, dass der von uns genutzte Code öffentlich einsehbar ist und von Sicherheitsexperten geprüft werden kann.",
+          "Ein auditierter, Open-Source-Anbieter bietet mehr Transparenz und garantiert, dass es keine versteckten Schwachstellen, Hintertüren oder Datenverfolgung gibt – für vollständiges Vertrauen in die Sicherheit deiner Daten."
+        ]
+      }
+    ]
+  },
+  "CtaSection1": {
+    "title": "Der privateste Cloud-Speicher für deine Fotos",
+    "description": "Cloud-Fotospeicher mit integrierter Post-Quanten-Verschlüsselung",
+    "cta": "Wähle deinen Plan"
+  },
+  "CtaSection2": {
+    "title": "Mach dir nie wieder Sorgen, deine Fotos zu verlieren",
+    "description": "Schütze deine Daten mit verschlüsselten Backups",
+    "cta": "Kaufe deinen Plan"
+  },
+  "FaqSection": {
+    "title": "Fragen? Wir haben Antworten",
+    "faq": [
+      {
+        "question": "Wie speichere ich Fotos mit Internxt?",
+        "answer": [
+          "Das Speichern von Fotos mit Internxt ist einfach: Erstellen Sie ein Konto unter internxt.com (kostenloser 1 GB-Plan oder kostenpflichtige Pläne ab 2 €/Monat) und laden Sie sie von einem beliebigen Gerät hoch. Die Web-App unter drive.internxt.com funktioniert in jedem Browser; die Desktop-App für Windows, Mac und Linux lässt sich als virtuelles Laufwerk einbinden, das Fotos automatisch synchronisiert; die mobile App für iOS und Android ermöglicht es Ihnen, den Kamera-Roll mit einem Klick zu sichern. Alle Fotos werden auf Ihrem Gerät verschlüsselt, bevor sie die Server von Internxt erreichen."
+        ]
+      },
+      {
+        "question": "Wie viel Cloud-Speicher benötige ich für Fotos?",
+        "answer": [
+          "Eine grobe Regel: 1 TB speichert etwa 250.000 Fotos bei 12 MP (Smartphone-Qualität, JPEG mit durchschnittlich ~4 MB), oder etwa 12.500 RAW-Dateien mit jeweils 80 MB. Für einen Gelegenheitsfotografen reicht 1 TB für fünf bis zehn Jahre normales Fotografieren. Für einen professionellen Fotografen mit RAW-Workflows speichert 5 TB etwa 60.000 RAW-Dateien, genug für mehrere Jahre professioneller Arbeit. Internxt bietet Pläne von 1 TB bis 5 TB an; Lifetime-Stapelung verwaltet Bibliotheken darüber hinaus."
+        ]
+      },
+      {
+        "question": "Kann ich den Kamera-Roll meines Handys automatisch sichern?",
+        "answer": [
+          "Ja. Die mobile App von Internxt für iOS und Android umfasst eine automatische Kamera-Roll-Sicherung: Einmal aktivieren und neue Fotos und Videos werden im Hintergrund mit Ihrem Internxt-Konto synchronisiert, während Ihr Gerät aufgeladen wird und mit dem WLAN verbunden ist. Fotos werden verschlüsselt vom Gerät hochgeladen, sodass Internxt die unverschlüsselten Bilder niemals sieht. Über die Web- und Desktop-Apps können Sie dieselben gesicherten Fotos von jeder Plattform aus durchsuchen."
+        ]
+      },
+      {
+        "question": "Ist Internxt der beste Cloud-Speicher für Fotografen?",
+        "answer": [
+          "Für Fotografen, die Wert auf Datenschutz und Eigentum legen, bietet Internxt die stärkste Kombination aus Zero-Knowledge-Verschlüsselung (der Anbieter kann Ihre Dateien nicht lesen), Post-Quanten-Kryptografie (Kyber-512), Open-Source-Code und Lifetime-Plänen, die einmalig statt monatlich wiederkehrend bezahlt werden. Der direkte Vergleich mit Adobe Creative Cloud, Dropbox oder pCloud läuft auf eine Frage hinaus: Möchten Sie, dass Ihre Fotos für die Verschlüsselungsschlüssel Ihres Anbieters zugänglich sind oder nur für Ihre? Internxt antwortet mit Nein auf die erste Option."
+        ]
+      },
+      {
+        "question": "Was ist der Unterschied zwischen Cloud-Speicher und Cloud-Backup für Fotos?",
+        "answer": [
+          "Cloud-Speicher und Cloud-Backup hängen zusammen, sind aber unterschiedlich. Cloud-Speicher für Fotos ist Online-Speicher, bei dem Ihre Fotos in Echtzeit zwischen Geräten synchronisiert werden. Ändern Sie ein Foto auf Ihrem Handy, und die Änderung erscheint auf Ihrem Laptop. Cloud-Backup ist eine Einweg-Kopie, die vor Verlust schützt: Sie laden Fotos zur sicheren Aufbewahrung hoch, und die Backup-Kopie bleibt unverändert, bis Sie sie zur Wiederherstellung benötigen. Internxt bietet beides: Cloud-Speicher über die Desktop- und Mobil-Apps und Cloud-Backup als separates Feature in den kostenpflichtigen Plänen."
+        ]
+      }
+    ]
+  },
+  "FeatureSection": {
+    "title": "Holen Sie sich den sichersten Cloud-Speicher für Fotos, um Ihre Alben und Erinnerungen für immer sicher aufzubewahren",
+    "titleLine2": "",
+    "description": "Cloud-Speicher für Fotos ist Online-Speicher, bei dem Bilddateien vor dem Hochladen auf Ihrem Gerät verschlüsselt werden, sodass der Anbieter die Daten speichern, aber den Inhalt nicht ansehen, scannen oder aushändigen kann. Bei Google Fotos, Dropbox oder OneDrive hält der Anbieter die Schlüssel und behält sich das Recht vor, Albeninhalte zur Inhaltsmoderation, Anzeigenbereitstellung oder zum KI-Training zu scannen. Internxt speichert nur Chiffretext.\n\nEine private Foto-Cloud hält jede Freigabe innerhalb dieser Grenze, egal ob es sich um ein Familienalbum handelt, das an die Großeltern gesendet wird, Urlaubsfotos, die mit Freunden geteilt werden, oder eine Kundengalerie, die an einen nicht-technischen Prüfer übergeben wird. Jedes Album bleibt mit AES-256 verschlüsselt, und der Verschlüsselungsschlüssel verlässt niemals Ihr Gerät. Die fünf Blöcke unten decken die Architektur ab: wie Passwörter funktionieren, wie Freigabelinks übertragen werden, wie geteilte Ordner eine 5 TB-Bibliothek verwalten, wo Dateien liegen und wie der Plan skaliert.",
+    "cta": "Get Internxt",
+    "cards": {
+      "element1": {
+        "title": "Passwortschutz",
+        "description": [
+          "Sicherer Cloud-Speicher für Fotos bedeutet, dass die Verschlüsselungsschlüssel auf Ihrem Gerät liegen, nicht auf den Servern des Anbieters. Das Foto wird mit AES-256 verschlüsselt, bevor es Ihre Hardware verlässt, und der Anbieter speichert nur Chiffretext, der ohne den Schlüssel unlesbar ist. Wenn Sie einem geteilten Album, Ordner oder Link ein Passwort hinzufügen, steuert das Passwort die Entschlüsselung: Nur Personen mit dem Passwort können den Inhalt entschlüsseln und ansehen.",
+          "Vergleichen Sie das mit der Freigabe bei Google Fotos oder OneDrive, wo der Anbieter den Verschlüsselungsschlüssel hält und lesen kann, was Sie mit wem teilen. Internxt hat technisch nicht die Möglichkeit dazu. Das Passwort macht das Album für einen Empfänger ohne Passwort undurchsichtig. Die Architektur macht das Album für uns undurchsichtig. Nicht für Hacker, nicht für Werbetreibende, nicht für uns."
+        ]
+      },
+      "element2": {
+        "title": "Geteilte Links",
+        "description": [
+          "Privater Cloud-Fotospeicher bedeutet, dass ein geteilter Link die Fotos in verschlüsselter Form überträgt, nicht die Fotos selbst. Erstellen Sie einen Link in Ihrem Internxt-Dashboard, legen Sie ein Ablaufdatum fest oder widerrufen Sie ihn jederzeit, und fügen Sie den aktiven Link in E-Mails oder Chats ein. Der Empfänger öffnet das Album in jedem Browser. Es ist kein Internxt-Konto erforderlich, es muss keine App installiert werden und die Fotos werden in ihrer Originalqualität geöffnet.",
+          "Die Entschlüsselung findet auf dem Gerät des Empfängers statt, nicht auf den Servern von Internxt. Das ist der Unterschied zwischen der Freigabe über Google Fotos, wo der Anbieter sieht, was Sie mit wem teilen, und der Freigabe über eine private Foto-Cloud, bei der die Freigabe konstruktionsbedingt für den Anbieter undurchsichtig ist. Kein Internxt-Konto, keine serverlesbare Kopie während der Übertragung, kein Werbescan zwischendurch."
+        ]
+      },
+      "element3": {
+        "title": "Geteilte Ordner",
+        "description": [
+          "Der beste Cloud-Speicher für Fotos verarbeitet eine 5 TB RAW-Bibliothek, eine einmalige Kundengalerie oder ein gemeinsames Familienalbum mit derselben Bedienoberfläche. Erstellen Sie einen geteilten Ordner, legen Sie den Bearbeitungs- oder Lesezugriff pro Person fest, und Beiträge landen an einem Ort. Dies eignet sich für einen Hochzeitsfotografen, der Dateien von einem zweiten Fotografen sammelt, eine Familie, die Urlaubsfotos zusammenlegt, oder einen Freelancer, der ein unbearbeitetes Shooting an einen Editor übergibt.",
+          "Für Fotografen, die mit RAW-Dateien arbeiten, bietet Internxt bis zu 5 TB in einem einzigen Plan an, und Lifetime-Optionen können für Bibliotheken darüber hinaus gestapelt werden. Jedes Foto im Ordner wird vor dem Hochladen auf Ihrem Gerät verschlüsselt, sodass Mitarbeiter genau das sehen, was Sie ihnen geben, und Internxt nur Chiffretext sieht. Die Schlüssel bleiben auf Ihrer Hardware. Personen, die Sie einladen, sehen die Fotos. Wir können es nicht."
+        ]
+      },
+      "element4": {
+        "title": "Wo Ihre Fotos liegen",
+        "description": [
+          "Der Ort, an dem ein Fotoanbieter ansässig ist, bestimmt, welche Gerichte ihn zur Herausgabe Ihrer Daten zwingen können. In den USA ansässige Dienste unterliegen dem CLOUD Act, der es US-Behörden erlaubt, Daten anzufordern, selbst wenn sie auf Servern in einem anderen Land liegen. Internxt hat seinen Sitz in Valencia, Spanien, und speichert Kundendaten in EU-Rechenzentren, die über OVHcloud betrieben werden. Damit unterliegt das Unternehmen der DSGVO (einschließlich Ihres Rechts auf Zugriff, Übertragung und Löschung Ihrer Fotos) und liegt außerhalb der Reichweite von CLOUD-Act-Anfragen.",
+          "Die Gerichtsbarkeit ist die eine Hälfte des Datenschutzversprechens. Die Verschlüsselung ist die andere. Internxt verschlüsselt jedes Foto auf Ihrem Gerät, sodass das Unternehmen selbst innerhalb der EU-Gerichtsbarkeit nichts Lesbares zum Aushändigen hätte. Die ISO 27001:2022 Zertifizierung und ein unabhängig geprüfter Quellcode machen diese Aussagen überprüfbar."
+        ]
+      },
+      "element5": {
+        "title": "Cloud-Fotospeicher, der mit Ihnen wächst",
+        "description": [
+          "Cloud-Speicher für Fotos, der mit Ihnen skaliert, bedeutet einen Plan, der mit der Bibliothek wächst, nicht gegen sie. Ein neues Handy mit einem 48 MP-Sensor, ein Jahr RAW-Shootings, ein Jahrzehnt Familienalben: Der Speicher, den Sie 2020 gekauft haben, ist selten der Speicher, den Sie 2030 benötigen. Die Pläne von Internxt reichen von 1 TB bis 5 TB bei monatlicher oder jährlicher Abrechnung, mit <a href=\"/de/lifetime\" class=\"text-primary underline\">Lifetime-Cloud-Speicher</a>-Optionen, die einmal bezahlt werden und über mehrere Pläne gestapelt werden können für Bibliotheken, die jede einzelne Stufe überschreiten.",
+          "Lifetime ist für Fotografen und Langzeitarchivare strukturiert. Anstatt einer wiederkehrenden Gebühr, die mit der Inflation wächst, werden die Speicherkosten zum Zeitpunkt des Kaufs festgelegt. Jeder Plan beinhaltet dieselbe Verschlüsselung, dieselbe EU-Gerichtsbarkeit und dieselbe Zero-Knowledge-Architektur. Das einzige, was sich ändert, ist, wie viel in den Vertrauenskreis passt."
+        ]
+      }
+    }
+  }
+}

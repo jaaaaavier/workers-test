@@ -1,0 +1,604 @@
+[
+  {
+    "id": "home",
+    "title": "Internxt 终身计划 – 实惠安全的终身云存储",
+    "description": "捍卫隐私，切换到 Internxt。Internxt 的开源云存储服务保护您的隐私权。Internxt Drive、Meet、Mail、Antivirus、Cleaner、Send 等"
+  },
+  {
+    "id": "drive",
+    "title": "Internxt Drive – 私有和安全的云存储",
+    "description": "Internxt Drive 提供终极安全云存储解决方案。使用我们的开源端到端加密平台存储、共享和备份您的文件和照片，享有有保障的隐私保护。"
+  },
+  {
+    "id": "free-cloud-storage",
+    "title": "免费 Internxt Drive – 安全加密的云存储",
+    "description": "使用 Internxt Drive 获取免费的安全云存储。利用我们的开源端到端加密平台，轻松存储、共享和备份您的文件和照片，确保隐私安全。"
+  },
+  {
+    "id": "business",
+    "title": "Internxt — 私密加密的企业云存储",
+    "description": "使用 Internxt 的加密企业云存储防止数据丢失—注册以受益于行业领先的云数据保护。"
+  },
+  {
+    "id": "family",
+    "title": "Internxt家庭计划 — 最安全的家庭云存储",
+    "description": "使用我们的Internxt家庭计划云存储管理您家庭的在线隐私。安全地存储、组织和共享您家庭的私人文件。"
+  },
+  {
+    "id": "webDAV",
+    "title": "Internxt CLI, WebDAV 和 Rclone – Internxt",
+    "description": "通过 Internxt CLI, WebDAV 和 Rclone 功能访问您的 Internxt Drive 账户。体验一种私密管理和控制文件的新方法。"
+  },
+  {
+    "id": "what-google-knows",
+    "title": "What Does Google Know About Me – Internxt",
+    "description": "Find out what data Google keeps on you. How to view and download your Google data, how to delete it, and how to disable Google data collection."
+  },
+  {
+    "id": "free-user",
+    "title": "Internxt — 所有安全云存储计划75%折扣",
+    "description": "获取任何Internxt计划75%的折扣，让您的文件保持私密，再也不用担心空间不足。"
+  },
+  {
+    "id": "affiliates",
+    "title": "联盟计划 – Internxt",
+    "description": "加入Internxt的联盟营销计划！如何开始以及计划详情、好处和特权。"
+  },
+  {
+    "id": "pricing",
+    "title": "Internxt 价格 – 终身加密云存储",
+    "description": "Internxt 提供实惠、安全、免费和加密的云存储，包含年付和终身付费计划"
+  },
+  {
+    "id": "open-source",
+    "title": "Internxt–开源安全云存储",
+    "description": "了解开源 (OSS) 软件的优势，以及 Internxt 使用开源软件提供云存储，确保数据安全的原因。"
+  },
+  {
+    "id": "about",
+    "title": "Internxt 隐私 – 我们的核心价值观",
+    "description": "在 Internxt，保护用户隐私是我们的使命。切换到 Internxt 一体化隐私套件。Internxt Drive、Meet、Mail、Cleaner 等更多服务。"
+  },
+  {
+    "id": "legal",
+    "title": "Internxt – 法律使用条款和条件",
+    "description": "Internxt 法律使用条款和条件。 阅读我们解释我们如何处理您的数据的所有条款和条件。"
+  },
+  {
+    "id": "privacy",
+    "title": "Internxt 隐私 – 免费隐私工具和资源",
+    "description": "保护在线隐私的免费工具：密码检查器、病毒扫描程序、隐私组织目录等。 Internxt 捍卫您的隐私权。"
+  },
+  {
+    "id": "virus-scanner",
+    "title": "Internxt – 免费在线文件病毒扫描程序",
+    "description": "用于扫描文件中的病毒和恶意软件的免费工具。 通过快速简单的扫描，保护您的个人文档、数据和硬件免受在线欺诈。"
+  },
+  {
+    "id": "temporary-email",
+    "title": "Internxt – 免费临时邮箱",
+    "description": "使用 Internxt 的免费临时邮箱，让您的电子邮件帐户保持干净、安全，并且没有任何不需要的邮件。 Internxt 提供临时、安全、匿名和免费的电子邮件地址。"
+  },
+  {
+    "id": "converter-tool",
+    "title": "字节转换器: 从GB 到 TB – Internxt",
+    "description": "Internxt 的免费字节转换器：了解您有多少存储空间，1 TB 中有多少千兆字节，并在 B、KB、MB、GB 和 TB 之间进行转换。"
+  },
+  {
+    "id": "lifetime",
+    "title": "Internxt 终身计划 – 终身安全的云存储！",
+    "description": "Internxt 终身优惠: 支付一次即可永久获得 1TB、3TB 或 5TB 的安全云存储空间。 注册或升级到 Internxt 终身计划以获得终身隐私！ 仅在有限的时间内。"
+  },
+  {
+    "id": "partner-discount",
+    "title": "合作伙伴交易 – 在 Internxt 云存储上节省大笔费用！",
+    "description": "兑换由经过认证的 Internxt 合作伙伴提供的专属优惠券代码。 获得 Internxt 安全云存储的特别折扣。"
+  },
+  {
+    "id": "techradar-discount",
+    "title": "TechRadar 合作伙伴优惠 – 在 Internxt 云存储上节省大笔费用！",
+    "description": "兑换我们的合作伙伴 TechRadar 提供的专属优惠券代码。 获得 Internxt 安全云存储的特别折扣。"
+  },
+  {
+    "id": "comparison",
+    "title": "Internxt – 云存储比较",
+    "description": "将 Internx 与其他所有服务进行比较。 Internxt 是 Google Drive、Dropbox 和其他服务的最私密和安全的替代方案。"
+  },
+  {
+    "id": "black-friday",
+    "title": "2025 年黑色星期五优惠 — 云存储和个人云存储优惠",
+    "description": "Internxt 2025 年黑色星期五：安全云存储和完整隐私套件可享 85% 折扣！获取 VPN、Antivirus、Cleaner、Meet 和 Mail。"
+  },
+  {
+    "id": "black-friday-cloud-storage",
+    "title": "Internxt — 2025 黑色星期五云存储优惠",
+    "description": "Internxt 2025 黑色星期五 — 云存储、Antivirus、Cleaner、VPN、Meet 和 Mail 享受 85% 折扣。"
+  },
+  {
+    "id": "black-friday-personal-cloud-storage",
+    "title": "Internxt — 2025黑色星期五個人雲端儲存優惠",
+    "description": "Internxt 2025黑色星期五 — 雲端儲存、防毒軟體、清理工具、VPN、Meet和郵箱享受85%折扣。"
+  },
+  {
+    "id": "cloudwards",
+    "title": "Internxt – CloudWards 合作伙伴关系",
+    "description": "借助 Cloudwards，获得最安全的云存储的最优惠价格。 pCloud、IceDrive、AppSumo 加密云存储的更便宜、更安全的替代品。"
+  },
+  {
+    "id": "startpage",
+    "title": "Internxt – Startpage 合作伙伴关系",
+    "description": "借助 Startpage，获得最安全的云存储的最优惠价格。 pCloud、IceDrive、AppSumo 加密云存储的更便宜、更安全的替代品。"
+  },
+  {
+    "id": "guru99",
+    "title": "Internxt – Guru99 合作伙伴关系",
+    "description": "借助 Guru99，获得最安全的云存储的最优惠价格。 pCloud、IceDrive、AppSumo 加密云存储的更便宜、更安全的替代品。"
+  },
+  {
+    "id": "freemonth",
+    "title": "Internxt – 免费获得 1 个月",
+    "description": "获得最安全的云存储的最优惠价格，并免费获得 1 个月。 pCloud、IceDrive、AppSumo 加密云存储的更便宜、更安全的替代品。"
+  },
+  {
+    "id": "landing",
+    "title": "Internxt – 最安全的云存储",
+    "description": "Internxt 提供安全、私有和加密的云服务，如 Internxt Drive 和 Internxt Photos。"
+  },
+  {
+    "id": "privacy-directory",
+    "title": "Internxt – 隐私组织、机构和非政府组织名录",
+    "description": "数字权利组织、机构和非政府组织的目录与 Internxt 合作以推进、支持和捍卫所有人的隐私。"
+  },
+  {
+    "id": "password-checker",
+    "title": "Internxt – 免费安全的密码检查器",
+    "description": "免费的密码安全检查器。 使用 Internxt 的安全在线工具检查您的密码强度。"
+  },
+  {
+    "id": "password-generator",
+    "title": "强密码生成器 – Internxt",
+    "description": "免费且安全的密码生成器。一个简单有效的工具，可立即创建随机且安全的密码，保护您的帐户安全。"
+  },
+  {
+    "id": "cyber-awareness",
+    "title": "网络意识 – Internxt",
+    "description": "什么是网络意识、如何保持在线安全以及您需要了解的有关今年 10 月网络安全意识月的所有信息。"
+  },
+  {
+    "id": "cloud-storage-for-education",
+    "title": "Cloud Storage Discount for Education – Internxt",
+    "description": "Internxt cloud storage discount for education, schools, and universities. 50% off any cloud storage subscription plans. Keep your files secure with Internxt!"
+  },
+  {
+    "id": "singles-day",
+    "title": "Internxt 光棍节特惠 – 终身云存储促销！",
+    "description": "Internxt 光棍节 2024 特惠：享受我们所有高级终身存储计划 80% 的折扣。立即在 Internxt 云存储上省钱！"
+  },
+  {
+    "id": "halloween-campaign",
+    "title": "Internxt – 私密安全的云存储",
+    "description": "Internxt 万圣节活动：所有年度计划享受 8 折优惠。一次支付，终生保护您的文件。"
+  },
+  {
+    "id": "internxt-monitor",
+    "title": "Internxt 监控：我是否被黑？",
+    "description": "Internxt 深网监控是一项“我是否被黑”的服务，检查您的电子邮件是否在任何在线数据泄露中被泄露。"
+  },
+  {
+    "id": "cloud-object-storage",
+    "title": "安全云对象存储 (兼容 S3) — Internxt S3",
+    "description": "Internxt S3 提供安全、私密且实惠的云对象存储。使用我们的 S3 兼容云对象存储解决方案扩展您的存储需求。"
+  },
+  {
+    "id": "free-cloud-object-storage",
+    "title": "免费云对象存储：Internxt 兼容 S3 且安全",
+    "description": "体验免费的云对象存储和专业的对象存储服务。Internxt 为您的数据提供安全、兼容 S3 的对象存储云。"
+  },
+  {
+    "id": "green-cloud-computing",
+    "title": "绿色与可持续的云存储",
+    "description": "Internxt 的绿色数据中心推动我们对可持续性和绿色云计算的承诺，支持一个更绿、更可持续的环境。"
+  },
+  {
+    "id": "internxt-antivirus",
+    "title": "使用 Internxt Antivirus 保護您的設備免受惡意軟體侵害",
+    "description": "Internxt Antivirus 掃描並移除檔案中的病毒。保護您的設備免受惡意軟體侵害，確保雲端的全面安全。"
+  },
+  {
+    "id": "vpn-extension",
+    "title": "Internxt 免费安全 VPN – Internxt",
+    "description": "Internxt 免费 VPN Chrome 扩展：安全浏览、加密 Wi-Fi 和隐私保护。下载我们的安全 VPN，在网上保护您的数据。"
+  },
+  {
+    "id": "internxt-private-cloud-storage-solutions",
+    "title": "Internxt – 私人云存储",
+    "description": "什么是私人云存储，Internxt 如何通过后量子加密、杀毒软件和 VPN 保护您的信息"
+  },
+  {
+    "id": "internxt-cloud-storage-backup-solutions",
+    "title": "Internxt – 云存储备份解决方案",
+    "description": "Internxt的云存储备份解决方案使用冗余和获奖的加密技术，保护您和您的企业免受数据丢失的风险。"
+  },
+  {
+    "id": "internxt-gdpr-cloud-storage",
+    "title": "Internxt – 符合GDPR的云存储",
+    "description": "Internxt 是一项云存储服务，符合GDPR及欧盟严格的隐私法律，以保护您的信息。"
+  },
+  {
+    "id": "internxt-cloud-storage-for-photos",
+    "title": "最适合照片的私密云存储和安全备份",
+    "description": "使用最适合私密照片的云存储保护您的回忆。体验具有零知识加密的安全照片云存储。今天就开始吧！"
+  },
+  {
+    "id": "internxt-annual",
+    "title": "Internxt – 年度计划特惠！",
+    "description": "获取 Internxt 任意年度计划的折扣。所有计划均包含私人云存储、VPN 和杀毒软件。"
+  },
+  {
+    "id": "internxt-metadata-remover",
+    "title": "Internxt 元数据清除器 – 如何在线清除 PDF、照片和文档中的元数据",
+    "description": "几秒钟内即可移除文件中的隐藏数据。Internxt 的元数据清除器在您分享前清理文档，最大程度保护隐私。"
+  },
+  {
+    "id": "zerogpt-ai-checker",
+    "title": "Internxt AI 检测器 – 免费 AI 文本检测工具",
+    "description": "Internxt AI 检测器。免费扫描内容，检查其是否由 ChatGPT、Gemini 或其他人工智能平台生成。"
+  },
+  {
+    "id": "special-offer",
+    "title": "特别优惠 — Internxt",
+    "description": "以独家80%折扣获取 Internxt 的年度和终身计划。享受隐私和安全，提供高达10TB的存储空间。"
+  },
+  {
+    "id": "file-compressor",
+    "title": "文件压缩器 – Internxt",
+    "description": "Internxt 文件压缩器是最佳免费工具，可减少视频、照片和文档的文件大小。"
+  },
+  {
+    "id": "compress-mov",
+    "title": "Internxt 视频压缩器",
+    "description": "Internxt 让您免费压缩视频以减小文件大小，无需担心大小限制即可在线发送。"
+  },
+  {
+    "id": "compress-pdf",
+    "title": "Internxt PDF 文件压缩器",
+    "description": "Internxt 让您免费压缩 PDF 文件，以便您可以轻松保护和发送文档。"
+  },
+  {
+    "id": "compress-jpg",
+    "title": "Internxt JPG 文件压缩器",
+    "description": "使用 Internxt 免费压缩 JPG 文件，以便您可以轻松保护和发送图片。"
+  },
+  {
+    "id": "compress-png",
+    "title": "Internxt PNG 文件压缩器",
+    "description": "使用 Internxt 免费压缩 PNG 文件，以便您可以轻松保护和发送图片。"
+  },
+  {
+    "id": "compress-ppt",
+    "title": "Internxt PPT 文件压缩器",
+    "description": "使用 Internxt 免费压缩 PPT 文件，以减小文件大小并简化文件存储和共享管理。"
+  },
+  {
+    "id": "compress-word",
+    "title": "Internxt 在线 Word 文件压缩器",
+    "description": "免费在线压缩 Word 文件(DOC)，减小文件大小，方便存储和共享。"
+  },
+  {
+    "id": "compress-excel",
+    "title": "Internxt Excel 文件压缩器",
+    "description": "免费 Excel 文件(XLS)压缩器 - 减小文件大小，方便存储和文件共享。"
+  },
+  {
+    "id": "compress-zip",
+    "title": "在线 ZIP 压缩器 – Internxt",
+    "description": "在线 ZIP 压缩器可减小 ZIP 文件大小，节省存储空间，无需担心文件大小限制即可共享和上传。"
+  },
+  {
+    "id": "cloud-for-videos",
+    "title": "Internxt – 视频文件云存储",
+    "description": "Internxt 提供视频文件云存储服务，用于存储 HD、4K 和 8K 视频，采用后量子加密技术确保最高隐私保护。"
+  },
+  {
+    "id": "internxt-cleaner",
+    "title": "Internxt cleaner",
+    "description": "Internxt Cleaner – 查找并删除垃圾文件，提升速度、响应性和性能"
+  },
+  {
+    "id": "dropbox-alternative",
+    "title": "Internxt — Dropbox的安全加密替代方案",
+    "description": "Internxt云存储是Dropbox的安全替代方案。我们通过端到端加密、开源软件和注重隐私的功能保护您的文件。"
+  },
+  {
+    "id": "pcloud-alternative",
+    "title": "Internxt — pCloud的安全、加密、开源替代方案",
+    "description": "Internxt云存储是pCloud的安全替代方案。我们通过端到端加密、开源软件和注重隐私的功能保护您的文件。"
+  },
+  {
+    "id": "mega-alternative",
+    "title": "Internxt — Mega的安全、加密、开源替代方案",
+    "description": "Internxt云存储是Mega的安全替代方案。我们通过端到端加密、开源软件和注重隐私的功能保护您的文件。"
+  },
+  {
+    "id": "google-drive-alternative",
+    "title": "Internxt — 像 Google Drive 一樣，但私密",
+    "description": "使用 Internxt 解除您對 Google 的依賴，這是尊重您隱私的 Google Drive 最佳替代品。獲得零知識加密和全面的資料控制。"
+  },
+  {
+    "id": "koofr-alternative",
+    "title": "Internxt — Koofr 的安全替代品，具備零知識加密",
+    "description": "切換到 Internxt，這是 Koofr 的替代品，具備後量子和零知識加密雲端儲存，可完全保護您的檔案隱私，無需依賴單獨的保險庫。"
+  },
+  {
+    "id": "icedrive-alternative",
+    "title": "Internxt — Icedrive 的開源替代品",
+    "description": "切換到 Internxt，這是 Icedrive 的開源替代品。獲得後量子和零知識加密雲端儲存，在所有計劃中均可實現完全隱私。"
+  },
+  {
+    "id": "teams-alternative",
+    "title": "Teams 的最佳安全替代方案",
+    "description": "切换到 Internxt，体验 Teams 的开源替代方案。后量子和零知识视频会议，确保您的通话完全私密。"
+  },
+  {
+    "id": "onedrive-alternative",
+    "title": "Internxt — OneDrive 的私密且安全的替代品",
+    "description": "切換到 Internxt，這是 OneDrive 的開源替代品。後量子和零知識加密保證您的文件和媒體檔案的完全隱私。"
+  },
+  {
+    "id": "elephantdrive-alternative",
+    "title": "Internxt — ElephantDrive 的私密安全替代方案",
+    "description": "切换到 Internxt，获取 ElephantDrive 的开源替代方案。后量子和零知识加密的云存储保证了您的文档和媒体文件的完全隐私。"
+  },
+  {
+    "id": "degoo-alternative",
+    "title": "Internxt — Degoo 的私密安全替代方案",
+    "description": "切换到 Internxt，获取 Degoo 的开源替代方案。后量子和零知识加密的云存储保证了您的文档和媒体文件的完全隐私。"
+  },
+  {
+    "id": "drime-alternative",
+    "title": "Internxt — Drime 的私密安全替代方案",
+    "description": "切换到 Internxt，获取 Drime 的开源替代方案。后量子和零知识加密的云存储保证了您的文档和媒体文件的完全隐私。"
+  },
+  {
+    "id": "filejump-alternative",
+    "title": "Internxt — FileJump 的私密安全替代方案",
+    "description": "切换到 Internxt，获取 FileJump 的开源替代方案。后量子和零知识加密的云存储保证了您的文档和媒体文件的完全隐私。"
+  },
+  {
+    "id": "zoom-alternative",
+    "title": "Internxt — Zoom 的替代方案",
+    "description": "切换到 Internxt，体验 Zoom 的开源替代方案。包含后量子云存储等功能，全方位保护您的在线隐私。"
+  },
+  {
+    "id": "idrive-alternative",
+    "title": "Internxt — IDrive 的替代方案",
+    "description": "选择 Internxt 作为 IDrive 的完全私密替代方案。采用后量子和零知识加密云存储，确保您文件的绝对隐私。"
+  },
+  {
+    "id": "proton-drive-alternative",
+    "title": "Internxt — Proton Drive 的替代方案",
+    "description": "切换到 Internxt，享受完整的隐私套件和 Proton Drive 的替代方案。提供后量子及零知识加密云存储。"
+  },
+  {
+    "id": "sync-alternative",
+    "title": "Internxt — Sync 的替代方案",
+    "description": "切换到 Internxt，体验 Sync 的开源替代方案。后量子和零知识加密云存储，为您提供全方位的档案隐私保护。"
+  },
+  {
+    "id": "levante-ud",
+    "title": "Internxt — 莱万特足球俱乐部 (Levante UD) 官方云合作伙伴",
+    "description": "Internxt 是莱万特足球俱乐部 (Levante UD) 的官方合作伙伴，提供加密云存储及备份服务，保护俱乐部的宝贵数据。",
+    "og:title": "Internxt — 莱万特足球俱乐部 (Levante UD) 官方云合作伙伴",
+    "og:description": "Internxt 是莱万特足球俱乐部 (Levante UD) 的官方合作伙伴，提供加密云存储及备份服务，保护俱乐部的宝贵数据。"
+  },
+  {
+    "id": "filen-alternative",
+    "title": "Internxt — Filen 的替代方案",
+    "description": "切换到 Internxt 作为 Filen 的替代方案。后量子和零知识加密云存储，确保您文件的完整隐私。"
+  },
+  {
+    "id": "google-meet-alternative",
+    "title": "Internxt — Google Meet 的替代方案",
+    "description": "切换到 Internxt，体验 Google Meet 的开源替代方案。后量子和零知识加密视频会议，确保通话的绝对隐私。"
+  },
+  {
+    "id": "terabox-alternative",
+    "title": "Internxt — альтернатива Terabox",
+    "description": "Переходите на Internxt — альтернативу Terabox с открытым исходным кодом. Постквантовое облачное хранилище с шифрованием с нулевым разглашением для полной защиты ваших файлов."
+  },
+  {
+    "id": "meet",
+    "title": "Internxt Meet – 安全私密的视频通话",
+    "description": "Meet 提供具有后量子和端到端加密的私人视频通话，打造最安全的视频会议体验。"
+  },
+  {
+    "id": "nas",
+    "title": "最佳 NAS 云备份解决方案 (QNAP 和 Synology) — Internxt",
+    "description": "使用 Internxt 的后量子加密技术，安全地在云端备份您的 QNAP 和 Synology NAS 设备。最安全的 NAS 云备份。"
+  },
+  {
+    "id": "coupons",
+    "title": "Internxt — 折扣、优惠券和促销",
+    "description": "捍卫隐私,选择 Internxt。Internxt 的开源云存储服务保护您的隐私权。Internxt Drive、Photos、Send 等更多服务。"
+  },
+  {
+    "id": "free-cloud-storage-deals",
+    "title": "Internxt — 免费云存储优惠",
+    "description": "直接来自Internxt的免费云存储优惠，以85%的折扣升级您的计划，获得安全、加密的云存储等服务"
+  },
+  {
+    "id": "free-cloud-storage-lifetime-deals",
+    "title": "Internxt — Internxt 官方雲端儲存終身優惠85%折扣",
+    "description": "從 Internxt 獲得最佳的雲端儲存終身優惠。一次性付款，永久享受私密加密雲端儲存85%折扣。"
+  },
+  {
+    "id": "deals",
+    "title": "Internxt — Internxt 官方優惠，所有方案享受 85% 折扣",
+    "description": "領取您的專屬 85% 折扣。這些 Internxt 優惠包括私密加密雲端儲存等，價格無與倫比。"
+  },
+  {
+    "id": "reviews",
+    "title": "Internxt — 閱讀 Internxt 的客戶評論",
+    "description": "根據技術專家和用戶的評論，閱讀關於 Internxt 的真實評價。了解是什麼讓 Internxt 成為您線上隱私最值得信賴的服務。"
+  },
+  {
+    "id": "cloud-data-centers",
+    "title": "Internxt — 数据中心与认证",
+    "description": "使用 Internxt 保护您的数据安全。端到端加密、可靠的云数据中心以及符合 GDPR 和其他标准。"
+  },
+  {
+    "id": "alternative-to-chatgpt",
+    "title": "Internxt — ChatGPT的替代方案",
+    "description": "切换到Internxt，获取私密且加密的ChatGPT替代方案。Internxt让您的聊天保持私密、加密，并且仅对您可用。"
+  },
+  {
+    "id": "alternative-to-copilot",
+    "title": "Internxt — Copilot的替代方案",
+    "description": "切换到Internxt，获取私密且加密的Copilot替代方案。Internxt让您的聊天保持私密、加密，并且仅对您可用。"
+  },
+  {
+    "id": "alternative-to-deepseek",
+    "title": "Internxt — DeepSeek的替代方案",
+    "description": "切换到Internxt，获取私密且加密的DeepSeek替代方案。Internxt让您的聊天保持私密、加密，并且仅对您可用。"
+  },
+  {
+    "id": "alternative-to-gemini",
+    "title": "Internxt — Gemini的替代方案",
+    "description": "切换到Internxt，获取私密且加密的Gemini替代方案。Internxt让您的聊天保持私密、加密，并且仅对您可用。"
+  },
+  {
+    "id": "alternative-to-grok",
+    "title": "Internxt — Grok的替代方案",
+    "description": "切换到Internxt，获取私密且加密的Grok替代方案。Internxt让您的聊天保持私密、加密，并且仅对您可用。"
+  },
+  {
+    "id": "wire-alternative",
+    "title": "Internxt — Alternative to Wire",
+    "description": "Switch to Internxt for an open-source alternative to Wire. Post-quantum and zero-knowledge video meetings for full privacy of your calls."
+  },
+  {
+    "id": "whereby-alternative",
+    "title": "Internxt — Alternative to Whereby",
+    "description": "Switch to Internxt for an open-source alternative to Whereby. Post-quantum and zero-knowledge video meetings for full privacy of your calls."
+  },
+  {
+    "id": "annual",
+    "title": "Internxt 年度计划优惠：安全加密云存储",
+    "description": "获取 Internxt 的年度计划，享受安全加密的云存储。利用零知识技术和后量子安全保护您的文件。今天节省更多！"
+  },
+  {
+    "id": "aws-alternative",
+    "title": "Internxt — AWS 的替代方案",
+    "description": "切换到 Internxt 获取私密且加密的 AWS 替代方案。Internxt 确保您的数据私密、加密，并且只有您可以访问。"
+  },
+  {
+    "id": "azure-alternative",
+    "title": "Internxt — Microsoft Azure 的替代方案",
+    "description": "切换到 Internxt S3 作为 Azure 的开源替代方案。专为企业提供可负担且安全的对象云存储。"
+  },
+  {
+    "id": "backblaze-alternative",
+    "title": "Internxt — Backblaze 的替代方案",
+    "description": "切换到 Internxt S3 作为 Backblaze 的开源替代方案。专为企业提供可负担且安全的对象云存储。"
+  },
+  {
+    "id": "idrivee2-alternative",
+    "title": "Internxt — IDrive e2 的替代方案",
+    "description": "切换到 Internxt S3 作为 IDrive 的开源替代方案。专为企业提供可负担且安全的对象云存储。"
+  },
+  {
+    "id": "google-cloud-alternative",
+    "title": "Internxt — Google Cloud 的替代方案",
+    "description": "切换到 Internxt S3 作为 Google Cloud 的开源替代方案。专为企业提供可负担且安全的对象云存储。"
+  },
+  {
+    "id": "alternative-to-avast",
+    "title": "Internxt — Avast 替代方案",
+    "description": "切换到 Internxt，体验 Avast 的开源替代方案。包含后量子和零知识加密云存储等功能。"
+  },
+  {
+    "id": "alternative-to-avg",
+    "title": "Internxt — AVG 替代方案",
+    "description": "切换到 Internxt，体验 AVG 的开源替代方案。包含后量子和零知识加密云存储等功能。"
+  },
+  {
+    "id": "alternative-to-avira",
+    "title": "Internxt — Avira 替代方案",
+    "description": "切换到 Internxt，体验 Avira 的开源替代方案。包含后量子和零知识加密云存储等功能。"
+  },
+  {
+    "id": "alternative-to-bitdefender",
+    "title": "Internxt — Bitdefender 替代方案",
+    "description": "切换到 Internxt，体验 Bitdefender 的开源替代方案。包含后量子和零知识加密云存储等功能。"
+  },
+  {
+    "id": "alternative-to-ccleaner",
+    "title": "Internxt — CCleaner 替代方案",
+    "description": "切换到 Internxt，体验 CCleaner 的开源替代方案。包含后量子和零知识加密云存储等功能。"
+  },
+  {
+    "id": "alternative-to-clean-my-mac",
+    "title": "Internxt — CleanMyMac 替代方案",
+    "description": "切换到 Internxt，体验 CleanMyMac 的开源替代方案。包含后量子和零知识加密云存储等功能。"
+  },
+  {
+    "id": "alternative-to-malwarebytes",
+    "title": "Internxt — Malwarebytes 替代方案",
+    "description": "切换到 Internxt，体验 Malwarebytes 的开源替代方案。包含后量子和零知识加密云存储等功能。"
+  },
+  {
+    "id": "alternative-to-mcafee",
+    "title": "Internxt — McAfee 替代方案",
+    "description": "切换到 Internxt，体验 McAfee 的开源替代方案。包含后量子和零知识加密云存储等功能。"
+  },
+  {
+    "id": "alternative-to-norton",
+    "title": "Internxt — Norton 替代方案",
+    "description": "切换到 Internxt，体验 Norton 的开源替代方案。包含后量子和零知识加密云存储等功能。"
+  },
+  {
+    "id": "alternative-to-totalav",
+    "title": "Internxt — TotalAV 替代方案",
+    "description": "切换到 Internxt，体验 TotalAV 的开源替代方案。包含后量子和零知识加密云存储等功能。"
+  },
+  {
+    "id": "nas-synology",
+    "title": "Synology NAS 云备份 — 安全 NAS 存储 | Internxt",
+    "description": "使用 Internxt 在云端备份您的 Synology NAS。为您提供安全、加密且私密的云存储空间。"
+  },
+  {
+    "id": "nas-qnap",
+    "title": "QNAP NAS 云备份 — 安全 NAS 存储 | Internxt",
+    "description": "使用 Internxt 在云端备份您的 QNAP NAS。为您提供安全、加密且私密的云存储空间。"
+  },
+  {
+    "id": "cloud-partner",
+    "title": "Internxt 云合作伙伴计划",
+    "description": "成为面向企业的 Internxt S3 对象存储的经销商。热云存储，比 AWS、Azure 和 Google Cloud 更便宜。"
+  },
+  {
+    "id": "thankyou",
+    "title": "特别优惠候补名单 — Internxt",
+    "description": "订阅 Internxt，获取私密、加密云存储的专属折扣，值得信赖。"
+  },
+  {
+    "id": "cloud-storage-for-documents",
+    "title": "Internxt - 文档云存储",
+    "description": "Internxt 提供安全的文档云存储，采用后量子加密技术，以最大程度确保您的隐私。"
+  },
+  {
+    "id": "secure-file-transfer",
+    "title": "Internxt - 安全文件传输",
+    "description": "Internxt 提供安全的文件传输服务来加密和保护文件，让您可以控制谁能访问您的数据。"
+  },
+  {
+    "id": "mail",
+    "title": "Internxt Mail - 保护隐私的最佳加密电子邮件。",
+    "description": "Internxt Mail 是一款加密电子邮件解决方案，可确保您的收件箱安全。得益于后量子加密技术，Internxt 是保障隐私最安全的电子邮件服务。"
+  },
+  {
+    "id": "photos",
+    "title": "Internxt 照片 – 安全的云端照片存储",
+    "description": "Internxt 照片是一款私密、安全的照片存储应用程序，支持自动备份和同步。零知识架构、开源且注重隐私。"
+  }
+]

@@ -1,0 +1,318 @@
+{
+  "mostPopular": "Recomendado",
+  "perUserSlash": "/usuario",
+  "perYear": "/año",
+  "perMonth": "/mes",
+  "cta": "Seleccionar plan",
+  "gifts": {
+    "line1": "¡Participa en nuestro sorteo!",
+    "outCard": "Gana una tarjeta regalo para tus tiendas favoritas (Amazon, Apple...) o una tarjeta prepago Visa.",
+    "prices": {
+      "essentials": "Gana una tarjeta regalo de 100 €",
+      "standard": "Estándar",
+      "premium": "Gana una tarjeta regalo de 300 €",
+      "ultimate": "Gana una tarjeta regalo de 1000 €"
+    }
+  },
+  "renewsInfo": "Plan anual, facturado a {{priceNow}} el primer mes, después se renueva a {{price}}/mes",
+  "productFeatures": {
+    "planTypes": {
+      "essentials": "Esencial",
+      "standard": "Estándar",
+      "premium": "Premium",
+      "ultimate": "Ultimate",
+      "pro": "Pro",
+      "family": {
+        "1TB": "Esencial Familiar",
+        "2TB": "Premium Familiar"
+      }
+    },
+    "comingSoonLabel": "Próximamente",
+    "individualPlans": {
+      "1TB": [
+        {
+          "name": "**1TB** de almacenamiento cifrado",
+          "status": "available"
+        },
+        {
+          "name": "Prueba sin riesgos durante 30 días",
+          "status": "available"
+        },
+        {
+          "name": "Criptografía postcuántica",
+          "status": "available"
+        },
+        {
+          "name": "Cifrado de conocimiento cero",
+          "status": "available"
+        },
+        {
+          "name": "Autenticación de dos factores",
+          "status": "available"
+        },
+        {
+          "name": "Copia de seguridad ",
+          "status": "available"
+        },
+        {
+          "name": "Comparte archivos con contraseña",
+          "status": "available"
+        },
+        {
+          "name": "VPN cifrada",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        }
+      ],
+      "3TB": [
+        {
+          "name": "**3TB** de almacenamiento cifrado",
+          "status": "available"
+        },
+        {
+          "name": "Prueba sin riesgos durante 30 días",
+          "status": "available"
+        },
+        {
+          "name": "Criptografía postcuántica",
+          "status": "available"
+        },
+        {
+          "name": "Cifrado de conocimiento cero",
+          "status": "available"
+        },
+        {
+          "name": "Autenticación de dos factores",
+          "status": "available"
+        },
+        {
+          "name": "Copia de seguridad ",
+          "status": "available"
+        },
+        {
+          "name": "Comparte archivos con contraseña",
+          "status": "available"
+        },
+        {
+          "name": "Invitar, compartir y colaborar",
+          "status": "available"
+        },
+        {
+          "name": "Versionado de archivos",
+          "status": "available"
+        },
+        {
+          "name": "VPN cifrada",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        }
+      ],
+      "5TB": [
+        {
+          "name": "**5TB** de almacenamiento cifrado",
+          "status": "available"
+        },
+        {
+          "name": "Prueba sin riesgos durante 30 días",
+          "status": "available"
+        },
+        {
+          "name": "Criptografía postcuántica",
+          "status": "available"
+        },
+        {
+          "name": "Cifrado de conocimiento cero",
+          "status": "available"
+        },
+        {
+          "name": "Autenticación de dos factores",
+          "status": "available"
+        },
+        {
+          "name": "Copia de seguridad ",
+          "status": "available"
+        },
+        {
+          "name": "Comparte archivos con contraseña",
+          "status": "available"
+        },
+        {
+          "name": "Invitar, compartir y colaborar",
+          "status": "available"
+        },
+        {
+          "name": "Versionado de archivos",
+          "status": "available"
+        },
+        {
+          "name": "Fotos",
+          "status": "available"
+        },
+        {
+          "name": "Soporte CLI y WebDav",
+          "status": "available"
+        },
+        {
+          "name": "Soporte NAS y Rclone",
+          "status": "available"
+        },
+        {
+          "name": "VPN cifrada",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet ",
+          "status": "available"
+        },
+        {
+          "name": "Mail ",
+          "status": "available"
+        }
+      ]
+    },
+    "business": {
+      "1TB": [
+        {
+          "name": "**1TB** de almacenamiento cifrado por usuario",
+          "status": "available"
+        },
+        {
+          "name": "Criptografía postcuántica",
+          "status": "available"
+        },
+        {
+          "name": "Cifrado de conocimiento cero",
+          "status": "available"
+        },
+        {
+          "name": "Autenticación de dos factores",
+          "status": "available"
+        },
+        {
+          "name": "Copia de seguridad ",
+          "status": "available"
+        },
+        {
+          "name": "Comparte archivos con contraseña",
+          "status": "available"
+        },
+        {
+          "name": "Invitar, compartir y colaborar",
+          "status": "available"
+        },
+        {
+          "name": "Cumplimiento con GDPR",
+          "status": "available"
+        },
+        {
+          "name": "CLI y WebDav",
+          "status": "available"
+        },
+        {
+          "name": "Gestión de la organización",
+          "status": "available"
+        },
+        {
+          "name": "VPN cifrada",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        }
+      ],
+      "2TB": [
+        {
+          "name": "**2TB** de almacenamiento cifrado por usuario",
+          "status": "available"
+        },
+        {
+          "name": "Criptografía postcuántica",
+          "status": "available"
+        },
+        {
+          "name": "Cifrado de conocimiento cero",
+          "status": "available"
+        },
+        {
+          "name": "Autenticación de dos factores",
+          "status": "available"
+        },
+        {
+          "name": "Copia de seguridad ",
+          "status": "available"
+        },
+        {
+          "name": "Comparte archivos con contraseña",
+          "status": "available"
+        },
+        {
+          "name": "Invitar, compartir y colaborar",
+          "status": "available"
+        },
+        {
+          "name": "Cumplimiento con GDPR",
+          "status": "available"
+        },
+        {
+          "name": "Soporte CLI, WebDav, Rclone y NAS",
+          "status": "available"
+        },
+        {
+          "name": "Gestión de la organización",
+          "status": "available"
+        },
+        {
+          "name": "VPN cifrada",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet ",
+          "status": "available"
+        },
+        {
+          "name": "Versionado de archivos",
+          "status": "available"
+        },
+        {
+          "name": "Mail ",
+          "status": "available"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "HeroSection": {
+    "label": "NAS",
+    "title": "QNAP 和 Synology **NAS 支援**",
+    "subtitle": "將您的 NAS 裝置連接到 Internxt Drive，實現安全的檔案儲存和備份。",
+    "features": ["Synology 和 QNAP", "安全傳輸", "加密同步和備份"],
+    "cta": "獲取 Internxt"
+  },
+  "WhatIsNASSection": {
+    "title": "什麼是 NAS 裝置，我為什麼要使用它？",
+    "description": [
+      "NAS（網路附加儲存）是一個專用儲存系統，連接到您的家庭或辦公室網路，充當您檔案的個人伺服器。將其與 Internxt 配合使用，可讓您安全地備份、同步和管理資料，同時保持對檔案的完全控制和所有權。",
+      "您的資料透過 Internxt 的後量子加密進行加密和保護，金鑰在您的裝置上管理。這提供了 NAS 裝置的便利性以及 Internxt Drive 的安全性和隱私性。"
+    ]
+  },
+  "InternxtNASIntegrations": {
+    "title": "Internxt NAS 整合",
+    "description": "安裝 Docker 應用程式以將您的 NAS 連接到 Synology 或 QNAP。此設定讓您可以安全地存取、管理和同步檔案，同時保持對資料的完全控制。",
+    "synologyBox": {
+      "title": "Synology",
+      "description": "Synology 是一個流行的 NAS 系統，允許您從多個裝置儲存、組織和存取檔案。您可以執行應用程式、管理備份並安全地共享資料。",
+      "image": "synology"
+    },
+    "QNAPBox": {
+      "title": "QNAP",
+      "description": "透過 Docker 連接 Internxt，您可以直接在 QNAP NAS 上安全地管理、同步和存取檔案。",
+      "image": "QNAP"
+    }
+  },
+  "ctaSection": {
+    "title": "用於 NAS 的 Internxt Drive",
+    "description": "讓您的檔案保持安全、可存取和私密",
+    "cta": "獲取 Internxt"
+  },
+  "horizontalScrollableSection": {
+    "title": "在雲端備份您的 NAS",
+    "description": "使用 Internxt 的 NAS 支援在雲端管理、同步和備份您的資料。藉助 Internxt 的後量子加密，您的隱私始終得到保障。",
+    "scrollableSection": {
+      "titles": ["資料遺失保護", "即時同步", "安全性", "擁有您的資料"],
+      "descriptions": [
+        "永遠不用擔心遺失檔案。Internxt 自動同步您的 NAS，因此每個文件、照片和專案都安全地備份在雲端。這可以防止硬體故障或意外刪除。",
+        "在所有裝置上保持檔案最新。您在 NAS 或 Internxt Drive 中所做的任何更改都會自動在所有地方反映，確保您的團隊或個人裝置始終擁有最新版本。",
+        "您的資料受到後量子和零知識加密的保護，因此所有金鑰都在您的裝置上管理和儲存，以實現最大的隱私保護。只有您可以存取您的檔案，任何駭客、第三方甚至 Internxt 都無法讀取您的資料。",
+        "網路附加儲存（NAS）讓您可以按照自己的條件管理儲存、設定權限和建立備份，為您提供對資訊的靈活性和所有權，同時享受 Internxt Drive 的便利性和隱私性。"
+      ]
+    }
+  },
+  "whatInternxtOffersSection": {
+    "title": "Internxt 為 NAS 裝置提供的功能",
+    "description": "將 Internxt Drive 連接到您的 NAS 系統，獲得安全的雲端解決方案，以完全隱私的方式備份和同步檔案。",
+    "cards": {
+      "titles": ["QNAP 和 Synology 裝置", "隨時隨地存取", "勒索軟體保護"],
+      "descriptions": [
+        "享受 Internxt 的所有優勢，以及 QNAP 和 Synology 裝置的靈活性和控制，輕鬆管理雲端儲存。",
+        "從任何地方安全地遠端存取您的檔案，同時完全控制您的資料。",
+        "透過加密備份保護您的檔案免受勒索軟體攻擊，讓您可以快速恢復受勒索軟體或意外資料遺失影響的檔案。"
+      ]
+    }
+  },
+  "howSetupSection": {
+    "title": "如何使用 Internxt 設定您的 NAS 裝置",
+    "description": "有關如何使用 Internxt Drive 設定和配置 NAS 裝置的說明：",
+    "cards": {
+      "titles": ["自述檔案", "使用者指南", "開源"],
+      "descriptions": [
+        "從我們的 GitHub 頁面獲取有關 Internxt NAS 功能的資訊以及不同平台的使用說明。",
+        "透過範例和解釋學習如何使用 Internxt 設定網路附加儲存裝置。",
+        "驗證 Internxt 的安全性，並及時了解新的更新和功能。"
+      ],
+      "cta": ["閱讀指南", "了解更多", "查看詳情"]
+    }
+  },
+  "ctaSectionV2": {
+    "title": "您的檔案，您的控制",
+    "description": "使用 Internxt 管理您的 NAS",
+    "cta": "獲取 Internxt"
+  },
+  "tableSection": {
+    "title": "Internxt方案",
+    "hotLabel": "{{discount}}% 折扣 ",
+    "valentinesTitle": "安全的愛 - ",
+    "planTitles": {
+      "header": " 選擇您的計劃",
+      "lifetimeHeader": "選擇您的終身計畫",
+      "individuals": "年度方案",
+      "homePage": "選擇適合您的方案",
+      "lifetime": "終身方案",
+      "business": "商業方案",
+      "lifetimeCampaign": {
+        "blueText": "50%折扣",
+        "normalText": "所有獨家終身方案"
+      }
+    },
+    "lifetimeDescription": "一次付費，終身享受隱私和安全",
+    "planDescription": "所有Internxt方案功能齊全，完整存取我們屢獲殊榮的隱私套件，包括Internxt Drive、Send、VPN、防毒軟體、清理工具、暗網監控、Meet和郵件。",
+    "businessDescription": "我們目前正在開發專為保護您的企業、保護員工和確保獲利能力而設計的新Internxt方案。",
+    "businessDescription2": "使用Internxt的加密雲端儲存方案確保公司資料安全。",
+    "billingFrequency": {
+      "monthly": "月繳",
+      "annually": "年繳",
+      "lifetime": "終身",
+      "individual": "個人",
+      "business": "商業"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Internxt免費版",
+      "description": "免費獲取1GB加密雲端儲存",
+      "cta": "選擇方案"
+    },
+    "features": {
+      "endToEnd": "端對端加密",
+      "openSource": "開源且經過稽核",
+      "anonymousAccount": "匿名帳戶建立",
+      "premiumSupport": "高級客戶支援",
+      "guarantee": "30天退款保證"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "FaqSection": {
+    "title": "有問題？我們有答案",
+    "faq": [
+      {
+        "question": "Internxt 的總部在哪裡？",
+        "answer": [
+          "Internxt 的總部位於西班牙瓦倫西亞。Internxt 擁有眾多歐洲雲端資料中心，按照 GDPR 和其他合規法規儲存您的資料。"
+        ]
+      },
+      {
+        "question": "Internxt 的雲端資料中心位於哪裡？",
+        "answer": [
+          "Internxt 採用多雲網路策略，確保檔案儲存在多個歐洲雲端資料中心，以確保您獲得最佳效能、安全性和檔案保護。"
+        ]
+      },
+      {
+        "question": "Internxt 的資料中心是如何運作的？",
+        "answer": [
+          "Internxt 與 OVHcloud 合作，後者在歐洲擁有雲端資料中心，並在全台各地設有多個分支機構，用於儲存您的雲端資料。",
+          "這些資料中心基礎設施託管著數千台伺服器，以保證可用性、效能和備援，確保快速安全地存取檔案，同時保持您的檔案安全。"
+        ]
+      },
+      {
+        "question": "什麼是可用區？",
+        "answer": [
+          "可用區是一個區域內的一組或多個資料中心。每個可用區獨立運作，擁有自己的電源、冷卻和網路，以防止停電或其他事件（如基礎設施故障）。",
+          "一個區域內的各個區域相互關聯，以提供更高的可用性和低延遲連接，確保即使一個區域發生故障，應用程式也能保持在線。"
+        ]
+      },
+      {
+        "question": "Internxt 可以存取我的檔案嗎？",
+        "answer": [
+          "不，包括 Internxt 在內的任何人都無法存取您的檔案。您的所有檔案和資料都在您的裝置上使用後量子加密進行加密。由於金鑰儲存和管理在您的裝置上，而不是由我們或我們的服務提供商管理，因此只有您或您選擇共享檔案的人才能解密它們。",
+          "儲存在我們資料中心的所有檔案都是加密的，因此任何員工或駭客都無法查看其內容。"
+        ]
+      },
+      {
+        "question": "如何聯絡支援？",
+        "answer": [
+          "找不到您要找的內容？您可以透過線上聊天或發送電子郵件至 hello@internxt.com 聯絡我們的技術支援團隊。"
+        ]
+      }
+    ]
+  },
+  "Breadcrumbs": {
+    "home": "加密雲端儲存",
+    "drive": "安全雲端儲存",
+    "nas": "NAS 雲端備份",
+    "qnap": "QNAP 雲端備份",
+    "synology": "Synology NAS 雲端備份"
+  }
+}

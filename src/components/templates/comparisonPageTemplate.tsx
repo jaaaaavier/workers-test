@@ -1,0 +1,243 @@
+import Layout from '@/components/layout/Layout';
+import Navbar from '@/components/layout/navbars/Navbar';
+import { sm_breadcrumb } from '@/components/utils/schema-markup-generator';
+import Script from 'next/script';
+import { PricingSectionWrapper } from '@/components/shared/pricing/PricingSectionWrapper';
+import { CloudObjectStoragePriceCardSection } from '@/components/cloud-object-storage/PriceCardSection';
+import { PromoCodeName } from '@/lib/types';
+import usePricing from '@/hooks/usePricing';
+import { stripeService } from '@/services/stripe.service';
+import FAQSection from '@/components/shared/sections/FaqSection';
+import FloatingCtaSectionv2 from '@/components/shared/FloatingCtaSectionV2';
+import { ComparisonTable } from '@/components/comparison/ComparisonTable';
+import HorizontalScrollableSection from '@/components/shared/HorizontalScrollableSection';
+import { TablesSection } from '@/components/comparison/TablesSection';
+import { HeroSection } from '@/components/comparison/HeroSection';
+import { parseDynamicText } from '@/components/utils/parse-dynamic-text';
+import HorizontalScrollableSectionWithPhotosSection from '@/components/shared/HorizontalScrollableSectionWithPhotos';
+import ThreeCardsSection from '@/components/shared/sections/ThreeCardsSection';
+import { AlternativePageText } from '@/assets/types/alternative';
+import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
+import { GetServerSidePropsContext } from 'next';
+import Footer from '../layout/footers/Footer';
+
+type CompetitorType =
+  | 'pCloud'
+  | 'MEGA'
+  | 'Dropbox'
+  | 'Drive'
+  | 'Koofr'
+  | 'Icedrive'
+  | 'OneDrive'
+  | 'Degoo'
+  | 'Elephantdrive'
+  | 'FileJump'
+  | 'Drime'
+  | 'GoogleMeet'
+  | 'Terabox'
+  | 'Filen'
+  | 'idrive'
+  | 'TeraBox'
+  | 'sync'
+  | 'proton-drive'
+  | 'zoom'
+  | 'Teams'
+  | 'ChatGPT'
+  | 'Copilot'
+  | 'deepseek'
+  | 'gemini'
+  | 'Wire'
+  | 'Whereby'
+  | 'grok'
+  | 'aws'
+  | 'azure'
+  | 'backblaze'
+  | 'idriveE2'
+  | 'googleCloud'
+  | 'avast'
+  | 'avg'
+  | 'avira'
+  | 'bitdefender'
+  | 'ccleaner'
+  | 'clean-my-mac'
+  | 'malwarebytes'
+  | 'mcafee'
+  | 'norton'
+  | 'totalav';
+
+interface ComparisonPageProps {
+  competitor: CompetitorType;
+  metaTagId: string;
+  segmentName: string;
+  logo: string;
+  lang: GetServerSidePropsContext['locale'];
+  metatagsDescriptions: MetatagsDescription[];
+  navbarLang: NavigationBarText;
+  langJson: AlternativePageText;
+  footerLang: FooterText;
+  customSections?: {
+    showThreeCards?: boolean;
+    privacyBgGradient?: string;
+    alternativeBgColor?: string;
+  };
+  couponCodeName?: PromoCodeName;
+  isS3Alternative?: boolean;
+  breadcrumbName?: string;
+  urlSlug?: string;
+}
+
+export const ComparisonPage = ({
+  competitor,
+  metaTagId,
+  segmentName,
+  logo,
+  lang,
+  metatagsDescriptions,
+  navbarLang,
+  langJson,
+  footerLang,
+  customSections = {},
+  couponCodeName,
+  isS3Alternative = false,
+  breadcrumbName,
+  urlSlug,
+}: ComparisonPageProps): JSX.Element => {
+  const metatags = metatagsDescriptions.filter((desc) => desc.id === metaTagId);
+  const {
+    products,
+    loadingCards,
+    currencyValue,
+    coupon: individualCoupon,
+    lifetimeCoupon: lifetimeCoupon,
+    lifetimeCoupons,
+  } = usePricing({
+    couponCode: couponCodeName,
+    couponCodeForLifetime: couponCodeName,
+  });
+
+  const onCheckoutButtonClicked = async (
+    priceId: string,
+    isCheckoutForLifetime: boolean,
+    interval: string,
+    storage: string,
+  ) => {
+    const couponCodeForCheckout = isCheckoutForLifetime ? lifetimeCoupon : individualCoupon;
+
+    const finalPrice = await stripeService.calculateFinalPrice(
+      priceId,
+      interval,
+      currencyValue,
+      'individuals',
+      couponCodeForCheckout,
+    );
+
+    stripeService.redirectToCheckout(
+      priceId,
+      finalPrice,
+      currencyValue,
+      'individual',
+      isCheckoutForLifetime,
+      interval,
+      storage,
+      couponCodeForCheckout?.name,
+    );
+  };
+
+  const decimalDiscount = individualCoupon?.percentOff && 100 - individualCoupon.percentOff;
+  const percentageDiscount = decimalDiscount ? 100 - decimalDiscount : undefined;
+  const locale = lang as string;
+
+  const {
+    showThreeCards = false,
+    privacyBgGradient = 'linear-gradient(180deg, #FFFFFF 0%, #FFCECC 50%, #FFFFFF 100%)',
+    alternativeBgColor = 'linear-gradient(180deg, #FFFFFF 0%, #D6F3DD 50%, #FFFFFF 100%)',
+  } = customSections;
+
+  return (
+    <>
+      {breadcrumbName && urlSlug && (
+        <Script type="application/ld+json" strategy="beforeInteractive">
+          {sm_breadcrumb(breadcrumbName, urlSlug)}
+        </Script>
+      )}
+      <Layout title={metatags[0].title} description={metatags[0].description} segmentName={segmentName} lang={lang}>
+        <Navbar textContent={navbarLang} lang={locale} cta={['priceTable']} fixed />
+
+        <HeroSection textContent={langJson.HeroSection} percentage={percentageDiscount} competitor={competitor} />
+
+        <ComparisonTable textContent={langJson.HeaderSection} competitor={competitor} percentage={percentageDiscount} />
+
+        {isS3Alternative && langJson.PriceCardSection ? (
+          <CloudObjectStoragePriceCardSection textContent={langJson.PriceCardSection} />
+        ) : (
+          <PricingSectionWrapper
+            textContent={langJson.tableSection}
+            decimalDiscount={{
+              individuals: decimalDiscount,
+              lifetime: decimalDiscount,
+            }}
+            lifetimeCoupons={lifetimeCoupons}
+            lang={locale}
+            products={products}
+            loadingCards={loadingCards}
+            onCheckoutButtonClicked={onCheckoutButtonClicked}
+            hideSwitchSelector
+            hideBusinessSelector
+            sectionDetails="bg-white lg:py-20 py-10"
+          />
+        )}
+
+        <HorizontalScrollableSection textContent={langJson.PrivacyViolationsSection} bgGradient={privacyBgGradient} />
+
+        {showThreeCards && langJson.WhyNeedAlternativeSection && (
+          <ThreeCardsSection
+            textContent={langJson.WhyNeedAlternativeSection}
+            bgColor="linear-gradient(180deg, #F4F8FF 0%, #FFCECC 50%, #FFFFFF 100%)"
+            cardColor="bg-white"
+            bottomSeparationBar={true}
+          />
+        )}
+
+        <TablesSection textContent={langJson.VersusSection} competitor={'Drive'} percentage={percentageDiscount} logo={logo} />
+
+        <HorizontalScrollableSectionWithPhotosSection
+          textContent={langJson.WhyBestAlternativeSection}
+          bgColor={alternativeBgColor}
+        />
+
+        <FloatingCtaSectionv2
+          textContent={langJson.CtaSection}
+          url={'/pricing'}
+          customText={
+            <div className="flex flex-col gap-4 px-10 lg:px-0">
+              <p className="text-2xl font-semibold text-gray-95 lg:text-4xl">
+                {parseDynamicText(langJson.CtaSection.title, { percentage: percentageDiscount, discount: percentageDiscount })}
+              </p>
+              <p className="text-base font-normal text-gray-55 lg:text-xl">
+                {parseDynamicText(langJson.CtaSection.description, { percentage: percentageDiscount, discount: percentageDiscount })}
+              </p>
+            </div>
+          }
+          containerDetails="shadow-lg backdrop-blur-[55px] bg-white"
+          bgGradientContainerColor="linear-gradient(115.95deg, rgba(244, 248, 255, 0.75) 10.92%, rgba(255, 255, 255, 0.08) 96.4%)"
+          bgPadding="px-20 py-10"
+        />
+
+        <FAQSection textContent={langJson.FaqSection} percentageDiscount={percentageDiscount?.toString()} />
+
+        <Footer
+          textContent={footerLang}
+          lang={locale}
+          breadcrumbItems={
+            breadcrumbName && urlSlug
+              ? [
+                  { name: 'Encrypted Cloud Storage', url: '/' },
+                  { name: breadcrumbName, url: `/${urlSlug}` },
+                ]
+              : undefined
+          }
+        />
+      </Layout>
+    </>
+  );
+};

@@ -1,0 +1,245 @@
+{
+  "HeroSection": {
+    "label": "Object Storage",
+    "title": {
+      "line1": "**Internxt S3**",
+      "line2": "Object storage compatibile"
+    },
+    "description": "Una soluzione di cloud storage efficiente e scalabile per archiviare, accedere e gestire dati su larga scala.",
+    "cta": "Inizia ora",
+    "cta2": "Leggere la documentazione"
+  },
+  "PredictablePricingSection": {
+    "title": "Prezzi semplici e prevedibili\n con zero commissioni e nessun costo API",
+    "description": "Evita il fastidio di fatture imprevedibili. Internxt offre una tariffa chiara per la capacità di archiviazione senza costi nascosti.",
+    "info": [
+      {
+        "title": "100% Hot",
+        "description": "Ultra rapido e accessibile istantaneamente"
+      },
+      {
+        "title": "Fino all'80%",
+        "description": "Più conveniente di AWS"
+      },
+      {
+        "title": "Zero commissioni",
+        "description": "Trasferimento dati gratuito"
+      }
+    ]
+  },
+  "PriceCardSection": {
+    "title": "L'object storage di Internxt\n unisce sicurezza ed efficienza",
+    "description": "L'object storage di Internxt è una soluzione economica e ad alte prestazioni che rivoluziona l'archiviazione dati online, perfetta per singoli o organizzazioni.",
+    "payAsYouGoCard": {
+      "title": "Pay as you go!",
+      "description": "Paga solo per l'archiviazione che utilizzi."
+    },
+    "cardText": {
+      "label": "S3",
+      "perTB": "Per TB/Fatturato mensilmente",
+      "price": "6,99",
+      "cta": "Seleziona piano",
+      "whatsIncluded": {
+        "title": "Cosa è incluso",
+        "features": [
+          "Fatturazione mensile",
+          "Crittografia lato server",
+          "Compatibile con API AWS S3 e IAM",
+          "Velocità aumentata",
+          "Archiviazione flessibile",
+          "Open source",
+          "Conforme al GDPR",
+          "Supporto clienti Premium"
+        ]
+      }
+    },
+    "oneTimePayment": "*È richiesta una quota una tantum di 1 € per la verifica dell'account"
+  },
+  "PartnersSection": {
+    "title": "Archiviazione oggetti sicura per carichi di lavoro reali",
+    "description": "Dagli archivi multimediali ai backup aziendali, le organizzazioni utilizzano Internxt S3 Storage per archiviare, gestire e distribuire in modo sicuro grandi volumi di dati con pieno controllo e privacy.",
+    "companies": ["Prosegur", "Europa Press", "SPAR"],
+    "companiesInformation": [
+      {
+        "logo": "PROSEGUR3",
+        "image": "Prosegur-Truck",
+        "title": "Backup aziendale e conservazione sicura dei dati",
+        "description": "I team globali utilizzano l'archiviazione oggetti scalabile per conservare in modo sicuro dati operativi, backup e asset aziendali critici, mantenendo il pieno controllo sui costi dell'infrastruttura e la privacy.",
+        "cta": "Diventa cliente"
+      },
+      {
+        "logo": "EUROPAPRESS",
+        "image": "Europapress-Conference",
+        "title": "Archiviazione multimediale e distribuzione archivi",
+        "description": "Grandi librerie multimediali, asset video e contenuti editoriali possono essere archiviati, conservati e distribuiti in modo sicuro tramite un'infrastruttura di archiviazione oggetti ad alto volume e affidabile.",
+        "cta": "Diventa cliente"
+      },
+      {
+        "logo": "SPAR",
+        "image": "SPAR-supermarket",
+        "title": "Backup aziendali e infrastrutturali distribuiti",
+        "description": "Le organizzazioni con operazioni distribuite utilizzano l'archiviazione compatibile S3 per centralizzare i backup, sincronizzare i sistemi e proteggere i dati operativi in tutte le sedi.",
+        "cta": "Diventa cliente"
+      }
+    ]
+  },
+  "HowMuchYouNeedSection": {
+    "title": "Di quanto spazio hai bisogno?",
+    "description": "Scopri quanto puoi risparmiare con l'object storage di Internxt. Usa il nostro calcolatore per confrontarci con gli hyperscaler.",
+    "pay-as-you-go": "Prezzi Pay-as-you-go",
+    "perMonth": "/al mese",
+    "perYear": "/all'anno",
+    "storageAmount": "Quantità di archiviazione",
+    "percentDownloadPerMonth": "Percentuale di download mensile",
+    "companies": ["Internxt", "Microsoft", "Amazon", "Google"]
+  },
+  "WhyChooseInternxtSection": {
+    "title": "Perché scegliere l'object storage di Internxt?",
+    "description": "I vantaggi dell'object storage con Internxt enfatizzano la gestione efficace dei dati e la sicurezza.",
+    "scrollableSection": {
+      "titles": [
+        "Zero commissioni ingress ed egress",
+        "Costo per GB",
+        "Durabilità e Disponibilità",
+        "Sicurezza",
+        "Servizio di archiviazione semplice",
+        "Velocità"
+      ],
+      "descriptions": [
+        "L'assenza di costi per il trasferimento dati in entrata o in uscita consente una pianificazione del budget prevedibile.",
+        "Con il modello pay-as-you-go, paghi solo per lo spazio effettivamente utilizzato. Ideale per grandi volumi di dati non strutturati.",
+        "Archiviazione ridondante su più server europei. Tecnologia che garantisce il 99,999999999% (11 nove) di durabilità.",
+        "I dati sono crittografati in transito e a riposo. Supportiamo HTTPS e crittografia lato server con chiavi fornite dal cliente (SSE-C).",
+        "Internxt fornisce object storage tramite protocollo S3 per semplificare i flussi di lavoro, garantendo alta disponibilità.",
+        "L'object storage offre una velocità superiore permettendo operazioni simultanee di lettura e scrittura e utilizzando metadati ricchi."
+      ]
+    },
+    "bannerText": {
+      "title": "Internxt cloud object storage",
+      "description": "Sperimenta una gestione dati, velocità ed efficienza superiori",
+      "cta": "Inizia ora",
+      "separator": "|",
+      "cta2": "Contattaci"
+    }
+  },
+  "FaqSection": {
+    "title": "Domande? Abbiamo le risposte",
+    "faq": [
+      {
+        "question": "Cos'è l'object storage?",
+        "answer": [
+          "Archivia grandi quantità di dati come foto o video come \"oggetti\" individuali con identificatori unici.",
+          "A differenza del file storage tradizionale, utilizza uno spazio di indirizzamento piatto, facilitando la scalabilità."
+        ]
+      },
+      {
+        "question": "Cos'è il protocollo S3?",
+        "answer": ["Un insieme di regole che definiscono come i dati vengono gestiti all'interno di Amazon S3 (AWS)."]
+      },
+      {
+        "question": "Quanto spazio posso ottenere?",
+        "answer": [
+          "Puoi scalare secondo le tue necessità. I piani fatturano mensilmente in base ai gigabyte-giorno utilizzati."
+        ]
+      },
+      {
+        "question": "Posso integrare Internxt con app esistenti?",
+        "answer": [
+          "Sì, è compatibile con le API AWS S3 per un'integrazione perfetta con strumenti che supportano il protocollo S3."
+        ]
+      },
+      {
+        "question": "Esiste un minimo mensile?",
+        "answer": [
+          "Il minimo è 1 TB. Se gli oggetti vengono eliminati prima di 30 giorni, viene applicata una tariffa per i giorni rimanenti."
+        ]
+      },
+      {
+        "question": "C'è un costo minimo mensile?",
+        "answer": ["Sì, associato a un account da 1 TB. Se archivi meno, ti verrà comunque addebitato 1 TB."]
+      },
+      {
+        "question": "E per i file piccoli? (Meno di 4 KB)",
+        "answer": ["C'è un addebito minimo basato su 4 KB. File più piccoli verranno fatturati come file da 4 KB."]
+      },
+      {
+        "question": "Costo per sovrascrittura?",
+        "answer": [
+          "Il file originale passa in archiviazione eliminata, soggetta alla politica di conservazione minima di 30 giorni."
+        ]
+      },
+      {
+        "question": "Come contatto il supporto?",
+        "answer": ["Tramite chat live o email a hello@internxt.com."]
+      },
+      {
+        "question": "Come cancello il piano?",
+        "answer": ["Inviaci un'email a hello@internxt.com e processeremo la cancellazione dell'abbonamento."]
+      }
+    ]
+  },
+  "ContactSales": {
+    "title": "Contatta l'ufficio vendite",
+    "description": "Compila il modulo e il team ti contatterà al più presto.",
+    "form": {
+      "name": "Nome completo",
+      "email": "Indirizzo email",
+      "company": "Nome azienda",
+      "phone": "Numero di telefono",
+      "howMuchStorage": "Di quanto spazio hai bisogno?",
+      "totalCharacters": " /1000",
+      "options": ["Seleziona", "Meno di 10TB", "10TB - 50TB", "50TB - 100 TB", "Più di 100TB"],
+      "howWeCanHelp": "Come possiamo aiutarti? (Opzionale)",
+      "howWeCanHelpPlaceHolder": "Dicci di più sulle tue necessità",
+      "cta": "Invia messaggio",
+      "ctaSending": "Invio in corso...",
+      "successMessage": "Il tuo messaggio è stato inviato con successo.",
+      "errorMessage": "Si è verificato un errore. Riprova."
+    }
+  },
+  "CtaSection": {
+    "title": "Archiviazione di oggetti cloud sicura",
+    "description": "Le soluzioni di cloud storage di Internxt combinano sicurezza ed efficienza",
+    "cta": "Inizia ora"
+  },
+  "CtaSectionV2": {
+    "title": "Archiviazione di oggetti nel cloud Internxt",
+    "description": "Le soluzioni di cloud storage di Internxt combinano sicurezza ed efficienza",
+    "cta": "Inizia"
+  },
+  "SemanticAccordion": {
+    "title": "Scopri di più sull'archiviazione di oggetti cloud",
+    "items": [
+      {
+        "question": "Cos'è l'archiviazione di oggetti cloud?",
+        "answer": [
+          "L'archiviazione di oggetti cloud è un'architettura di archiviazione dati scalabile che gestisce i dati come oggetti, rendendola ideale per dati non strutturati su larga scala nel cloud."
+        ]
+      },
+      {
+        "question": "Come funziona un cloud di archiviazione oggetti?",
+        "answer": [
+          "Un cloud di archiviazione oggetti memorizza i dati in uno spazio di indirizzi piatto, utilizzando identificatori unici per ogni oggetto, il che consente una scalabilità massiccia e un facile recupero attraverso reti distribuite."
+        ]
+      },
+      {
+        "question": "Quali sono i vantaggi dell'archiviazione a oggetti basata su cloud?",
+        "answer": [
+          "L'archiviazione a oggetti basata su cloud offre elevata durabilità, disponibilità e convenienza, specialmente per applicazioni web, backup e archiviazione dati."
+        ]
+      },
+      {
+        "question": "Internxt fornisce archiviazione di oggetti cloud privato?",
+        "answer": [
+          "Sì, Internxt offre archiviazione di oggetti cloud privato con crittografia lato server e compatibilità S3, garantendo che i tuoi dati rimangano sicuri e sotto il tuo controllo."
+        ]
+      },
+      {
+        "question": "Internxt è compatibile con l'archiviazione di oggetti cloud S3?",
+        "answer": [
+          "Internxt è completamente compatibile con i protocolli di archiviazione di oggetti cloud S3, consentendoti di utilizzare i tuoi strumenti e applicazioni compatibili con S3 esistenti in modo trasparente."
+        ]
+      }
+    ]
+  }
+}

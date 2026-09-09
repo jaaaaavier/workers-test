@@ -1,0 +1,215 @@
+{
+  "HeroSection": {
+    "label": "物件儲存",
+    "title": "Internxt **Rclone**、**CLI** 和 **WebDAV**",
+    "description": "透過原生方式或 WebDAV 將您的 Internxt Drive 連接到 Rclone，進行更進階的文件管理",
+    "cta": "取得 Internxt"
+  },
+  "RcloneSupportSection": {
+    "title": "Internxt 原生 Rclone 支援",
+    "description": [
+      "Rclone 是一款命令列工具，透過彈性且可編寫腳本的介面將您的電腦連接到 Internxt Drive。它專為追求快速、可靠且可自訂檔案傳輸的使用者而設計。",
+      "設定完成後，rclone 會將您的裝置直接連接到您的儲存帳戶，從而輕鬆移動檔案、執行備份並跨系統自動化傳輸。"
+    ],
+    "howToInstall": "如何安裝",
+    "info": [
+      {
+        "title": "ReadMe",
+        "description": "從我們的 GitHub 儲存庫獲取有關 rclone 的用法、功能、指令和下載說明的資訊。",
+        "cta": "了解更多"
+      },
+      {
+        "title": "使用者指南",
+        "description": "從我們的說明中心了解如何以原生方式連接和配置 Internxt Drive 與 rclone。",
+        "cta": "閱讀指南"
+      },
+      {
+        "title": "更新",
+        "description": "從我們的原始碼中關注 Internxt CLI 的最新版本，了解新版本和新功能。",
+        "cta": "更多詳情"
+      }
+    ]
+  },
+  "WebDAVSupportSection": {
+    "title": "Internxt CLI & WebDAV 支援",
+    "description": [
+      "Internxt CLI 透過一系列指令與您的電腦互動。CLI 為管理 Internxt Drive 帳戶中的各種任務提供了一種強大且高效的方式。",
+      "Internxt CLI 透過您選擇的 WebDAV 用戶端，充當您的電腦與 Internxt Drive 之間的橋樑。WebDAV 是 HTTP 的擴展，允許您在本地機器和 Internxt 帳戶之間管理檔案。"
+    ],
+    "tableSection": {
+    "title": "Internxt方案",
+    "hotLabel": "{{discount}}% 折扣 ",
+    "valentinesTitle": "安全的愛 - ",
+    "planTitles": {
+      "header": " 選擇您的計劃",
+      "lifetimeHeader": "選擇您的終身計畫",
+      "individuals": "年度方案",
+      "homePage": "選擇適合您的方案",
+      "lifetime": "終身方案",
+      "business": "商業方案",
+      "lifetimeCampaign": {
+        "blueText": "50%折扣",
+        "normalText": "所有獨家終身方案"
+      }
+    },
+    "lifetimeDescription": "一次付費，終身享受隱私和安全",
+    "planDescription": "所有Internxt方案功能齊全，完整存取我們屢獲殊榮的隱私套件，包括Internxt Drive、Send、VPN、防毒軟體、清理工具、暗網監控、Meet和郵件。",
+    "businessDescription": "我們目前正在開發專為保護您的企業、保護員工和確保獲利能力而設計的新Internxt方案。",
+    "businessDescription2": "使用Internxt的加密雲端儲存方案確保公司資料安全。",
+    "billingFrequency": {
+      "monthly": "月繳",
+      "annually": "年繳",
+      "lifetime": "終身",
+      "individual": "個人",
+      "business": "商業"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Internxt免費版",
+      "description": "免費獲取1GB加密雲端儲存",
+      "cta": "選擇方案"
+    },
+    "features": {
+      "endToEnd": "端對端加密",
+      "openSource": "開源且經過稽核",
+      "anonymousAccount": "匿名帳戶建立",
+      "premiumSupport": "高級客戶支援",
+      "guarantee": "30天退款保證"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+    "howToInstall": {
+      "title": "如何安裝",
+      "steps": [
+        {
+          "step": "第 1 步",
+          "description": "[下載並安裝 Internxt CLI](https://www.npmjs.com/package/@internxt/cli)"
+        },
+        {
+          "step": "第 2 步",
+          "description": "使用 internxt login 指令登入 CLI。"
+        },
+        {
+          "step": "第 3 步",
+          "description": "選擇您偏好的 WebDAV 用戶端。"
+        },
+        {
+          "step": "第 4 步",
+          "description": "輸入 URL [webdav.local.internxt.com](https://webdav.local.internxt.com:3005) 和連接埠 3005。"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question": "Internxt 原生 rclone 支援",
+        "answer": [
+          "原生 rclone 整合讓您能夠使用雲端儲存工作流程中，最值得信賴的開源工具之一來同步、複製和管理檔案。",
+          "將 Internxt Drive 與 rclone 連接可實現快速、彈性的傳輸、自動化，並能輕鬆整合到現有的備份或遷移設定中，且不影響安全性。"
+        ]
+      },
+      {
+        "question": "Internxt WebDAV 支援",
+        "answer": [
+          "您還可以使用 Internxt CLI 來連接和管理檔案，同樣強調安全性以及獲獎肯定的架構，以實現最大的隱私保護。",
+          "您的檔案在到達我們的伺服器之前已在您的裝置上加密，只有您擁有解密金鑰。這種對安全性的堅定承諾讓您能完全掌控自己的數據。"
+        ]
+      }
+    ]
+  },
+  "DownloadCLISection": {
+    "title": "下載 Internxt CLI",
+    "downloads": [
+      {
+        "platform": "Windows",
+        "description": "適用於 Windows 10 及更高版本。"
+      },
+      {
+        "platform": "Mac",
+        "description": "適用於 MacOS 11 Big Sur 或更高版本。"
+      },
+      {
+        "platform": "Linux",
+        "description": "Ubuntu 和 Debian"
+      }
+    ],
+    "installation": "使用 npm 安裝",
+    "command": "npm i -g @internxt/cli"
+  },
+  "CtaSection": {
+    "title": "使用 Internxt Drive 保護您的檔案",
+    "description": "以隱私為核心構建的安全雲端儲存",
+    "cta": "取得 Internxt"
+  },
+  "HowToUseCLISection": {
+    "title": "如何構建和使用 Internxt CLI",
+    "description": "我們建立了一些資源來幫助您下載 Internxt CLI 並開始使用 WebDAV。",
+    "info": [
+      {
+        "title": "ReadMe",
+        "description": "關於 Internxt CLI 的資訊。從我們的 GitHub 儲存庫了解其用法、功能、指令和下載說明。",
+        "cta": "了解更多"
+      },
+      {
+        "title": "使用者指南",
+        "description": "從我們的說明中心了解有關 Internxt CLI、WebDAV 運作原理以及安全功能的更多資訊。",
+        "cta": "閱讀指南"
+      },
+      {
+        "title": "更新",
+        "description": "從我們的原始碼中關注 Internxt CLI 的最新更新，了解新版本和新功能。",
+        "cta": "更多詳情"
+      }
+    ]
+  },
+  "CtaSection2": {
+    "title": "像專業人士一樣管理您的檔案",
+    "description": "透過 rclone 或 WebDAV 直接掌控您的檔案。",
+    "cta": "取得 Internxt"
+  },
+  "FaqSection": {
+    "title": "有問題？我們有答案",
+    "faq": [
+      {
+        "question": "什麼是 rclone？",
+        "answer": ["Rclone 是一款開源命令列工具，可讓您在電腦和雲端儲存服務之間管理、同步和傳輸檔案。"]
+      },
+      {
+        "question": "如何將 Internxt 連接到 rclone？",
+        "answer": ["首先，您需要從官方網站下載 rclone，然後可以按照我們說明中心提供的安裝步驟進行操作。"]
+      },
+      {
+        "question": "什麼是 Internxt CLI？",
+        "answer": ["Internxt 命令列介面透過鍵入文字指令（而非使用滑鼠和圖形使用者介面）與電腦程式進行互動。"]
+      },
+      {
+        "question": "什麼是 WebDAV？",
+        "answer": [
+          "WebDAV 代表 Web 分布式授權和版本控制。其基本功能包括透過 Web 伺服器共享、複製、移動和編輯檔案。WebDAV 通常使用 HTTP 安全通訊協定來確保用戶端和伺服器之間的安全通訊。"
+        ]
+      },
+      {
+        "question": "如何安裝 Internxt CLI？",
+        "answer": ["要在您的電腦上安裝我們的 CLI 並開始使用 WebDAV，您可以按照我們 GitHub 頁面上的安裝步驟進行操作。"]
+      },
+      {
+        "question": "WebDAV 安全嗎？",
+        "answer": [
+          "是的。啟用後，得益於我們的 CLI，WebDAV 功能會在您的機器上使用僅限本地的伺服器。我們實施相同的零知識和端到端加密方法，以確保您檔案的隱私和安全。"
+        ]
+      },
+      {
+        "question": "Internxt 支援哪些 WebDAV 用戶端？",
+        "answer": ["我們支援以下 WebDAV 用戶端：", "* CyberDuck", "* Transmit", "* Cadaver", "* Finder"]
+      },
+      {
+        "question": "我需要擔心自簽章憑證嗎？",
+        "answer": [
+          "Internxt 為 WebDAV 本地伺服器使用自簽章憑證。雖然某些 WebDAV 用戶端可能會發出有關這些憑證的警告，但可以安全地忽略它們。無論如何，加密都會保護您的數據。"
+        ]
+      }
+    ]
+  }
+}

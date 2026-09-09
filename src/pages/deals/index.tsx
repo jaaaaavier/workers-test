@@ -1,0 +1,31 @@
+import { GetServerSidePropsContext } from 'next';
+import { PromoCodeName } from '@/lib/types';
+import DealsTemplate from '@/components/templates/dealsTemplate';
+import { getDealsProps } from '@/lib/helpers/deals';
+
+const DealsPage = (props) => {
+  return <DealsTemplate {...props} />;
+};
+
+export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+  return getDealsProps(
+    ctx,
+    {
+      heroImage: '/images/deals/deals-generic.webp',
+      metatagsId: 'deals',
+      couponCodeForLifetime: PromoCodeName.FreePlanUpsell,
+      popularPlanSize: '5TB',
+      hideBusinessCards: true,
+      hideBusinessSelector: true,
+      moreDealsUrls: {
+        card1: 'deals/free-cloud-storage-deals',
+        card2: 'deals/cloud-storage-lifetime',
+      },
+    },
+    {
+      jsonFileName: 'deals',
+    },
+  );
+}
+
+export default DealsPage;

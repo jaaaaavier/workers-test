@@ -1,0 +1,323 @@
+{
+  "HeroSection": {
+    "eyebrow": " Drive",
+    "title": "**Almacenamiento seguro** en nube para tus archivos",
+    "subtitle": "Almacenamiento en la nube con cifrado post-cuántico galardonado para proteger tu privacidad.",
+    "features": [
+      "Cifrado post-cuántico",
+      "Almacenamiento, sincronización y copias de seguridad",
+      "Código abierto y auditado"
+    ],
+    "cta": "Obtener Internxt",
+    "DownloadSection": {
+      "downloadTitle": "Descargar Internxt Drive",
+      "Desktop": "Internxt Escritorio",
+      "Web": "Internxt Web",
+      "Mobile": "Internxt Móvil",
+      "or": "o",
+      "downloadFor": "Descargar para",
+      "orDownloadFor": "O descargar para",
+      "downloadOnThe": "Descargar en la",
+      "orDownloadOnThe": "O descargar desde la",
+      "getOn": "Descargar desde",
+      "orGetOn": "O conseguir en",
+      "openDriveWeb": "Abrir Drive Web",
+      "iPhone": "App Store",
+      "iPad": "App Store",
+      "Android": "Play Store",
+      "Windows": "Windows",
+      "Linux": "Linux",
+      "UNIX": "Linux",
+      "MacOS": "Mac"
+    }
+  },
+  "tableSection": {
+    "title": "Planes de Internxt",
+    "hotLabel": "{{discount}}% de descuento",
+    "planTitles": {
+      "header": "Elige tu plan",
+      "individuals": "Planes Anuales",
+      "homePage": "Elige el plan adecuado para ti",
+      "lifetime": "Planes de por vida",
+      "business": "Planes para empresas",
+      "lifetimeCampaign": {
+        "blueText": "50% de descuento",
+        "normalText": "en todos nuestros planes exclusivos de por vida"
+      }
+    },
+    "lifetimeDescription": "Paga una sola vez y disfruta de privacidad y seguridad de por vida",
+    "planDescription": "Todos los planes de Internxt dan acceso a nuestro paquete de soluciones privadas con tecnología de seguridad avanzada: Drive, Send, VPN, Antivirus, Cleaner, Meet y Mail.",
+    "businessDescription": "Actualmente estamos trabajando en nuevos planes de Internxt diseñados exclusivamente para defender su negocio, proteger a sus empleados y asegurar su rentabilidad.",
+    "businessDescription2": "Garantiza la seguridad de los datos de la empresa con los planes de almacenamiento en la nube cifrados de Internxt.",
+    "billingFrequency": {
+      "monthly": "Mensual",
+      "annually": "Anual",
+      "lifetime": "De por vida",
+      "individual": "Individual",
+      "business": "Empresa"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Gratis",
+      "description": "Obtén 1 GB de almacenamiento en la nube cifrado gratis",
+      "cta": "Seleccionar plan"
+    },
+    "features": {
+      "endToEnd": "Cifrado de extremo a extremo",
+      "openSource": "Código abierto y auditado",
+      "anonymousAccount": "Creación de cuenta anónima",
+      "premiumSupport": "Soporte al cliente premium",
+      "guarantee": "Garantía de devolución de 30 días"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "DriveSection": {
+    "title": "Internxt Drive",
+    "description": [
+      "Google Drive, iCloud, OneDrive, Dropbox, y otros pueden descifrar, ver y compartir tus datos con gobiernos y terceros.",
+      "Internxt Drive te da control total y privacidad sobre tu almacenamiento en la nube a través de cifrado post-cuántico y de conocimiento cero. Nosotros no podemos acceder a tus archivos; tú mantienes la plena propiedad, acceso y control de tus datos."
+    ]
+  },
+  "EncryptedCloudStorageSection": {
+    "title": "Almacenamiento en la nube seguro, basado en la privacidad",
+    "description": "Internxt Drive utiliza cifrado post-cuántico y de conocimiento cero para cifrar tus archivos y datos en reposo y en tránsito.",
+    "scrollableSection": {
+      "titles": [
+        "Tu bóveda cifrada",
+        "Privacidad sobre ganancias",
+        "Cumplimiento normativo",
+        "Código abierto y auditado",
+        "Diseñado para la libertad",
+        "Sin puertas traseras"
+      ],
+      "descriptions": [
+        "Internxt es el primer almacenamiento en la nube en usar Kyber 512 post-cuántico y cifrado AES-256, asegurando la protección de datos con seguridad de extremo a extremo, privacidad europea y tecnología avanzada.",
+        "A diferencia de las Grandes Tecnológicas, Internxt no puede ver ni eliminar tus archivos. Tus archivos y datos se cifran directamente en tu dispositivo. Nadie, ni siquiera nosotros, puede acceder a tus archivos o datos.",
+        "Internxt cumple con HIPAA, ISO 27001 y SOC 2. Ya sea que necesites almacenamiento en la nube para el sector sanitario, financiero o para uso personal, Internxt asegura que tus datos y archivos cumplen con los más altos estándares de protección de datos.",
+        "Todo nuestro código está disponible públicamente en GitHub y ha sido verificado por expertos externos en ciberseguridad para asegurar que es una plataforma segura para tus datos.",
+        "Te damos propiedad y control total sobre tu privacidad. Con nuestros productos centrados en la privacidad, tú tienes el poder, no las Grandes Tecnológicas.",
+        "No tenemos acceso a tus datos o archivos y no los compartimos con nadie. Nuestras aplicaciones son totalmente de código abierto y auditadas, garantizando que tu privacidad sea respetada."
+      ]
+    }
+  },
+  "CoreFeatures": {
+    "title": "Características Principales",
+    "description": "Seguridad completa para tus datos, todo lo que necesitas para mantener tus archivos seguros y privados",
+    "accordionCards": {
+      "titles": ["Un ecosistema totalmente privado", "Colaboración segura", "Tu nube, como un disco local"],
+      "descriptions": [
+        "Internxt agrupa almacenamiento cifrado, copias de seguridad, VPN, Antivirus, Cleaner, Meet, Mail y más—todo para liberarte de las Grandes Tecnológicas.",
+        "Envía archivos con enlaces cifrados, contraseñas y controles. Trabaja con tu equipo en tiempo real mientras mantienes los datos privados.",
+        "Usa Internxt como un disco virtual para sincronizar, subir y acceder a archivos sin problemas—igual que en tu ordenador, pero totalmente seguro y siempre actualizado."
+      ]
+    },
+    "cards": {
+      "titles": ["Cifrado de extremo a extremo", "Controles de acceso", "Copias de seguridad cifradas"],
+      "descriptions": [
+        "Todos los archivos están cifrados con cifrado post-cuántico y de conocimiento cero. Nadie más que tú, o aquellos con quienes elijas compartir archivos, puede ver su contenido.",
+        "Tú controlas exactamente quién puede acceder a tus archivos compartidos con enlaces cifrados y protegidos por contraseña que puedes revocar en cualquier momento.",
+        "Asegura que tus archivos se mantengan a salvo del ransomware y la pérdida accidental con copias de seguridad cifradas y programadas que proporcionan protección adicional y tranquilidad."
+      ]
+    }
+  },
+  "AllInOnePrivacySection": {
+    "title": "Tu solución de privacidad todo en uno",
+    "scrollableSection": {
+      "titles": ["Suite de privacidad completa", "Para negocios", "Para familias", "Precios inigualables"],
+      "descriptions": [
+        "Ve más allá del almacenamiento en la nube e incluye VPN, Antivirus, Cleaner, Meet y Mail en tu paquete de privacidad.",
+        "Protege tu empresa del ransomware y las filtraciones de datos con nuestro almacenamiento en la nube para negocios.",
+        "Almacena y comparte tus fotos familiares, videos y recuerdos, y mantenlos seguros para siempre.",
+        "Sin tarifas ocultas, elige tu plan y disfruta de sus características y cifrado completo por un único precio."
+      ]
+    }
+  },
+  "MadeInEuropeSection": {
+    "title": "Hecho en Europa",
+    "description": "Tus datos están protegidos con estrictas leyes y regulaciones de cumplimiento europeas combinadas con un cifrado galardonado.",
+    "cards": {
+      "images": ["/images/drive/GDPR.webp", "/images/drive/redundancy.webp", "/images/drive/sustainability.webp"],
+      "imagesMobile": [
+        "/images/drive/GDPR2.webp",
+        "/images/drive/Redundancy2.webp",
+        "/images/drive/Sustainability2.webp"
+      ],
+      "titles": ["Centros de datos europeos", "Redundancia", "Compromiso con la sostenibilidad"],
+      "descriptions": [
+        "Internxt tiene su sede en Valencia, España, y nuestros centros de datos se encuentran en Europa y otras ubicaciones a nivel mundial, ofreciéndote seguridad, velocidad y cumplimiento.",
+        "Tus archivos están protegidos a través de sistemas redundantes, controles ambientales y monitoreo de seguridad in situ 24/7. Pase lo que pase, tus archivos permanecen siempre seguros y accesibles.",
+        "Internxt lidera con el ejemplo trabajando por una solución de almacenamiento en la nube más sostenible a través de prácticas de eficiencia energética para una solución de almacenamiento en la nube más limpia y sostenible."
+      ],
+      "cta": ["Saber más", "", "Saber más"]
+    }
+  },
+  "OfficalCloudProvider": {
+    "title": "Proveedor oficial de almacenamiento en la nube de Levante UD",
+    "description": [
+      "Levante UD se ha asociado con Internxt, convirtiéndose en el proveedor oficial del club de almacenamiento en la nube cifrado para mantener sus datos completamente privados. Esta colaboración une tecnología y deporte y destaca la creciente influencia de Internxt en el panorama tecnológico europeo.",
+      "A medida que Levante UD moderniza su infraestructura digital, se une a Internxt para impulsar un modelo de innovación basado en la privacidad, la confianza y la independencia digital. Este acuerdo marca un hito en el avance de la soberanía digital y la protección de datos."
+    ],
+    "cta": "Más información"
+  },
+  "CtaSection": {
+    "title": "No permitas que las Grandes Tecnológicas espíen tus archivos",
+    "description": "Cámbiate a Internxt Drive para un almacenamiento más seguro",
+    "cta": "Obtener Internxt"
+  },
+  "DownloadSection": {
+    "downloadTitle": "Descargar Internxt Drive",
+    "Desktop": "Internxt Escritorio",
+    "Web": "Internxt Web",
+    "Mobile": "Internxt Móvil",
+    "or": "o",
+    "downloadFor": "Descargar para",
+    "orDownloadFor": "O descargar para",
+    "downloadOnThe": "Descargar en la",
+    "orDownloadOnThe": "O descargar desde la",
+    "getOn": "Descargar desde",
+    "orGetOn": "O conseguir en",
+    "openDriveWeb": "Abrir Drive Web",
+    "iPhone": "App Store",
+    "iPad": "App Store",
+    "Android": "Play Store",
+    "Windows": "Windows",
+    "Linux": "Linux",
+    "UNIX": "Linux",
+    "MacOS": "Mac"
+  },
+  "AdvancedToolsSection": {
+    "title": "Herramientas avanzadas para expertos",
+    "description": "Internxt funciona en Windows, Mac, Linux y móvil—con herramientas avanzadas para desarrolladores y empresas.",
+    "powerUsers": {
+      "title": "Herramientas potentes \n **para usuarios avanzados**",
+      "description": "Internxt CLI es una potente herramienta de línea de comandos que te permite \n acceder y gestionar los datos de Internxt Drive mediante comandos \n y WebDAV.",
+      "install": {
+        "title": "Instalar usando npm",
+        "command": "npm i -g @internxt/cli"
+      },
+      "available": "Disponible en",
+      "learnMore": {
+        "title": "Saber más sobre Internxt CLI:",
+        "GitHub": "GitHub ReadMe",
+        "learnMore": "Saber Más"
+      }
+    },
+    "webDAV": {
+      "title": "WebDAV",
+      "description": "Ejecuta Internxt de forma segura en cualquier plataforma con tu cliente WebDAV y CLI favorito—cifrado de extremo a extremo, protegido con conocimiento cero.",
+      "cta": "Obtener WebDAV"
+    },
+    "Rclone": {
+      "title": "Rclone",
+      "cta": "Obtener Rclone",
+      "description": "Sincroniza, haz copias de seguridad y gestiona tus archivos sin esfuerzo a través de múltiples servicios en la nube con soporte Rclone nativo."
+    },
+    "NAS": {
+      "title": "NAS",
+      "cta": "Obtener NAS",
+      "description": "Conecta tu sistema NAS directamente a Internxt Drive para hacer copias de seguridad, sincronizar y gestionar tus datos de forma segura."
+    }
+  },
+  "ReviewSection": {
+    "forbes": "Internxt consolida su posición como alternativa europea a los gigantes tecnológicos",
+    "deloitte": "Recibió el premio Deloitte Fast 50, que reconoce a las empresas de más rápido crecimiento",
+    "techradar": "Un proveedor de almacenamiento en la nube muy comprometido con la privacidad y la seguridad",
+    "fortune": "Internxt está construyendo un internet donde la privacidad y la seguridad son lo primero",
+    "trustpilot": "Montones de espacio privado y seguro. Soporte excelente. Sin duda, una buena relación calidad-precio."
+  },
+  "FaqSection": {
+    "title": "¿Preguntas? Tenemos respuestas",
+    "faq": [
+      {
+        "question": "¿Qué es Internxt Drive?",
+        "answer": [
+          "Internxt Drive es un servicio de almacenamiento de archivos de conocimiento cero que está diseñado para la privacidad absoluta y la seguridad estricta. Nuestro servicio no accede a tus datos personales o archivos. En cambio, está diseñado para devolverte el control sobre tus archivos y protegerte de los recolectores de datos."
+        ]
+      },
+      {
+        "question": "¿Es Internxt una solución de almacenamiento en la nube sostenible y ecológica?",
+        "answer": [
+          "Sí, Internxt está comprometido con la computación en la nube ecológica, ofreciendo soluciones de almacenamiento eco-amigables para apoyar un futuro más limpio y sostenible. Nuestros centros de datos son alimentados por un 92% de energía renovable y están diseñados para minimizar las emisiones de carbono, el consumo de recursos y los desechos electrónicos. ",
+          "Nuestros esfuerzos contribuyen a un objetivo de neutralidad climática para 2050. Saber más"
+        ]
+      },
+      {
+        "question": "¿Cómo crear una cuenta de Internxt?",
+        "answer": [
+          "Dirígete a nuestro sitio web y haz clic en 'Empezar' en la esquina superior derecha. Rellena el formulario de registro introduciendo una dirección de correo electrónico, luego crea tu contraseña. No se requiere verificación de identidad o de correo electrónico para comenzar a usar los servicios de Internxt."
+        ]
+      },
+      {
+        "question": "¿Cómo subir archivos a Internxt Drive?",
+        "answer": [
+          "Visita Drive Web e inicia sesión. Arrastra y suelta tus archivos o fotos elegidos directamente en la ventana del navegador. También puedes hacer clic en 'Nuevo' en la esquina derecha del navegador, lo que abrirá Explorer o Finder, y seleccionar los archivos que deseas subir."
+        ]
+      },
+      {
+        "question": "¿Cómo instalar la aplicación de Internxt?",
+        "answer": [
+          "Ve al sitio web de Internxt, desplázate hacia abajo en la página de inicio y selecciona 'Descargar aplicaciones'. La aplicación de Internxt también está disponible en Play Store o App Store. Una vez que el proceso de descarga se haya completado, se te pedirá que ejecutes nuestra aplicación de almacenamiento. Descargar nuestra aplicación Drive te permite hacer un mejor uso del ecosistema de Internxt."
+        ]
+      },
+      {
+        "question": "¿Puedo configurar 2FA con Internxt?",
+        "answer": [
+          "Sí. Puedes configurar la autenticación de dos factores (2FA) para tu cuenta de Internxt desde la aplicación Drive Web. Además, puedes usar Authy o cualquier otra herramienta 2FA para generar tu código 2FA con Internxt, para iniciar sesión en nuestra aplicación de disco online."
+        ]
+      }
+    ]
+  },
+  "SecureStorageSeoSection": {
+    "title": "Almacenamiento seguro de archivos en la nube: cómo Internxt protege tus datos",
+    "faq": [
+      {
+        "question": "¿Qué es el almacenamiento seguro de archivos en la nube y qué lo diferencia?",
+        "answer": [
+          "El almacenamiento seguro de archivos en la nube es un almacenamiento online diseñado con la protección de datos como requisito principal, no como añadido. La diferencia respecto al almacenamiento estándar depende de dos factores técnicos: dónde ocurre el cifrado y quién controla las claves.",
+          "El almacenamiento en la nube estándar cifra los datos en tránsito y en reposo, pero el proveedor gestiona las claves de cifrado. Esto significa que puede acceder a tus archivos, responder solicitudes legales y potencialmente exponer tus datos.",
+          "Una plataforma construida sobre arquitectura de conocimiento cero funciona de manera diferente: el cifrado ocurre en tu dispositivo, el proveedor solo recibe texto cifrado. Incluso bajo presión legal, no puede entregar contenido legible.",
+          "Internxt Drive está diseñado con este modelo: arquitectura de conocimiento cero, AES-256 y Kyber-512 post-cuántico, centros de datos europeos, ISO 27001:2022, cumplimiento HIPAA y auditoría Securitum 2024."
+        ]
+      },
+      {
+        "question": "¿Cómo funciona la seguridad del almacenamiento en la nube a nivel técnico?",
+        "answer": [
+          "La seguridad del almacenamiento en la nube es una pila de capas de protección, cada una dirigida a una superficie de amenaza diferente.",
+          "Cifrado en tránsito (TLS 1.3): previene la interceptación en red. Cifrado en reposo (AES-256): protege ante compromisos físicos. Controles de acceso: autenticación multifactor, permisos basados en roles, revocación de accesos a archivos compartidos.",
+          "Arquitectura de privacidad: la medida más significativa es si el proveedor puede acceder a tus datos. Las plataformas de conocimiento cero protegen los datos del propio proveedor.",
+          "Internxt Drive cubre todas las capas: TLS 1.3, AES-256 más Kyber-512 post-cuántico, controles de acceso granulares, arquitectura de conocimiento cero y registro completo de cumplimiento confirmado por Securitum 2024."
+        ]
+      },
+      {
+        "question": "¿Qué es la seguridad del almacenamiento basado en la nube y por qué es importante?",
+        "answer": [
+          "La seguridad del almacenamiento basado en la nube abarca todas las medidas técnicas y organizativas que protegen los datos almacenados en infraestructura remota: transmisión, almacenamiento, acceso y recuperación.",
+          "Los tres requisitos: confidencialidad (quién puede leer tus archivos), integridad (si los archivos pueden ser alterados) y disponibilidad (si tus archivos permanecen accesibles).",
+          "Una plataforma que retiene las claves aborda la confidencialidad solo parcialmente. La arquitectura de conocimiento cero la aborda completamente, excluyendo técnicamente al proveedor.",
+          "Internxt Drive aborda los tres: cifrado de conocimiento cero para confidencialidad, verificaciones de integridad criptográfica y centros de datos europeos redundantes para disponibilidad."
+        ]
+      },
+      {
+        "question": "¿Qué es el almacenamiento seguro basado en la nube y cómo se evalúa?",
+        "answer": [
+          "El almacenamiento seguro basado en la nube es almacenamiento remoto donde la protección de datos es un requisito de diseño. Cinco preguntas verificables ayudan a evaluarlo.",
+          "Primero: ¿dónde ocurre el cifrado? Del lado del cliente es más robusto que del servidor. Segundo: ¿quién posee las claves? El modelo de conocimiento cero mantiene las claves localmente. Tercero: ¿qué certificaciones independientes existen?",
+          "Cuarto: ¿el código es de revisión pública? El software de código abierto permite verificación independiente. Quinto: ¿se ha completado una prueba de penetración por terceros?",
+          "Internxt Drive responde las cinco: cifrado del lado del cliente, gestión de claves de conocimiento cero, ISO 27001:2022 e HIPAA, código completamente abierto y auditoría Securitum 2024."
+        ]
+      },
+      {
+        "question": "¿Qué es el almacenamiento en la nube seguro y qué ofrece frente a las opciones estándar?",
+        "answer": [
+          "El almacenamiento en la nube seguro va más allá de una contraseña o HTTPS. Significa que la arquitectura subyacente impide técnicamente el acceso no autorizado, incluso de la propia plataforma que aloja tus archivos.",
+          "Las plataformas estándar pueden ser obligadas por tribunales a entregar datos o verse comprometidas en brechas. La arquitectura de conocimiento cero elimina esta vulnerabilidad: los archivos se cifran antes de la subida, el proveedor solo guarda texto cifrado ilegible.",
+          "Lo que ofrece el almacenamiento en la nube seguro en la práctica: tus archivos solo salen del dispositivo cifrados; ante una brecha del proveedor, los atacantes obtienen datos ilegibles; las solicitudes judiciales no pueden cumplirse porque el proveedor no tiene acceso.",
+          "Internxt Drive está diseñado desde cero como almacenamiento en la nube seguro: conocimiento cero, cifrado de extremo a extremo, código abierto y auditado de forma independiente."
+        ]
+      }
+    ]
+  }
+}

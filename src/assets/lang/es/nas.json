@@ -1,0 +1,179 @@
+{
+  "HeroSection": {
+    "label": "NAS",
+    "title": "**Soporte para NAS** QNAP y Synology",
+    "subtitle": "Conecta tu dispositivo NAS a Internxt Drive para un almacenamiento seguro de archivos y copias de seguridad.",
+    "features": ["Synology y QNAP", "Transferencias seguras", "Sincronización segura y copias cifradas"],
+    "cta": "Obtener Internxt"
+  },
+  "WhatIsNASSection": {
+    "title": "¿Qué es un dispositivo NAS y por qué usarlo?",
+    "description": [
+      "Un NAS (almacenamiento conectado a la red) es un sistema de almacenamiento dedicado que se conecta a tu red doméstica u oficina, actuando como un servidor personal para tus archivos. Usarlo con Internxt te permite hacer copias de seguridad, sincronizar y gestionar datos de forma segura mientras mantienes el control total y la propiedad de tus archivos.",
+      "Tus datos están cifrados y seguros con el cifrado post-cuántico de Internxt, y las claves se gestionan en tu dispositivo. Esto ofrece la comodidad de los dispositivos NAS con la seguridad y privacidad de Internxt Drive."
+    ]
+  },
+  "InternxtNASIntegrations": {
+    "title": "Integraciones NAS de Internxt",
+    "description": "Instala la aplicación Docker para conectar tu NAS a Synology o QNAP. Esta configuración te permite acceder, gestionar y sincronizar tus archivos de forma segura mientras mantienes el control total sobre tus datos.",
+    "synologyBox": {
+      "title": "Synology",
+      "description": "Synology es un sistema NAS popular que te permite almacenar, organizar y acceder a tus archivos desde múltiples dispositivos. Puedes ejecutar aplicaciones, gestionar tus copias de seguridad y compartir datos de forma segura.",
+      "image": "synology"
+    },
+    "QNAPBox": {
+      "title": "QNAP",
+      "description": "Al conectar Internxt a través de Docker, puedes gestionar, sincronizar y acceder de forma segura a tus archivos directamente en tu NAS QNAP.",
+      "image": "QNAP"
+    }
+  },
+  "ctaSection": {
+    "title": "Internxt Drive para NAS",
+    "description": "Mantén tus archivos seguros, accesibles y privados",
+    "cta": "Obtener Internxt"
+  },
+  "horizontalScrollableSection": {
+    "title": "Haz copia de seguridad de tu NAS en la nube",
+    "description": "Gestiona, sincroniza y haz copias de seguridad de tus datos en la nube con el soporte NAS de Internxt. Gracias al cifrado post-cuántico de Internxt, tu privacidad siempre está garantizada.",
+    "scrollableSection": {
+      "titles": [
+        "Protección contra pérdida de datos",
+        "Sincronización en tiempo real",
+        "Seguridad",
+        "Tus datos te pertenecen"
+      ],
+      "descriptions": [
+        "Nunca te preocupes por perder tus archivos. Internxt sincroniza tu NAS automáticamente, por lo que cada documento, foto y proyecto tiene una copia de seguridad en la nube. Esto te protege contra fallos de hardware o eliminación accidental.",
+        "Mantén tus archivos actualizados en todos los dispositivos. Cualquier cambio que hagas en tu NAS o en Internxt Drive se refleja automáticamente en todas partes, asegurando que tu equipo o dispositivos personales siempre tengan la última versión.",
+        "Tus datos están protegidos con cifrado post-cuántico y de conocimiento cero, por lo que todas las claves se gestionan y almacenan en tu dispositivo para máxima privacidad. Solo tú puedes acceder a tus archivos, y ningún hacker, terceros o incluso Internxt puede leer tus datos.",
+        "El almacenamiento conectado a la red, o NAS, te permite gestionar el almacenamiento, establecer permisos y crear copias de seguridad según tus propios términos, dándote flexibilidad y propiedad sobre tu información con la comodidad y privacidad de Internxt Drive."
+      ]
+    }
+  },
+  "whatInternxtOffersSection": {
+    "title": "Lo que Internxt ofrece con dispositivos NAS",
+    "description": "Conecta Internxt Drive a tu sistema NAS para una solución en la nube segura que hace copias de seguridad y sincroniza tus archivos con total privacidad.",
+    "cards": {
+      "titles": ["Dispositivos QNAP y Synology", "Acceso desde cualquier lugar", "Protección contra ransomware"],
+      "descriptions": [
+        "Disfruta de todos los beneficios de Internxt con la flexibilidad y control de los dispositivos QNAP y Synology para una gestión de almacenamiento en la nube sin esfuerzo.",
+        "Obtén acceso remoto seguro a tus archivos desde cualquier lugar, mientras mantienes el control total sobre tus datos.",
+        "Protege tus archivos contra ransomware con copias de seguridad cifradas que te permiten restaurar rápidamente archivos afectados por ransomware o pérdida accidental de datos."
+      ]
+    }
+  },
+  "howSetupSection": {
+    "title": "Configurar dispositivo NAS con Internxt",
+    "description": "Instrucciones sobre cómo configurar tu dispositivo NAS con Internxt Drive:",
+    "cards": {
+      "titles": ["ReadMe", "Guía de usuario", "Código abierto"],
+      "descriptions": [
+        "Obtén la información que necesitas sobre las capacidades NAS con Internxt e instrucciones de uso para diferentes plataformas desde nuestra página de GitHub.",
+        "Aprende cómo configurar tu dispositivo de almacenamiento conectado a la red con Internxt con ejemplos y explicaciones.",
+        "Verifica la seguridad de Internxt y mantente actualizado con nuevas actualizaciones y características."
+      ],
+      "cta": ["Leer guía", "Más información", "Ver detalles"]
+    }
+  },
+  "ctaSectionV2": {
+    "title": "Tus archivos, tu control",
+    "description": "Gestiona tu NAS con Internxt",
+    "cta": "Obtener Internxt"
+  },
+    "tableSection": {
+    "title": "Planes de Internxt",
+    "hotLabel": "{{discount}}% de descuento",
+    "valentinesTitle": "Amor seguro - ",
+    "planTitles": {
+      "header": "Elige tu plan",
+      "lifetimeHeader": "Elige tu plan de por vida",
+      "individuals": "Planes Anuales",
+      "homePage": "Elige el plan adecuado para ti",
+      "lifetime": "Planes de Por Vida",
+      "business": "Planes Empresariales",
+      "lifetimeCampaign": {
+        "blueText": "50% de descuento",
+        "normalText": "en todos nuestros planes exclusivos de por vida"
+      }
+    },
+    "lifetimeDescription": "Paga una vez y disfruta de privacidad y seguridad de por vida",
+    "planDescription": "Todos los planes de Internxt incluyen funcionalidades completas con acceso total a nuestra galardonada suite de privacidad que consiste en Internxt Drive, Send, VPN, Antivirus, Cleaner, , Meet y Mail.",
+    "businessDescription": "Actualmente estamos trabajando en nuevos planes de Internxt diseñados exclusivamente para defender tu negocio, proteger a tus empleados y asegurar tu rentabilidad.",
+    "businessDescription2": "Asegura la seguridad de datos de tu empresa con los planes de almacenamiento en la nube encriptado de Internxt.",
+    "billingFrequency": {
+      "monthly": "Mensual",
+      "annually": "Anual",
+      "lifetime": "De por vida",
+      "individual": "Individual",
+      "business": "Empresarial"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Gratuito",
+      "description": "Obtén 1 GB de almacenamiento en la nube encriptado gratis",
+      "cta": "Seleccionar plan"
+    },
+    "features": {
+      "endToEnd": "Cifrado de extremo a extremo",
+      "openSource": "Código abierto y auditado",
+      "anonymousAccount": "Creación de cuenta anónima",
+      "premiumSupport": "Soporte premium al cliente",
+      "guarantee": "Garantía de devolución de dinero de 30 días"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "FaqSection": {
+    "title": "¿Preguntas? Tenemos respuestas",
+    "faq": [
+      {
+        "question": "¿Dónde tiene su sede Internxt?",
+        "answer": [
+          "Internxt tiene su sede en Valencia, España. Internxt cuenta con numerosos centros de datos en la nube europeos para almacenar sus datos de acuerdo con el RGPD y otras normativas de cumplimiento."
+        ]
+      },
+      {
+        "question": "¿Dónde se encuentran los centros de datos en la nube de Internxt?",
+        "answer": [
+          "Internxt utiliza una estrategia de red multi-nube, lo que garantiza que los archivos se almacenen en varios centros de datos en la nube europeos para asegurar el mejor rendimiento, seguridad y protección para sus archivos."
+        ]
+      },
+      {
+        "question": "¿Cómo funcionan los centros de datos de Internxt?",
+        "answer": [
+          "Internxt se asocia con OVHcloud, que posee centros de datos en la nube europeos y múltiples ubicaciones en todo el mundo para almacenar sus datos en la nube.",
+          "Estas infraestructuras de centros de datos albergan miles de servidores para garantizar la disponibilidad, el rendimiento y la redundancia, asegurando un acceso rápido y seguro a los archivos mientras se mantienen protegidos."
+        ]
+      },
+      {
+        "question": "¿Qué es una zona de disponibilidad?",
+        "answer": [
+          "Las zonas de disponibilidad son un conjunto de uno o más centros de datos ubicados en una región. Cada zona de disponibilidad funciona de forma independiente y tiene su propia energía, refrigeración y red para evitar cortes de energía u otros eventos como fallos de infraestructura.",
+          "Las zonas dentro de una región están vinculadas para proporcionar una mayor disponibilidad y conexiones de baja latencia, lo que garantiza que las aplicaciones puedan permanecer en línea incluso si una zona experimenta un fallo."
+        ]
+      },
+      {
+        "question": "¿Puede Internxt acceder a mi archivos?",
+        "answer": [
+          "No, nadie, incluido Internxt, puede acceder a sus archivos. Todos sus archivos y datos se cifran en su dispositivo con cifrado post-cuántico. Como las claves se almacenan y gestionan en su dispositivo y no por nosotros o nuestros proveedores de servicios, solo usted o las personas con las que elija compartir archivos pueden descifrarlos.",
+          "Todos los archivos almacenados en nuestros centros de datos están cifrados, por lo que ningún empleado o hacker puede ver su contenido."
+        ]
+      },
+      {
+        "question": "¿Cómo me pongo en contacto con el soporte?",
+        "answer": [
+          "¿No encuentra lo que busca? Puede ponerse en contacto con nuestro equipo de soporte técnico a través del chat en vivo o enviando un correo electrónico a hello@internxt.com"
+        ]
+      }
+    ]
+  },
+  "Breadcrumbs": {
+    "home": "Almacenamiento en la nube cifrado",
+    "drive": "Almacenamiento seguro en la nube",
+    "nas": "Copia de seguridad en la nube NAS",
+    "qnap": "Copia de seguridad en la nube QNAP",
+    "synology": "Copia de seguridad en la nube Synology NAS"
+  }
+}

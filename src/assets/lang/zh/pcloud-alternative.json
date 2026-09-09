@@ -1,0 +1,298 @@
+{
+  "HeroSection": {
+    "title": "Internxt，一个**安全**的 {{competitor}} 替代方案",
+    "description": "正在寻找 pCloud 替代方案？Internxt 提供后量子加密和完整的隐私套件。",
+    "features": ["私密存储您的视频", "后量子加密和零知识加密", "开源且经过验证"],
+    "getPrivacy": "享受{{percentage}}%的折扣，获得完全隐私保护",
+    "cta": "选择套餐"
+  },
+  "HeaderSection": {
+    "title": "Internxt与{{competitor}}对比",
+    "description": "了解为什么Internxt凭借先进的隐私功能、安全架构和旨在保护您免受网络攻击的完整产品套件而脱颖而出。",
+    "tableSection": {
+      "comparisons": [
+        "代码透明度",
+        "加密",
+        "后量子加密",
+        "价格",
+        "功能",
+        "安全审计",
+        "实时支持",
+        "隐私政策",
+        "隐私法律"
+      ],
+      "internxtFeatures": [
+        "开源",
+        "在您的设备上加密",
+        "是",
+        "有竞争力，无隐藏费用",
+        "Drive、VPN、杀毒软件、Meet、Mail等",
+        "定期安全审计",
+        "是",
+        "永远无法访问您的文件",
+        "完全隐私：GDPR、西班牙数据保护法"
+      ],
+      "competitorFeatures": [
+        "闭源代码",
+        "额外付费（pCloud Crypto）",
+        "否",
+        "实惠，但加密需额外费用",
+        "云存储、pCloud Pass",
+        "不可用",
+        "否",
+        "是（Facebook、TikTok、LinkedIn等像素追踪）",
+        "支持瑞士隐私法"
+      ]
+    }
+  },
+  "VersusSection": {
+    "title": "Internxt对比{{competitor}}",
+    "description": "了解为什么Internxt对开源透明度和独立审计的承诺使其成为比{{competitor}}更可靠和安全的替代方案",
+    "mainTable": {
+      "inxtTable": {
+        "title": "完全隐私、透明度和信任",
+        "features": [
+          {
+            "title": "开源代码",
+            "description": "由于Internxt的代码在GitHub上对所有人开放，任何人都可以检查并确保其安全性。这种透明度确保没有隐藏的后门。"
+          },
+          {
+            "title": "端到端加密",
+            "description": "您的数据在客户端加密，确保只有您可以访问。"
+          },
+          {
+            "title": "完全验证",
+            "description": "Internxt的服务已经过欧洲领先渗透测试公司的安全专家审查。这确保您的数据对黑客和数据泄露等外部威胁保持安全。"
+          }
+        ]
+      },
+      "competitorTable": {
+        "title": "您的隐私如何？",
+        "features": [
+          {
+            "title": "专有软件",
+            "description": "pCloud代码的闭源性质意味着只有公司可以访问。您无法验证他们的数据发生了什么。"
+          },
+          {
+            "title": "pCloud Crypto",
+            "description": "这个加密功能不是开源的，是一个额外付费功能（免费用户没有保护）。这质疑了其真正的安全性和透明度。"
+          },
+          {
+            "title": "密码存储担忧",
+            "description": "没有开源验证，您如何确定pCloud不会保存您的密码或其他人无法访问？"
+          }
+        ]
+      }
+    },
+    "costAndValue": {
+      "title": "成本和价值",
+      "inxtTable": {
+        "title": "安全和隐私无额外费用",
+        "features": [
+          {
+            "title": "合理的套餐",
+            "description": "85%的独家优惠，无隐藏费用。"
+          },
+          {
+            "title": "完整保护",
+            "description": "所有套餐都免费包含后量子加密、零知识加密和安全功能。"
+          }
+        ]
+      },
+      "competitorTable": {
+        "title": "为完全隐私支付更多",
+        "features": [
+          {
+            "title": "为零知识加密额外付费",
+            "description": "您必须为pCloud Crypto附加组件付费才能获得私人加密。"
+          },
+          {
+            "title": "隐藏费用",
+            "description": "虽然pCloud套餐可能看起来实惠，但基本客户端加密或额外下载流量的额外费用可能使其变得昂贵。"
+          }
+        ]
+      }
+    },
+    "transparencyAndTrust": {
+      "title": "透明度和信任",
+      "inxtTable": {
+        "title": "建立在信任之上",
+        "features": [
+          {
+            "title": "社区驱动开发",
+            "description": "由于Internxt是开源的，可以通过社区贡献和安全专业人员的频繁评估来改进。"
+          },
+          {
+            "title": "没有秘密",
+            "description": "清晰的政策和开源代码确保没有意外。"
+          }
+        ]
+      },
+      "competitorTable": {
+        "title": "缺乏透明度",
+        "features": [
+          {
+            "title": "专有软件",
+            "description": "pCloud不透明，因为它使用闭源软件"
+          },
+          {
+            "title": "信任问题",
+            "description": "用户必须盲目信任pCloud处理他们的数据，而无法验证。"
+          }
+        ]
+      }
+    },
+    "userExpAndFeatures": {
+      "title": "用户体验和功能",
+      "inxtTable": {
+        "title": "现代化用户友好设计",
+        "features": [
+          {
+            "title": "简单界面",
+            "description": "专注于安全和隐私，使用简单。"
+          },
+          {
+            "title": "跨平台",
+            "description": "适用于所有主要平台，包括WebDAV和Rclone。"
+          },
+          {
+            "title": "多种套餐",
+            "description": "Internxt提供家庭、商业和S3对象存储套餐，为企业和开发者提供API访问。"
+          }
+        ]
+      },
+      "competitorTable": {
+        "title": "额外功能但有代价",
+        "features": [
+          {
+            "title": "功能集",
+            "description": "pCloud提供许多功能，但伴随额外费用和隐私问题。"
+          },
+          {
+            "title": "可访问性",
+            "description": "为加密等基本功能额外付费会损害整体体验。"
+          },
+          {
+            "title": "存储选项",
+            "description": "有多种套餐，但没有S3对象存储限制了企业和开发者的可扩展性和云原生使用。"
+          }
+        ]
+      }
+    },
+    "switchToInternxt": {
+      "title": "切换到Internxt，享受更安全、开放且经济的云存储解决方案",
+      "cta": "免费试用Internxt"
+    }
+  },
+  "CtaSection": {
+    "title": "以85%的折扣切换到Internxt",
+    "description": "您需要的唯一云存储，实现完全在线隐私",
+    "cta": "获取Internxt"
+  },
+  "CtaSection2": {
+    "title": "无追踪器。无问题。",
+    "description": "使用Internxt为您的文件获得完全隐私",
+    "cta": "选择方案"
+  },
+  "tableSection": {
+    "title": "Internxt套餐",
+    "hotLabel": "{{discount}}%折扣",
+    "planTitles": {
+      "header": "选择您的套餐"
+    },
+    "billingFrequency": {
+      "annually": "年付",
+      "lifetime": "终身"
+    },
+    "freePlanCard": {
+      "eyeBrow": "免费",
+      "description": "免费获得1GB加密云存储",
+      "cta": "选择套餐"
+    },
+    "features": {
+      "openSource": "开源且经过验证",
+      "premiumSupport": "高级客户支持",
+      "guarantee": "30天满意保证或退款"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "HorizontalScrollableSection": {
+    "title": "pCloud安全吗？",
+    "description": "pCloud的闭源加密使其安全有效性难以验证，引发了对您文件访问权限的担忧。",
+    "scrollableSection": {
+      "titles": ["可疑邮件", "加密", "内容扫描", "追踪器"],
+      "descriptions": [
+        "许多pCloud用户收到了来自诈骗者的钓鱼邮件。黑客如何获得这些邮件地址尚不清楚，但pCloud否认数据泄露。",
+        "零知识加密需要额外付费购买pCloud Crypto。没有它的所有用户保护明显较弱。没有这种额外加密，pCloud可以扫描和访问用户文件。",
+        "许多pCloud用户报告他们的账户因涉嫌商标违规或非法内容而被不公正地终止和关闭，且没有事先通知。",
+        "pCloud在其网站上使用追踪器（Facebook、Twitter、TikTok）收集您的数据，增加隐私泄露和不受欢迎营销的风险"
+      ]
+    }
+  },
+  "HorizontalScrollableSectionV2": {
+    "title": "为什么选择Internxt作为pCloud的替代方案？",
+    "description": "了解Internxt的功能，了解我们为什么是比pCloud更安全和私密的替代方案",
+    "scrollableSection": {
+      "titles": ["开源且透明", "安全验证", "零数据追踪", "GDPR合规", "先进加密", "灵活存储套餐"],
+      "descriptions": [
+        "Internxt是pCloud的开源替代方案，我们所有产品和服务的代码都在GitHub上可用。我们对数据安全的承诺确保您的数据如何处理和保护的透明度。",
+        "Internxt的服务已经过欧洲领先渗透测试公司的安全专家审查。这确保您的数据对黑客和数据泄露等外部威胁保持安全。",
+        "如果您不希望您的数据被追踪以显示个性化广告，那么Internxt是比pCloud更私密的替代方案。我们在网站上不使用任何可能检查、监控或从您的浏览中获利的追踪器。",
+        "Internxt以完全透明的方式运营，确保您的数据隐私受到欧洲法律的保护。我们的GDPR合规确保您的信息得到安全处理并符合严格的规定。",
+        "Internxt包含后量子加密，这是免费和付费账户可用的最安全和先进的加密。我们只存储您数据的加密版本，只有您拥有解密和访问的密钥。",
+        "Internxt Drive比pCloud的定价结构提供更多付费套餐和更多存储选项。如果您需要提供年付和终身套餐的pCloud替代方案，请从我们包含VPN、杀毒软件、Mail、Meet等的实惠套餐中选择。"
+      ]
+    }
+  },
+  "FaqSection": {
+    "title": "有问题？我们有答案",
+    "faq": [
+      {
+        "question": "Internxt是比pCloud更安全和私密的替代方案吗？",
+        "answer": [
+          "是的，Internxt提供更先进的功能来保护您的数据，而无需为此额外付费。后量子和零知识加密确保除了您之外没有人可以看到您的文件。",
+          "VPN、杀毒软件、设备清理器、暗网监控、Meet和Mail等附加功能（pCloud目前不提供这些功能）也为您提供额外的保护，防止黑客和数据泄露。"
+        ]
+      },
+      {
+        "question": "什么是后量子加密，它更安全吗？",
+        "answer": [
+          "与标准加密不同，后量子加密算法专为抵御强大的量子攻击而构建，使PQE成为比pCloud更安全的替代方案。",
+          "这种加密方法被Internxt使用，以确保您的终身云存储套餐保护您免受未来的网络安全威胁，并且所有套餐都可使用，无需额外费用。"
+        ]
+      },
+      {
+        "question": "Internxt总部在哪里？",
+        "answer": [
+          "Internxt总部位于西班牙瓦伦西亚，使其成为符合GDPR的云存储解决方案，遵循严格的法律确保您的数据和隐私得到保护。"
+        ]
+      },
+      {
+        "question": "pCloud的价格比Internxt更贵吗？",
+        "answer": [
+          "凭借您专享的85%折扣，我们所有套餐都比pCloud目前提供的定价选项更便宜，优势是提供比pCloud更多的功能和隐私。"
+        ]
+      },
+      {
+        "question": "如何联系支持？",
+        "answer": [
+          "如果您有其他问题、请求或需要帮助，可以联系hello@internxt.com，我们的客户成功团队很乐意为您提供帮助。"
+        ]
+      },
+      {
+        "question": "我可以向终身套餐添加更多存储空间吗？",
+        "answer": ["是的，如果您需要添加更多存储空间，可以从Internxt账户设置中升级您的套餐。"]
+      },
+      {
+        "question": "我可以用信用卡、PayPal或加密货币付款吗？",
+        "answer": [
+          "Internxt目前接受借记卡和信用卡（Mastercard、VISA、American Express等）。您还可以通过PayPal、iDEAL、Sofort和加密货币付款。"
+        ]
+      }
+    ]
+  }
+}

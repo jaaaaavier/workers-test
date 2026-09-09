@@ -1,0 +1,203 @@
+{
+  "HeroSection": {
+    "products": {
+      "drive": "Drive",
+      "antivirus": "Antivirus",
+      "cleaner": "Cleaner",
+      "vpn": "VPN",
+      "meet": "Meet",
+      "mail": "Mail",
+      "ai": "AI"
+    },
+    "title": "Almacenamiento en la nube de por vida **por menos**",
+    "valentinesTitle": "El amor merece **privacidad**",
+    "description": "Almacenamiento en la nube cifrado de por vida por menos. Consigue hoy tu descuento especial. Accede a la galardonada suite de privacidad de Internxt con almacenamiento en la nube cifrado post-cuántico y mucho más.",
+    "subtitle": "Consigue ahora un {{discount}}% de descuento",
+    "claimDeal": "Aprovechar oferta"
+  },
+  "ReviewSection": {
+    "pcMag": "\"Internxt está en mega-oferta, tiene **excelentes reseñas de usuarios**, cifrado de extremo a extremo y **post-cuántico**, y hace su código completamente **de código abierto**.\"",
+    "mashable": "\"Ponte serio a la hora de **proteger** tus datos importantes. Internxt nació con la ambición de dar a las personas verdadera **libertad en línea** creando un mundo digital más **ético**, **seguro**, **privado** y responsable.\"",
+    "pcWorld": "\"El acceso web, la sincronización de archivos y los servicios de copia de seguridad de Internxt son **impresionantes**. Este servicio de **almacenamiento en línea cifrado** es **sencillo** y los planes actuales son una ganga.\""
+  },
+  "TrustedBySection": {
+    "description": "Internxt se trata de tener el control. Con Internxt, tienes la tranquilidad de saber que tus datos están cifrados, protegidos y que tu vida digital te pertenece a ti."
+  },
+  "NextGenSection": {
+    "title": "¿Por qué elegir el almacenamiento en la nube permanente de Internxt?",
+    "description": "Internxt te devuelve el control de tu privacidad. A diferencia del almacenamiento en la nube tradicional, garantizamos que solo tú tienes las claves de tus datos cifrados y no almacenamos ni vendemos tus datos a terceros. Tomamos todas las medidas para asegurar que tu información permanezca segura.",
+    "cta": "Conócenos mejor",
+    "cardDescriptions": {
+      "titles": [
+        "Datos imposibles de hackear o filtrar",
+        "Seguridad de nueva generación",
+        "Código abierto y transparente",
+        "Verificado de forma independiente"
+      ],
+      "descriptions": [
+        "No almacenamos contraseñas ni datos de usuario, y todos tus datos están cifrados en tránsito y en reposo. Internxt te da el control total de tus archivos. Tus datos son asunto tuyo. Protegerlos es asunto nuestro.",
+        "Internxt es el único almacenamiento en la nube que cifra automáticamente tus archivos con criptografía de extremo a extremo y post-cuántica, lo que significa que solo tú puedes acceder a tus datos.",
+        "Estamos orgullosos de lo que hacemos, por eso nuestro código es público en GitHub y cualquiera puede revisarlo, auditarlo y verificarlo personalmente. No tenemos nada que ocultar salvo tus datos.",
+        "Cumplimos plenamente con el RGPD y somos 100% seguros, pero no tienes que creernos solo a nosotros. Internxt ha sido auditado y verificado de forma independiente por Securitum, la principal empresa de pruebas de penetración de Europa."
+      ]
+    }
+  },
+  "ctaSection": {
+    "titleWithoutDiscount": "Suite completa de privacidad digital",
+    "title": "Almacenamiento en la nube con un único pago",
+    "description": "Obtén tranquilidad con este descuento exclusivo. Privacidad y seguridad totales.",
+    "cta": "Aceptar invitación"
+  },
+  "ctaSection2": {
+    "title": "Entre los planes de por vida de Internxt: ¿cuál debería elegir? ¿1TB, 3TB o 5TB?",
+    "description": "Todos nuestros planes te dan todo lo que necesitas para almacenar tus archivos de forma privada en la nube. Si quieres privacidad completa, gestión avanzada de la nube y todas las funciones de Internxt, como Meet y Mail, el plan Ultimate de 5TB es la mejor opción para un control total y máxima privacidad.",
+    "descriptionWithoutDisocunt": "Vive la privacidad digital completa con Internxt",
+    "cta": "Elegir plan"
+  },
+  "tableSection": {
+    "title": "Planes de Internxt",
+    "valentinesTitle": "Amor seguro - ",
+    "hotLabel": "{{discount}}% de descuento",
+    "planTitles": {
+      "header": "Selecciona tu plan de por vida",
+      "individuals": "Planes anuales",
+      "homePage": "Elige el plan adecuado para ti",
+      "lifetime": "Planes de por vida",
+      "business": "Planes para empresas",
+      "lifetimeCampaign": {
+        "blueText": "50% de descuento",
+        "normalText": "en todos nuestros planes exclusivos de por vida"
+      }
+    },
+    "lifetimeDescription": "Paga una vez y disfruta de privacidad y seguridad de por vida",
+    "planDescription": "Todos los planes de Internxt incluyen todas las funciones con acceso completo a nuestra galardonada suite de privacidad, formada por Internxt Drive, Send, VPN, Antivirus, Cleaner, Meet y Mail.",
+    "businessDescription": "Actualmente estamos trabajando en nuevos planes de Internxt diseñados exclusivamente para defender tu negocio, proteger a tus empleados y asegurar tu rentabilidad.",
+    "businessDescription2": "Garantiza la seguridad de los datos de tu empresa con los planes de almacenamiento en la nube cifrado de Internxt.",
+    "billingFrequency": {
+      "monthly": "Mensual",
+      "annually": "Anual",
+      "lifetime": "De por vida",
+      "individual": "Individual",
+      "business": "Empresas"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Gratis",
+      "description": "Consigue 1 GB de almacenamiento en la nube cifrado gratis",
+      "cta": "Seleccionar plan"
+    },
+    "features": {
+      "endToEnd": "Cifrado de extremo a extremo",
+      "openSource": "Código abierto y auditado",
+      "anonymousAccount": "Creación de cuenta anónima",
+      "premiumSupport": "Atención al cliente premium",
+      "guarantee": "Garantía de devolución de 30 días"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "FeaturesSection": {
+    "section1": {
+      "title": {
+        "line1": "Todo tipo de archivos, todo tipo de dispositivos"
+      }
+    },
+    "section2": {
+      "title": {
+        "line1": "Encuentra tus archivos",
+        "line2": "en todos tus",
+        "line3": "dispositivos"
+      },
+      "subtitle": {
+        "line1": "Accede de forma segura a todos tus archivos desde ",
+        "line2": "tu ordenador, smartphone, tablet ",
+        "line3": "o cualquier dispositivo con conexión a ",
+        "line4": "internet mediante la aplicación de ",
+        "line5": "almacenamiento en la nube más segura."
+      }
+    },
+    "section3": {
+      "title": {
+        "line1": "Mantén tus archivos",
+        "line2": "organizados y",
+        "line3": "accesibles desde",
+        "line4": "cualquier lugar"
+      },
+      "subtitle": {
+        "line1": "Internxt Drive te permite organizar tus",
+        "line2": "archivos en carpetas, renombrarlos y filtrar",
+        "line3": "una lista de archivos para encontrar lo que quieres más rápido.",
+        "line4": "Incluso puedes hacer copias de seguridad de las carpetas",
+        "line5": "de tu ordenador para tener siempre los cambios más",
+        "line6": "recientes de tus archivos más importantes",
+        "line7": ""
+      }
+    },
+    "section4": {
+      "title": {
+        "line1": "Comparte tus archivos",
+        "line2": "con facilidad,",
+        "line3": "la seguridad corre de nuestra cuenta"
+      },
+      "subtitle": {
+        "line1": "Internxt Drive se centra en la privacidad y",
+        "line2": "la seguridad, para que tú solo tengas que centrarte en",
+        "line3": "lo que te importa, como compartir archivos",
+        "line4": "con tus compañeros de trabajo o los billetes de avión",
+        "line5": "para tus próximas vacaciones en familia. Tú",
+        "line6": "eliges con quién quieres compartirlos",
+        "line7": "y cuántas veces quieres",
+        "line8": "que se descarguen."
+      }
+    },
+    "section5": {
+      "eyebrow": "NUEVA FUNCIÓN",
+      "title": {
+        "line1": "Haz copias de seguridad de lo que",
+        "line2": "te importa"
+      },
+      "subtitle": {
+        "line1": "Ahora puedes mantener el último borrador",
+        "line2": "de ese proyecto tan importante",
+        "line3": "o del trabajo de la universidad en el que estás",
+        "line4": "trabajando, seguro y actualizado en tu",
+        "line5": "Internxt Drive."
+      }
+    },
+    "section6": {
+      "title": {
+        "line1": "Sincroniza tus archivos con total privacidad",
+        "line2": ""
+      }
+    },
+    "section7": {
+      "title": {
+        "line1": "Mantén tus archivos seguros",
+        "line2": "y privados"
+      },
+      "subtitle": {
+        "line1": "La privacidad y la seguridad son el eje de todo lo que hacemos; no basamos nuestro negocio en los datos ni en la",
+        "line2": "publicidad, sino en la confianza. Respetamos tus derechos y creamos herramientas increíbles en torno a ellos, no en su contra."
+      },
+      "cta": "Nuestro compromiso con la privacidad",
+      "card1": {
+        "title": "Seguridad de nueva generación",
+        "subtitle": "Internxt Drive protege tus archivos usando criptografía de extremo a extremo y post-cuántica. Somos el primer servicio de almacenamiento en la nube que protege los datos frente a las futuras amenazas de los ordenadores cuánticos."
+      },
+      "card2": {
+        "title": "Tecnología de conocimiento cero",
+        "subtitle": "Nunca almacenamos ni transmitimos archivos, contraseñas de usuario ni claves de cifrado sin cifrar o sin hashear."
+      },
+      "card3": {
+        "title": "Privacidad por diseño",
+        "subtitle": "Desarrollamos nuestros productos pensando en el usuario, y su privacidad es imprescindible en el mundo impulsado por los datos en el que vivimos."
+      },
+      "card4": {
+        "title": "Código abierto y transparente",
+        "subtitle": "Estamos orgullosos de lo que hacemos, por eso nuestro código es público en GitHub y cualquiera puede revisarlo, auditarlo y verificarlo personalmente. No tenemos nada que ocultar salvo tus datos."
+      }
+    }
+  }
+}

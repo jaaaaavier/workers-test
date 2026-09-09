@@ -1,0 +1,464 @@
+{
+  "tableSection": {
+    "title": "Internxt Plans",
+    "hotLabel": "{{discount}}% off",
+    "planTitles": {
+      "header": "Cloud storage pricing",
+      "individuals": "Individuals",
+      "lifetime": "Lifetime Plans",
+      "business": "Business Plans"
+    },
+    "lifetimeDescription": "Pay once and get privacy and security forever.",
+    "planDescription": "All Internxt plans are fully featured with complete access to our award-winning privacy suite consisting of Internxt Drive, Send, VPN, Antivirus, Cleaner, Meet, and Mail.",
+    "businessDescription": "We’re currently working on new Internxt plans designed exclusively to defend your business, protect your employees, and secure your bottom line.",
+    "businessDescription2": "Ensure business data security with Internxt's encrypted cloud storage plans.",
+    "billingFrequency": {
+      "monthly": "Monthly",
+      "annually": "Annual",
+      "individual": "Individual",
+      "lifetime": "Lifetime",
+      "business": "Business"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Free",
+      "description": "Get 1GB of encrypted cloud storage for free",
+      "mobileDescription": "Get up to 1GB of encrypted cloud storage and enjoy our private ecosystem",
+      "cta": "Select plan"
+    },
+    "features": {
+      "endToEnd": "End-to-end encrypted",
+      "openSource": "Open-source and audited",
+      "anonymousAccount": "Anonymous account creation",
+      "premiumSupport": "Premium customer support",
+      "guarantee": "30-day money-back guarantee"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    },
+    "ctaCompare": "Compare plans"
+  },
+  "ComparisonTable": {
+    "title": "Cloud storage pricing comparison",
+    "cta": "Get started",
+    "billedAnnualy": "Billed annually",
+    "billedOnce": "One-time payment",
+    "plans": [
+      { "id": "Essential", "name": "Essential", "order": 0 },
+      { "id": "Premium", "name": "Premium", "order": 1 },
+      { "id": "Ultimate", "name": "Ultimate", "order": 2 }
+    ],
+    "categories": [
+      {
+        "name": "Storage",
+        "hideIcons": true,
+        "features": [
+          {
+            "id": "storage_Essential",
+            "name": "1TB",
+            "avalability": { "Essential": true, "Premium": false, "Ultimate": false }
+          },
+          {
+            "id": "storage_Premium",
+            "name": "3TB",
+            "avalability": { "Essential": false, "Premium": true, "Ultimate": false }
+          },
+          {
+            "id": "storage_Ultimate",
+            "name": "5TB",
+            "avalability": { "Essential": false, "Premium": false, "Ultimate": true }
+          }
+        ]
+      },
+      {
+        "name": "Apps and accessibility",
+        "features": [
+          {
+            "id": "linux_windows_macos_app",
+            "name": "Linux, Windows and macOS app",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "android_ios_app",
+            "name": "iOS and Android apps",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "web_app",
+            "name": "Web app",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          }
+        ]
+      },
+      {
+        "name": "Privacy and security",
+        "features": [
+          {
+            "id": "zero_knowledge_architecture",
+            "name": "Zero-knowledge encryption",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "post_quantum_encryption",
+            "name": "Post-quantum encryption",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "gdpr_compliance",
+            "name": "GDPR compliance",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "hipaa_compliance",
+            "name": "HIPAA compliance",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "iso27001_compliance",
+            "name": "ISO 27001 compliance",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "soc2_compliance",
+            "name": "SOC 2 compliance",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "Two_factor_authentication",
+            "name": "Two-factor authentication (2FA)",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "pentesting_audited",
+            "name": "Pentested & Audited",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          }
+        ]
+      },
+      {
+        "name": "VPN",
+        "features": [
+          {
+            "id": "vpn_Essential",
+            "name": "France",
+            "avalability": { "Essential": true, "Premium": false, "Ultimate": false }
+          },
+          {
+            "id": "vpn_Premium",
+            "name": "France, Germany, Poland",
+            "avalability": { "Essential": false, "Premium": true, "Ultimate": false }
+          },
+          {
+            "id": "vpn_Ultimate",
+            "name": "France, Germany, Poland, Canada, UK",
+            "avalability": { "Essential": false, "Premium": false, "Ultimate": true }
+          }
+        ]
+      },
+      {
+        "name": "Support and Service",
+        "features": [
+          {
+            "id": "premium_customer_support",
+            "name": "Premium Customer Support",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          }
+        ]
+      },
+      {
+        "name": "Advanced tools",
+        "features": [
+          {
+            "id": "antivirus",
+            "name": "Antivirus",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "File_backups",
+            "name": "File backups",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "Password-protected-sharing",
+            "name": "Password-protected sharing",
+            "avalability": { "Essential": true, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "file_size_limit_essential",
+            "name": "File size limit 10GB per file",
+            "group": "file_size_limit",
+            "avalability": { "Essential": true, "Premium": false, "Ultimate": false }
+          },
+          {
+            "id": "file_size_limit_premium",
+            "name": "File size limit 50GB per file",
+            "group": "file_size_limit",
+            "avalability": { "Essential": false, "Premium": true, "Ultimate": false }
+          },
+          {
+            "id": "file_size_limit_ultimate",
+            "name": "File size limit 100GB per file",
+            "group": "file_size_limit",
+            "avalability": { "Essential": false, "Premium": false, "Ultimate": true }
+          },
+          {
+            "id": "trash_retention_essential",
+            "name": "Trash retention period of 7 days",
+            "group": "trash_retention",
+            "avalability": { "Essential": true, "Premium": false, "Ultimate": false }
+          },
+          {
+            "id": "trash_retention_premium",
+            "name": "Trash retention period of  14 days",
+            "group": "trash_retention",
+            "avalability": { "Essential": false, "Premium": true, "Ultimate": false }
+          },
+          {
+            "id": "trash_retention_ultimate",
+            "name": "Trash retention period of 30 days",
+            "group": "trash_retention",
+            "avalability": { "Essential": false, "Premium": false, "Ultimate": true }
+          },
+          {
+            "id": "Invite_share_&_collaborate",
+            "name": "Invite, share & collaborate",
+            "avalability": { "Essential": false, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "Cleaner",
+            "name": "Cleaner",
+            "avalability": { "Essential": false, "Premium": true, "Ultimate": true }
+          },
+          {
+            "id": "file_versioning",
+            "name": "File Versioning",
+            "avalability": { "Essential": false, "Premium": true, "Ultimate": true }
+          },
+          { "id": "meet", "name": "Meet", "avalability": { "Essential": false, "Premium": true, "Ultimate": true } },
+          {
+            "id": "cli_webdav_support",
+            "name": "CLI & WebDAV support",
+            "avalability": { "Essential": false, "Premium": false, "Ultimate": true }
+          },
+          {
+            "id": "NAS_&_Rclone_support",
+            "name": "NAS & Rclone support",
+            "avalability": { "Essential": false, "Premium": false, "Ultimate": true }
+          },
+          {
+            "id": "photos",
+            "name": "Photos",
+            "avalability": { "Essential": false, "Premium": false, "Ultimate": true }
+          },
+          {
+            "id": "mail",
+            "name": "Mail",
+            "avalability": { "Essential": false, "Premium": false, "Ultimate": true }
+          }
+        ]
+      },
+      {
+        "name": "Comming soon",
+        "features": []
+      }
+    ]
+  },
+  "FaqSection": {
+    "title": "Questions? We have answers",
+    "faq": [
+      {
+        "question": "Can Internxt access my files?",
+        "answer": [
+          "No. Internxt, along with any other third-party, cannot access your files, photos, or data.",
+          " Internxt services feature zero-knowledge encryption, meaning that only you can truly access your private data. Additionally, Internxt's architecture fragments your files before encrypting them, so a server never holds a whole file, just an encrypted shard of it instead, which only you can decrypt."
+        ]
+      },
+      {
+        "question": "Does Internxt store my password?",
+        "answer": [
+          "No. As such, Internxt does not (and cannot) store your password.",
+          "Your Internxt password is unique to you and used to encrypt and decrypt your Internxt data. But if you want to change your password, you can do so from our app."
+        ]
+      },
+      {
+        "question": "Can I enable 2FA?",
+        "answer": [
+          "Yes. You can configure two-factor Authentication for your account through the Internxt web app.",
+          "You can use Authy or any other 2FA tools to generate a personal 2FA code with Internxt."
+        ]
+      },
+      {
+        "question": "How do I create an Internxt account?",
+        "answer": [
+          "To create a free Internxt account, simply click the best plan above and follow the instructions.",
+          "Or head to our homepage and click on “Get started”. There, you will instantly get 1GB of free storage for life with a free Internxt membership. You can use your free membership across all our services. To sign up, simply enter a name and email address. No identity nor email verification is required to start using Internxt's services."
+        ]
+      },
+      {
+        "question": "Can I pay with Card, PayPal, or Crypto?",
+        "answer": [
+          "Internxt currently accepts debit and credit cards (Mastercard, VISA, American Express, etc). You can also pay via PayPal, Crypto, Klarna, and others."
+        ]
+      },
+      {
+        "question": "What is Internxt’s refund policy?",
+        "answer": [
+          "All paid subscriptions include a 30-day money-back guarantee starting from the date of purchase.",
+          "If for any reason you are not fully satisfied within those first 30 days, just reach out to [hello@internxt.com](mailto:hello@internxt.com) and we will process your refund."
+        ]
+      },
+      {
+        "question": "How can I cancel my subscription?",
+        "answer": [
+          "Canceling your subscription is very straightforward and can be done easily through the Internxt app, by going into settings and deleting your account. This will terminate your subscription and your account.",
+          "If you would like to cancel a paid plan and remain with our free service, you can email us at [hello@internxt.com](mailto:hello@internxt.com) and we’ll process the subscription cancellation so that you can keep your account live on our free plan."
+        ]
+      },
+      {
+        "question": "How do I contact support?",
+        "answer": [
+          "Can't find what you're looking for? You can contact our Customer Success team via live chat or by sending an email to [hello@internxt.com](mailto:hello@internxt.com)."
+        ]
+      },
+      {
+        "question": "What are Internxt lifetime plans?",
+        "answer": [
+          "We offer lifetime plans which you can purchase from our website. These grant you lifetime access to our plans, for unique, one-time payment.  Enjoy up to 5TB of storage for life with a unique, one-time payment."
+        ]
+      },
+      {
+        "question": "Can I add more storage to my lifetime plan?",
+        "answer": [
+          "Yes, you can add up to 100 TB of storage to your Internxt lifetime membership. Internxt lifetime plans are stackable. Simply purchase them with the same email address and the storage will be added to your account automatically."
+        ]
+      },
+      {
+        "question": "Can I split my lifetime payment?",
+        "answer": [
+          "Yes you can now split your lifetime payments in multiple interest-free installments using Klarna. Enjoy a lifetime plan with the ease of paying for it in easy installments!"
+        ]
+      }
+    ]
+  },
+  "FaqSectionForBusiness": {
+    "title": "Questions? We have answers",
+    "faq": [
+      {
+        "question": "What is Internxt for business?",
+        "answer": [
+          "Our cloud storage for businesses provides companies of all sizes with a secure cloud storage solution that protects business files against data breaches. Business plans include access to Internxt Drive, VPN, and Send, as well as our upcoming new products, Internxt Mail and Meet."
+        ]
+      },
+      {
+        "question": "Is Internxt the right cloud storage for my business?",
+        "answer": [
+          "Internxt is built for everyone, including businesses of any size looking for a secure cloud storage solution that keeps personal and confidential information private.",
+          "Our encrypted suite of products includes the highest industry security standards for companies who need to share files or folders without worrying about data leaks."
+        ]
+      },
+      {
+        "question": "Is Internxt more secure than other cloud storage services?",
+        "answer": [
+          "Unlike Big Tech companies, Internxt is trusted to provide secure file storage for business because your business data is encrypted on your device for maximum security.",
+          "To prevent the threat of data breaches, Internxt provides additional security measures, including encrypted file sharing, Two-Factor authentication, Password Generator, and more."
+        ]
+      },
+      {
+        "question": "What if I reach my plan’s storage limit?",
+        "answer": [
+          "Our plans are fully flexible to meet your business needs. You can easily add more users or upgrade your storage capacity as required, ensuring scalability and cost-efficiency."
+        ]
+      },
+      {
+        "question": "What level of technical support do you provide?",
+        "answer": [
+          "We have a dedicated customer support team that can answer any questions or concerns or provide additional information based on your needs. You can visit our help center or contact us at [hello@internxt.com](mailto:hello@internxt.com), and our team will be happy to assist you."
+        ]
+      }
+    ]
+  },
+  "SchemaMarkupQuestions": {
+    "faq": [
+      {
+        "question": "What are Internxt lifetime plans?",
+        "answer": [
+          "We offer lifetime plans which you can purchase from our website. These grant you lifetime access to our plans, for unique, one-time payment.  Enjoy up to 5TB of storage for life with a unique, one-time payment."
+        ]
+      },
+      {
+        "question": "Can I add more storage to my lifetime plan?",
+        "answer": [
+          "Yes, you can add up to 100 TB of storage to your Internxt lifetime membership. Internxt lifetime plans are stackable. Simply purchase them with the same email address and the storage will be added to your account automatically."
+        ]
+      }
+    ]
+  },
+
+  "InfoSectionForBusiness": {
+    "title": "What can you do with Internxt?",
+    "description": "Optimize your organization's file management, security, and privacy with our secure cloud storage for business.",
+    "cta": "",
+    "cards": [
+      {
+        "title": "Manage your organization",
+        "description": "Internxt empowers businesses with streamlined user and team management, flexible storage allocation, and customizable workspaces. Easily switch between business and personal tasks to optimize productivity and organization."
+      },
+      {
+        "title": "Securely send confidential files",
+        "description": "Secure cloud storage includes secure file-sharing features to collaborate safely in teams. Password-protect and restrict file access to send confidential files with partners, ensuring you maintain control over their security."
+      },
+      {
+        "title": "Backup what's important",
+        "description": "Back up your files to prevent data loss. Plus, Internxt stores and backs up the same copy of your files across different EU servers for additional security, making it the most secure cloud backup for your business. "
+      },
+      {
+        "title": "Work with your team from anywhere",
+        "description": "Available for Windows, Mac, Linux, iOS, Android, and Web. Access your files on any device, anytime, ensuring you and your team can work securely wherever you are."
+      }
+    ]
+  },
+  "InfoSection": {
+    "title": "Best cloud storage pricing",
+    "description": "What makes Internxt so special? We’re a tight-knit team of professionals completely dedicated to protecting you online. Everything we do and every decision we make is centered on protecting your data from being exploited.",
+    "cta": "Internxt’s commitment to privacy",
+    "scrollableSection": {
+      "titles": [
+        "Private by design",
+        "Uncompromising security",
+        "Open source and transparent",
+        "Independently verified"
+      ],
+      "descriptions": [
+        "We don’t store passwords or user data and all of your data is encrypted in-transit and at-rest. Internxt puts you in full control of your files. Your data is your business. Protecting it is ours.",
+        "Your files are end-to-end encrypted before ever leaving your device. Thanks to zero-knowledge AES-256 encryption, you are the absolutely only one with access to your data.",
+        "We are proud of what we do, so our code is made public on GitHub and can be personally reviewed, audited, and verified by anyone. We have nothing to hide but your data.",
+        "We’re wholly GDPR compliant and 100% safe, but don’t take our word for it. Internxt has been independently audited and verified by Europe’s leading penetration testing company, Securitum."
+      ]
+    }
+  },
+  "BestStorageSection": {
+    "title": "Built for the future",
+    "description": "We want to build a better World Wide Web, one that’s fair, safe, and equitable for all. The battle is raging for the future of internet privacy, and we’re at the frontline.",
+    "card1": {
+      "title": "Cancel anytime"
+    },
+    "card2": {
+      "title": "Post-quantum encryption"
+    },
+    "card3": {
+      "title": "Sustainable energy sources"
+    },
+    "card4": {
+      "title": "Open source"
+    },
+    "card5": {
+      "title": "Independently verified"
+    }
+  },
+  "lastCtaSection": {
+    "title": "Personal cloud storage pricing",
+    "description": "Protect the really important stuff with Internxt's secure, private, and encrypted cloud storage.",
+    "cta": "Select a plan now"
+  }
+}

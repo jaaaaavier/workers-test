@@ -1,0 +1,318 @@
+{
+  "mostPopular": "推薦",
+  "perUserSlash": "/使用者",
+  "perYear": "/年",
+  "perMonth": "/月",
+  "cta": "選擇方案",
+  "gifts": {
+    "line1": "參與我們的聖誕抽獎",
+    "outCard": "*可在 Amazon、Apple 等平台兌換 ",
+    "prices": {
+      "essentials": "有機會贏取 100 歐元禮品卡*",
+      "standard": "標準",
+      "premium": "有機會贏取 300 歐元禮品卡*",
+      "ultimate": "有機會贏取 1000 歐元禮品卡*"
+    }
+  },
+  "renewsInfo": "年度計劃，首月費用為 {{priceNow}}，之後按 {{price}}/月續訂",
+  "productFeatures": {
+    "planTypes": {
+      "essentials": "基本",
+      "standard": "標準",
+      "premium": "進階",
+      "ultimate": "旗艦",
+      "pro": "專業版",
+      "family": {
+        "1TB": "家庭基本版",
+        "2TB": "家庭進階版"
+      }
+    },
+    "comingSoonLabel": "即將推出",
+    "individualPlans": {
+      "1TB": [
+        {
+          "name": "**1TB** 加密儲存空間",
+          "status": "available"
+        },
+        {
+          "name": "30 天無風險試用",
+          "status": "available"
+        },
+        {
+          "name": "後量子密碼技術",
+          "status": "available"
+        },
+        {
+          "name": "零知識加密",
+          "status": "available"
+        },
+        {
+          "name": "雙重身份驗證",
+          "status": "available"
+        },
+        {
+          "name": "電腦備份",
+          "status": "available"
+        },
+        {
+          "name": "密碼保護的檔案共享",
+          "status": "available"
+        },
+        {
+          "name": "加密 VPN",
+          "status": "available"
+        },
+        {
+          "name": "防毒軟體",
+          "status": "available"
+        }
+      ],
+      "3TB": [
+        {
+          "name": "**3TB** 加密儲存空間",
+          "status": "available"
+        },
+        {
+          "name": "30 天無風險試用",
+          "status": "available"
+        },
+        {
+          "name": "後量子密碼技術",
+          "status": "available"
+        },
+        {
+          "name": "零知識加密",
+          "status": "available"
+        },
+        {
+          "name": "雙重身份驗證",
+          "status": "available"
+        },
+        {
+          "name": "電腦備份",
+          "status": "available"
+        },
+        {
+          "name": "密碼保護的檔案共享",
+          "status": "available"
+        },
+        {
+          "name": "邀請、共享和協作",
+          "status": "available"
+        },
+        {
+          "name": "檔案版本控制",
+          "status": "available"
+        },
+        {
+          "name": "加密 VPN",
+          "status": "available"
+        },
+        {
+          "name": "防毒軟體",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        }
+      ],
+      "5TB": [
+        {
+          "name": "**5TB** 加密儲存空間",
+          "status": "available"
+        },
+        {
+          "name": "30 天無風險試用",
+          "status": "available"
+        },
+        {
+          "name": "後量子密碼技術",
+          "status": "available"
+        },
+        {
+          "name": "零知識加密",
+          "status": "available"
+        },
+        {
+          "name": "雙重身份驗證",
+          "status": "available"
+        },
+        {
+          "name": "電腦備份",
+          "status": "available"
+        },
+        {
+          "name": "密碼保護的檔案共享",
+          "status": "available"
+        },
+        {
+          "name": "邀請、共享和協作",
+          "status": "available"
+        },
+        {
+          "name": "檔案版本控制",
+          "status": "available"
+        },
+        {
+          "name": "照片",
+          "status": "available"
+        },
+        {
+          "name": "支援 CLI 和 WebDav",
+          "status": "available"
+        },
+        {
+          "name": "支援 NAS 和 Rclone",
+          "status": "available"
+        },
+        {
+          "name": "加密 VPN",
+          "status": "available"
+        },
+        {
+          "name": "防毒軟體",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        },
+        {
+          "name": "Mail",
+          "status": "available"
+        }
+      ]
+    },
+    "business": {
+      "1TB": [
+        {
+          "name": "每使用者 **1TB** 加密儲存空間",
+          "status": "available"
+        },
+        {
+          "name": "後量子密碼技術",
+          "status": "available"
+        },
+        {
+          "name": "零知識加密",
+          "status": "available"
+        },
+        {
+          "name": "雙重身份驗證",
+          "status": "available"
+        },
+        {
+          "name": "電腦備份",
+          "status": "available"
+        },
+        {
+          "name": "密碼保護的檔案共享",
+          "status": "available"
+        },
+        {
+          "name": "邀請、共享和協作",
+          "status": "available"
+        },
+        {
+          "name": "符合 GDPR 規範",
+          "status": "available"
+        },
+        {
+          "name": "CLI 和 WebDav",
+          "status": "available"
+        },
+        {
+          "name": "組織管理",
+          "status": "available"
+        },
+        {
+          "name": "加密 VPN",
+          "status": "available"
+        },
+        {
+          "name": "防毒軟體",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        }
+      ],
+      "2TB": [
+        {
+          "name": "每使用者 **2TB** 加密儲存空間",
+          "status": "available"
+        },
+        {
+          "name": "後量子密碼技術",
+          "status": "available"
+        },
+        {
+          "name": "零知識加密",
+          "status": "available"
+        },
+        {
+          "name": "雙重身份驗證",
+          "status": "available"
+        },
+        {
+          "name": "電腦備份",
+          "status": "available"
+        },
+        {
+          "name": "密碼保護的檔案共享",
+          "status": "available"
+        },
+        {
+          "name": "邀請、共享和協作",
+          "status": "available"
+        },
+        {
+          "name": "符合 GDPR 規範",
+          "status": "available"
+        },
+        {
+          "name": "支援 CLI、WebDav、Rclone 和 NAS",
+          "status": "available"
+        },
+        {
+          "name": "組織管理",
+          "status": "available"
+        },
+        {
+          "name": "加密 VPN",
+          "status": "available"
+        },
+        {
+          "name": "防毒軟體",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        },
+        {
+          "name": "檔案版本控制",
+          "status": "available"
+        },
+        {
+          "name": "Mail",
+          "status": "available"
+        }
+      ]
+    }
+  }
+}

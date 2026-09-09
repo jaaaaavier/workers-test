@@ -1,0 +1,55 @@
+{
+  "title": {
+    "text1": "Más herramientas ",
+    "blueText": "gratuitas ",
+    "text2": "de seguridad en línea"
+  },
+  "free": "Gratis",
+  "toolsCard": [
+    {
+      "title": "Generador de Contraseñas",
+      "cta": "Generar ahora",
+      "pathname": "/password-generator"
+    },
+    {
+      "title": "Comprobador de Contraseñas",
+      "cta": "Comprobar ahora",
+      "pathname": "/password-checker"
+    },
+    {
+      "title": "Convertidor de Unidades",
+      "cta": "Convertir ahora",
+      "pathname": "/byte-converter"
+    },
+    {
+      "title": "Correo Electrónico Temporal",
+      "cta": "Enviar ahora",
+      "pathname": "/temporary-email"
+    },
+    {
+      "title": "Escáner de Virus",
+      "cta": "Escanear ahora",
+      "pathname": "/virus-scanner"
+    },
+    {
+      "title": "Convertidor de archivos",
+      "cta": "Convertir ahora",
+      "pathname": "/file-converter"
+    },
+    {
+      "title": "Extensión de VPN para Chrome",
+      "cta": "Descargar ahora",
+      "pathname": "/vpn"
+    },
+    {
+      "title": "Eliminador de Metadatos",
+      "cta": "Eliminar ahora",
+      "pathname": "/metadata-remover"
+    },
+    {
+      "title": "Detector de IA",
+      "cta": "Comprobar ahora",
+      "pathname": "/ai-detector"
+    }
+  ]
+}

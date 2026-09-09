@@ -1,0 +1,318 @@
+{
+  "mostPopular": "Empfohlen",
+  "perUserSlash": "/benutzer",
+  "perYear": "/Jahr",
+  "perMonth": "/Monat",
+  "cta": "Plan auswählen",
+  "gifts": {
+    "line1": "Jetzt teilnehmen!",
+    "outCard": "Geschenkkarte (Amazon, Apple...) oder Visa-Prepaid gewinnen.",
+    "prices": {
+      "essentials": "100€ Geschenkkarte gewinnen",
+      "standard": "Standard",
+      "premium": "300€ Geschenkkarte gewinnen",
+      "ultimate": "1.000€ Geschenkkarte gewinnen"
+    }
+  },
+  "renewsInfo": "Jahresplan, im ersten Monat mit {{priceNow}} berechnet, danach Erneuerung zu {{price}}/Monat",
+  "productFeatures": {
+    "planTypes": {
+      "essentials": "Essential",
+      "standard": "Standard",
+      "premium": "Premium",
+      "ultimate": "Ultimate",
+      "pro": "Pro",
+      "family": {
+        "1TB": "Family Essential",
+        "2TB": "Family Premium"
+      }
+    },
+    "comingSoonLabel": "Demnächst verfügbar",
+    "individualPlans": {
+      "1TB": [
+        {
+          "name": "**1TB** verschlüsselter Speicher",
+          "status": "available"
+        },
+        {
+          "name": "Kostenloser Test für 30 Tage",
+          "status": "available"
+        },
+        {
+          "name": "Post-Quanten-Kryptographie",
+          "status": "available"
+        },
+        {
+          "name": "Zero-Knowledge-Verschlüsselung",
+          "status": "available"
+        },
+        {
+          "name": "Zwei-Faktor-Authentifizierung",
+          "status": "available"
+        },
+        {
+          "name": "Sicherung Ihres Computers",
+          "status": "available"
+        },
+        {
+          "name": "Passwortgeschütztes Teilen von Dateien",
+          "status": "available"
+        },
+        {
+          "name": "Verschlüsseltes VPN",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        }
+      ],
+      "3TB": [
+        {
+          "name": "**3TB** verschlüsselter Speicher",
+          "status": "available"
+        },
+        {
+          "name": "Kostenloser Test für 30 Tage",
+          "status": "available"
+        },
+        {
+          "name": "Post-Quanten-Kryptographie",
+          "status": "available"
+        },
+        {
+          "name": "Zero-Knowledge-Verschlüsselung",
+          "status": "available"
+        },
+        {
+          "name": "Zwei-Faktor-Authentifizierung",
+          "status": "available"
+        },
+        {
+          "name": "Sicherung Ihres Computers",
+          "status": "available"
+        },
+        {
+          "name": "Passwortgeschütztes Teilen von Dateien",
+          "status": "available"
+        },
+        {
+          "name": "Einladen, teilen und zusammenarbeiten",
+          "status": "available"
+        },
+        {
+          "name": "Dateiversionierung",
+          "status": "available"
+        },
+        {
+          "name": "Verschlüsseltes VPN",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        }
+      ],
+      "5TB": [
+        {
+          "name": "**5TB** verschlüsselter Speicher",
+          "status": "available"
+        },
+        {
+          "name": "Kostenloser Test für 30 Tage",
+          "status": "available"
+        },
+        {
+          "name": "Post-Quanten-Kryptographie",
+          "status": "available"
+        },
+        {
+          "name": "Zero-Knowledge-Verschlüsselung",
+          "status": "available"
+        },
+        {
+          "name": "Zwei-Faktor-Authentifizierung",
+          "status": "available"
+        },
+        {
+          "name": "Sicherung Ihres Computers",
+          "status": "available"
+        },
+        {
+          "name": "Passwortgeschütztes Teilen von Dateien",
+          "status": "available"
+        },
+        {
+          "name": "Einladen, teilen und zusammenarbeiten",
+          "status": "available"
+        },
+        {
+          "name": "Dateiversionierung",
+          "status": "available"
+        },
+        {
+          "name": "Fotos",
+          "status": "available"
+        },
+        {
+          "name": "CLI- und WebDav-Unterstützung",
+          "status": "available"
+        },
+        {
+          "name": "NAS- und Rclone-Unterstützung",
+          "status": "available"
+        },
+        {
+          "name": "Verschlüsseltes VPN",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        },
+        {
+          "name": "Mail",
+          "status": "available"
+        }
+      ]
+    },
+    "business": {
+      "1TB": [
+        {
+          "name": "**1TB** verschlüsselter Speicher pro Benutzer",
+          "status": "available"
+        },
+        {
+          "name": "Post-Quanten-Kryptographie",
+          "status": "available"
+        },
+        {
+          "name": "Zero-Knowledge-Verschlüsselung",
+          "status": "available"
+        },
+        {
+          "name": "Zwei-Faktor-Authentifizierung",
+          "status": "available"
+        },
+        {
+          "name": "Sicherung Ihres Computers",
+          "status": "available"
+        },
+        {
+          "name": "Passwortgeschütztes Teilen von Dateien",
+          "status": "available"
+        },
+        {
+          "name": "Einladen, teilen und zusammenarbeiten",
+          "status": "available"
+        },
+        {
+          "name": "GDPR-Konformität",
+          "status": "available"
+        },
+        {
+          "name": "CLI und WebDav",
+          "status": "available"
+        },
+        {
+          "name": "Organisationsmanagement",
+          "status": "available"
+        },
+        {
+          "name": "Verschlüsseltes VPN",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        }
+      ],
+      "2TB": [
+        {
+          "name": "**2TB** verschlüsselter Speicher pro Benutzer",
+          "status": "available"
+        },
+        {
+          "name": "Post-Quanten-Kryptographie",
+          "status": "available"
+        },
+        {
+          "name": "Zero-Knowledge-Verschlüsselung",
+          "status": "available"
+        },
+        {
+          "name": "Zwei-Faktor-Authentifizierung",
+          "status": "available"
+        },
+        {
+          "name": "Sicherung Ihres Computers",
+          "status": "available"
+        },
+        {
+          "name": "Passwortgeschütztes Teilen von Dateien",
+          "status": "available"
+        },
+        {
+          "name": "Einladen, teilen und zusammenarbeiten",
+          "status": "available"
+        },
+        {
+          "name": "GDPR-Konformität",
+          "status": "available"
+        },
+        {
+          "name": "CLI-, WebDav-, Rclone- und NAS-Unterstützung",
+          "status": "available"
+        },
+        {
+          "name": "Organisationsmanagement",
+          "status": "available"
+        },
+        {
+          "name": "Verschlüsseltes VPN",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        },
+        {
+          "name": "Dateiversionierung",
+          "status": "available"
+        },
+        {
+          "name": "Mail",
+          "status": "available"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "links": {
+    "products": "Produkte",
+    "about": "Über uns",
+    "privacy": "Privatsphäre",
+    "ourValues": "Unsere Werte",
+    "pricing": "Preise",
+    "blackFriday": "Black Friday",
+    "login": "Log-in",
+    "getStarted": "Starte jetzt",
+    "chooseStorage": "Wählen",
+    "checkout": "Jetzt anfordern!",
+    "business": "Geschäftskunden"
+  },
+  "products": {
+    "drive": { "name": "Internxt Drive", "title": "privater cloud speicher"},
+    "s3": "Cloud für Unternehmen",
+    "webDAV": "Internxt WebDAV",
+    "vpn": { "name": "Internxt VPN", "title": "sicheres vpn"},
+    "send": "Internxt Send",
+    "comingSoon": "Demnächst",
+    "new": "Neu",
+    "antivirus": "Internxt Antivirus",
+    "cleaner": "Internxt Cleaner",
+    "meet": { "name": "Internxt Meet", "title": "sichere videokonferenzen"},
+    "ai": "Internxt AI",
+    "mail": { "name": "Internxt Mail", "title": "verschlüsselte e-mail"},
+    "photos": { "name": "Internxt Photos", "title": "cloud speicher für fotos"}
+  },
+  "ourValues": {
+    "privacy": "Privatsphäre",
+    "openSource": "Open Source",
+    "sustainability": "Nachhaltigkeit",
+    "certifications": "Zertifizierungen",
+    "about": "Über uns"
+  },
+  "Auth": {
+    "SignUp": {
+      "title": "Erstelle ein Internxt Konto",
+      "or": "oder",
+      "login": "Log-in",
+      "disclaimer": {
+        "text": "Mit der Erstellung eines Kontos akzeptierst du die",
+        "link": "Geschäftsbedingungen"
+      },
+      "fields": {
+        "email": {
+          "label": "E-Mail",
+          "placeholder": "E-Mail"
+        },
+        "password": {
+          "label": "Passwort",
+          "placeholder": "Passwort",
+          "strength": {
+            "complexity": "Passwort ist nicht complex genug",
+            "length": "Passwort muss mindestens 8 Zeichen haben",
+            "weak": "Passwort ist schwach",
+            "strong": "Passwort ist stark"
+          }
+        },
+        "submit": "Starte jetzt"
+      }
+    },
+    "LogIn": {
+      "title": "Log-in bei Internxt",
+      "or": "oder",
+      "signup": "Konto erstellen",
+      "fields": {
+        "email": {
+          "label": "E-Mail",
+          "placeholder": "E-Mail"
+        },
+        "password": {
+          "label": "Passwort",
+          "placeholder": "Passwort",
+          "helper": "Passwort vergessen?"
+        },
+        "tfa": {
+          "label": "Zwei-Faktor-Authentifizierung",
+          "placeholder": "2FA Code",
+          "hint": "2FA Code muss 6 Zeichen haben"
+        },
+        "submit": "Log-in"
+      }
+    },
+    "Recover": {
+      "title": "Konto wiederherstellen",
+      "back": "Zurück zum Log-in",
+      "disclaimer": "Wie in den App-Einstellungen angegeben, hast nur du Zugriff auf dein Passwort. Ohne dieses Passwort können wir dein Konto daher nicht wiederherstellen. Du kannst dich erneut anmelden, indem du unten deine E-Mail-Adresse eingibst, damit wir dein Konto und alle deine Dateien löschen können.",
+      "fields": {
+        "email": {
+          "label": "E-Mail",
+          "placeholder": "E-Mail"
+        },
+        "submit": "Bestätigungs-E-Mail senden"
+      },
+      "success": {
+        "title": "Prüfe deine E-Mails",
+        "subtitle": "Wir haben einen Link zum Zurücksetzen des Kontos gesendet an"
+      }
+    }
+  },
+  "MinimalNavbar": {
+    "secondaryEyeBrow": "Antivirus",
+    "cta": "Internxt erhalten",
+    "price": "Ab {currency}{price}/Monat",
+    "priceAnnual": "Ab {currency}{price}/Jahr"
+  }
+}

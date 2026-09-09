@@ -1,0 +1,103 @@
+/// <reference types="cypress" />
+
+export {};
+// THe first item is empty because it is the home page
+const nameFiles = [
+  '',
+  'about',
+  'affiliates',
+  'byte-converter',
+  'cloud-storage-comparison',
+  'cloudwards',
+  'drive',
+  'legal',
+  'lifetime_special',
+  'open-source',
+  'partner-discount',
+  'password-checker',
+  'password-generator',
+  'photos',
+  'pricing',
+  'privacy',
+  'stackcommerce',
+  'temporary-email',
+  'virus-scanner',
+  'what-does-google-know-about-me',
+  'file-converter',
+  'cleaner',
+  'coupons',
+  'google-drive-alternative',
+  'icedrive-alternative',
+  'koofr-altertnative',
+  'onedrive-alternative',
+  'pcloud-alternative',
+  'dropbox-alternative',
+  'mega-alternative',
+  'cloud-data-centers',
+  'degoo-alternative',
+  'elephantdrive-alternative',
+  'drime-alternative',
+  'filejump-alternative',
+  'filen-alternative',
+  'alternative-to-google-meet',
+  'idrive-alternative',
+  'alternative-to-proton-drive',
+  'sync-alternative',
+  'terabox-alternative',
+  'alternative-to-zoom',
+  'cloud-object-storage',
+  'cloud-object-storage/free-cloud-object-storage',
+  'alternative-to-chatGPT',
+  'alternative-to-copilot',
+  'alternative-to-deepseek',
+  'alternative-to-gemini',
+  'alternative-to-grok',
+  'alternative-to-whereby',
+  'alternative-to-wire',
+  'webdav-rclone',
+  'alternative-to-avast',
+  'alternative-to-avg',
+  'alternative-to-avira',
+  'alternative-to-aws',
+  'alternative-to-azure',
+  'alternative-to-backblaze',
+  'alternative-to-bitdefender',
+  'alternative-to-ccleaner',
+  'alternative-to-clean-my-mac',
+  'alternative-to-google-cloud',
+  'alternative-to-idrive-e2',
+  'alternative-to-malwarebytes',
+  'alternative-to-mcafee',
+  'alternative-to-norton',
+  'alternative-to-totalav',
+  'proton-alternative',
+  'teams-alternative',
+  'cloud-partner',
+];
+
+const langs = {
+  en: 'English',
+  es: 'Spanish',
+  de: 'German',
+  fr: 'French',
+  it: 'Italian',
+  ru: 'Russian',
+  zh: 'Chinese',
+  'zh-tw': 'Taiwan',
+};
+
+describe('Verify that pages do not produce a 500 error', () => {
+  Object.keys(langs).forEach((lang, index) => {
+    describe(`Verify that pages do not produce a 500 error for ${langs[lang]} version`, () => {
+      nameFiles.forEach((route) => {
+        it(`${route} page`, () => {
+          cy.request({
+            url: `/${lang}/${route}`,
+          }).then((response) => {
+            expect(response.status).to.eq(200);
+          });
+        });
+      });
+    });
+  });
+});

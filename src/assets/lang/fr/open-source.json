@@ -1,0 +1,120 @@
+{
+  "HeroSection": {
+    "title": {
+      "normalText": "Construire la confiance grâce à",
+      "blueText": "l'Open Source"
+    },
+    "description": "Chez Internxt, nous nous engageons à fournir aux gens le plus haut niveau de confidentialité et de sécurité. Cette approche fait partie de notre philosophie qui consiste à construire des technologies qui protègent votre vie privée et gardent vos données en sécurité."
+  },
+  "WhatIsOSS": {
+    "title": "Qu'est-ce qu'un logiciel Open Source ?",
+    "description": "Les logiciels libres, ou Open source (OSS), sont des codes informatiques utilisés pour créer des projets et mis gratuitement à la disposition du public. Vous pouvez voir le code qui a construit le site web et, avec les connaissances appropriées, modifier ou améliorer sa sécurité, corriger ou ajouter de nouvelles fonctionnalités",
+    "imgHeader": "Nous utilisons des logiciels libres dans nos applications Drive, Photos et Send, ce qui nous permet de mettre à jour et d'améliorer constamment notre code source. Cet engagement nous permet de vous offrir la meilleure expérience possible.",
+    "section": [
+      "La confidentialité et la sécurité sont au premier plan dans la façon dont nous construisons nos applications, ce qui est possible grâce à la puissance des logiciels open source. En choisissant Internxt, vous pouvez être assuré que nous serons toujours clairs sur la façon dont nous protégeons vos fichiers importants",
+      "Grâce à la puissance des logiciels libres, Internxt peut fournir un service qui met l'accent sur la transparence, la sécurité et la confidentialité avant tout."
+    ]
+  },
+  "WhatAreTheBenefits": {
+    "title": "Quels sont les avantages des logiciels libres ?",
+    "description": "Les logiciels open source présentent de nombreux avantages qui s'alignent sur notre vision d'un internet où la vie privée de l'utilisateur passe avant tout",
+    "cards": [
+      {
+        "title": "Transparence",
+        "description": "Avec le code d'Internxt, ce que vous voyez est ce que vous obtenez. Tout le monde peut voir, modifier ou améliorer notre code pour s'assurer qu'il reste à jour et sécurisé et qu'il ne compromettra pas vos données ou votre vie privée."
+      },
+      {
+        "title": "Sécurité renforcée",
+        "description": "L'open source signifie que davantage de personnes peuvent inspecter le code afin de corriger rapidement les problèmes ou les vulnérabilités, ce qui laisse peu ou pas de temps aux personnes pour exploiter les problèmes du code."
+      },
+      {
+        "title": "Collaboration",
+        "description": "Une communauté active de développeurs et d'utilisateurs peut contribuer activement à l'amélioration du logiciel. Ces mises à jour signifient que vous utilisez toujours le logiciel le plus sûr et le plus récent et que vous bénéficiez de la meilleure expérience possible."
+      },
+      {
+        "title": "Longévité",
+        "description": "Le logiciel open source reste accessible au public même si l'entreprise disparaît, ce qui permet aux gens de continuer à travailler sur le code ; cela garantit la continuité et élimine la nécessité de payer pour un nouveau service ou la perte de données."
+      },
+      {
+        "title": "Agilité",
+        "description": "Les logiciels open source permettent aux développeurs de résoudre rapidement les bogues plutôt que d'attendre des jours que les équipes de développement corrigent le problème, de sorte que les gens peuvent continuer à utiliser le logiciel en toute sécurité."
+      },
+      {
+        "title": "Fiable",
+        "description": "Le code source étant constamment mis à jour, vous pouvez être sûr d'utiliser la meilleure version du logiciel."
+      }
+    ]
+  },
+  "CtaSection1": {
+    "title": "La vie privée vient de la source",
+    "description": "Sécurisez vos fichiers avec le stockage cloud open-source d'Internxt",
+    "cta": "Rejoignez Internxt aujourd'hui"
+  },
+  "LearningWithOSCommunity": {
+    "title": "Apprendre et s'améliorer avec la communauté Open-Source",
+    "description": [
+      "La communauté open-source a joué un rôle important dans le développement de cadres, d'outils qui permettent l'amélioration continue des projets ou des entreprises",
+      "Internxt accorde une grande importance à la communauté open source, car plus d'yeux sur notre code signifient qu'il fait l'objet d'un examen constant afin d'être aussi sûr que possible",
+      "Nous encourageons toute personne intéressée par le développement de logiciels à consulter notre code source, à apprendre de la communauté open-source et à nous rejoindre sur notre chemin vers un Internet plus sûr."
+    ]
+  },
+  "DifferencesBetweenOpenAndCloseSS": {
+    "title": "Quelles sont les différences entre les logiciels à source ouverte et à source fermée ?",
+    "description": "Les avantages et les inconvénients des logiciels open source sont essentiels pour choisir le logiciel qui vous convient le mieux. Les principales différences entre les logiciels open source et les logiciels fermés sont les suivantes :",
+    "table": {
+      "OpenSource": {
+        "title": "Open Source",
+        "feat": [
+          "Tout le monde peut voir, modifier ou changer le code et l'améliorer",
+          "La disponibilité et la transparence du code source signifient que tout le monde peut examiner le code pour détecter d'éventuels problèmes",
+          "Le logiciel peut être entretenu et corrigé rapidement",
+          "Plus rentable car il n'y a pas de frais de licence à payer",
+          "Plus accessible grâce à sa flexibilité pour ajouter des fonctionnalités et apporter des modifications."
+        ]
+      },
+      "CloseSource": {
+        "title": "Closed Source",
+        "disadvantages": [
+          "Le code source n'est accessible qu'à ceux qui l'ont créé",
+          "Le code est inaccessible au public, ce qui signifie que seules quelques personnes peuvent vérifier la présence de failles de sécurité",
+          "La mise à jour du code prend du temps, ce qui le rend vulnérable aux attaques",
+          "Le logiciel peut être très coûteux et son utilisation nécessite une licence",
+          "Le changement dépend de l'entreprise et peut prendre un certain temps."
+        ]
+      }
+    },
+    "footer": "En général, cependant, de nombreux services utilisent un modèle hybride de logiciel libre et de logiciel fermé dans leurs plateformes, bien que des entreprises comme Internxt choisissent de rester complètement libres."
+  },
+  "CtaSection2": {
+    "title": "Gardez vos fichiers en sécurité",
+    "description": "Internxt utilise des logiciels open source pour garder vos fichiers sécurisés, privés et chiffrés",
+    "cta": "Rejoignez Internxt aujourd'hui"
+  },
+  "ExploreOurOSS": {
+    "title": "Découvrez nos logiciels Open Source",
+    "description": "Si vous souhaitez explorer Internxt et voir comment nous construisons notre application Drive sur le desktop, le mobile et le web, le code source est disponible sur notre GitHub.",
+    "DownloadLinks": {
+      "downloadTitle": "Télécharger Internxt Drive",
+      "or": "ou",
+      "downloadFor": "Télécharger pour",
+      "orDownloadFor": "Ou télécharger pour",
+      "downloadOnThe": "Télécharger sur",
+      "orDownloadOnThe": "ou télécharger sur",
+      "getOn": "Obtenez",
+      "ouGetOn": "ou obtenez sur",
+      "openDriveWeb": "Ouvrir Drive Web",
+      "iPhone": "App Store",
+      "iPad": "App Store",
+      "Android": "Play Store",
+      "Windows": "Windows",
+      "Linux": "Linux",
+      "UNIX": "Linux",
+      "MacOS": "Mac"
+    }
+  },
+  "CtaSection3": {
+    "title": "Rejoindre la communauté Open Source",
+    "description": "Découvrez comment Internxt protège vos données avec notre code source",
+    "cta": "Voir notre GitHub"
+  }
+}

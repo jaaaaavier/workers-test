@@ -1,0 +1,201 @@
+{
+  "changeEmailBanner": {
+    "title": "Change email address?",
+    "description": [
+      "This action will delete your current email address ${{email}} and all emails in your inbox.",
+      "You will receive a new temporary email address right away."
+    ],
+    "actionCta": "Get a new email",
+    "cancelCta": "Cancel"
+  },
+  "LoginBanner": {
+    "head": "Try before you buy.",
+    "title": "Get Internxt for free!",
+    "buttonText": "Sign up now",
+    "card": {
+      "title1": "Get 1GB free",
+      "title2": "Safe and secure cloud storage",
+      "title3": "Private file and photo backup",
+      "title4": "End-to-end encrypted transfers",
+      "title5": "No unauthorized access",
+      "title6": "Available on all devices"
+    }
+  },
+  "FreeCardPromoBanner": {
+    "title": "Get an exclusive discount!",
+    "subtitle": {
+      "blue": "Special offer: ",
+      "normal": "store files in privacy for less."
+    },
+    "getDealCta": "Get the deal",
+    "freePlanCta": "Continue with free plan",
+    "guarantee": "30-day money-back guarantee"
+  },
+  "AndroidSmartBanner": {
+    "title": "Download Internxt Drive for Android"
+  },
+  "BFBanner": {
+    "head": "Save big on privacy.",
+    "title": "Internxt’s Black Friday Deal",
+    "buttonText": "Get the deal",
+    "card": {
+      "title1": "Get 60% off our 2TB plan",
+      "title2": "Safe and secure cloud storage",
+      "title3": "Private file and photo backup",
+      "title4": "End-to-end encrypted transfers",
+      "title5": "No unauthorized access",
+      "title6": "Available until Dec 5th"
+    }
+  },
+  "featuresBanner": {
+    "label": {
+      "blueText": "Get 85% off",
+      "text": "in all Plans"
+    },
+    "title": "Claim your exclusive discount!",
+    "subTitle": {
+      "blueText": "Special offer:",
+      "text": "store files in privacy for even less"
+    },
+    "ctaGet": "Accept invite",
+    "ctaContinue": "Continue free",
+    "guarantee": "30-day money-back guarantee",
+    "products": {
+      "drive": "Drive",
+      "antivirus": "Antivirus",
+      "cleaner": "Cleaner",
+      "vpn": "VPN",
+      "meet": "Meet",
+      "mail": "Mail",
+      "ai": "AI"
+    }
+  },
+  "s3StorageBanner": {
+    "label": "Available now!",
+    "title": "S3 compatible object storage",
+    "feat": [
+      "Up to 80% cheaper than AWS",
+      "Secure, scalable, S3-compatible",
+      "Native Rclone support"
+    ],
+    "cta": "Get 1TB for free",
+    "offerEnds": "*Offer only for the first month"
+  },
+  "tryOutInternxtGeneralBanner": {
+    "title": "Try Internxt",
+    "description": "Secure cloud storage based on total privacy and encryption.",
+    "cta": "Sign up for free"
+  },
+  "tryOutInternxtPasswordCheckerBanner": {
+    "title": "Try Internxt",
+    "description": "Secure file storage with password-protected technology for your files.",
+    "cta": "Sign up for free"
+  },
+  "SignUpPCloudAlternativeBanner": {
+    "line1": "Get end-to-end encrypted cloud storage at no extra cost.",
+    "blueText": " Join Internxt for free"
+  },
+  "SignUpPCloudAlternativeBanner2": {
+    "line1": "for a more secure, open, cost-effective cloud storage solution.",
+    "blueText": "Switch to Internxt "
+  },
+  "SignUpPwdCheckerBanner": {
+    "line1": "Put that strong password to use with a",
+    "blueText": "free Internxt account"
+  },
+  "SignUpFileConverterBanner": {
+    "line1": "Convert, store, and secure.",
+    "blueText": "Effortless file conversion with Internxt"
+  },
+  "SignUpFileCompressorBanner": {
+    "line1": "Save storage space with Internxt",
+    "blueText": "Compress your files for free to optimize your cloud"
+  },
+  "SignUpWebDAVBanner": {
+    "line1": "Get advanced file management with Internxt",
+    "blueText": ""
+  },
+  "SignUpVPNBanner": {
+    "line1": "Secure while you surf.",
+    "blueText": "Enjoy a more private online experience with Internxt"
+  },
+  "SignUpVirusScannerBanner": {
+    "line1": "Keep those now clean files safe,",
+    "blueText": "join Internxt for free"
+  },
+  "SignUpMetadataRemoverBanner": {
+    "line1": "Strip your files of revealing metadata.",
+    "blueText": "Clean your digital footprint with Internxt"
+  },
+  "SignUpAiDetector": {
+    "line1": "Detect AI content, ensure authenticity, and",
+    "blueText": "publish in confidence with Internxt"
+  },
+  "SignUpByteConverterBanner": {
+    "line1": "Get bytes and bytes of secure cloud storage",
+    "blueText": "with Internxt"
+  },
+  "SignUpTempMailBanner": {
+    "line1": "Keep your email clean and your files safe",
+    "blueText": "with Internxt"
+  },
+  "SignUpSuccessStoriesBanner": {
+    "line1": "Join the fight for privacy and build a better internet",
+    "blueText": "with Internxt"
+  },
+  "SignUpCyberAwareness": {
+    "line1": "Now that you’re aware, protect yourself with",
+    "blueText": "Internxt secure cloud storage"
+  },
+  "SignUpPasswordGenerator": {
+    "line1": "Shield your accounts with unique passwords,",
+    "blueText": "join Internxt for free"
+  },
+  "privacyDirectoryBanner": {
+    "line1": "Join the fight for privacy and build a better internet",
+    "blueText": "with Internxt"
+  },
+  "GeneralBanner": {
+    "title": "Before you bounce...",
+    "description": "Get 80% off our 2TB plan for the first year.",
+    "cta": "Sure, I'll try it out",
+    "ctaCancel": "No, thanks"
+  },
+  "GoogleLPBanner": {
+    "line1": "Don’t let Google cash in on your data,",
+    "blueText": "keep your files private with Internxt"
+  },
+  "BusinessBanner": {
+    "line1": "Are you interested in private cloud storage",
+    "blueText": "for your business?",
+    "subtitle": "Sign up to stay informed and get notified when our business plans become available.",
+    "placeHolder": "Your email address",
+    "cta": "Subscribe"
+  },
+  "GoogleKnows": {
+    "title": "Max out your Google privacy settings with our What Google Knows page"
+  },
+  "TopBarBanner": {
+    "title": {
+      "boldText": "",
+      "normalText": "Get 85% off Internxt these Holidays, plus a chance to win up to €1000!",
+      "cta": " Claim deal"
+    }
+  },
+  "lifetimeBanner": {
+    "label": "Secure your files forever",
+    "title": "Get lifetime access to secure, private cloud storage with Internxt!",
+    "cta": "Choose plan",
+    "guarantee": "30-day money-back guarantee"
+  },
+  "BeforeCloseBanner": {
+    "title": {
+      "normal1": "Hold on! Special ",
+      "blue": "80% OFF ",
+      "normal2": "deal!"
+    },
+    "subtitle": "There's an exclusive offer waiting for you.",
+    "cta": "80% OFF all plans",
+    "guarantee": "30-day money-back guarantee"
+  }
+}

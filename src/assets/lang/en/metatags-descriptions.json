@@ -1,0 +1,778 @@
+[
+  {
+    "id": "home",
+    "title": " Internxt — Best Encrypted cloud storage & more",
+    "description": "Experience the next-gen best encrypted cloud storage for ultimate protection. Secure your files with Internxt’s zero-knowledge technology. Get started for free!"
+  },
+  {
+    "id": "business",
+    "title": "Internxt — Private, Encrypted Cloud Storage for Business",
+    "description": "Prevent data loss with Internxt’s encrypted cloud storage for business—sign up to benefit from industry-leading cloud data protection."
+  },
+  {
+    "id": "family",
+    "title": "Internxt for Families — The Most Secure Family Cloud Storage",
+    "description": "Manage your family's online privacy with our Internxt cloud storage for family plans. Securely store, organize, and share your family’s private documents in one place."
+  },
+  {
+    "id": "cloud-object-storage",
+    "title": "Secure Cloud Object Storage (S3 Compatible) — Internxt S3",
+    "description": "Internxt S3 offers secure, private, and affordable cloud object storage. Scale your storage needs with our S3-compatible cloud based object storage solution."
+  },
+  {
+    "id": "free-cloud-object-storage",
+    "title": "Free Cloud Object Storage: Internxt S3 Compatible & Secure",
+    "description": "Experience free cloud object storage and professional object storage services. Internxt provides a secure, S3-compatible object storage cloud for your data."
+  },
+  {
+    "id": "drive",
+    "title": "Internxt Drive – Secure Cloud File Storage",
+    "description": "Internxt Drive offers the ultimate secure cloud storage solution. Store, share, and back up your files and photos using our open-source, end-to-end encrypted platform for guaranteed privacy."
+  },
+  {
+    "id": "free-cloud-storage",
+    "title": "Free Secure & Encrypted Cloud Storage — Internxt Drive",
+    "description": "Get free secure cloud storage with Internxt Drive. Easily store, share, and back up your files and photos using our open-source, end-to-end encrypted platform for guaranteed privacy."
+  },
+  {
+    "id": "what-google-knows",
+    "title": "Internxt — What Does Google Know About Me",
+    "description": "Find out what data Google keeps on you. How to view and download your Google data, how to delete it, and how to disable Google data collection."
+  },
+  {
+    "id": "media-area",
+    "title": "Media Area — Internxt",
+    "description": "Internxt Media Area - Find out more about Internxt’s products and mission and download our media kit of screenshots and mockups for the media and journalists."
+  },
+  {
+    "id": "pricing",
+    "title": "Best Cloud Storage Pricing & Cost",
+    "description": "Compare the best cloud storage pricing and cost. Our cloud storage pricing comparison shows you the most secure and affordable plans. Start for free now!"
+  },
+  {
+    "id": "about",
+    "title": "Internxt – About us",
+    "description": "Meet Internxt's Team. Fran Villalba Segarra, Founder and CEO at Internxt. Lanzadera, Angels Capital, The Venture City, Internxt, ESADE BAN."
+  },
+  {
+    "id": "legal",
+    "title": "Internxt – Legal Terms and Conditions of Use",
+    "description": "Internxt legal terms and conditions of use. Read all terms and conditions where we explain how we process your data."
+  },
+  {
+    "id": "privacy",
+    "title": "Internxt – Privacy, our core value",
+    "description": "Here at Internxt, protecting user privacy is our mission. Make the switch to Internxt's all-in-one privacy suite. Internxt Drive, Meet, Mail, Cleaner, and more."
+  },
+  {
+    "id": "open-source",
+    "title": "Encrypted Cloud Storage Open Source | Secure File Storage",
+    "description": "Discover the best open source cloud storage for total transparency. Our encrypted cloud storage open source software ensures your data stays private and secure."
+  },
+  {
+    "id": "virus-scanner",
+    "title": "Internxt – Free Online File Virus Scanner",
+    "description": "Free tool for scanning files for viruses and malware. Protect your personal documents, data, and hardware from online fraud with a quick and easy scan."
+  },
+  {
+    "id": "temporary-email",
+    "title": "Temp Mail – Free Disposable Temporary Email",
+    "description": "Keep your email account free of unwanted mail with Internxt’s Free Disposable Temporary Email. Temp Mail provides a temporary, secure, anonymous, and free email address."
+  },
+  {
+    "id": "converter-tool",
+    "title": "Internxt - Byte Converter",
+    "description": "Internxt’s free Byte Converter: Find out how much storage you have, how many gigabytes are in a terabyte, and convert to-and-from B, KB, MB, GB, and TB."
+  },
+  {
+    "id": "lifetime",
+    "title": "Lifetime Cloud Storage: One-Time Payment Plans | Internxt",
+    "description": "Get lifetime cloud storage with a one-time payment. Choose the perfect plan for your needs: 1TB, 3TB, or 5TB. Secure your data forever with Internxt."
+  },
+  {
+    "id": "partner-discount",
+    "title": "Internxt — Partner Discount",
+    "description": "Get Internxt annual plans at an exclusive 75% discount. Enjoy privacy and security with up to 10TB storage."
+  },
+  {
+    "id": "special-offer",
+    "title": "Internxt — Special Offer",
+    "description": "Get Internxt annual and lifetime plans at an exclusive 80% discount. Enjoy privacy and security with up to 10TB storage."
+  },
+  {
+    "id": "affiliates",
+    "title": "Internxt — Affiliate Program",
+    "description": "Join Internxt’s affiliate marketing program! How to get started plus program details, benefits, and perks."
+  },
+  {
+    "id": "pcmag",
+    "title": "Internxt Lifetime Special Offer for PCMag Users",
+    "description": "Internxt is offering 80% off all lifetime cloud storage plans to PCMag customers. Secure your files for a lifetime with a single payment."
+  },
+  {
+    "id": "oneplan",
+    "title": "Internxt — 5TB  Lifetime Cloud Storage Plan",
+    "description": "Get an Internxt 5TB Lifetime Plan to keep your files private and never worry about running out of space again."
+  },
+  {
+    "id": "techradar-discount",
+    "title": "TechRadar Partner Deals – Save big on Internxt cloud storage!",
+    "description": "Redeem your exclusive coupon code provided by our partner TechRadar. Get a special discount on Internxt secure cloud storage."
+  },
+  {
+    "id": "comparison",
+    "title": "Internxt – Cloud Storage Comparison",
+    "description": "Compare Internxt with all the other services out there. Internxt is the most private and secure alternative to Google Drive, Dropbox, and other services."
+  },
+  {
+    "id": "dropbox-alternative",
+    "title": "The Best Secure Alternative to Dropbox",
+    "description": "Need a truly secure alternative to Dropbox? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Dropbox alternatives."
+  },
+  {
+    "id": "pcloud-alternative",
+    "title": "The Best Secure Alternative to pCloud",
+    "description": "Need a truly secure alternative to pCloud? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other pCloud alternatives."
+  },
+  {
+    "id": "mega-alternative",
+    "title": "The Best Secure Alternative to Mega",
+    "description": "Need a truly secure alternative to Mega? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Mega alternatives."
+  },
+  {
+    "id": "google-drive-alternative",
+    "title": "The Best Secure Alternative to Google Drive",
+    "description": "Need a truly secure alternative to Drive? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Google Drive alternatives."
+  },
+  {
+    "id": "koofr-alternative",
+    "title": "The Best Secure Alternative to Koofr",
+    "description": "Need a truly secure alternative to Koofr? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Koofr alternatives."
+  },
+  {
+    "id": "teams-alternative",
+    "title": "The Best Secure Alternative to Teams",
+    "description": "Switch to Internxt for an open-source alternative to Teams. Post-quantum and zero-knowledge video meetings for full privacy of your calls."
+  },
+  {
+    "id": "icedrive-alternative",
+    "title": "The best alternative to IceDrive is Internxt",
+    "description": "Need a truly secure alternative to Icedrive? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Icedrive alternatives."
+  },
+  {
+    "id": "onedrive-alternative",
+    "title": "The Best Secure Alternative to Onedrive",
+    "description": "Need a truly secure alternative to Microsoft OneDrive? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other OneDrive alternatives."
+  },
+  {
+    "id": "elephantdrive-alternative",
+    "title": "Internxt — Private & Secure ElephantDrive Alternative",
+    "description": "Switch to Internxt for an open-source alternative to OneDrive. Post-quantum and zero-knowledge encrypted cloud storage guarantees full privacy of your documents and media."
+  },
+  {
+    "id": "degoo-alternative",
+    "title": "The Best Secure Alternative to Degoo",
+    "description": "Need a truly secure alternative to Degoo? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Degoo alternatives."
+  },
+  {
+    "id": "zoom-alternative",
+    "title": "Internxt — Alternative to Zoom",
+    "description": "Switch to Internxt for an open-source alternative to Zoom. Includes post-quantum cloud storage, and more for full privacy online."
+  },
+  {
+    "id": "proton-drive-alternative",
+    "title": "The Best Secure Alternative to Proton",
+    "description": "Need a truly secure alternative to Proton? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Proton alternatives."
+  },
+  {
+    "id": "google-meet-alternative",
+    "title": "Internxt — Alternative to Google Meet",
+    "description": "Switch to Internxt for an open-source alternative to Google Meet. Post-quantum and zero-knowledge video meetings for full privacy of your calls."
+  },
+  {
+    "id": "terabox-alternative",
+    "title": "The Best Secure Alternative to TeraBox",
+    "description": "Need a truly secure alternative to TeraBox? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Proton alternatives."
+  },
+  {
+    "id": "filen-alternative",
+    "title": "The Best Secure Alternative to Filen",
+    "description": "Need a truly secure alternative to Filen? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Proton alternatives."
+  },
+  {
+    "id": "idrive-alternative",
+    "title": "The Best Secure Alternative to IDrive",
+    "description": "Need a truly secure alternative to IDrive? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Proton alternatives."
+  },
+  {
+    "id": "sync-alternative",
+    "title": "The Best Secure Alternative to Sync",
+    "description": "Need a truly secure alternative to Sync? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Proton alternatives."
+  },
+  {
+    "id": "drime-alternative",
+    "title": "The Best Secure Alternative to Drime",
+    "description": "Need a truly secure alternative to Drime? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Proton alternatives."
+  },
+  {
+    "id": "filejump-alternative",
+    "title": "The Best Secure Alternative to Filejump",
+    "description": "Need a truly secure alternative to Filejump? Choose Internxt. We offer end-to-end encrypted storage that prioritizes your privacy above all other Proton alternatives."
+  },
+  {
+    "id": "black-friday",
+    "title": "Black Friday Deals 2025 - Cloud Storage and Personal Cloud Storage Deals",
+    "description": "Internxt Black Friday 2025: 85% OFF secure cloud storage & your full privacy suite! Get VPN, Antivirus, Cleaner, Meet, and Mail."
+  },
+  {
+    "id": "black-friday-cloud-storage",
+    "title": "Internxt – Black Friday Cloud Storage Deals 2025",
+    "description": "Black Friday Internxt 2025 — 85% off cloud storage, Antivirus, Cleaner, VPN, Meet, and Mail."
+  },
+  {
+    "id": "black-friday-personal-cloud-storage",
+    "title": "Internxt — Black Friday Personal Cloud Storage Deals 2025",
+    "description": "Black Friday Internxt 2025 — 85% off cloud storage, Antivirus, Cleaner, VPN, Meet, and Mail."
+  },
+  {
+    "id": "cloudwards",
+    "title": "Internxt Lifetime Special Offer for Cloudwards Users",
+    "description": "Internxt is offering 85% off all lifetime cloud storage plans to Cloudwards customers. Secure your files for a lifetime with a single payment."
+  },
+  {
+    "id": "guru99",
+    "title": "Internxt – Guru99 Partnership",
+    "description": "Grab the best deals for the most secure cloud storage thanks to Guru99. Cheaper, more secure alternative to pCloud, IceDrive, AppSumo Encrypted Cloud storage."
+  },
+  {
+    "id": "freemonth",
+    "title": "Internxt – Get 1 Month for free",
+    "description": "Grab the best deals for the most secure cloud storage and get 1 month for free. Cheaper, more secure alternative to pCloud, IceDrive, AppSumo Encrypted Cloud storage."
+  },
+  {
+    "id": "landing",
+    "title": "Internxt – Most Secure Cloud Storage",
+    "description": "Internxt provides secure, private and encrypted cloud services like Internxt Drive and Internxt Photos."
+  },
+  {
+    "id": "privacy-directory",
+    "title": "Internxt – Directory of Privacy Organizations, Institutions, and NGOs",
+    "description": "Directory of digital rights organizations, institutions, and NGOs working alongside Internxt to advance, support, and defend privacy for all."
+  },
+  {
+    "id": "password-checker",
+    "title": "Internxt – Free and Secure Password Checker",
+    "description": "Free password security checker. Check the strength of your passwords with Internxt’s secure online tool."
+  },
+  {
+    "id": "password-generator",
+    "title": "Internxt — Strong Password Generator",
+    "description": "Free and secure password generator. An easy and effective tool to instantly create random and secure passwords to keep your accounts safe."
+  },
+  {
+    "id": "cyber-awareness",
+    "title": "Cyber Awareness — Internxt",
+    "description": "What is cyber awareness, how to stay safe online, and everything you need to know about Cybersecurity Awareness Month this October."
+  },
+  {
+    "id": "cyber-security-quiz",
+    "title": "Cyber Security Quiz: Test your Cyber Security Skills – Internxt",
+    "description": "Test your cyber awareness with this interactive cyber security quiz! Find out if you know the basics of cybersecurity required to protect your online privacy."
+  },
+  {
+    "id": "use-cases",
+    "title": "Use Cases – Internxt",
+    "description": "Discover how Internxt cloud storage has given individuals and businesses effective solutions to improve online security and privacy in these successful case studies examples."
+  },
+  {
+    "id": "internxt-for-journalists",
+    "title": "Internxt for journalists – Internxt",
+    "description": "With these in-depth case study examples, learn how Internxt private cloud storage benefits journalists and writers by helping them store information securely."
+  },
+  {
+    "id": "internxt-for-digital-nomads",
+    "title": "Internxt for digital nomads – Internxt",
+    "description": "Discover why Internxt is the ideal choice in helping digital nomads secure their files and protecting their online privacy while working on the go."
+  },
+  {
+    "id": "internxt-for-students",
+    "title": "Internxt for students – Internxt",
+    "description": "Use these case studies to learn how students are utilizing Internxt to effectively organize, collaborate, and secure their projects with a secure cloud service."
+  },
+  {
+    "id": "internxt-for-photographers",
+    "title": "Internxt for photographers – Internxt",
+    "description": "Looking for a cloud solution for storing the pictures and images securely? Check out these use cases on how Internxt can be helpful for photographers."
+  },
+  {
+    "id": "internxt-for-tech-companies",
+    "title": "Internxt for tech companies – Internxt",
+    "description": "Discover how Internxt has effectively assisted tech companies in securing sensitive information to meet their data storage requirements."
+  },
+  {
+    "id": "internxt-for-lawyers",
+    "title": "Internxt for lawyers – Internxt",
+    "description": "Examine these use cases to understand why law firms and attorneys should begin adopting cloud storage for securely storing sensitive client and court case data."
+  },
+  {
+    "id": "internxt-library",
+    "title": "Internxt Library: Free eBooks for Online Privacy – Internxt",
+    "description": "Learn the fundamentals of online privacy for individuals and parents with Internxt’s library of free eBooks to ensure a safer, secure internet experience."
+  },
+  {
+    "id": "online-privacy-ebook",
+    "title": "Free Online Privacy eBook for Individuals – Internxt",
+    "description": "Internxt’s free eBook on online privacy is designed to help individuals protect themselves against cyberthreats and secure their online data. Download it here."
+  },
+  {
+    "id": "child-safety-ebook",
+    "title": "Free Child Safety eBook for Parents – Internxt",
+    "description": "Internxt’s free child safety eBook offers parents tips to secure their children’s online privacy and protect them from internet threats. Download it here."
+  },
+  {
+    "id": "cloud-storage-for-education",
+    "title": "Cloud Storage Discount for Education – Internxt",
+    "description": "Internxt cloud storage discount for education, schools, and universities. 50% off any cloud storage subscription plans. Keep your files secure with Internxt!"
+  },
+  {
+    "id": "newsletter-subscribe",
+    "title": "Online Privacy Newsletter – Internxt",
+    "description": "Subscribe to Internxt’s online privacy newsletter for the latest updates, tips, and resources to help you protect your online data and security."
+  },
+  {
+    "id": "webDAV",
+    "title": "Internxt CLI, WebDAV & Rclone– Internxt",
+    "description": "Access your Internxt Drive account with Internxt CLI, WebDAV and Rclone features. Experience a new method to manage and control your files privately."
+  },
+  {
+    "id": "free-user",
+    "title": "Internxt — 75% off All Secure Cloud Storage Plans",
+    "description": "Get 75% off any Internxt Plan to keep your files private and never worry about running out of space again."
+  },
+  {
+    "id": "vpn-extension",
+    "title": "Internxt VPN — Encrypted and Private VPN",
+    "description": "Get Internxt VPN the ultimate private vpn service for total anonymity. Use our secure vpn to enjoy an encrypted vpn connection. Private vpn download available now for private vpn online browsing"
+  },
+  {
+    "id": "file-converter",
+    "title": "Internxt — Online File Converter",
+    "description": "Internxt’s free online file converter. Convert your files to different formats and sizes. Convert PDF, Word, Excel, and more."
+  },
+  {
+    "id": "word-to-pdf",
+    "title": "Internxt — Convert PDF to Word Files Online for Free",
+    "description": "Internxt’s File Converter converts PDF to Word files for free. Our PDF to Word converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "png-to-pdf",
+    "title": "Internxt — Convert PNG to PDF Files Online for Free",
+    "description": "Internxt’s File Converter converts PNG to PDF files for free. Our PNG to PDF converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "html-to-pdf",
+    "title": "Internxt — Convert HTML to PDF Files Online for Free",
+    "description": "Internxt’s File Converter converts HTML to PDF files for free. Our HTML to PDF converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "excel-to-pdf",
+    "title": "Internxt — Convert EXCEL to PDF Files Online for Free",
+    "description": "Internxt’s File Converter converts EXCEL to PDF files for free. Our EXCEL to PDF converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "pdf-to-html",
+    "title": "Internxt — Convert PDF to HTML Files Online for Free",
+    "description": "Internxt’s File Converter converts PDF to HTML files for free. Our PDF to HTML converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "word-to-html",
+    "title": "Internxt — Convert DOCX to HTML Files Online for Free",
+    "description": "Internxt’s File Converter converts DOCX to HTML files for free. Our DOCX to HTML converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "pptx-to-pdf",
+    "title": "Internxt — Convert PPTX to PDF Files Online for Free",
+    "description": "Internxt’s File Converter converts PPTX to PDF files for free. Our PPTX to PDF converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "jpg-to-png",
+    "title": "Internxt — Convert JPG to PNG Files Online for Free",
+    "description": "Internxt’s File Converter converts JPG to PNG files for free. Our JPG to PNG converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "jpg-to-heic",
+    "title": "Internxt — Convert JPG to HEIC Images Online For Free",
+    "description": "Internxt’s File Converter converts your JPG to HEIC images for free. Our JPG to HEIC converter is fast and secure, keeping your files 100% private."
+  },
+  {
+    "id": "jpg-to-webp",
+    "title": "Internxt — Convert JPG to WEBP Files Online for Free",
+    "description": "Internxt’s File Converter converts JPG to WEBP files for free. Our JPG to WEBP converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "png-to-webp",
+    "title": "Internxt — Convert PNG to WEBP Files Online for Free",
+    "description": "Internxt’s File Converter converts PNG to WEBP files for free. Our PNG to WEBP converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "png-to-jpg",
+    "title": "Internxt — Convert PNG to JPG Files Online for Free",
+    "description": "Internxt’s File Converter converts PNG to JPG files for free. Our PNG to JPG converter is an easy, fast, and secure way to convert your files."
+  },
+  {
+    "id": "png-to-heic",
+    "title": "Internxt — Convert PNG to HEIC Images Online For Free",
+    "description": "Internxt’s File Converter converts your PNG to HEIC images for free. Our PNG to HEIC converter is fast and secure, keeping your files 100% private."
+  },
+  {
+    "id": "webp-to-png",
+    "title": "Internxt — Convert WEBP to PNG files online for free",
+    "description": "Internxt’s File Converter converts WEBP to PNG files for free. Our WEBP to PNG converter is fast and secure, keeping your files 100% private."
+  },
+  {
+    "id": "webp-to-jpg",
+    "title": "Internxt — Convert WEBP to JPG files online for free",
+    "description": "Internxt’s File Converter converts WEBP to JPG files for free. Our WEBP to JPG converter is fast and secure, keeping your files 100% private."
+  },
+  {
+    "id": "heic-to-jpg",
+    "title": "Internxt — Convert HEIC to JPG Images Online For Free",
+    "description": "Internxt’s File Converter converts your HEIC to JPG images for free. Our HEIC to JPG converter is fast and secure, keeping your files 100% private."
+  },
+  {
+    "id": "heic-to-png",
+    "title": "Internxt — Convert HEIC to PNG Images Online For Free",
+    "description": "Internxt’s File Converter converts your HEIC to PNG  images for free. Our HEIC to PNG converter is fast and secure, keeping your files 100% private."
+  },
+  {
+    "id": "image-to-text",
+    "title": "Internxt — Convert Image to Text Files Online For Free",
+    "description": "Internxt’s File Converter converts your image to text files for free. Our image-to-text converter is fast and secure, keeping your files 100% private."
+  },
+  {
+    "id": "singles-day",
+    "title": "Internxt Singles Day Deal – Lifetime Cloud Storage Sale!",
+    "description": "Internxt Singles Day 2024 Deals: Enjoy an 80% discount on all our premium lifetime storage plans. Save big on Internxt cloud storage today! "
+  },
+  {
+    "id": "resurrection-campaign",
+    "title": "Internxt Cloud Storage Offer – 85% off Subscription and Lifetime Plans!",
+    "description": "Internxt is offering 85% off our new and improved private cloud storage. Choose from our subscription and lifetime plans to get huge savings."
+  },
+  {
+    "id": "halloween-campaign",
+    "title": "Internxt – Private & Secure Cloud Storage",
+    "description": "Internxt's Halloween Campaign: Get 80% off all our annual plans. Secure your files for a lifetime with a single payment."
+  },
+  {
+    "id": "elections-campaign",
+    "title": "Make Internxt Great Again",
+    "description": "Internxt's Elections Campaign 2024"
+  },
+
+  {
+    "id": "green-cloud-computing",
+    "title": "Internxt — A Commitment to Green Cloud Computing and Sustainability",
+    "description": " Internxt’s eco-friendly data centers drive our commitment to green cloud computing and sustainability, supporting a cleaner, greener environment."
+  },
+  {
+    "id": "internxt-brave",
+    "title": "Internxt x Brave – Special offer for Brave Private Browser users",
+    "description": "Internxt has partnered with Brave Private Browser to offer secure, private, and encrypted cloud storage."
+  },
+  {
+    "id": "internxt-antivirus",
+    "title": "Internxt Antivirus — Protect your devices from malware",
+    "description": "Internxt Antivirus scans and removes viruses from your files. Protect your devices from malware and ensure complete security in the cloud."
+  },
+  {
+    "id": "internxt-private-cloud-storage-solutions",
+    "title": "Internxt – Private Cloud Storage Solutions",
+    "description": "Experience elite private cloud data storage. We provide top-tier private cloud storage solutions to keep your life secure and organized. Start your free plan!"
+  },
+  {
+    "id": "internxt-cloud-storage-backup-solutions",
+    "title": "Internxt – Cloud Storage Backup Solutions ",
+    "description": "Internxt cloud storage backup solutions use redundancy and award-winning encryption that protects you and your business from data loss. "
+  },
+  {
+    "id": "internxt-gdpr-cloud-storage",
+    "title": "GDPR Cloud Storage Solutions | Secure & Compliant Storage",
+    "description": "Get the best cloud storage GDPR plan today. Our GDPR compliant cloud storage provides advanced security and private GDPR cloud storage solutions for every business."
+  },
+  {
+    "id": "internxt-cloud-storage-for-photos",
+    "title": "Best Private Cloud Storage for Photos & Secure Backups",
+    "description": "Protect your memories with the best cloud storage for private photos. Experience secure cloud storage for photos with zero-knowledge encryption. Start today!"
+  },
+  {
+    "id": "internxt-annual",
+    "title": "Internxt – Get a discount on any Internxt annual plans",
+    "description": "Meta description: Get a special offer for any Internxt annual plan. All plans include private cloud storage, VPN, and Antivirus."
+  },
+  {
+    "id": "internxt-cleaner",
+    "title": "Internxt Cleaner — Optimize and Clean your Computer",
+    "description": "Find and clear junk files to boost device speed, responsiveness, and performance."
+  },
+  {
+    "id": "internxt-metadata-remover",
+    "title": "Internxt Metadata Remover – Clean Your File’s Metadata Online",
+    "description": "Remove hidden data from your files in seconds. Internxt’s Metadata Remover cleans your documents for maximum privacy before sharing."
+  },
+  {
+    "id": "zerogpt-ai-checker",
+    "title": "Internxt ZeroGPT AI Checker – Free AI Checker Tool",
+    "description": "Internxt ZeroGPT AI checker. Scan content to check if it’s been written by ChatGPT, Gemini, or other AI platforms. Try now for free!"
+  },
+  {
+    "id": "file-compressor",
+    "title": "Internxt – File Compressor",
+    "description": "Internxt file compressor,  the best file compressor to reduce the file size of videos, photos, and documents for free."
+  },
+  {
+    "id": "compress-mov",
+    "title": "Internxt – Compress MOV File",
+    "description": "Internxt lets you compress a MOV file for free to reduce file size and send large video files online without worrying about file size limits."
+  },
+  {
+    "id": "compress-pdf",
+    "title": "Internxt – Compress PDF File",
+    "description": "Internxt’s free tool is the best way to compress a PDF file so you can secure and send your documents with ease."
+  },
+  {
+    "id": "compress-jpg",
+    "title": "Compress JPG File – Internxt",
+    "description": "Internxt’s free tool is the best way to compress a JPG file so you can secure and send your photos with ease."
+  },
+  {
+    "id": "compress-png",
+    "title": "Internxt – Compress PNG File",
+    "description": "Internxt’s free tool is the best way to compress a PNG file so you can secure and send your photos with ease."
+  },
+  {
+    "id": "compress-ppt",
+    "title": "Internxt Compress – PPT File",
+    "description": "Internxt lets you compress a PPT file for free to reduce file size for easier storage and file sharing management."
+  },
+  {
+    "id": "compress-word",
+    "title": "Internxt – Compress Word File",
+    "description": "Compress Word (DOC) files for free to reduce file size for easier storage and file sharing management for your documents."
+  },
+  {
+    "id": "compress-excel",
+    "title": "Internxt – Compress Excel File",
+    "description": "Compress Excel (XLS) files for free to reduce file size for easier storage and file sharing management for your spreadsheets."
+  },
+  {
+    "id": "compress-zip",
+    "title": "Internxt – Online ZIP Compressor",
+    "description": "An online ZIP compressor reduces the size of your ZIP files to save storage, share, and upload without worrying about file size limits."
+  },
+  {
+    "id": "cloud-for-videos",
+    "title": "Best Cloud Storage for Videos & Large Private Files",
+    "description": "Looking for private cloud storage for large video files? Get the best cloud storage for videos with zero-knowledge encryption. Upload and share securely today."
+  },
+  {
+    "id": "meet",
+    "title": "Internxt Meet - Private Video Call | Secure Video Conferencing",
+    "description": "Experience secure video conferencing with end-to-end encryption. Start a private video call today and ensure your conversations remain confidential with our encrypted video call technology."
+  },
+  {
+    "id": "nas",
+    "title": "Best NAS Cloud Backup Solution (QNAP & Synology) — Internxt",
+    "description": "Securely back up your QNAP and Synology NAS devices to the cloud with Internxt's post-quantum encryption. The safest and most private NAS cloud backup available."
+  },
+  {
+    "id": "coupons",
+    "title": "Internxt — Discounts, Coupons and Promotions",
+    "description": "Stand for privacy, switch to Internxt. Internxt's open-source cloud storage services protect your right to privacy. Internxt Drive, Photos, Send, and more."
+  },
+  {
+    "id": "free-cloud-storage-deals",
+    "title": "Internxt — Free Cloud Storage Deals",
+    "description": "Free cloud storage deals directly from Internxt to upgrade your plan for 85% off secure, encrypted cloud storage and more."
+  },
+  {
+    "id": "free-cloud-storage-lifetime-deals",
+    "title": "Internxt — Official Internxt Cloud Storage Lifetime Deals for 85%",
+    "description": "Get the best cloud storage lifetime deals from Internxt. Pay once to get 85% off private, encrypted cloud storage, forever."
+  },
+  {
+    "id": "deals",
+    "title": "Internxt — Official Internxt Deals for 85% off All Plans",
+    "description": "Claim your exclusive 85% discount. These Internxt deals include private, encrypted cloud storage, and more at an unbeatable price."
+  },
+  {
+    "id": "reviews",
+    "title": "Internxt — Read Customer Reviews of Internxt",
+    "description": "Read honest Internxt reviews according to reviews from tech experts and users. Find out what makes Internxt the most trusted service for your online privacy."
+  },
+  {
+    "id": "cloud-data-centers",
+    "title": "Internxt — Data Centers and Certifications",
+    "description": "Keep your data safe with Internxt. End-to-end encryption, reliable cloud data centers, and compliance with GDPR and other standards."
+  },
+  {
+    "id": "alternative-to-chatgpt",
+    "title": "Internxt — Alternative to ChatGPT",
+    "description": "Switch to Internxt for a private and encrypted ChatGPT alternative. Internxt keeps your chats private, encrypted, and accessible only to you."
+  },
+  {
+    "id": "alternative-to-copilot",
+    "title": "Internxt — Alternative to Copilot",
+    "description": "Switch to Internxt for a private and encrypted Copilot alternative. Internxt keeps your chats private, encrypted, and accessible only to you."
+  },
+  {
+    "id": "alternative-to-deepseek",
+    "title": "Internxt — Alternative to DeepSeek",
+    "description": "Switch to Internxt for a private and encrypted DeepSeek alternative. Internxt keeps your chats private, encrypted, and accessible only to you."
+  },
+  {
+    "id": "alternative-to-gemini",
+    "title": "Internxt — Alternative to Gemini",
+    "description": "Switch to Internxt for a private and encrypted Gemini alternative. Internxt keeps your chats private, encrypted, and accessible only to you."
+  },
+  {
+    "id": "alternative-to-grok",
+    "title": "Internxt — Alternative to Grok",
+    "description": "Switch to Internxt for a private and encrypted Grok alternative. Internxt keeps your chats private, encrypted, and accessible only to you."
+  },
+  {
+    "id": "wire-alternative",
+    "title": "Internxt — Alternative to Wire",
+    "description": "Switch to Internxt for an open-source alternative to Wire. Post-quantum and zero-knowledge video meetings for full privacy of your calls."
+  },
+  {
+    "id": "whereby-alternative",
+    "title": "Internxt — Alternative to Whereby",
+    "description": "Switch to Internxt for an open-source alternative to Whereby. Post-quantum and zero-knowledge video meetings for full privacy of your calls."
+  },
+  {
+    "id": "annual",
+    "title": "Internxt Annual Plans Offer: Secure Encrypted Cloud Storage",
+    "description": "Get Internxt's annual plans for secure, encrypted cloud storage. Protect your files with zero-knowledge technology and post-quantum security. Save more today!"
+  },
+  {
+    "id": "aws-alternative",
+    "title": "Internxt — Alternative to AWS",
+    "description": "Switch to Internxt for a private and encrypted AWS alternative. Internxt keeps your data private, encrypted, and accessible only to you."
+  },
+  {
+    "id": "azure-alternative",
+    "title": "Internxt  — Alternative to Microsoft Azure",
+    "description": "Switch to Internxt S3 for an open-source alternative to Azure. Affordable, secure object cloud storage for enterprises."
+  },
+  {
+    "id": "backblaze-alternative",
+    "title": "Internxt  — Alternative to Backblaze",
+    "description": "Switch to Internxt S3 for an open-source alternative to Backblaze. Affordable, secure object cloud storage for enterprises."
+  },
+  {
+    "id": "idrivee2-alternative",
+    "title": "Internxt  — Alternative to IDrive e2",
+    "description": "Switch to Internxt S3 for an open-source alternative to IDrive. Affordable, secure object cloud storage for enterprises."
+  },
+  {
+    "id": "google-cloud-alternative",
+    "title": "Internxt  — Alternative to Google Cloud",
+    "description": "Switch to Internxt S3 for an open-source alternative to Google Cloud. Affordable, secure object cloud storage for enterprises."
+  },
+  {
+    "id": "alternative-to-avast",
+    "title": "Internxt — Avast Alternative",
+    "description": "Switch to Internxt for an open-source alternative to Avast. Includes post-quantum and zero-knowledge encrypted cloud storage and more."
+  },
+  {
+    "id": "alternative-to-avg",
+    "title": "Internxt — AVG Alternative",
+    "description": "Switch to Internxt for an open-source alternative to AVG. Includes post-quantum and zero-knowledge encrypted cloud storage and more."
+  },
+  {
+    "id": "alternative-to-avira",
+    "title": "Internxt — Avira Alternative",
+    "description": "Switch to Internxt for an open-source alternative to Avira. Includes post-quantum and zero-knowledge encrypted cloud storage and more."
+  },
+  {
+    "id": "alternative-to-bitdefender",
+    "title": "Internxt — Bitdefender Alternative",
+    "description": "Switch to Internxt for an open-source alternative to Bitdefender. Includes post-quantum and zero-knowledge encrypted cloud storage and more."
+  },
+  {
+    "id": "alternative-to-ccleaner",
+    "title": "Internxt — CCleaner Alternative",
+    "description": "Switch to Internxt for an open-source alternative to CCleaner. Includes post-quantum and zero-knowledge encrypted cloud storage and more."
+  },
+  {
+    "id": "alternative-to-clean-my-mac",
+    "title": "Internxt — CleanMyMac Alternative",
+    "description": "Switch to Internxt for an open-source alternative to CleanMyMac. Includes post-quantum and zero-knowledge encrypted cloud storage and more."
+  },
+  {
+    "id": "alternative-to-malwarebytes",
+    "title": "Internxt — Malwarebytes Alternative",
+    "description": "Switch to Internxt for an open-source alternative to Malwarebytes. Includes post-quantum and zero-knowledge encrypted cloud storage and more."
+  },
+  {
+    "id": "alternative-to-mcafee",
+    "title": "Internxt — McAfee Alternative",
+    "description": "Switch to Internxt for an open-source alternative to McAfee. Includes post-quantum and zero-knowledge encrypted cloud storage and more."
+  },
+  {
+    "id": "alternative-to-norton",
+    "title": "Internxt — Norton Alternative",
+    "description": "Switch to Internxt for an open-source alternative to Norton. Includes post-quantum and zero-knowledge encrypted cloud storage and more."
+  },
+  {
+    "id": "alternative-to-totalav",
+    "title": "Internxt — TotalAV Alternative",
+    "description": "Switch to Internxt for an open-source alternative to TotalAV. Includes post-quantum and zero-knowledge encrypted cloud storage and more."
+  },
+  {
+    "id": "levante-ud",
+    "title": "Internxt — Official Cloud Partner of Levante UD",
+    "description": "Internxt is an official partner of Levante UD, providing encrypted cloud storage and backups to protect the club’s valuable data."
+  },
+  {
+    "id": "nas-synology",
+    "title": "Synology Backup to Cloud — Internxt Synology NAS",
+    "description": "Looking for a reliable NAS cloud backup? Secure your data with Internxt's cloud NAS service. The ultimate NAS backup solution to back up NAS to the cloud easily and keep your files encrypted and private."
+  },
+  {
+    "id": "nas-qnap",
+    "title": "QNAP Backup to Cloud — Internxt QNAP NAS",
+    "description": "Looking for a reliable NAS cloud backup? Secure your data with Internxt's cloud NAS service. The ultimate NAS backup solution to back up NAS to the cloud easily and keep your files encrypted and private."
+  },
+  {
+    "id": "cloud-partner",
+    "title": "Internxt Cloud Partner Programme",
+    "description": "Become a reseller for Internxt S3 object storage for enterprises. Hot cloud storage, and cheaper than AWS, Azure, and Google Cloud."
+  },
+  {
+    "id": "thankyou",
+    "title": "Special Offer Waitlist — Internxt",
+    "description": "Subscribe to Internxt to receive your exclusive discount for private, encrypted cloud storage you can trust."
+  },
+  {
+    "id": "cloud-storage-for-documents",
+    "title": "Internxt - Cloud Storage for Documents",
+    "description": "Internxt offers secure cloud storage for documents, protected by post-quantum encryption for maximum privacy."
+  },
+  {
+    "id": "secure-file-transfer",
+    "title": "Internxt - Secure File Transfer",
+    "description": "Internxt offers a secure file transfer service to encrypt and secure files so you control who can access your data."
+  },
+  {
+    "id": "mail",
+    "title": "Internxt Mail - The Best Encrypted Email for Privacy.",
+    "description": "Internxt Mail is an encrypted email solution that keeps your inbox safe. Thanks to post-quantum encryption, Internxt is the most secure email service for privacy."
+  },
+  {
+    "id": "photos",
+    "title": "Internxt Photos – Secure Cloud Storage for Photos",
+    "description": "Internxt Photos is a private, secure photo storage app for automatic backups and syncing. Zero-knowledge, open source, and private."
+  }
+]

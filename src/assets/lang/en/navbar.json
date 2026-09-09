@@ -1,0 +1,109 @@
+{
+  "links": {
+    "products": "Products",
+    "about": "About Us",
+    "ourValues": "Our Values",
+    "privacy": "Privacy",
+    "pricing": "Pricing",
+    "blackFriday": "Black Friday",
+    "login": "Log in",
+    "getStarted": "Get Internxt",
+    "chooseStorage": "Get Internxt",
+    "checkout": "Claim now!",
+    "business": "Business"
+  },
+  "products": {
+    "drive": { "name": "Internxt Drive", "title": "Private Cloud Storage"},
+    "s3": "Enterprise Cloud Storage",
+    "webDAV": "Internxt WebDAV",
+    "vpn": { "name": "Internxt VPN", "title": "Secure and Private VPN"},
+    "send": "Internxt Send",
+    "comingSoon": "Coming soon",
+    "new": "New",
+    "antivirus": "Internxt Antivirus",
+    "cleaner": "Internxt Cleaner",
+    "meet": { "name": "Internxt Meet", "title": "Secure video conferencing"},
+    "ai": "Internxt AI",
+    "mail": { "name": "Internxt Mail", "title": "Encrypted Email"},
+    "photos": { "name": "Internxt Photos", "title": "end to end encrypted photo storage"}
+  },
+  "ourValues": {
+    "privacy": "Privacy",
+    "openSource": "Open Source",
+    "sustainability": "Sustainability",
+    "certifications": "Certifications",
+    "about": "About Us"
+  },
+  "Auth": {
+    "SignUp": {
+      "title": "Create an Internxt account",
+      "or": "or",
+      "login": "Log in",
+      "disclaimer": {
+        "text": "By creating an account you accept the",
+        "link": "terms and conditions"
+      },
+      "fields": {
+        "email": {
+          "label": "Email",
+          "placeholder": "Email"
+        },
+        "password": {
+          "label": "Password",
+          "placeholder": "Password",
+          "strength": {
+            "complexity": "Password is not complex enough",
+            "length": "Password has to be at least 8 characters long",
+            "weak": "Password is weak",
+            "strong": "Password is strong"
+          }
+        },
+        "submit": "Get started"
+      }
+    },
+    "LogIn": {
+      "title": "Log in to Internxt",
+      "or": "or",
+      "signup": "Create account",
+      "fields": {
+        "email": {
+          "label": "Email",
+          "placeholder": "Email"
+        },
+        "password": {
+          "label": "Password",
+          "placeholder": "Password",
+          "helper": "Forgot your password?"
+        },
+        "tfa": {
+          "label": "Two Factor Authentication",
+          "placeholder": "2FA Code",
+          "hint": "2FA Code must be 6 digits"
+        },
+        "submit": "Log in"
+      }
+    },
+    "Recover": {
+      "title": "Recover account",
+      "back": "Back to log in",
+      "disclaimer": "As specified in the app settings, only you have access to your password, therefore we can't restore your account without it. You can sign up again by entering your email below so we can delete your account and all your files.",
+      "fields": {
+        "email": {
+          "label": "Email",
+          "placeholder": "Email"
+        },
+        "submit": "Send confirmation email"
+      },
+      "success": {
+        "title": "Check your email",
+        "subtitle": "We've send an account reset link to"
+      }
+    }
+  },
+  "MinimalNavbar": {
+    "secondaryEyeBrow": "Antivirus",
+    "cta": "Get Internxt",
+    "price": "From {currency}{price}/mo",
+    "priceAnnual": "From {currency}{price}/year"
+  }
+}

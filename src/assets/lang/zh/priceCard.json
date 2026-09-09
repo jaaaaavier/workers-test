@@ -1,0 +1,318 @@
+{
+  "mostPopular": "推荐",
+  "perUserSlash": "/用户",
+  "perYear": "/年",
+  "perMonth": "/月",
+  "cta": "选择计划",
+  "gifts": {
+    "line1": "参与我们的圣诞抽奖",
+    "outCard": "*可在亚马逊、Apple 等平台兑换 ",
+    "prices": {
+      "essentials": "有机会赢取 100 欧元礼品卡*",
+      "standard": "标准",
+      "premium": "有机会赢取 300 欧元礼品卡*",
+      "ultimate": "有机会赢取 1000 欧元礼品卡*"
+    }
+  },
+  "renewsInfo": "年度计划，首月费用为 {{priceNow}}，之后按 {{price}}/月续订",
+  "productFeatures": {
+    "planTypes": {
+      "essentials": "基本",
+      "standard": "标准",
+      "premium": "高级",
+      "ultimate": "旗舰",
+      "pro": "专业版",
+      "family": {
+        "1TB": "家庭基本版",
+        "2TB": "家庭高级版"
+      }
+    },
+    "comingSoonLabel": "即将推出",
+    "individualPlans": {
+      "1TB": [
+        {
+          "name": "**1TB** 加密存储空间",
+          "status": "available"
+        },
+        {
+          "name": "30天无风险试用",
+          "status": "available"
+        },
+        {
+          "name": "后量子密码技术",
+          "status": "available"
+        },
+        {
+          "name": "零知识加密",
+          "status": "available"
+        },
+        {
+          "name": "双重身份验证",
+          "status": "available"
+        },
+        {
+          "name": "电脑备份",
+          "status": "available"
+        },
+        {
+          "name": "密码保护的文件共享",
+          "status": "available"
+        },
+        {
+          "name": "加密 VPN",
+          "status": "available"
+        },
+        {
+          "name": "杀毒软件",
+          "status": "available"
+        }
+      ],
+      "3TB": [
+        {
+          "name": "**3TB** 加密存储空间",
+          "status": "available"
+        },
+        {
+          "name": "30天无风险试用",
+          "status": "available"
+        },
+        {
+          "name": "后量子密码技术",
+          "status": "available"
+        },
+        {
+          "name": "零知识加密",
+          "status": "available"
+        },
+        {
+          "name": "双重身份验证",
+          "status": "available"
+        },
+        {
+          "name": "电脑备份",
+          "status": "available"
+        },
+        {
+          "name": "密码保护的文件共享",
+          "status": "available"
+        },
+        {
+          "name": "邀请、分享和协作",
+          "status": "available"
+        },
+        {
+          "name": "文件版本控制",
+          "status": "available"
+        },
+        {
+          "name": "加密 VPN",
+          "status": "available"
+        },
+        {
+          "name": "杀毒软件",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        }
+      ],
+      "5TB": [
+        {
+          "name": "**5TB** 加密存储空间",
+          "status": "available"
+        },
+        {
+          "name": "30天无风险试用",
+          "status": "available"
+        },
+        {
+          "name": "后量子密码技术",
+          "status": "available"
+        },
+        {
+          "name": "零知识加密",
+          "status": "available"
+        },
+        {
+          "name": "双重身份验证",
+          "status": "available"
+        },
+        {
+          "name": "电脑备份",
+          "status": "available"
+        },
+        {
+          "name": "密码保护的文件共享",
+          "status": "available"
+        },
+        {
+          "name": "邀请、分享和协作",
+          "status": "available"
+        },
+        {
+          "name": "文件版本控制",
+          "status": "available"
+        },
+        {
+          "name": "照片",
+          "status": "available"
+        },
+        {
+          "name": "支持 CLI 和 WebDav",
+          "status": "available"
+        },
+        {
+          "name": "支持 NAS 和 Rclone",
+          "status": "available"
+        },
+        {
+          "name": "加密 VPN",
+          "status": "available"
+        },
+        {
+          "name": "杀毒软件",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        },
+        {
+          "name": "Mail",
+          "status": "available"
+        }
+      ]
+    },
+    "business": {
+      "1TB": [
+        {
+          "name": "每用户 **1TB** 加密存储空间",
+          "status": "available"
+        },
+        {
+          "name": "后量子密码技术",
+          "status": "available"
+        },
+        {
+          "name": "零知识加密",
+          "status": "available"
+        },
+        {
+          "name": "双重身份验证",
+          "status": "available"
+        },
+        {
+          "name": "电脑备份",
+          "status": "available"
+        },
+        {
+          "name": "密码保护的文件共享",
+          "status": "available"
+        },
+        {
+          "name": "邀请、分享和协作",
+          "status": "available"
+        },
+        {
+          "name": "遵守 GDPR",
+          "status": "available"
+        },
+        {
+          "name": "CLI 和 WebDav",
+          "status": "available"
+        },
+        {
+          "name": "组织管理",
+          "status": "available"
+        },
+        {
+          "name": "加密 VPN",
+          "status": "available"
+        },
+        {
+          "name": "杀毒软件",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        }
+      ],
+      "2TB": [
+        {
+          "name": "每用户 **2TB** 加密存储空间",
+          "status": "available"
+        },
+        {
+          "name": "后量子密码技术",
+          "status": "available"
+        },
+        {
+          "name": "零知识加密",
+          "status": "available"
+        },
+        {
+          "name": "双重身份验证",
+          "status": "available"
+        },
+        {
+          "name": "电脑备份",
+          "status": "available"
+        },
+        {
+          "name": "密码保护的文件共享",
+          "status": "available"
+        },
+        {
+          "name": "邀请、分享和协作",
+          "status": "available"
+        },
+        {
+          "name": "遵守 GDPR",
+          "status": "available"
+        },
+        {
+          "name": "支持 CLI、WebDav、Rclone 和 NAS",
+          "status": "available"
+        },
+        {
+          "name": "组织管理",
+          "status": "available"
+        },
+        {
+          "name": "加密 VPN",
+          "status": "available"
+        },
+        {
+          "name": "杀毒软件",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        },
+        {
+          "name": "文件版本控制",
+          "status": "available"
+        },
+        {
+          "name": "Mail",
+          "status": "available"
+        }
+      ]
+    }
+  }
+}

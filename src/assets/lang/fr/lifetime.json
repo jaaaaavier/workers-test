@@ -1,0 +1,203 @@
+{
+  "HeroSection": {
+    "products": {
+      "drive": "Drive",
+      "antivirus": "Antivirus",
+      "cleaner": "Cleaner",
+      "vpn": "VPN",
+      "meet": "Meet",
+      "mail": "Mail",
+      "ai": "AI"
+    },
+    "title": "Stockage cloud à vie **pour moins cher**",
+    "valentinesTitle": "L'amour mérite la **confidentialité**",
+    "description": "Stockage cloud chiffré à vie pour moins cher. Profitez de votre remise spéciale dès aujourd'hui. Accédez à la suite de confidentialité primée d'Internxt avec un stockage cloud chiffré post-quantique et bien plus encore.",
+    "subtitle": "Obtenez {{discount}} % de réduction dès maintenant",
+    "claimDeal": "Profiter de l'offre"
+  },
+  "ReviewSection": {
+    "pcMag": "\"Internxt est en méga-promotion, bénéficie d'**excellents avis d'utilisateurs**, d'un chiffrement de bout en bout et **post-quantique**, et rend son code entièrement **open source**.\"",
+    "mashable": "\"Prenez au sérieux la **protection** de vos données importantes. Internxt est né avec l'ambition d'offrir aux gens une véritable **liberté en ligne** en créant un monde numérique plus **éthique**, **sûr**, **privé** et responsable.\"",
+    "pcWorld": "\"L'accès web, la synchronisation des fichiers et les services de sauvegarde d'Internxt sont **impressionnants**. Ce service de **stockage en ligne chiffré** est **simple**, et les offres actuelles sont une véritable aubaine.\""
+  },
+  "TrustedBySection": {
+    "description": "Internxt, c'est avant tout une question de contrôle. Avec Internxt, vous avez l'esprit tranquille en sachant que vos données sont chiffrées, protégées et que votre vie numérique vous appartient."
+  },
+  "NextGenSection": {
+    "title": "Pourquoi choisir le stockage cloud permanent d'Internxt ?",
+    "description": "Internxt vous redonne le contrôle de votre confidentialité. Contrairement au stockage cloud traditionnel, nous garantissons que vous seul détenez les clés de vos données chiffrées, et nous ne stockons ni ne vendons vos données à des tiers. Nous mettons tout en œuvre pour que vos informations restent en sécurité.",
+    "cta": "Apprenez à mieux nous connaître",
+    "cardDescriptions": {
+      "titles": [
+        "Des données impossibles à pirater ou à divulguer",
+        "Sécurité de nouvelle génération",
+        "Open source et transparent",
+        "Vérifié de manière indépendante"
+      ],
+      "descriptions": [
+        "Nous ne stockons ni mots de passe ni données utilisateur, et toutes vos données sont chiffrées en transit et au repos. Internxt vous donne le contrôle total de vos fichiers. Vos données vous appartiennent. Les protéger est notre affaire.",
+        "Internxt est le seul stockage cloud qui chiffre automatiquement vos fichiers grâce à la cryptographie de bout en bout et post-quantique, ce qui signifie que vous seul pouvez accéder à vos données.",
+        "Nous sommes fiers de ce que nous faisons, c'est pourquoi notre code est rendu public sur GitHub et peut être personnellement examiné, audité et vérifié par tous. Nous n'avons rien à cacher, si ce n'est vos données.",
+        "Nous sommes entièrement conformes au RGPD et 100 % sûrs, mais ne nous croyez pas sur parole. Internxt a été audité et vérifié de manière indépendante par Securitum, la principale entreprise de tests d'intrusion d'Europe."
+      ]
+    }
+  },
+  "ctaSection": {
+    "titleWithoutDiscount": "Suite complète de confidentialité numérique",
+    "title": "Stockage cloud en paiement unique",
+    "description": "Profitez de la tranquillité d'esprit avec cette remise exclusive. Confidentialité et sécurité totales.",
+    "cta": "Accepter l'invitation"
+  },
+  "ctaSection2": {
+    "title": "Parmi les offres à vie d'Internxt : laquelle choisir ? 1 To, 3 To ou 5 To ?",
+    "description": "Toutes nos offres vous donnent tout ce dont vous avez besoin pour stocker vos fichiers en toute confidentialité dans le cloud. Si vous souhaitez une confidentialité complète, une gestion avancée du cloud et toutes les fonctionnalités d'Internxt, comme Meet et Mail, l'offre Ultimate 5 To est le meilleur choix pour un contrôle total et une confidentialité maximale.",
+    "descriptionWithoutDisocunt": "Vivez une confidentialité numérique complète avec Internxt",
+    "cta": "Choisir l'offre"
+  },
+  "tableSection": {
+    "title": "Offres Internxt",
+    "valentinesTitle": "Amour sécurisé - ",
+    "hotLabel": "{{discount}} % de réduction",
+    "planTitles": {
+      "header": "Sélectionnez votre offre à vie",
+      "individuals": "Offres annuelles",
+      "homePage": "Choisissez l'offre qui vous convient",
+      "lifetime": "Offres à vie",
+      "business": "Offres entreprise",
+      "lifetimeCampaign": {
+        "blueText": "50 % de réduction",
+        "normalText": "sur toutes nos offres à vie exclusives"
+      }
+    },
+    "lifetimeDescription": "Payez une fois et profitez de la confidentialité et de la sécurité à vie",
+    "planDescription": "Toutes les offres Internxt sont complètes et donnent un accès total à notre suite de confidentialité primée, composée d'Internxt Drive, Send, VPN, Antivirus, Cleaner, Meet et Mail.",
+    "businessDescription": "Nous travaillons actuellement sur de nouvelles offres Internxt conçues exclusivement pour défendre votre entreprise, protéger vos employés et sécuriser votre rentabilité.",
+    "businessDescription2": "Assurez la sécurité des données de votre entreprise avec les offres de stockage cloud chiffré d'Internxt.",
+    "billingFrequency": {
+      "monthly": "Mensuel",
+      "annually": "Annuel",
+      "lifetime": "À vie",
+      "individual": "Individuel",
+      "business": "Entreprise"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Gratuit",
+      "description": "Obtenez 1 Go de stockage cloud chiffré gratuitement",
+      "cta": "Sélectionner l'offre"
+    },
+    "features": {
+      "endToEnd": "Chiffrement de bout en bout",
+      "openSource": "Open source et audité",
+      "anonymousAccount": "Création de compte anonyme",
+      "premiumSupport": "Support client premium",
+      "guarantee": "Garantie de remboursement de 30 jours"
+    },
+    "planStorage": {
+      "essential": "1 To",
+      "premium": "3 To",
+      "ultimate": "5 To"
+    }
+  },
+  "FeaturesSection": {
+    "section1": {
+      "title": {
+        "line1": "Tous types de fichiers, tous types d'appareils"
+      }
+    },
+    "section2": {
+      "title": {
+        "line1": "Retrouvez vos fichiers",
+        "line2": "sur tous vos",
+        "line3": "appareils"
+      },
+      "subtitle": {
+        "line1": "Accédez en toute sécurité à tous vos fichiers depuis ",
+        "line2": "votre ordinateur, smartphone, tablette ",
+        "line3": "ou tout appareil disposant d'une connexion à ",
+        "line4": "internet, via l'application de ",
+        "line5": "stockage cloud la plus sûre."
+      }
+    },
+    "section3": {
+      "title": {
+        "line1": "Gardez vos fichiers",
+        "line2": "organisés et",
+        "line3": "accessibles depuis",
+        "line4": "n'importe où"
+      },
+      "subtitle": {
+        "line1": "Internxt Drive vous permet d'organiser vos",
+        "line2": "fichiers dans des dossiers, de les renommer et de filtrer",
+        "line3": "une liste de fichiers pour trouver plus vite ce que vous cherchez.",
+        "line4": "Vous pouvez même sauvegarder les dossiers de votre",
+        "line5": "ordinateur pour toujours disposer des",
+        "line6": "modifications les plus récentes de vos fichiers les plus importants",
+        "line7": ""
+      }
+    },
+    "section4": {
+      "title": {
+        "line1": "Partagez vos fichiers",
+        "line2": "en toute simplicité,",
+        "line3": "la sécurité, c'est notre affaire"
+      },
+      "subtitle": {
+        "line1": "Internxt Drive se concentre sur la confidentialité et",
+        "line2": "la sécurité, pour que vous n'ayez à vous concentrer que sur",
+        "line3": "ce qui compte pour vous, comme partager des fichiers",
+        "line4": "avec vos collègues, ou les billets d'avion",
+        "line5": "pour vos prochaines vacances en famille. Vous",
+        "line6": "choisissez avec qui vous voulez les partager",
+        "line7": "et combien de fois vous voulez",
+        "line8": "qu'ils soient téléchargés."
+      }
+    },
+    "section5": {
+      "eyebrow": "NOUVELLE FONCTIONNALITÉ",
+      "title": {
+        "line1": "Sauvegardez ce qui",
+        "line2": "compte pour vous"
+      },
+      "subtitle": {
+        "line1": "Vous pouvez désormais conserver la dernière version",
+        "line2": "de ce projet super important",
+        "line3": "ou de votre devoir universitaire sur lequel vous",
+        "line4": "travaillez, en sécurité et à jour dans votre",
+        "line5": "Internxt Drive."
+      }
+    },
+    "section6": {
+      "title": {
+        "line1": "Synchronisez vos fichiers en toute confidentialité",
+        "line2": ""
+      }
+    },
+    "section7": {
+      "title": {
+        "line1": "Gardez vos fichiers en sécurité",
+        "line2": "et privés"
+      },
+      "subtitle": {
+        "line1": "La confidentialité et la sécurité sont au cœur de tout ce que nous faisons ; nous ne fondons pas notre activité sur les données ou",
+        "line2": "la publicité, mais sur la confiance. Nous respectons vos droits et créons des outils formidables autour d'eux, non contre eux."
+      },
+      "cta": "Notre engagement en matière de confidentialité",
+      "card1": {
+        "title": "Sécurité de nouvelle génération",
+        "subtitle": "Internxt Drive protège vos fichiers grâce à la cryptographie de bout en bout et post-quantique. Nous sommes le premier service de stockage cloud à protéger les données contre les futures menaces des ordinateurs quantiques."
+      },
+      "card2": {
+        "title": "Technologie zéro connaissance",
+        "subtitle": "Nous ne stockons ni ne transmettons jamais de fichiers, de mots de passe utilisateur ou de clés de chiffrement sous une forme non chiffrée ou non hachée."
+      },
+      "card3": {
+        "title": "Confidentialité dès la conception",
+        "subtitle": "Nous développons nos produits en pensant à l'utilisateur, et sa confidentialité est indispensable dans le monde axé sur les données dans lequel nous vivons."
+      },
+      "card4": {
+        "title": "Open source et transparent",
+        "subtitle": "Nous sommes fiers de ce que nous faisons, c'est pourquoi notre code est rendu public sur GitHub et peut être personnellement examiné, audité et vérifié par tous. Nous n'avons rien à cacher, si ce n'est vos données."
+      }
+    }
+  }
+}

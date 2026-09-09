@@ -1,0 +1,116 @@
+{
+  "HeroSection": {
+    "title": "**推薦**朋友，**賺取**高達100歐元",
+    "subtitle": "邀請您的朋友試用 Internxt Drive、VPN、Meet 等。當他們購買方案時，你們都會獲得獎勵。",
+    "features": [
+      "每次推薦可獲得高達100歐元",
+      "您的朋友可享受所有方案85%的折扣",
+      "直接將款項支付到您的 PayPal 帳戶"
+    ],
+    "cta": "邀請朋友"
+  },
+  "RewardsSection": {
+    "title": "您可以獲得什麼獎勵？",
+    "subtitle": "推薦朋友，獲得高達100歐元",
+    "features": [
+      "每當有人透過您的專屬推薦連結購買方案，您都可以獲得佣金。推薦的朋友越多，賺得就越多，每推薦一人最高可獲得 100 歐元的獎勵，計算方式為推薦對象支付金額的 10% 定期重複佣金。",
+      "透過您的推薦連結進行購買的用戶，還將享受 Internxt 任意方案的 15 折優惠（折抵 85%）。"
+    ]
+  },
+  "HowItWorks": {
+    "title": "Internxt 的「推薦並賺錢」計劃如何運作？",
+    "subtitle": "分三步輕鬆推薦朋友，立即開始賺錢！",
+    "cards": [
+      {
+        "title": "發送您的邀請連結",
+        "description": "登入您的 Internxt 帳戶並從 Internxt Web 應用程式分享您獨特的推薦連結。"
+      },
+      {
+        "title": "等待購買",
+        "description": "與朋友分享您的推薦連結，他們可以享受任何 Internxt 方案 85% 的折扣。"
+      },
+      {
+        "title": "獲得獎勵！",
+        "description": "一旦有人透過您的推薦連結購買了方案，請將您的收入直接轉入您的 PayPal 帳戶。"
+      }
+    ]
+  },
+  "tableSection": {
+    "title": "您的朋友可以獲得什麼獎勵？",
+    "subtitle": "您的推薦連結可享受所有方案85%的折扣，讓他們使用安全的雲端儲存、VPN、Meet等更多服務。",
+    "planTitles": {
+      "header": "選擇您的方案",
+      "individuals": "年度方案",
+      "homePage": "為您選擇合適的方案",
+      "lifetime": "終身方案",
+      "business": "企業方案",
+      "lifetimeCampaign": {
+        "blueText": "5折優惠",
+        "normalText": "所有獨家終身方案"
+      }
+    },
+    "lifetimeDescription": "一次付款，永久享受隱私和安全。",
+    "planDescription": "所有 Internxt 方案均包含完整存取我們屢獲殊榮的隱私套件：Internxt Drive、Send、VPN、防病毒、清理工具、暗網監控、Meet 和 Mail。",
+    "businessDescription": "我們目前正在開發專為保護您的企業、員工和獲利能力而設計的全新 Internxt 企業方案。",
+    "businessDescription2": "使用 Internxt 的加密雲端儲存方案確保您公司的資料安全。",
+    "billingFrequency": {
+      "monthly": "每月",
+      "annually": "每年",
+      "lifetime": "終身",
+      "individual": "個人",
+      "business": "企業"
+    },
+    "freePlanCard": {
+      "eyeBrow": "取得免費加密雲端儲存",
+      "description": "免費取得 1 GB 加密雲端儲存",
+      "cta": "選擇方案"
+    },
+    "features": {
+      "endToEnd": "端對端加密",
+      "openSource": "開源且經過審計",
+      "anonymousAccount": "匿名帳戶建立",
+      "premiumSupport": "高級客戶支援",
+      "guarantee": "30天退款保證"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "FaqSection": {
+    "title": "有問題？我們有答案",
+    "faq": [
+      {
+        "question": "我在哪裡可以找到我的推薦連結？",
+        "answer": [
+          "登入您的 Internxt 帳戶 https://drive.internxt.com/login，然後在選單列中單擊賺取 100 歐元。"
+        ]
+      },
+      {
+        "question": "誰有資格進行推薦？",
+        "answer": [
+          "該計劃向所有擁有 Internxt 付費方案、帳戶已建立至少 30 天且已驗證電子郵件地址的人開放。"
+        ]
+      },
+      {
+        "question": "誰有資格獲得推薦連結？",
+        "answer": [
+          "任何擁有免費 Internxt 帳戶的人都有資格獲得任何年度或終身方案 85% 的折扣。"
+        ]
+      },
+      {
+        "question": "我能賺多少錢？",
+        "answer": [
+          "根據使用您的連結購買的方案，您每次推薦最高可賺取 100 歐元。"
+        ]
+      },
+      {
+        "question": "我可以使用信用卡、PayPal 或加密貨幣付款嗎？",
+        "answer": [
+          "Internxt 目前接受簽帳金融卡和信用卡（萬事達卡、VISA 卡、美國運通卡等）。您也可以透過 PayPal、Crypto 和 Klarna 付款。根據要求，我們也接受加密貨幣。如果您對付款方式有疑問，只需發送電子郵件至 hello@internxt.com 發送郵件給我們。"
+        ]
+      }
+    ]
+  }
+}

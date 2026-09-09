@@ -1,0 +1,311 @@
+{
+  "HeroSection": {
+    "eyebrow": " Drive",
+    "title": "适用于您所有文件的**安全云存储**",
+    "subtitle": "屡获殊荣的后量子加密云存储，保护您的隐私。",
+    "features": ["后量子加密", "文件存储、同步和备份", "开源且经过审计"],
+    "cta": "获取 Internxt",
+    "DownloadSection": {
+      "downloadTitle": "下载 Internxt Drive",
+      "Desktop": "Internxt 桌面版",
+      "Web": "Internxt 网页版",
+      "Mobile": "Internxt 移动版",
+      "or": "或",
+      "downloadFor": "下载适用于",
+      "orDownloadFor": "或下载适用于",
+      "downloadOnThe": "下载于",
+      "orDownloadOnThe": "或下载于",
+      "getOn": "从以下位置下载",
+      "orGetOn": "或在以下位置获取",
+      "openDriveWeb": "打开 Drive 网页版",
+      "iPhone": "App Store",
+      "iPad": "App Store",
+      "Android": "Play Store",
+      "Windows": "Windows",
+      "Linux": "Linux",
+      "UNIX": "Linux",
+      "MacOS": "Mac"
+    }
+  },
+  "tableSection": {
+    "title": "Internxt 方案",
+    "hotLabel": "{{discount}}% 折扣 ",
+    "planTitles": {
+      "header": " 選擇您的計劃",
+      "homePage": "選擇適合您的方案",
+      "lifetime": "終身方案",
+      "business": "企業方案",
+      "lifetimeCampaign": {
+        "blueText": "5 折優惠",
+        "normalText": "所有專屬終身方案"
+      }
+    },
+    "lifetimeDescription": "一次付費，終身享受隱私和安全保護",
+    "planDescription": "所有 Internxt 方案都可完整存取我們的私密解決方案套件，配備最新安全技術：Internxt Drive, Send, VPN, Antivirus, Cleaner,Meet 和 Mail。",
+    "businessDescription": "我們目前正在開發專為保護您的事業、保護員工和確保獲利而設計的全新 Internxt 企業方案。",
+    "businessDescription2": "使用 Internxt 加密雲端儲存方案確保企業資料安全。",
+    "billingFrequency": {
+      "monthly": "月付",
+      "annually": "年付",
+      "lifetime": "終身",
+      "individual": "個人",
+      "business": "企業"
+    },
+    "freePlanCard": {
+      "eyeBrow": "免費版",
+      "description": "免費獲得 1GB 加密雲端儲存空間",
+      "cta": "選擇方案"
+    },
+    "features": {
+      "endToEnd": "端對端加密",
+      "openSource": "開源且經過稽核",
+      "anonymousAccount": "匿名帳戶建立",
+      "premiumSupport": "高級客戶支援",
+      "guarantee": "30 天退款保證"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "DriveSection": {
+    "title": "Internxt Drive",
+    "description": [
+      "Google Drive、iCloud、OneDrive、Dropbox 等可以解密、查看并与政府和第三方共享您的数据。",
+      "Internxt Drive 通过零知识和后量子加密，为您提供对云存储的完全控制和隐私。我们无法访问您的文件；您保留对数据全部所有权、访问权限和控制权。"
+    ]
+  },
+  "EncryptedCloudStorageSection": {
+    "title": "安全的雲端儲存，以隱私為基礎",
+    "description": "Internxt Drive 使用后量子和零知识加密技术，对您静止和传输中的文件和数据进行加密。",
+    "scrollableSection": {
+      "titles": ["您的加密保险库", "隐私高于利润", "合规性", "开源且经过审计", "为自由而生", "无后门"],
+      "descriptions": [
+        "Internxt 是第一个使用 Kyber 512 后量子和 AES-256 加密的云存储，通过端到端安全、欧洲隐私和先进技术确保数据保护。",
+        "与大型科技公司不同，Internxt 无法查看或删除您的文件。您的文件和数据直接在您的设备上进行加密。没有人，甚至我们，都无法访问您的文件或数据。",
+        "Internxt 符合 HIPAA、ISO 27001 和 SOC 2 标准。无论您是需要云存储用于医疗、金融还是个人用途，Internxt 都能确保您的数据和文件符合最高数据保护标准。",
+        "我们所有的代码都在 GitHub 上公开，并经过外部网络安全专家的验证，以确保它是一个安全的数据平台。",
+        "我们为您提供对隐私的完全所有权和控制权。借助我们注重隐私的产品，您拥有权力，而不是大型科技公司。",
+        "我们无法访问您的数据或文件，也不会与任何人分享。我们的应用程序完全开源且经过审计，保证您的隐私受到尊重。"
+      ]
+    }
+  },
+  "CoreFeatures": {
+    "title": "核心功能",
+    "description": "为您的数据提供完整的安全性，您需要的一切都能让您的文件保持安全和私密",
+    "accordionCards": {
+      "titles": ["一个完全私密的生态系统", "安全协作", "您的云盘，就像本地驱动器"],
+      "descriptions": [
+        "Internxt 捆绑了加密存储、备份、VPN、杀毒软件、Cleaner、Meet、Mail 等——一切为了摆脱大型科技公司的束缚。",
+        "使用加密链接、密码和控制发送文件。与您的团队实时协作，同时保持数据私密。",
+        "使用 Internxt 作为虚拟驱动器，无缝同步、上传和访问文件——就像在您的计算机上一样，但完全安全并始终保持最新。"
+      ]
+    },
+    "cards": {
+      "titles": ["端到端加密", "访问控制", "加密备份"],
+      "descriptions": [
+        "所有文件均采用后量子和零知识加密技术进行加密。除了您或您选择共享文件的对象之外，任何人都无法查看其内容。",
+        "您可以精确控制谁可以访问您的共享文件，通过加密的、受密码保护的链接，您可以随时撤销。",
+        "通过定期的、加密的备份，确保您的文件免受勒索软件和意外丢失的影响，提供额外的保护和安心。"
+      ]
+    }
+  },
+  "AllInOnePrivacySection": {
+    "title": "您的多合一隐私解决方案",
+    "scrollableSection": {
+      "titles": ["完整的隐私套件", "适用于企业", "适用于家庭", "无与伦比的定价"],
+      "descriptions": [
+        "超越云存储，在您的隐私套餐中包含 VPN、杀毒软件、Cleaner、Meet 和 Mail。",
+        "使用我们面向企业的云存储，保护您的公司免受勒索软件和数据泄露的侵害。",
+        "存储和分享您的家庭照片、视频和回忆，并永久安全地保存它们。",
+        "没有隐藏费用，选择您的计划，以一个价格享受其功能和完整的加密。"
+      ]
+    }
+  },
+  "MadeInEuropeSection": {
+    "title": "欧洲制造",
+    "description": "您的数据受到严格的欧洲合规法律和法规以及屡获殊荣的加密技术的保护。",
+    "cards": {
+      "images": ["/images/drive/GDPR.webp", "/images/drive/redundancy.webp", "/images/drive/sustainability.webp"],
+      "imagesMobile": [
+        "/images/drive/GDPR2.webp",
+        "/images/drive/Redundancy2.webp",
+        "/images/drive/Sustainability2.webp"
+      ],
+      "titles": ["欧洲数据中心", "冗余", "对可持续性的承诺"],
+      "descriptions": [
+        "Internxt 总部位于西班牙瓦伦西亚，我们的数据中心位于欧洲和世界其他地区，为您提供安全性、速度和合规性。",
+        "您的文件受到冗余系统、环境控制和 24/7 现场安全监控的保护。无论发生什么，您的文件始终保持安全且可访问。",
+        "Internxt 以身作则，通过节能实践致力于实现更可持续的云存储解决方案，以实现更清洁、更可持续的云存储解决方案。"
+      ],
+      "cta": ["了解更多", "", "了解更多"]
+    }
+  },
+  "OfficalCloudProvider": {
+    "title": "萊萬特UD官方雲端儲存提供商",
+    "description": [
+      "萊萬特UD與Internxt建立合作夥伴關係,成為俱樂部加密雲端儲存的官方提供商,以保持其資料完全私密。此次合作將科技與體育結合,彰顯了Internxt在歐洲科技領域日益增長的影響力。",
+      "隨著萊萬特UD現代化其數位基礎設施,俱樂部與Internxt攜手推進基於隱私、信任和數位獨立的創新模式。這項協議標誌著在推進數位主權和資料保護方面的重要里程碑。"
+    ],
+    "cta": "了解更多"
+  },
+  "CtaSection": {
+    "title": "不要让大型科技公司监视您的文件",
+    "description": "切换到 Internxt Drive 以获得最安全的云存储",
+    "cta": "获取 Internxt"
+  },
+  "DownloadSection": {
+    "downloadTitle": "下载 Internxt Drive",
+    "Desktop": "Internxt 桌面版",
+    "Web": "Internxt 网页版",
+    "Mobile": "Internxt 移动版",
+    "or": "或",
+    "downloadFor": "下载适用于",
+    "orDownloadFor": "或下载适用于",
+    "downloadOnThe": "下载于",
+    "orDownloadOnThe": "或下载于",
+    "getOn": "从以下位置下载",
+    "orGetOn": "或在以下位置获取",
+    "openDriveWeb": "打开 Drive 网页版",
+    "iPhone": "App Store",
+    "iPad": "App Store",
+    "Android": "Play Store",
+    "Windows": "Windows",
+    "Linux": "Linux",
+    "UNIX": "Linux",
+    "MacOS": "Mac"
+  },
+  "AdvancedToolsSection": {
+    "title": "专家的先进工具",
+    "description": "Internxt 适用于 Windows、Mac、Linux 和移动设备——为开发人员和企业提供高级工具。",
+    "powerUsers": {
+      "title": "强大用户的 \n **强大工具**",
+      "description": "Internxt CLI 是一个强大的命令行工具，允许您 \n 通过命令 \n 和 WebDAV 访问和管理 Internxt Drive 数据。",
+      "install": {
+        "title": "使用 npm 安装",
+        "command": "npm i -g @internxt/cli"
+      },
+      "available": "可用于",
+      "learnMore": {
+        "title": "了解有关 Internxt CLI 的更多信息：",
+        "GitHub": "GitHub ReadMe",
+        "learnMore": "了解更多"
+      }
+    },
+    "webDAV": {
+      "title": "WebDAV",
+      "description": "使用您最喜欢的 WebDAV 客户端和 CLI 在任何平台上安全地运行 Internxt——端到端加密，零知识保护。",
+      "cta": "获取 WebDAV"
+    },
+    "Rclone": {
+      "title": "Rclone",
+      "cta": "获取 Rclone",
+      "description": "通过原生 Rclone 支持，轻松地在多个云服务之间同步、备份和管理您的文件。"
+    },
+    "NAS": {
+      "title": "NAS",
+      "cta": "获取 NAS",
+      "description": "将您的 NAS 系统直接连接到 Internxt Drive，安全地备份、同步和管理您的数据。"
+    }
+  },
+  "ReviewSection": {
+    "forbes": "Internxt鞏固了其作為歐洲科技巨頭替代方案的地位",
+    "deloitte": "榮獲德勤Fast 50大獎，表彰成長最快的企業",
+    "techradar": "注重隱私和安全的雲端儲存服務商",
+    "fortune": "Internxt正在構建一個以隱私和安全為先的網際網路",
+    "trustpilot": "大量私密、安全的儲存空間。出色的支援。絕對物有所值。"
+  },
+  "FaqSection": {
+    "title": "有问题？我们有答案",
+    "faq": [
+      {
+        "question": "什么是 Internxt Drive？",
+        "answer": [
+          "Internxt Drive 是一种零知识文件存储服务，专为绝对隐私和严格安全而构建。我们的服务不会访问您的个人数据或文件。相反，它旨在让您重新获得对文件的控制权，并保护您免受数据收集者的侵害。"
+        ]
+      },
+      {
+        "question": "Internxt 是一种可持续且环保的云存储解决方案吗？",
+        "answer": [
+          "是的，Internxt 致力于绿色云计算，提供环保存储解决方案，以支持更清洁、可持续的未来。我们的数据中心 92% 由可再生能源供电，旨在最大限度地减少碳排放、资源消耗和电子垃圾。",
+          "我们的努力有助于实现到 2050 年气候中和的目标。了解更多"
+        ]
+      },
+      {
+        "question": "如何创建 Internxt 账户？",
+        "answer": [
+          "前往我们的网站并点击右上角的“开始”。通过输入电子邮件地址填写注册表，然后创建您的密码。开始使用 Internxt 的服务不需要身份或电子邮件验证。"
+        ]
+      },
+      {
+        "question": "如何将文件上传到 Internxt Drive？",
+        "answer": [
+          "访问 Drive 网页版并登录。将您选择的文件或照片直接拖放到浏览器窗口中。您也可以单击浏览器右侧的“新建”，这将打开资源管理器或 Finder，然后选择要上传的文件。"
+        ]
+      },
+      {
+        "question": "如何安装 Internxt 的应用程序？",
+        "answer": [
+          "访问 Internxt 网站，向下滚动主页并选择“下载应用程序”。Internxt 应用程序也可在 Play Store 或 App Store 中获取。下载过程完成后，系统将要求您运行我们的存储应用程序。下载我们的 Drive 应用程序可让您更好地利用 Internxt 的生态系统。"
+        ]
+      },
+      {
+        "question": "我可以使用 Internxt 配置 2FA 吗？",
+        "answer": [
+          "是的。您可以从 Drive 网页版应用程序为您的 Internxt 账户配置双因素身份验证 (2FA)。此外，您可以使用 Authy 或任何其他 2FA 工具生成您的 2FA 代码，以便登录我们的在线 Drive 应用程序。"
+        ]
+      }
+    ]
+  },
+  "SecureStorageSeoSection": {
+    "title": "安全雲端文件儲存：Internxt 如何保護您的資料",
+    "faq": [
+      {
+        "question": "什麼是安全雲端文件儲存，它有什麼特別之處？",
+        "answer": [
+          "安全雲端文件儲存是以資料保護為主要設計要求的線上文件儲存，而非事後添加的功能。與標準雲端儲存的區別取決於兩個技術因素：加密發生的位置以及誰控制金鑰。",
+          "標準雲端文件儲存對傳輸中和靜態資料進行加密，但提供商管理加密金鑰。這意味著提供商可以存取您的文件、回應法律要求，並在資料外洩時暴露您的資料。",
+          "基於零知識架構的平台運作方式不同：加密在您的裝置上進行，提供商只接收密文。即使在法律強制下，也無法提供可讀內容。",
+          "Internxt Drive 按此模型設計：零知識架構、AES-256 和後量子 Kyber-512、歐洲資料中心、ISO 27001:2022、HIPAA 合規以及 Securitum 2024 稽核。"
+        ]
+      },
+      {
+        "question": "雲端儲存安全在技術層面如何運作？",
+        "answer": [
+          "雲端儲存安全是一層層保護層的疊加，每層針對不同的威脅面。",
+          "傳輸加密（TLS 1.3）：防止網路攔截。靜態加密（AES-256）：防止實體洩露。存取控制：多因素身份驗證、基於角色的權限、撤銷對共享文件的存取。",
+          "隱私架構：最重要的措施是提供商是否能存取您的資料。零知識平台保護資料免受提供商本身的存取。",
+          "Internxt Drive 覆蓋所有層面：TLS 1.3、AES-256 加後量子 Kyber-512、精細存取控制、零知識架構以及經 Securitum 2024 年確認的完整合規記錄。"
+        ]
+      },
+      {
+        "question": "什麼是基於雲端的儲存安全，為什麼它對您的文件重要？",
+        "answer": [
+          "基於雲端的儲存安全涵蓋保護儲存在遠端基礎設施上的資料的所有技術和組織措施：傳輸、儲存、存取和恢復。",
+          "三個要求：保密性（誰可以讀取您的文件）、完整性（文件是否可被篡改）和可用性（您的文件是否保持可存取）。",
+          "持有金鑰的平台只能部分解決保密性問題——提供商本身就是潛在的存取點。零知識架構從技術上將提供商完全排除。",
+          "Internxt Drive 解決了所有三個問題：零知識加密保障保密性，密碼完整性驗證，以及冗餘歐洲資料中心確保可用性。"
+        ]
+      },
+      {
+        "question": "什麼是安全的基於雲端的儲存，如何評估它？",
+        "answer": [
+          "安全的基於雲端的儲存是以資料保護為設計要求的遠端文件儲存。五個可驗證的問題有助於評估任何聲稱提供雲端儲存安全的平台。",
+          "第一：加密發生在哪裡？客戶端加密比伺服器端更強。第二：誰持有加密金鑰？零知識模型將金鑰儲存在本地。第三：存在哪些獨立認證？",
+          "第四：代碼是否開放審查？開源代碼允許獨立驗證。第五：是否已完成並發布第三方滲透測試？",
+          "Internxt Drive 回答了所有五個問題：客戶端加密、零知識金鑰管理、ISO 27001:2022 和 HIPAA、完全開源代碼庫以及 Securitum 2024 年稽核。"
+        ]
+      },
+      {
+        "question": "什麼是安全雲端儲存，它比標準選項提供了什麼？",
+        "answer": [
+          "安全雲端儲存不僅僅是密碼或 HTTPS。它意味著底層架構在技術上防止未經授權的存取，即使是託管您文件的平台本身。",
+          "標準平台可能被法院強制交出資料或在資料外洩中被攻破。零知識架構消除了這個漏洞：文件在上傳前加密，提供商只儲存無法讀取的密文。",
+          "安全雲端儲存在實踐中提供什麼：您的文件只以加密形式離開裝置；提供商遭到攻破時，攻擊者獲得無法讀取的資料；法律要求無法得到滿足，因為提供商沒有存取權限。",
+          "Internxt Drive 從一開始就被設計為安全雲端儲存：零知識、端對端加密、開源且經獨立稽核。"
+        ]
+      }
+    ]
+  }
+}

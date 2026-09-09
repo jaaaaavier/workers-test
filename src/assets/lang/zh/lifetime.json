@@ -1,0 +1,198 @@
+{
+  "HeroSection": {
+    "products": {
+      "drive": "Drive",
+      "antivirus": "Antivirus",
+      "cleaner": "Cleaner",
+      "vpn": "VPN",
+      "meet": "Meet",
+      "mail": "Mail",
+      "ai": "AI"
+    },
+    "title": "终身云存储，**更省钱**",
+    "valentinesTitle": "爱值得**隐私**",
+    "description": "以更低价格享受加密终身云存储。立即领取您的专属折扣。使用 Internxt 屡获殊荣的隐私套件，享受后量子加密云存储及更多功能。",
+    "subtitle": "立即享受 {{discount}}% 折扣",
+    "claimDeal": "领取优惠"
+  },
+  "ReviewSection": {
+    "pcMag": "\"Internxt 正在进行大促销，拥有**出色的用户评价**、端到端和**后量子加密**，并将其代码完全**开源**。\"",
+    "mashable": "\"认真**保护**您的重要数据。Internxt 的诞生怀揣着一个愿景：通过创造一个更**道德**、更**安全**、更**私密**、更负责任的数字世界，为人们带来真正的**网络自由**。\"",
+    "pcWorld": "\"Internxt 的网页访问、文件同步和备份服务令人**印象深刻**。这项**加密在线存储**服务非常**简单**，而且目前的套餐非常划算。\""
+  },
+  "TrustedBySection": {
+    "description": "Internxt 让您掌握控制权。使用 Internxt，您可以放心，您的数据已加密、受到保护，您的数字生活属于您自己。"
+  },
+  "NextGenSection": {
+    "title": "为什么选择 Internxt 永久云存储？",
+    "description": "Internxt 让您重新掌控自己的隐私。与传统云存储不同，我们确保只有您拥有加密数据的密钥，并且我们不会存储或向第三方出售您的数据。我们竭尽全力确保您的信息安全无虞。",
+    "cta": "进一步了解我们",
+    "cardDescriptions": {
+      "titles": ["无法被黑客攻击或泄露的数据", "新一代安全性", "开源且透明", "经独立验证"],
+      "descriptions": [
+        "我们不存储密码或用户数据，您的所有数据在传输和静态时均已加密。Internxt 让您完全掌控自己的文件。您的数据是您的私事，保护它是我们的职责。",
+        "Internxt 是唯一一款使用端到端和后量子加密自动加密您文件的云存储，这意味着只有您才能访问自己的数据。",
+        "我们为自己的工作感到自豪，因此我们的代码在 GitHub 上公开，任何人都可以亲自审查、审计和验证。除了您的数据，我们没有任何隐瞒。",
+        "我们完全符合 GDPR 并且 100% 安全，但不必只听我们的一面之词。Internxt 已由欧洲领先的渗透测试公司 Securitum 进行独立审计和验证。"
+      ]
+    }
+  },
+  "ctaSection": {
+    "titleWithoutDiscount": "完整的数字隐私套件",
+    "title": "一次性付费云存储",
+    "description": "凭借此专属折扣，享受安心无忧。全面的隐私与安全。",
+    "cta": "接受邀请"
+  },
+  "ctaSection2": {
+    "title": "在 Internxt 的终身套餐中：我应该选择哪个？1TB、3TB 还是 5TB？",
+    "description": "我们所有的套餐都能为您提供在云端私密存储文件所需的一切。如果您想要完整的隐私、高级云管理以及 Internxt 的所有功能（如 Meet 和 Mail），5TB Ultimate 套餐是实现全面掌控和最高隐私的最佳选择。",
+    "descriptionWithoutDisocunt": "通过 Internxt 体验完整的数字隐私",
+    "cta": "选择套餐"
+  },
+  "tableSection": {
+    "title": "Internxt 套餐",
+    "valentinesTitle": "安全之爱 - ",
+    "hotLabel": "{{discount}}% 折扣",
+    "planTitles": {
+      "header": "选择您的终身套餐",
+      "individuals": "年度套餐",
+      "homePage": "选择适合您的套餐",
+      "lifetime": "终身套餐",
+      "business": "企业套餐",
+      "lifetimeCampaign": {
+        "blueText": "5 折优惠",
+        "normalText": "适用于我们所有专属终身套餐"
+      }
+    },
+    "lifetimeDescription": "一次付费，终身享受隐私与安全",
+    "planDescription": "所有 Internxt 套餐均功能齐全，可完整访问我们屡获殊荣的隐私套件，包括 Internxt Drive、Send、VPN、Antivirus、Cleaner、Meet 和 Mail。",
+    "businessDescription": "我们目前正在开发全新的 Internxt 套餐，专为保护您的企业、保护您的员工并保障您的盈利能力而设计。",
+    "businessDescription2": "使用 Internxt 的加密云存储套餐，确保贵公司的数据安全。",
+    "billingFrequency": {
+      "monthly": "每月",
+      "annually": "每年",
+      "lifetime": "终身",
+      "individual": "个人",
+      "business": "企业"
+    },
+    "freePlanCard": {
+      "eyeBrow": "免费",
+      "description": "免费获得 1 GB 加密云存储",
+      "cta": "选择套餐"
+    },
+    "features": {
+      "endToEnd": "端到端加密",
+      "openSource": "开源且经过审计",
+      "anonymousAccount": "匿名创建账户",
+      "premiumSupport": "高级客户支持",
+      "guarantee": "30 天退款保证"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "FeaturesSection": {
+    "section1": {
+      "title": {
+        "line1": "各种文件，各种设备"
+      }
+    },
+    "section2": {
+      "title": {
+        "line1": "找到您的文件",
+        "line2": "在您所有的",
+        "line3": "设备上"
+      },
+      "subtitle": {
+        "line1": "通过最安全的云存储应用，",
+        "line2": "从您的电脑、智能手机、平板电脑，",
+        "line3": "或任何联网设备，",
+        "line4": "安全地访问",
+        "line5": "您的所有文件。"
+      }
+    },
+    "section3": {
+      "title": {
+        "line1": "让您的文件",
+        "line2": "井然有序，",
+        "line3": "随时随地",
+        "line4": "皆可访问"
+      },
+      "subtitle": {
+        "line1": "Internxt Drive 让您将文件",
+        "line2": "整理到文件夹中、重命名，并筛选",
+        "line3": "文件列表，更快找到您想要的内容。",
+        "line4": "您甚至可以备份电脑文件夹，",
+        "line5": "让您始终拥有最重要文件的",
+        "line6": "最新更改",
+        "line7": ""
+      }
+    },
+    "section4": {
+      "title": {
+        "line1": "分享您的文件",
+        "line2": "轻松便捷，",
+        "line3": "安全交给我们"
+      },
+      "subtitle": {
+        "line1": "Internxt Drive 专注于隐私和",
+        "line2": "安全，让您只需专注于",
+        "line3": "对您重要的事情，比如与同事分享文件，",
+        "line4": "或下次家庭度假的机票。",
+        "line5": "您可以选择",
+        "line6": "与谁分享，",
+        "line7": "以及希望它们",
+        "line8": "被下载的次数。"
+      }
+    },
+    "section5": {
+      "eyebrow": "新功能",
+      "title": {
+        "line1": "备份对您",
+        "line2": "重要的一切"
+      },
+      "subtitle": {
+        "line1": "现在，您可以将那个超级重要项目",
+        "line2": "或您正在完成的大学作业的",
+        "line3": "最新草稿，安全且实时地",
+        "line4": "保存在您的",
+        "line5": "Internxt Drive 中。"
+      }
+    },
+    "section6": {
+      "title": {
+        "line1": "在完全隐私的环境中同步您的文件",
+        "line2": ""
+      }
+    },
+    "section7": {
+      "title": {
+        "line1": "让您的文件安全",
+        "line2": "且私密"
+      },
+      "subtitle": {
+        "line1": "隐私和安全是我们所做一切的核心，我们的业务不建立在数据或",
+        "line2": "广告之上，而是建立在信任之上。我们尊重您的权利，并围绕它们而非与之对立打造出色的工具。"
+      },
+      "cta": "我们对隐私的承诺",
+      "card1": {
+        "title": "新一代安全性",
+        "subtitle": "Internxt Drive 使用端到端和后量子加密保护您的文件。我们是首个保护数据免受量子计算机未来威胁的云存储服务。"
+      },
+      "card2": {
+        "title": "零知识技术",
+        "subtitle": "我们绝不以未加密或未哈希的形式存储或传输文件、用户密码或加密密钥。"
+      },
+      "card3": {
+        "title": "隐私设计",
+        "subtitle": "我们以用户为中心开发产品，在我们所处的数据驱动世界中，用户的隐私是必不可少的。"
+      },
+      "card4": {
+        "title": "开源且透明",
+        "subtitle": "我们为自己的工作感到自豪，因此我们的代码在 GitHub 上公开，任何人都可以亲自审查、审计和验证。除了您的数据，我们没有任何隐瞒。"
+      }
+    }
+  }
+}

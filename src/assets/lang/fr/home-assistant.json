@@ -1,0 +1,142 @@
+{
+  "HeroSection": {
+    "title": "Stockage cloud sécurisé pour vos **sauvegardes Home Assistant**",
+    "description": "Sauvegardes hors site automatisées à connaissance nulle (zero-knowledge). Conçu en Europe pour une confidentialité et un contrôle des données maximaux.",
+    "features": [
+      "Planifiez vos sauvegardes",
+      "Sauvegardé sur plusieurs serveurs",
+      "Open source et audité"
+    ],
+    "guarantee": "Garantie satisfait ou remboursé de 30 jours",
+    "claimDeal": "Profiter de l'offre"
+  },
+  "MadeInEuropeSection": {
+    "title": "Fabriqué en Europe",
+    "description": "Vos données sont protégées par les lois et réglementations européennes strictes en matière de conformité, associées à un chiffrement récompensé.",
+    "cards": {
+      "images": [
+        "/images/drive/GDPR.webp",
+        "/images/drive/redundancy.webp",
+        "/images/drive/sustainability.webp"
+      ],
+      "imagesMobile": [
+        "/images/drive/GDPR2.webp",
+        "/images/drive/Redundancy2.webp",
+        "/images/drive/Sustainability2.webp"
+      ],
+      "titles": [
+        "Centres de données européens",
+        "Redondance",
+        "Engagement en faveur du développement durable "
+      ],
+      "descriptions": [
+        "Internxt est basé à Valence, en Espagne, et nos centres de données sont situés en Europe et dans d'autres endroits du monde, vous offrant sécurité, rapidité et conformité.",
+        "Vos fichiers sont protégés par des systèmes redondants, des contrôles environnementaux et une surveillance de sécurité sur site 24h/24 et 7j/7. Quoi qu'il arrive, vos fichiers restent toujours en sécurité et accessibles.",
+        "Internxt montre l'exemple en œuvrant pour une solution de stockage cloud plus durable grâce à des pratiques écoénergétiques pour un stockage cloud plus propre."
+      ],
+      "cta": [
+        "En savoir plus",
+        "",
+        "En savoir plus"
+      ]
+    }
+  },
+  "TrustedBySection": {
+    "description": "Internxt vous permet de garder el contrôle. Avec Internxt, vous bénéficiez de la tranquillité d'esprit en sachant que vos données sont chiffrées, protégées et que votre vie numérique vous appartient."
+  },
+  "ThreeCardsSection": {
+    "title": "Valeurs fondamentales",
+    "cards": {
+      "titles": [
+        "Chiffrement Zero-Knowledge",
+        "Restauration fiable",
+        "Priorité à la confidentialité"
+      ],
+      "descriptions": [
+        "Chiffrement de bout en bout côté client. Vos fichiers de configuration et clés API restent strictement privés.",
+        "Conservez une copie hors site sécurisée de vos instantanés HA en cas de panne matérielle ou de problème de mise à jour.",
+        "Hébergé dans l'UE, entièrement conforme au RGPD et indépendant des Big Tech."
+      ]
+    }
+  },
+  "CoreFeatures": {
+    "title": "Fonctionnalités clés de notre stockage cloud sécurisé",
+    "description": "Une sécurité complète pour vos données, tout ce dont vous avez besoin pour garder vos fichiers en sécurité et confidentiels",
+    "accordionCards": {
+      "titles": [
+        "Un écosystème entièrement privé",
+        "Collaboration sécurisée",
+        "Votre cloud, comme un disque local"
+      ],
+      "descriptions": [
+        "Internxt regroupe le stockage chiffré, les sauvegardes, un VPN, un antivirus, un nettoyeur, Meet, Mail et plus encore — tout pour vous affranchir des Big Tech.",
+        "Envoyez des fichiers avec des liens chiffrés, des mots de passe et des contrôles d'accès. Travaillez avec votre équipe en temps réel tout en préservant la confidentialité des données.",
+        "Utilisez Internxt comme un lecteur virtuel pour synchroniser, téléverser et accéder à vos fichiers de manière transparente — comme sur votre ordinateur, mais totalement sécurisé et toujours à jour."
+      ]
+    },
+    "cards": {
+      "titles": [
+        "Chiffré de bout en bout",
+        "Contrôles d'accès",
+        "Sauvegardes chiffrées"
+      ],
+      "descriptions": [
+        "Tous les fichiers sont chiffrés avec un chiffrement post-quantique et à connaissance nulle. Personne d'autre que vous, ou les personnes avec lesquelles vous partagez vos fichiers, ne peut en voir le contenu.",
+        "Vous contrôlez exactement qui peut accéder à vos fichiers partagés grâce à des liens chiffrés et protégés par mot de passe que vous pouvez révoquer à tout moment.",
+        "Assurez-vous que vos fichiers restent à l'abri des rançongiciels et des pertes accidentelles grâce à des sauvegardes planifiées et chiffrées."
+      ]
+    }
+  },
+  "TableSection": {
+    "title": "Offres Internxt",
+    "valentinesTitle": "Amour sécurisé - ",
+    "hotLabel": "{{discount}}% de réduction",
+    "planTitles": {
+      "header": "Choisissez votre forfait",
+      "lifetimeHeader": "Choisissez votre forfait à vie",
+      "individuals": "Forfaits annuels",
+      "homePage": "Choisissez le forfait qui vous convient",
+      "lifetime": "Forfaits à vie",
+      "business": "Forfaits Entreprise",
+      "lifetimeCampaign": {
+        "blueText": "50% de réduction",
+        "normalText": "sur tous nos forfaits à vie exclusifs"
+      }
+    },
+    "lifetimeDescription": "Payez une seule fois et profitez de la confidentialité et de la sécurité à vie",
+    "planDescription": "Tous les forfaits Internxt sont complets avec un accès total à notre suite de confidentialité récompensée comprenant Internxt Drive, Send, VPN, Antivirus, Cleaner, Dark Web Monitor, Meet et Mail.",
+    "businessDescription": "Nous travaillons actuellement sur de nouvelles offres Internxt conçues exclusivement pour défendre votre entreprise, protéger vos employés et sécuriser votre rentabilité.",
+    "businessDescription2": "Assurez la sécurité des données de votre entreprise grâce aux forfaits de stockage cloud chiffré d'Internxt.",
+    "billingFrequency": {
+      "monthly": "Mensuel",
+      "annually": "Annuel",
+      "lifetime": "À vie",
+      "individual": "Individuel",
+      "business": "Entreprise"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Gratuit",
+      "description": "Obtenez gratuitement 1 Go de stockage cloud chiffré",
+      "cta": "Choisir ce forfait"
+    },
+    "features": {
+      "endToEnd": "Chiffrement de bout en bout",
+      "openSource": "Open source et audité",
+      "anonymousAccount": "Création de compte anonyme",
+      "premiumSupport": "Support client premium",
+      "guarantee": "Garantie satisfied ou remboursé de 30 jours"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "ReviewSection": {
+    "forbes": "Internxt consolide sa position d'alternative européenne aux géants de la tech",
+    "deloitte": "Lauréat du prix Deloitte Fast 50, qui récompense les entreprises à la croissance la plus rapide",
+    "techradar": "Internxt est un meileur service de stockage cloud ; abordable, intuitif et fiable",
+    "fortune": "Internxt bâtit un internet où la confidentialité et la sécurité passent avant tout",
+    "trustpilot": "Valeur exceptionnelle compte tenu de la sécurité et des fonctionnalités offertes. Service et support excellents."
+  }
+}

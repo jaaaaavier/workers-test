@@ -1,0 +1,108 @@
+{
+  "links": {
+    "products": "Produits",
+    "about": "Propos",
+    "ourValues": "Valeurs",
+    "pricing": "Tarifs",
+    "login": "Connecter",
+    "blackFriday": "Black Friday",
+    "getStarted": "Commencer",
+    "chooseStorage": "Choisir stockage",
+    "checkout": "Offre de réclamation",
+    "business": "Entreprises"
+  },
+  "ourValues": {
+    "openSource": "Open Source",
+    "privacy": "Confidentialité",
+    "sustainability": "Durabilité",
+    "certifications": "Certifications",
+    "about": "À propos de nous"
+  },
+  "products": {
+    "drive": { "name": "Internxt Drive", "title": "stockage dans un cloud privé"},
+    "s3": "Cloud pour entreprises",
+    "webDAV": "Internxt WebDAV",
+    "vpn": { "name": "Internxt VPN", "title": "vpn sécurisé"},
+    "send": "Internxt Send",
+    "comingSoon": "Proximité",
+    "new": "Nouveau",
+    "antivirus": "Internxt Antivirus",
+    "cleaner": "Internxt Cleaner",
+    "meet": { "name": "Internxt Meet", "title": "vidéo privée en ligne"},
+    "ai": "Internxt AI",
+    "mail": { "name": "Internxt Mail", "title": "e-mail crypté"},
+    "photos": { "name": "Internxt Photos", "title": "stockage de photos en ligne"}
+  },
+  "Auth": {
+    "SignUp": {
+      "title": "Créer un compte en Internxt",
+      "or": "o",
+      "login": "Connecter",
+      "disclaimer": {
+        "text": "En vous abonnant, vous acceptez",
+        "link": "notre politique de confidentialité"
+      },
+      "fields": {
+        "email": {
+          "label": "Adresse électronique",
+          "placeholder": "Adresse électronique"
+        },
+        "password": {
+          "label": "Mot de passe",
+          "placeholder": "Mot de passe",
+          "strength": {
+            "complexity": "Le mot de passe n'est pas assez complexe",
+            "length": "Le mot de passe doit comporter au moins 8 caractères",
+            "weak": "Le mot de passe est faible",
+            "strong": "Le mot de passe est fort"
+          }
+        },
+        "submit": "Commencez maintenant"
+      }
+    },
+    "LogIn": {
+      "title": "Se connecter Internxt",
+      "or": "o",
+      "signup": "Créer un compte",
+      "fields": {
+        "email": {
+          "label": "Courrier",
+          "placeholder": "Courrier"
+        },
+        "password": {
+          "label": "mot de passe",
+          "placeholder": "mot de passe",
+          "helper": "¿Oublié votre mot de passe ?"
+        },
+        "tfa": {
+          "label": "Authentification à deux facteurs",
+          "placeholder": "Code facteur double",
+          "hint": "Le code 2FA doit comporter 6 chiffres"
+        },
+        "submit": "Commencer"
+      }
+    },
+    "Recover": {
+      "title": "Récupérer le compte",
+      "back": "Retour connexion",
+      "disclaimer": "Comme spécifié dans les paramètres de l'application, vous seul avez accès à votre mot de passe, nous ne pouvons donc pas restaurer votre compte sans celui-ci. Vous pouvez vous réinscrire en entrant votre email ci-dessous afin que nous puissions supprimer votre compte et tous vos fichiers.",
+      "fields": {
+        "email": {
+          "label": "Courrier",
+          "placeholder": "Courrier"
+        },
+        "submit": "Envoyer la confirmation"
+      },
+      "success": {
+        "title": "Vérifie ton courrier",
+        "subtitle": "Nous vous avons envoyé un lien de réinitialisation pour"
+      }
+    }
+  },
+  "MinimalNavbar": {
+    "secondaryEyeBrow": "Antivirus",
+    "cta": "Obtenir Internxt",
+    "price": "À partir de {currency}{price}/mois",
+    "priceAnnual": "À partir de {currency}{price}/an"
+  }
+}

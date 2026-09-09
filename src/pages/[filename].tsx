@@ -1,0 +1,287 @@
+/* eslint-disable @typescript-eslint/no-non-null-assertion */
+import Layout from '@/components/layout/Layout';
+import Footer from '@/components/layout/footers/Footer';
+import usePricing from '@/hooks/usePricing';
+import Navbar from '@/components/layout/navbars/Navbar';
+import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
+import HeroSection from '@/components/partnersTemplate/HeroSection';
+import TrustedSection from '@/components/home/TrustedSection';
+import HorizontalScrollableSection from '@/components/home/HorizontalScrollableSection';
+import ReviewsSection from '@/components/home/ReviewsSection';
+import FloatingCtaSectionv2 from '@/components/shared/FloatingCtaSectionV2';
+import { PricingSectionWrapper } from '@/components/shared/pricing/PricingSectionWrapper';
+import { Interval, stripeService } from '@/services/stripe.service';
+import { SpecialOfferText } from '@/assets/types/specialOfferTemplate';
+import { useOfferConfig, usePathRedirect, ENFORCED_LOCALE } from '@/hooks/useSpecialOfferConfig';
+import FeaturesSection from '@/components/drive/FeaturesSection';
+import { HorizontalPriceCard } from '@/components/shared/pricing/PriceCard/HorizontalPriceCard';
+
+interface CombinedSpecialOfferProps {
+  metatagsDescriptions: MetatagsDescription[];
+  navbarLang: NavigationBarText;
+  langJson: SpecialOfferText;
+  footerLang: FooterText;
+  pathname: string;
+  lang: string;
+  hideLanguage?: boolean;
+}
+
+const getThemeClasses = (isDarkMode: boolean) => ({
+  title: isDarkMode ? 'text-white' : 'text-gray-95',
+  description: isDarkMode ? 'text-white' : 'text-gray-55',
+  bgGradientContainer: isDarkMode
+    ? 'linear-gradient(115.95deg, rgba(255, 255, 255, 0.3) 10.92%, rgba(255, 255, 255, 0.08) 96.4%)'
+    : 'linear-gradient(115.95deg, rgba(244, 248, 255, 0.75) 10.92%, rgba(255, 255, 255, 0.08) 96.4%)',
+  bgGradient: isDarkMode ? undefined : 'linear-gradient(0deg, #F4F8FF 0%, #FFFFFF 100%)',
+  sectionBg: isDarkMode ? 'bg-[#1C1C1C]' : 'bg-white',
+});
+
+const renderCtaContent = (
+  title: string,
+  description: string,
+  parsePercentText: (text: string) => JSX.Element | string,
+  themeClasses: ReturnType<typeof getThemeClasses>,
+  descriptionWidth: string,
+) => (
+  <div className="flex flex-col items-center gap-4 px-10 text-center">
+    <p className={`text-2xl font-semibold leading-tight lg:text-4xl ${themeClasses.title}`}>
+      {parsePercentText(title)}
+    </p>
+    <p
+      className={`text-base font-normal leading-tight lg:text-center lg:text-xl ${themeClasses.description} ${descriptionWidth}`}
+    >
+      {parsePercentText(description)}
+    </p>
+  </div>
+);
+
+function CombinedSpecialOffer({
+  langJson,
+  lang,
+  metatagsDescriptions,
+  footerLang,
+  navbarLang,
+  pathname,
+  hideLanguage,
+}: CombinedSpecialOfferProps): JSX.Element {
+  const {
+    selectedPathname,
+    isDarkMode,
+    alternateRecommendedPlan,
+    couponCode,
+    alternativeImages,
+    onlyUltimatePlan,
+    ultimateAndPremiumPlans,
+    annualPlans,
+    lifetimePlans,
+    isClubic,
+    isWpcdrive,
+    isBpdrive,
+    isPrivacyTutor,
+    requireAnnualDiscount,
+  } = useOfferConfig(pathname);
+
+  const {
+    products,
+    currency,
+    currencyValue,
+    coupon: individualCoupon,
+    lifetimeCoupon: lifetimeCoupon,
+    lifetimeCoupons,
+  } = usePricing({
+    couponCode: requireAnnualDiscount ? couponCode : undefined,
+    couponCodeForLifetime: couponCode,
+  });
+
+
+  const ultimatePlan = products?.individuals?.[Interval.Year]?.find((plan: any) => plan.storage === '5TB');
+
+  usePathRedirect(selectedPathname);
+
+  if (!selectedPathname) {
+    return <></>;
+  }
+
+  const metatags = metatagsDescriptions.find((desc) => desc.id === 'special-offer');
+  const decimalDiscountForLifetime = lifetimeCoupon?.percentOff && 100 - lifetimeCoupon.percentOff;
+  const decimalDiscount = individualCoupon?.percentOff && 100 - individualCoupon.percentOff;
+  const percentOff = lifetimeCoupon?.percentOff === undefined ? '0' : String(lifetimeCoupon.percentOff);
+  const themeClasses = getThemeClasses(isDarkMode);
+  const openerInterval = annualPlans ? Interval.Year : Interval.Lifetime;
+  const parsePercentText = (text: string) => {
+    if (!individualCoupon?.percentOff) {
+      return <div className="bg-gray-200 h-4 w-16 animate-pulse rounded"></div>;
+    }
+    return typeof text === 'string' ? text.replaceAll('{{discount}}', percentOff) : text;
+  };
+
+  const onCheckoutButtonClicked = async (
+    priceId: string,
+    isCheckoutForLifetime: boolean,
+    interval: string,
+    storage: string,
+  ) => {
+    const couponCodeForCheckout = isCheckoutForLifetime ? lifetimeCoupon : individualCoupon;
+
+    const finalPrice = await stripeService.calculateFinalPrice(
+      priceId,
+      interval,
+      currencyValue,
+      'individuals',
+      couponCodeForCheckout,
+    );
+
+    stripeService.redirectToCheckout(
+      priceId,
+      finalPrice,
+      currencyValue,
+      'individual',
+      isCheckoutForLifetime,
+      interval,
+      storage,
+      couponCodeForCheckout?.name,
+    );
+  };
+
+  return (
+    <Layout
+      title={metatags!.title}
+      description={metatags!.description}
+      segmentName="Partners"
+      lang={lang}
+      robots={
+        pathname === 'world-backup-day' || pathname === 'earth-day' || pathname === 'drop-offer'
+         || pathname === 'offerblogen' || pathname === 'offerbloges' || pathname === 'offerblogde'
+         || pathname === 'offerblogfr'
+          ? 'noindex,follow'
+          : undefined
+      }
+    >
+      <Navbar
+        lang={lang}
+        textContent={navbarLang}
+        cta={['payment']}
+        isLinksHidden
+        hideCTA
+        hideLogoLink
+        hideLanguage={hideLanguage}
+      />
+
+      <HeroSection
+        textContent={langJson.HeroSection}
+        percentOff={percentOff}
+        darkMode={isDarkMode}
+        image={alternativeImages}
+        isClubic={isClubic}
+        isWpcdrive={isWpcdrive}
+        isBpdrive={isBpdrive}
+        isUltimatePlan={onlyUltimatePlan}
+        specialOffer={requireAnnualDiscount}
+        isPrivacyTutor={isPrivacyTutor}
+      />
+
+      <ReviewsSection textContent={langJson.ReviewSection} darkMode={isDarkMode} />
+
+      {onlyUltimatePlan ? (
+        <div className="flex w-full justify-center px-6 py-12 lg:px-0 lg:py-24">
+          {ultimatePlan && (
+            <HorizontalPriceCard
+              decimalDiscountValue={decimalDiscountForLifetime || undefined}
+              storage={ultimatePlan.storage}
+              popular={false}
+              currency={currency}
+              priceBefore={ultimatePlan.price.toString().split('.')[0]}
+              price={Number(ultimatePlan.price)}
+              planId={ultimatePlan.priceId}
+              currencyValue={currencyValue}
+              coupon={lifetimeCoupon}
+            />
+          )}
+        </div>
+      ) : (
+        <PricingSectionWrapper
+          textContent={langJson.tableSection}
+          decimalDiscount={{
+            ...(requireAnnualDiscount ? { individuals: decimalDiscount } : {}),
+            lifetime: decimalDiscountForLifetime,
+          }}
+          lifetimeCoupons={lifetimeCoupons}
+          lang={lang}
+          products={products}
+          loadingCards={false}
+          onCheckoutButtonClicked={onCheckoutButtonClicked}
+          hideBusinessCards
+          hideBusinessSelector
+          popularPlanBySize="5TB"
+          sectionDetails={`${themeClasses.sectionBg} lg:py-20`}
+          hideFreeCard
+          darkMode={isDarkMode}
+          differentRecommended={alternateRecommendedPlan}
+          onlyUltimatePlan={onlyUltimatePlan}
+          premiumAndUltimatePlan={ultimateAndPremiumPlans}
+          startIndividualPlansFromInterval={openerInterval}
+          hidePlanSelectorComponent={annualPlans || lifetimePlans}
+          alternativeHeader={lifetimePlans}
+        />
+      )}
+
+      <FeaturesSection
+        textContent={langJson.FeaturesSection}
+        lang={lang}
+        download={false}
+        showLastSection={false}
+        darkMode={isDarkMode}
+      />
+
+      {!onlyUltimatePlan && (
+        <FloatingCtaSectionv2
+          textContent={langJson.ctaSection}
+          url={'#billingButtons'}
+          customText={renderCtaContent(
+            langJson.ctaSection.title,
+            langJson.ctaSection.description,
+            parsePercentText,
+            themeClasses,
+            'lg:w-[690px]',
+          )}
+          containerDetails="shadow-lg backdrop-blur-[55px]"
+          bgGradientContainerColor={themeClasses.bgGradientContainer}
+          bgPadding={isDarkMode ? 'pb-10  lg:pt-10 bg-[#1C1C1C]' : 'pb-10  lg:py-10'}
+        />
+      )}
+
+      <TrustedSection textContent={langJson.TrustedBySection} bottomBar={false} darkMode={isDarkMode} />
+
+      <HorizontalScrollableSection textContent={langJson.NextGenSection} darkMode={isDarkMode} />
+
+      <Footer textContent={footerLang} lang={lang} darkMode={isDarkMode} />
+    </Layout>
+  );
+}
+
+export async function getServerSideProps(ctx) {
+  const pathname = ctx.params.filename;
+  const lang = ctx.locale;
+
+  const enforcedLocale = ENFORCED_LOCALE[pathname];
+  const resolvedLang = enforcedLocale ?? lang;
+
+  const metatagsDescriptions = require(`@/assets/lang/${resolvedLang}/metatags-descriptions.json`);
+  const navbarLang = require(`@/assets/lang/${resolvedLang}/navbar.json`);
+  const langJson = require(`@/assets/lang/${resolvedLang}/specialOfferTemplate.json`);
+  const footerLang = require(`@/assets/lang/${resolvedLang}/footer.json`);
+
+  return {
+    props: {
+      lang: resolvedLang,
+      pathname,
+      metatagsDescriptions,
+      navbarLang,
+      langJson,
+      footerLang,
+      hideLanguage: !!enforcedLocale,
+    },
+  };
+}
+
+export default CombinedSpecialOffer;

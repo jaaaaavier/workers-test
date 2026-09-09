@@ -1,0 +1,225 @@
+{
+  "HeroSection": {
+    "TitleAndOnePlan": {
+      "title": {
+        "textBeforeBlueText": "",
+        "blueText": "protect your data",
+        "textAfterBlueText": "Private cloud storage solutions to "
+      },
+      "description": "Internxt is an open-source cloud storage provider with post-quantum encryption to keep your data private.",
+      "claimDeal": "Get Internxt",
+      "guarantee": "30-day money-back guarantee"
+    },
+    "TitleAndOnePlanV2": {
+      "title": "Private cloud storage solutions to protect your data",
+      "cta": "Get Internxt",
+      "guarantee": "30-day money-back guarantee"
+    }
+  },
+
+  "WhySwitchSection": {
+    "title": "Why you should switch to private cloud storage solutions",
+    "subtitle": "Switching to private cloud storage solutions guarantees your data stays private and secure from hackers and corporations. Unlike Google, Apple, or Microsoft, Internxt doesn’t collect, sell, or misuse your data. You have complete control over your files.",
+    "description": "Invest in your privacy and get peace of mind that your files and data are protected against data breaches.",
+    "cta": "Get Internxt"
+  },
+  "WhatWeDo": {
+    "title": {
+      "line1": "Internxt offers private cloud storage solutions",
+      "line2": "for personal, business, and enterprises"
+    },
+    "subtitle": "Google, Microsoft, Apple, and other cloud storage service providers are exploiting your data for profit. Switch to Internxt to get total control of your privacy.",
+    "square1": {
+      "title": "Internxt Drive",
+      "description": "We offer affordable annual and lifetime cloud storage to store, share, back up, and sync your files. Drive also includes a premium VPN and antivirus, for complete privacy and protection online.",
+      "cta": "Get Internxt Drive"
+    },
+    "square2": {
+      "title": "Internxt for Business",
+      "description": "Internxt for Business is a GDPR cloud storage solution that protects confidential information and includes 2TB of storage for up to 100 users. Thanks to award-winning encryption, Internxt protects your company from data breaches.",
+      "cta": "Get Internxt for Business"
+    },
+    "square3": {
+      "title": "Internxt S3",
+      "description": "Internxt S3 is an end-to-end encrypted and scalable object storage service for businesses or enterprises to manage large data at lower costs. With zero ingress and egress fees, our object storage plans are up to 80% cheaper than other providers.",
+      "cta": "Get Internxt S3"
+    }
+  },
+
+  "FeaturesSection": {
+    "title": "Why Internxt stands out as the most secure and private cloud storage",
+    "description": "Internxt integrates advanced privacy features to offer the most secure cloud storage for your peace of mind.",
+    "info": [
+      {
+        "title": "Award-winning encryption",
+        "description": "Our system is built with Kyber 512 post-quantum cryptography, the best encryption standard chosen by the NIST Institute to protect against the future threats of quantum computers, which could theoretically break the current encryption protocols used by other cloud storage service providers. Secure your data with Internxt to future-proof the privacy of your files."
+      },
+      {
+        "title": "No more reliance on Big Tech",
+        "description": "Other cloud storage service providers, Google, Dropbox, etc, profit from your data, storing and analyzing your files, leading to emails and other personal information leaking online. Internxt is different. With anonymous account creation and a strict no-tracking policy, we don’t store, share, or monetize your data in any way. "
+      },
+      {
+        "title": "Accessible from anywhere",
+        "description": "Download Internxt Drive from your favorite cloud storage app to access the cloud on Windows, Mac, Linux, iOS, or Android. We also offer other private cloud storage solutions with WebDAV and Rclone support, allowing you to manage your files effortlessly across multiple devices, automate backups, and access your data remotely."
+      },
+      {
+        "title": "Open source and audited",
+        "description": "Other cloud storage platforms hide their source code from the public, meaning you can never truly know how they handle your data or what they do with your files. Internxt promises full transparency, as the source code for all our products is publicly available on GitHub. Internxt is also verified as a secure platform by Securitum, an independent penetration testing company."
+      },
+      {
+        "title": "Sustainability",
+        "description": "Our commitment to building a better future built on online privacy also extends to our commitment to a greener future. Our data centers use renewable energy sources such as nuclear and hydroelectricity. Using environmentally friendly technology helps our commitment to build a more sustainable future and be climate-neutral by 2050. "
+      },
+      {
+        "title": "GDPR compliant",
+        "description": "Based in Valencia, Spain, Internxt ensures your data is private and secure by complying with GDPR data protection laws. A personal Drive account keeps your information private with no tracking, sharing, or unauthorized access and, for businesses, reduces the risk of fines and legal issues for businesses."
+      }
+    ]
+  },
+
+  "CtaSection1": {
+    "title": "Interested in private cloud solutions?",
+    "description": "Internxt Drive protects you with post-quantum encryption, antivirus, and VPN.",
+    "cta": "Get Internxt"
+  },
+
+  "CtaSection2": {
+    "title": "Best Private Cloud Storage with Internxt Drive",
+    "description": "Secure your files with post-quantum encryption and regain control over your data today.",
+    "cta": "Get Internxt"
+  },
+  "tableSection": {
+    "title": "Internxt Plans",
+    "valentinesTitle": "Secure love - ",
+    "hotLabel": "{{discount}}% off",
+    "planTitles": {
+      "header": "Select your plan",
+      "lifetimeHeader": "Select your lifetime plan",
+      "individuals": "Annual Plans",
+      "homePage": "Choose the right plan for you",
+      "lifetime": "Lifetime Plans",
+      "business": "Business Plans",
+      "lifetimeCampaign": {
+        "blueText": "50% off",
+        "normalText": "on all our exclusive lifetime plans"
+      }
+    },
+    "lifetimeDescription": "Pay once and enjoy privacy and security for life",
+    "planDescription": "All Internxt plans are fully featured with complete access to our award-winning privacy suite consisting of Internxt Drive, Send, VPN, Antivirus, Cleaner, Meet and Mail.",
+    "businessDescription": "We're currently working on new Internxt plans designed exclusively to defend your business, protect your employees, and secure your profitability.",
+    "businessDescription2": "Ensure your company's data security with Internxt's encrypted cloud storage plans.",
+    "billingFrequency": {
+      "monthly": "Monthly",
+      "annually": "Annual",
+      "lifetime": "Lifetime",
+      "individual": "Individual",
+      "business": "Business"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Free",
+      "description": "Get 1 GB of encrypted cloud storage for free",
+      "cta": "Select plan"
+    },
+    "features": {
+      "endToEnd": "End-to-end encryption",
+      "openSource": "Open source and audited",
+      "anonymousAccount": "Anonymous account creation",
+      "premiumSupport": "Premium customer support",
+      "guarantee": "30-day money-back guarantee"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "FaqSection": {
+    "title": "Questions? We have answers",
+    "faq": [
+      {
+        "question": "Is Internxt an alternative to Google Drive?",
+        "answer": [
+          "Yes, Internxt is an alternative to Google Drive and other Big Tech companies. These companies encrypt data on servers they own, meaning they can access your account and view your files or give access to your account to the government if requested. ",
+          "Unlike these cloud storage platforms, Internxt uses post-quantum and zero-knowledge encryption, so only you can access your files. Your data is encrypted on your device before being uploaded, and no one can view or decrypt it, not even Internxt. This ensures complete privacy, prevents unauthorized access, and protects you from data breaches and surveillance."
+        ]
+      },
+      {
+        "question": "What is post-quantum encryption?",
+        "answer": [
+          "Post-quantum encryption uses cryptographic algorithms to secure data against the threat of quantum computers that could potentially break traditional encryption methods. Post-quantum encryption focuses on developing algorithms that prevent these computers from decrypting and accessing your data.",
+          "This method is ideal for private cloud storage solutions like Internxt because it ensures your data remains secure despite advancing quantum computing technology. "
+        ]
+      },
+      {
+        "question": "What’s the difference between Internxt for Business and Internxt S3?",
+        "answer": [
+          "Internxt for Business is a cloud storage solution tailored for companies, offering team collaboration, admin controls, and other features to protect businesses from data breaches. ",
+          "Internxt S3 is a cloud-based storage system that follows the Amazon S3 protocol. It is ideal for developers and enterprises that need to scale and integrate storage into their applications or services and store data lakes or warehouses. ",
+          "The main difference is that Internxt for Business focuses on team-oriented features, while Internxt S3 provides scalable storage solution up to 80% cheaper than AWS, Azure, or Google Cloud."
+        ]
+      },
+      {
+        "question": "Why should you choose Internxt over other cloud platforms?",
+        "answer": [
+          "All our private cloud storage solutions emphasize privacy, so we offer you complete control over your privacy with Kyber 512 post-quantum encryption, future-proofing your personal or business data against potential quantum computing threats.",
+          "Internxt is GDPR compliant, reducing legal risks, and offers scalable, cost-effective solutions like Internxt S3, with zero ingress and egress fees and a pay-as-you-go pricing model. Additionally, its open-source nature, independent security audits, and commitment to sustainability make it a reliable and transparent choice for enterprises."
+        ]
+      },
+      {
+        "question": "What’s included with Internxt’s private cloud storage solutions?",
+        "answer": [
+          "Internxt paid subscription and lifetime plans offer post-quantum encrypted cloud storage, an ultra-fast unlimited VPN for up to 5 locations, antivirus, and future access to our Mail and Meet products for Premium and Ultimate plans."
+        ]
+      },
+      {
+        "question": "Can I add more storage to my lifetime plan?",
+        "answer": [
+          "Yes, Internxt lifetime plans are stackable, so you can add as much storage as you want to your Internxt lifetime membership. You can purchase them with the same email address as your current lifetime account. ",
+          "Contact us at hello@internxt.com so we can stack them together for you on the same account."
+        ]
+      },
+      {
+        "question": "Can I pay with credit card, PayPal, or cryptocurrency?",
+        "answer": [
+          "Internxt currently accepts debit and credit cards (Mastercard, VISA, American Express, etc). You can also pay via PayPal, iDEAL, Sofort, and Cryptocurrency."
+        ]
+      }
+    ]
+  },
+  "FeatureSection": {
+    "title": "Why you should switch to private cloud storage solutions",
+    "titleLine2": "Private cloud storage is cloud storage where only the account holder can read the files. The provider stores the encrypted data but cannot decrypt it, because the keys live on the user's device, not on the server. That single architectural choice, client-side key custody, is what separates a private cloud from a public one like Google Drive, Dropbox, or OneDrive, where the provider holds the keys and can read, scan, or share the contents.",
+    "description": "Switching to a private cloud storage solution removes the provider from the trust equation. Internxt encrypts files on your device with AES-256 and protects the key exchange with Kyber-512 post-quantum cryptography, so the server only ever sees ciphertext. The result is a cloud storage service that behaves like a private vault you happen to access over the internet.",
+    "cta": "Get Internxt",
+    "cards": {
+      "element1": {
+        "title": "Increased privacy for your data",
+        "description": [
+          "A secure private cloud storage service encrypts your files locally with AES-256 before they leave your device. The encrypted file then travels over TLS 1.3 and sits at rest on Internxt's servers in the same encrypted form. The encryption key is generated locally and never leaves your device. Without it, the file is unreadable mathematical noise.",
+          "Internxt cannot decrypt your data, hand it over in response to a subpoena, or scan it for advertising. We don't have the technical ability. This is the difference between a privacy policy and zero-knowledge architecture: a public cloud stores your files in a form the provider can read; a private cloud stores them in a form only you can read."
+        ]
+      },
+      "element2": {
+        "title": "Reduced corporate spying",
+        "description": [
+          "Public cloud providers run their business by reading your data. Google's terms of service grant a license to use uploaded content to operate and improve their services, which has historically included scanning files for spam, malware, and content patterns. Microsoft uses OneDrive content to enforce its Code of Conduct and improve products. Dropbox has acknowledged it accesses files for content moderation. None of this requires malicious intent on the provider's part. It's the architecture: they hold the keys, so they can read what they need to.",
+          "Private cloud storage providers flip the architecture. Internxt never receives your encryption key, so the data we hand to advertisers, governments, or AI training pipelines is the same data anyone else would get: ciphertext that cannot be opened without you."
+        ]
+      },
+      "element3": {
+        "title": "Protected by European laws",
+        "description": [
+          "Where your provider is incorporated determines whose courts can compel them to hand over your data. US-based services operate under the CLOUD Act, which lets US authorities subpoena data even when it sits on servers in another country. UK services face similar reach under the Investigatory Powers Act.",
+          "Internxt is incorporated in Valencia, Spain, and stores customer data in EU data centers operated through OVHcloud. That puts the company under GDPR (including the right to access, port, and delete your data) and outside the reach of CLOUD Act subpoenas. The privacy claim is also independently validated: ISO 27001:2022 certification and independently audited. Legal posture and technical posture have to match for either to mean anything."
+        ]
+      },
+      "element4": {
+        "title": "More control over your security",
+        "description": [
+          "The best private cloud storage solutions put security controls in your hands rather than the provider's. You decide what gets backed up: schedule automatic backups of folders you select, or run them manually before a hardware swap. WebDAV and Rclone support let power users wire Internxt into existing workflows or automate batch uploads from a script.",
+          "Sharing follows the same key-custody model. Links can carry a password, expire on a schedule, or be revoked from your dashboard. Two-factor authentication is available on every plan, and business plans log every file access for compliance audits. The control surface is the same one a security team would build for their own infrastructure, without the infrastructure overhead."
+        ]
+      }
+    }
+  }
+}

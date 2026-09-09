@@ -1,0 +1,612 @@
+{
+  "tableSection": {
+    "title": "Internxt 計劃",
+    "hotLabel": "{{discount}}% 折扣 ",
+    "planTitles": {
+      "header": " 選擇您的計劃",
+      "individuals": "年度計劃",
+      "lifetime": "終身計劃",
+      "business": "商業計劃"
+    },
+    "lifetimeDescription": "一次付費，永享隱私和安全。",
+    "planDescription": "所有 Internxt 計劃都包含完整功能，完全訪問我們屢獲殊榮的隱私工具套件，包括 Internxt Drive、Send、VPN、Antivirus、Cleaner、Meet 和 Mail。",
+    "businessDescription": "我們目前正在開發新的 Internxt 計劃，專門設計用於保護您的業務、保護您的員工並確保您的成果。",
+    "businessDescription2": "使用 Internxt 的加密雲端儲存計劃確保企業資料安全。",
+    "billingFrequency": {
+      "monthly": "每月",
+      "annually": "每年",
+      "individual": "個人",
+      "lifetime": "終身",
+      "business": "商業"
+    },
+    "freePlanCard": {
+      "eyeBrow": "免費",
+      "description": "獲取 1GB 免費加密雲端儲存",
+      "mobileDescription": "獲取高達 1GB 的加密雲端儲存，享受我們的私人生態系統",
+      "cta": "選擇計劃"
+    },
+    "features": {
+      "endToEnd": "端到端加密",
+      "openSource": "開源且經過驗證",
+      "anonymousAccount": "匿名帳戶創建",
+      "premiumSupport": "高級客戶支援",
+      "guarantee": "30天退款保證"
+    },
+    "individuals": "年度",
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    },
+    "ctaCompare": "比較所有方案"
+  },
+  "ComparisonTable": {
+    "title": "計劃和功能",
+    "cta": "開始",
+    "billedAnnualy": "年度計費",
+    "billedOnce": "一次性付款",
+    "plans": [
+      {
+        "id": "Essential",
+        "name": "Essential",
+        "order": 0
+      },
+      {
+        "id": "Premium",
+        "name": "Premium",
+        "order": 1
+      },
+      {
+        "id": "Ultimate",
+        "name": "Ultimate",
+        "order": 2
+      }
+    ],
+    "categories": [
+      {
+        "name": "儲存",
+        "hideIcons": true,
+        "features": [
+          {
+            "id": "storage_Essential",
+            "name": "1TB",
+            "avalability": {
+              "Essential": true,
+              "Premium": false,
+              "Ultimate": false
+            }
+          },
+          {
+            "id": "storage_Premium",
+            "name": "3TB",
+            "avalability": {
+              "Essential": false,
+              "Premium": true,
+              "Ultimate": false
+            }
+          },
+          {
+            "id": "storage_Ultimate",
+            "name": "5TB",
+            "avalability": {
+              "Essential": false,
+              "Premium": false,
+              "Ultimate": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "應用程式和可存取性",
+        "features": [
+          {
+            "id": "linux_windows_macos_app",
+            "name": "Linux、Windows 和 macOS 應用程式",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "android_ios_app",
+            "name": "iOS 和 Android 應用程式",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "web_app",
+            "name": "網頁應用程式",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "隱私和安全",
+        "features": [
+          {
+            "id": "zero_knowledge_architecture",
+            "name": "零知識加密",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "post_quantum_encryption",
+            "name": "後量子加密",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "gdpr_compliance",
+            "name": "GDPR 合規",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "hipaa_compliance",
+            "name": "HIPAA 合規",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "iso27001_compliance",
+            "name": "ISO 27001 合規",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "soc2_compliance",
+            "name": "SOC 2 合規",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "Two_factor_authentication",
+            "name": "雙重身份驗證 (2FA)",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "pentesting_audited",
+            "name": "滲透測試和已驗證",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "VPN",
+        "features": [
+          {
+            "id": "vpn_Essential",
+            "name": "法國",
+            "avalability": {
+              "Essential": true,
+              "Premium": false,
+              "Ultimate": false
+            }
+          },
+          {
+            "id": "vpn_Premium",
+            "name": "法國、德國、波蘭",
+            "avalability": {
+              "Essential": false,
+              "Premium": true,
+              "Ultimate": false
+            }
+          },
+          {
+            "id": "vpn_Ultimate",
+            "name": "法國、德國、波蘭、加拿大、英國",
+            "avalability": {
+              "Essential": false,
+              "Premium": false,
+              "Ultimate": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "支援和服務",
+        "features": [
+          {
+            "id": "premium_customer_support",
+            "name": "高級客戶支援",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "進階工具",
+        "features": [
+          {
+            "id": "antivirus",
+            "name": "防毒軟體",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "File_backups",
+            "name": "檔案備份",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "Password-protected-sharing",
+            "name": "密碼保護共享",
+            "avalability": {
+              "Essential": true,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "file_size_limit_essential",
+            "name": "檔案大小限制：每個檔案 10GB",
+            "group": "file_size_limit",
+            "avalability": { "Essential": true, "Premium": false, "Ultimate": false }
+          },
+          {
+            "id": "file_size_limit_premium",
+            "name": "檔案大小限制：每個檔案 50GB",
+            "group": "file_size_limit",
+            "avalability": { "Essential": false, "Premium": true, "Ultimate": false }
+          },
+          {
+            "id": "file_size_limit_ultimate",
+            "name": "檔案大小限制：每個檔案 100GB",
+            "group": "file_size_limit",
+            "avalability": { "Essential": false, "Premium": false, "Ultimate": true }
+          },
+          {
+            "id": "trash_retention_essential",
+            "name": "垃圾桶保留 7 天",
+            "group": "trash_retention",
+            "avalability": { "Essential": true, "Premium": false, "Ultimate": false }
+          },
+          {
+            "id": "trash_retention_premium",
+            "name": "垃圾桶保留 14 天",
+            "group": "trash_retention",
+            "avalability": { "Essential": false, "Premium": true, "Ultimate": false }
+          },
+          {
+            "id": "trash_retention_ultimate",
+            "name": "垃圾桶保留 30 天",
+            "group": "trash_retention",
+            "avalability": { "Essential": false, "Premium": false, "Ultimate": true }
+          },
+          {
+            "id": "Invite_share_&_collaborate",
+            "name": "邀請、共享和協作",
+            "avalability": {
+              "Essential": false,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "Cleaner",
+            "name": "清理器",
+            "avalability": {
+              "Essential": false,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "file_versioning",
+            "name": "檔案版本控制",
+            "avalability": {
+              "Essential": false,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "meet",
+            "name": "Meet",
+            "avalability": {
+              "Essential": false,
+              "Premium": true,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "cli_webdav_support",
+            "name": "CLI 和 WebDAV 支援",
+            "avalability": {
+              "Essential": false,
+              "Premium": false,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "NAS_&_Rclone_support",
+            "name": "NAS 和 Rclone 支援",
+            "avalability": {
+              "Essential": false,
+              "Premium": false,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "photos",
+            "name": "照片",
+            "avalability": {
+              "Essential": false,
+              "Premium": false,
+              "Ultimate": true
+            }
+          },
+          {
+            "id": "mail",
+            "name": "Mail",
+            "avalability": {
+              "Essential": false,
+              "Premium": false,
+              "Ultimate": true
+            }
+          }
+        ]
+      },
+      {
+        "name": "即將推出",
+        "features": []
+      }
+    ]
+  },
+  "FaqSection": {
+    "title": "有疑問？我們有答案",
+    "faq": [
+      {
+        "question": "Internxt 能存取我的檔案嗎？",
+        "answer": [
+          "不能。Internxt 和任何其他第三方都無法存取您的檔案、照片或資料。",
+          " Internxt 服務採用零知識加密，這意味著只有您才能真正存取您的私人資料。此外，Internxt 的架構會在加密檔案之前將其分片，因此伺服器永遠不會保存完整的檔案，只保存加密的分片，只有您才能解密。"
+        ]
+      },
+      {
+        "question": "Internxt 會儲存我的密碼嗎？",
+        "answer": [
+          "不會。因此，Internxt 不會（也無法）儲存您的密碼。",
+          "您的 Internxt 密碼對您來說是唯一的，用於加密和解密您的 Internxt 資料。但如果您想變更密碼，可以透過我們的應用程式進行變更。"
+        ]
+      },
+      {
+        "question": "我可以啟用雙重驗證嗎？",
+        "answer": [
+          "您可以使用 Authy 或任何其他雙重驗證工具來產生個人雙重驗證代碼。",
+          "可以。您可以透過 Internxt 網頁應用程式為您的帳戶設定雙重驗證。"
+        ]
+      },
+      {
+        "question": "如何建立 Internxt 帳戶？",
+        "answer": [
+          "要建立免費的 Internxt 帳戶，只需點選上方的最佳方案並按照說明操作即可。",
+          "或者造訪我們的首頁並點選「開始使用」。在那裡，您將立即獲得 1GB 的免費終身儲存空間和免費的 Internxt 會員資格。您可以在我們所有的服務中使用免費會員資格。註冊時，只需輸入姓名和電子郵件地址即可。開始使用 Internxt 服務無需身分驗證或電子郵件驗證。"
+        ]
+      },
+      {
+        "question": "我可以用信用卡、PayPal 或加密貨幣付款嗎？",
+        "answer": [
+          "Internxt 目前接受金融卡和信用卡（萬事達卡、VISA、美國運通等）。您也可以透過 PayPal、加密貨幣、Klarna 和其他方式付款。",
+          "應要求，我們也接受加密貨幣。如果您對付款方式有疑問，請發送郵件至 [hello@internxt.com](mailto:hello@internxt.com)。"
+        ]
+      },
+      {
+        "question": "Internxt 的退款政策是什麼？",
+        "answer": [
+          "Internxt 為所有付費訂閱提供標準的 30 天退款保證，從您訂閱之日起開始計算。",
+          "如果您對我們的服務不滿意，請透過 [hello@internxt.com](mailto:hello@internxt.com) 聯絡我們並申請退款。"
+        ]
+      },
+      {
+        "question": "如何取消我的訂閱？",
+        "answer": [
+          "取消訂閱非常簡單，可以透過 Internxt 應用程式輕鬆完成，進入設定並刪除您的帳戶即可。這將終止您的訂閱和帳戶。",
+          "如果您想取消付費方案並繼續使用我們的免費服務，可以發送郵件至 [hello@internxt.com](mailto:hello@internxt.com)，我們將處理訂閱取消，讓您的帳戶在免費方案中保持活躍。"
+        ]
+      },
+      {
+        "question": "如何聯絡客服？",
+        "answer": [
+          "找不到您要找的內容？您可以透過線上聊天或發送郵件至 [hello@internxt.com](mailto:hello@internxt.com) 聯絡我們的客戶支援團隊。"
+        ]
+      },
+      {
+        "question": "什麼是 Internxt 終身方案？",
+        "answer": [
+          "我們提供可從我們網站購買的終身方案。這些方案讓您只需一次性付款即可終身存取我們的服務。享受高達 5TB 的終身儲存空間，只需一次性付款。"
+        ]
+      },
+      {
+        "question": "我可以為終身方案新增更多儲存空間嗎？",
+        "answer": [
+          "可以，您可以為您的 Internxt 終身會員資格新增高達 100TB 的儲存空間。Internxt 終身方案是可疊加的。只需使用相同的電子郵件地址購買，儲存空間將自動新增到您的帳戶中。"
+        ]
+      },
+      {
+        "question": "我可以分期付款終身方案嗎？",
+        "answer": ["可以，您現在可以使用 Klarna 將終身付款分為多個免息分期付款。享受終身方案，輕鬆分期付款！"]
+      }
+    ]
+  },
+  "FaqSectionForBusiness": {
+    "title": "有疑問？我們有答案",
+    "faq": [
+      {
+        "question": "什麼是 Internxt 商業版？",
+        "answer": [
+          "我們的商業雲端儲存為任何規模的公司提供安全的雲端儲存解決方案，保護企業檔案免受資料洩露。商業計劃包括存取 Internxt Drive、VPN 和 Send，以及我們即將推出的新產品 Internxt Mail 和 Meet。"
+        ]
+      },
+      {
+        "question": "Internxt 是適合我業務的雲端儲存嗎？",
+        "answer": [
+          "Internxt 為每個人設計，包括任何規模的尋求安全雲端儲存解決方案的公司，保持個人和機密資訊的私密性。",
+          "我們的加密產品套件包括業界內最高的安全標準，適用於需要共享檔案或資料夾而無需擔心資料洩露的企業。"
+        ]
+      },
+      {
+        "question": "Internxt 比其他雲端儲存服務更安全嗎？",
+        "answer": [
+          "與大型科技公司不同，Internxt 為企業提供安全檔案儲存值得信賴，因為您公司的資料在您的裝置上加密以實現最大安全性。",
+          "為了防止資料洩露威脅，Internxt 提供額外的安全措施，包括加密檔案共享、雙重身份驗證、密碼產生器等。"
+        ]
+      },
+      {
+        "question": "如果我達到計劃的儲存限制會怎樣？",
+        "answer": [
+          "我們的計劃完全靈活，可滿足您業務的需求。您可以根據需要輕鬆新增更多使用者或升級儲存容量，確保可擴展性和成本效益。"
+        ]
+      },
+      {
+        "question": "您提供什麼級別的技術支援？",
+        "answer": [
+          "我們有專門的客戶服務團隊，可以回答任何問題或疑慮，或根據您的需求提供其他資訊。您可以造訪我們的說明中心或透過 [hello@internxt.com](mailto:hello@internxt.com) 聯絡我們，我們的團隊將很樂意為您提供幫助。"
+        ]
+      }
+    ]
+  },
+  "SchemaMarkupQuestions": {
+    "faq": [
+      {
+        "question": "Internxt 有終身計劃嗎？",
+        "answer": [
+          "我們提供可從我們網站購買的終身計劃。這些計劃透過一次性付款為您提供多達 10TB 儲存空間的終身存取權限。"
+        ]
+      },
+      {
+        "question": "我可以為我的終身計劃新增更多儲存空間嗎？",
+        "answer": [
+          "是的，您可以為您的終身 Internxt 訂閱新增任意數量的儲存空間。Internxt 的終身計劃是可累積的。只需使用相同的電子郵件地址購買，並透過 [hello@internxt.com](mailto:hello@internxt.com) 聯絡我們，以便我們可以將它們合併到同一個帳戶中。"
+        ]
+      }
+    ]
+  },
+  "CtaSection": {
+    "title": "無風險試用 Internxt",
+    "description": "註冊並免費獲得 1GB Internxt 端到端加密雲端儲存。",
+    "cta": "建立免費帳戶"
+  },
+  "FirstWhatWeDoSection": {
+    "card1": {
+      "title": "徹底的私密性",
+      "description": "我們將使用者及其權利置於我們所做一切的中心。我們的使命很簡單：創造更好的工具和服務，將控制權交還給最終使用者。",
+      "cta": "我們對隱私的承諾"
+    },
+    "card2": {
+      "title": "無縫體驗",
+      "description": "Internxt 在所有平台上都可用，甚至 Linux！使用我們的行動、網頁和桌面應用程式同步您的檔案和照片，所有這些都是為了管理您的加密儲存而設計的。",
+      "cta": "下載應用程式"
+    },
+    "card3": {
+      "title": "免費試用 Internxt！",
+      "description": "免費獲得 1GB，在完全承諾之前看看隱私是否適合您！",
+      "cta": "建立免費帳戶"
+    }
+  },
+  "InfoSectionForBusiness": {
+    "title": "您可以用 Internxt 做什麼？",
+    "description": "使用我們的安全商業雲端儲存簡化您組織的檔案管理、安全性和隱私。",
+    "cta": "",
+    "cards": [
+      {
+        "title": "管理您的組織",
+        "description": "Internxt 透過簡化的使用者和團隊管理、靈活的儲存分配和可自訂的工作空間為企業賦權。在業務和個人任務之間無縫切換，最佳化生產力和組織。"
+      },
+      {
+        "title": "安全發送機密檔案",
+        "description": "安全雲端儲存包括安全檔案共享功能，用於安全的團隊協作。使用密碼保護並限制對檔案的存取，以向合作夥伴發送機密檔案，確保您保持對其安全性的控制。"
+      },
+      {
+        "title": "備份重要內容",
+        "description": "備份您的檔案以防止資料遺失。此外，Internxt 在不同的歐盟伺服器上儲存和備份您檔案的相同副本，以獲得額外安全性，使其成為您業務最安全的雲端備份。"
+      },
+      {
+        "title": "與您的團隊從任何地方工作",
+        "description": "適用於 Windows、Mac、Linux、iOS、Android 和網頁。從任何裝置隨時存取您的檔案，確保您和您的團隊無論身在何處都能安全工作。"
+      }
+    ]
+  },
+  "InfoSection": {
+    "title": "具有無與倫比隱私的安全雲端儲存",
+    "description": "是什麼讓 Internxt 如此特別？我們是一個由專業人士組成的團結團隊，完全致力於您的線上保護。我們所做的一切和我們做出的每一個決定都專注於保護您的資料免受剝削。",
+    "cta": "Internxt 對隱私的承諾",
+    "scrollableSection": {
+      "titles": ["設計即私密", "毫不妥協的安全", "開源且透明", "獨立驗證"],
+      "descriptions": [
+        "我們不儲存密碼或使用者資料，您的所有資料在傳輸和靜止時都是加密的。Internxt 讓您完全控制您的檔案。您的資料是您的事。保護它們是我們的事。",
+        "您的檔案在離開裝置之前就經過端到端加密。借助 AES-256 零知識加密，您絕對是唯一可以存取您資料的人。",
+        "我們為我們所做的感到自豪，這就是為什麼我們的程式碼在 GitHub 上公開，任何人都可以親自檢查、驗證和稽核。除了您的資料，我們沒有什麼可隱藏的。",
+        "我們完全符合 GDPR 並且 100% 安全，但不要只相信我們的話。Internxt 已由歐洲領先的滲透測試公司 Securitum 獨立驗證和稽核。"
+      ]
+    }
+  },
+  "BestStorageSection": {
+    "title": "為未來而建",
+    "description": "我們希望構建一個更好的全球資訊網，對所有人公平、安全和公正。關於網際網路隱私未來的戰鬥正在激烈進行，我們站在最前線。",
+    "card1": {
+      "title": "隨時取消"
+    },
+    "card2": {
+      "title": "後量子加密"
+    },
+    "card3": {
+      "title": "永續能源"
+    },
+    "card4": {
+      "title": "開源"
+    },
+    "card5": {
+      "title": "獨立驗證"
+    }
+  },
+  "lastCtaSection": {
+    "title": "世界上最私密的雲端儲存",
+    "description": "使用 Internxt 安全、私密和加密的雲端儲存保護真正重要的內容。",
+    "cta": "立即選擇計劃"
+  }
+}

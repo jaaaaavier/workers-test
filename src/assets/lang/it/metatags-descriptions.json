@@ -1,0 +1,624 @@
+[
+  {
+    "id": "home",
+    "title": "Piani a vita Internxt – Archiviazione cloud a vita conveniente e sicura",
+    "description": "Difendi la privacy, passa a Internxt. I servizi di cloud storage open source di Internxt proteggono il tuo diritto alla privacy. Internxt Drive, Meet, Mail, Antivirus, Cleaner, Send e altro"
+  },
+  {
+    "id": "drive",
+    "title": "Internxt Drive – Archiviazione cloud privata e sicura",
+    "description": "Internxt Drive offre la soluzione definitiva per l'archiviazione cloud sicura. Archivia, condividi e crea backup dei tuoi file e foto con la nostra piattaforma open-source e crittografata end-to-end per una privacy garantita."
+  },
+  {
+    "id": "free-cloud-storage",
+    "title": "Internxt Drive gratuito – Archiviazione cloud sicura e crittografata",
+    "description": "Ottieni spazio di archiviazione cloud sicuro e gratuito con Internxt Drive. Archivia, condividi e salva i tuoi file e le tue foto facilmente utilizzando la nostra piattaforma open-source con crittografia end-to-end per una privacy garantita."
+  },
+  {
+    "id": "family",
+    "title": "Internxt per la Famiglia — Il Più Sicuro Archivio Cloud per Famiglie",
+    "description": "Gestisci la privacy online della tua famiglia con il nostro archivio cloud di Internxt per piani familiari. Conserva, organizza e condividi in modo sicuro i documenti privati della tua famiglia in un unico luogo."
+  },
+  {
+    "id": "business",
+    "title": "Internxt — Archiviazione Cloud Privata e Criptata per le Aziende",
+    "description": "Previeni la perdita di dati con l'archiviazione cloud criptata di Internxt per le aziende—registrati per beneficiare della protezione dei dati cloud leader del settore."
+  },
+  {
+    "id": "webDAV",
+    "title": "Internxt CLI, WebDAV e Rclone – Internxt",
+    "description": "Accedi al tuo account Internxt Drive con le funzioni Internxt CLI, WebDAV e Rclone. Scopri un nuovo metodo per gestire e controllare i tuoi file in modo privato."
+  },
+  {
+    "id": "affiliates",
+    "title": "Programma di Affiliazione – Internxt",
+    "description": "Unisciti al programma di marketing di affiliazione di Internxt! Come iniziare più dettagli del programma, benefici e vantaggi."
+  },
+  {
+    "id": "free-user",
+    "title": "Internxt — 75% di sconto su tutti i piani di archiviazione cloud sicura",
+    "description": "Ottieni il 75% di sconto su qualsiasi piano Internxt per mantenere i tuoi file privati e non preoccuparti mai più di rimanere senza spazio."
+  },
+  {
+    "id": "what-google-knows",
+    "title": "What Does Google Know About Me – Internxt",
+    "description": "Find out what data Google keeps on you. How to view and download your Google data, how to delete it, and how to disable Google data collection."
+  },
+  {
+    "id": "pricing",
+    "title": "Internxt Prezzi – Archiviazione Crittografata nel cloud a vita",
+    "description": "Internxt offre archiviazione cloud conveniente, sicura, gratuita e crittografata con piani di pagamento annuali e a vita"
+  },
+  {
+    "id": "about",
+    "title": "Internxt Privacy – I nostri valori fondamentali",
+    "description": "Qui in Internxt, proteggere la privacy dell'utente è la nostra missione. Passa alla suite di privacy tutto-in-uno di Internxt. Internxt Drive, Meet, Mail, Cleaner e altro."
+  },
+  {
+    "id": "legal",
+    "title": "Internxt – Termini e condizioni d'uso",
+    "description": "Termini e condizioni legali di Internxt. Leggete tutti i termini e le condizioni in cui spieghiamo come trattiamo i vostri dati."
+  },
+  {
+    "id": "privacy",
+    "title": "Internxt Privacy – Strumenti e risorse gratuiti per la privacy",
+    "description": "Strumenti gratuiti per proteggere la vostra privacy online: Password Checker, Virus Scanner, Directory of Privacy Organizations e altro ancora. Internxt difende il vostro diritto alla privacy."
+  },
+  {
+    "id": "virus-scanner",
+    "title": "Internxt – Scanner online gratuito di file virali",
+    "description": "Strumento gratuito per la scansione dei file alla ricerca di virus e malware. Proteggete i vostri documenti personali, i dati e l'hardware dalle frodi online con una scansione semplice e veloce."
+  },
+  {
+    "id": "open-source",
+    "title": "Internxt – Open Source and Secure Cloud Storage",
+    "description": "Learn the benefits of open source (OSS) software and why Internxt uses it to provide cloud storage that secures and protects your data."
+  },
+  {
+    "id": "temporary-email",
+    "title": "Internxt – Email temporanea gratuita",
+    "description": "Mantenete il vostro account di posta elettronica pulito, sicuro e libero da messaggi indesiderati con l'e–mail temporanea gratuita di Internxt. Internxt fornisce un indirizzo e–mail temporaneo, sicuro, anonimo e gratuito."
+  },
+  {
+    "id": "converter-tool",
+    "title": "Internxt – Convertitore di byte: GB a TB",
+    "description": "Convertitore di byte gratuito di Internxt: scoprite quanto spazio di archiviazione avete, quanti gigabyte ci sono in un terabyte e convertite da e verso B, KB, MB, GB e TB."
+  },
+  {
+    "id": "lifetime",
+    "title": "Piani a vita Internxt – Archiviazione cloud sicura per tutta la vita!",
+    "description": "Internxt Lifetime Deal: pagate una volta e ottenete 1TB, 3TB o 5TB di spazio di archiviazione cloud sicuro per sempre. Iscrivetevi o passate a un piano Internxt a vita per avere la privacy per tutta la vita! Solo per un periodo limitato."
+  },
+  {
+    "id": "partner-discount",
+    "title": "Offerte per i partner – Risparmiate molto sul cloud storage di Internxt!",
+    "description": "Utilizzate il vostro codice coupon esclusivo fornito da un partner certificato Internxt. Ottenete uno sconto speciale sul cloud storage sicuro di Internxt."
+  },
+  {
+    "id": "special-offer",
+    "title": "Internxt — Offerta Speciale",
+    "description": "Ottieni i piani annuali e lifetime di Internxt con uno sconto esclusivo dell'80%. Goditi privacy e sicurezza con fino a 10TB di archiviazione."
+  },
+  {
+    "id": "techradar-discount",
+    "title": "Offerte per i partner di TechRadar – Risparmiate molto sul cloud storage di Internxt!",
+    "description": "Utilizzate il codice coupon esclusivo fornito dal nostro partner TechRadar. Ottenete uno sconto speciale sul cloud storage sicuro di Internxt."
+  },
+  {
+    "id": "comparison",
+    "title": "Internxt – Confronto tra i sistemi di archiviazione cloud",
+    "description": "Confrontate Internxt con tutti gli altri servizi disponibili. Internxt è l'alternativa più privata e sicura a Google Drive, Dropbox e altri servizi."
+  },
+  {
+    "id": "black-friday",
+    "title": "Offerte Black Friday 2025 - Offerte di Archiviazione Cloud e Cloud Personale",
+    "description": "Internxt Black Friday 2025: 85% DI SCONTO sull'archiviazione cloud sicura e sulla tua suite completa per la privacy! Ottieni VPN, Antivirus, Cleaner, Meet e Mail."
+  },
+  {
+    "id": "black-friday-cloud-storage",
+    "title": "Internxt — Offerta Black Friday Archiviazione Cloud 2025",
+    "description": "Black Friday Internxt 2025 — 85% di sconto su archiviazione cloud, Antivirus, Cleaner, VPN, Meet e Mail."
+  },
+  {
+    "id": "black-friday-personal-cloud-storage",
+    "title": "Internxt — Offerte Black Friday per Archiviazione Cloud Personale 2025",
+    "description": "Black Friday Internxt 2025 — 85% di sconto su archiviazione cloud, Antivirus, Cleaner, VPN, Meet e Mail."
+  },
+  {
+    "id": "cloudwards",
+    "title": "Internxt – Partnership CloudWards",
+    "description": "Approfittate delle migliori offerte per il cloud storage più sicuro grazie a Cloudwards. Alternativa più economica e sicura a pCloud, IceDrive, AppSumo Archiviazione cloud criptata."
+  },
+  {
+    "id": "startpage",
+    "title": "Internxt – Partnership Startpage",
+    "description": "Approfittate delle migliori offerte per il cloud storage più sicuro grazie a Startpage. Alternativa più economica e sicura a pCloud, IceDrive, AppSumo Archiviazione cloud criptata."
+  },
+  {
+    "id": "guru99",
+    "title": "Internxt – Partnership Guru99",
+    "description": "Approfittate delle migliori offerte per il cloud storage più sicuro grazie a Guru99. Alternativa più economica e sicura a pCloud, IceDrive, AppSumo Archiviazione cloud criptata."
+  },
+  {
+    "id": "freemonth",
+    "title": "Internxt – Ottenere 1 mese gratis",
+    "description": "Approfittate delle migliori offerte per il cloud storage più sicuro e ricevete 1 mese gratis. Alternativa più economica e sicura a pCloud, IceDrive, AppSumo Archiviazione cloud criptata."
+  },
+  {
+    "id": "landing",
+    "title": "Internxt – L'archiviazione cloud più sicura",
+    "description": "Internxt offre servizi cloud sicuri, privati e criptati come Internxt Drive e Internxt Photos."
+  },
+  {
+    "id": "privacy-directory",
+    "title": "Internxt – Elenco di organizzazioni e ONG di privacy",
+    "description": "Elenco delle organizzazioni per i diritti digitali, delle istituzioni e delle ONG che lavorano al fianco di Internxt per promuovere, sostenere e difendere la privacy di tutti."
+  },
+  {
+    "id": "password-checker",
+    "title": "Internxt – Controllo password gratuito e sicuro",
+    "description": "Controllo gratuito della sicurezza delle password. Verificate la forza delle vostre password con lo strumento online sicuro di Internxt."
+  },
+  {
+    "id": "password-generator",
+    "title": "Generatore di password sicure – Internxt",
+    "description": "Generatore di password gratuito e sicuro. Uno strumento semplice ed efficace per creare istantaneamente password casuali e sicure per mantenere al sicuro i tuoi account."
+  },
+  {
+    "id": "cyber-awareness",
+    "title": "Internxt – Consapevolezza informatica",
+    "description": "Cos'è la consapevolezza informatica, come rimanere al sicuro online e tutto quello che c'è da sapere sul mese della consapevolezza della sicurezza informatica di ottobre."
+  },
+  {
+    "id": "cloud-storage-for-education",
+    "title": "Cloud Storage Discount for Education – Internxt",
+    "description": "Internxt cloud storage discount for education, schools, and universities. 50% off any cloud storage subscription plans. Keep your files secure with Internxt!"
+  },
+  {
+    "id": "halloween-campaign",
+    "title": "Internxt – Archiviazione Cloud Privata e Sicura",
+    "description": "Campagna di Halloween Internxt: Ottieni l'80% di sconto su tutti i nostri piani annuali. Proteggi i tuoi file a vita con un unico pagamento."
+  },
+  {
+    "id": "internxt-monitor",
+    "title": "Internxt Monitor: Sono Stato Compromesso?",
+    "description": "Internxt è un servizio 'sono stato compromesso' che controlla se la tua email è stata compromessa in violazioni di dati online."
+  },
+  {
+    "id": "cloud-object-storage",
+    "title": "Archiviazione di Oggetti Cloud Sicura (S3 Compatibile) — Internxt S3",
+    "description": "Internxt S3 offre un'archiviazione di oggetti cloud sicura, privata e conveniente. Scala le tue esigenze di archiviazione con la nostra soluzione di archiviazione di oggetti basata su cloud e compatibile con S3."
+  },
+  {
+    "id": "green-cloud-computing",
+    "title": "Archiviazione cloud verde e sostenibile",
+    "description": "I data center ecologici di Internxt promuovono il nostro impegno per la sostenibilità e l'informatica cloud ecologica, supportando un ambiente più verde e sostenibile."
+  },
+  {
+    "id": "internxt-antivirus",
+    "title": "Proteggi i tuoi dispositivi dai malware con Internxt Antivirus",
+    "description": "Internxt Antivirus esegue la scansione e rimuove i virus dai tuoi file. Proteggi i tuoi dispositivi dai malware e garantisci una sicurezza completa nel cloud."
+  },
+  {
+    "id": "vpn-extension",
+    "title": "Internxt VPN gratuito e sicuro – Internxt",
+    "description": "Estensione VPN gratuita di Internxt per Chrome: navigazione sicura, Wi–Fi crittografato e protezione della privacy. Scarica la nostra VPN sicura per proteggere i tuoi dati online."
+  },
+  {
+    "id": "cloud-object-storage-legacy",
+    "title": "Archiviazione di Oggetti Cloud Sicura (S3 Compatibile) — Internxt S3",
+    "description": "Internxt S3 offre un'archiviazione di oggetti cloud sicura, privata e conveniente."
+  },
+  {
+    "id": "free-cloud-object-storage",
+    "title": "Archiviazione a oggetti cloud gratuita: Internxt compatibile con S3 e sicura",
+    "description": "Prova l'archiviazione a oggetti cloud gratuita e i servizi professionali di archiviazione a oggetti. Internxt fornisce un cloud di archiviazione a oggetti sicuro e compatibile con S3 per i tuoi dati."
+  },
+  {
+    "id": "internxt-private-cloud-storage-solutions",
+    "title": "Internxt – Archiviazione su cloud privato",
+    "description": "Cos'è l'archiviazione su cloud privato e come Internxt protegge le tue informazioni con crittografia post–quantistica, antivirus e VPN"
+  },
+  {
+    "id": "internxt-cloud-storage-backup-solutions",
+    "title": "Internxt – Soluzioni di Backup per Archiviazione Cloud",
+    "description": "Le soluzioni di backup per archiviazione cloud di Internxt utilizzano la ridondanza e una crittografia premiata che protegge te e la tua azienda dalla perdita di dati."
+  },
+  {
+    "id": "internxt-gdpr-cloud-storage",
+    "title": "Internxt – Archiviazione cloud conforme al GDPR",
+    "description": "Internxt è un servizio di archiviazione cloud conforme al GDPR e alle rigide leggi sulla privacy dell'UE per proteggere le tue informazioni."
+  },
+  {
+    "id": "internxt-cloud-storage-for-photos",
+    "title": "Migliore archiviazione cloud privata per foto e backup sicuri",
+    "description": "Proteggi i tuoi ricordi con il miglior cloud storage per foto private. Prova il cloud storage sicuro per le foto con crittografia zero-knowledge. Inizia oggi!"
+  },
+  {
+    "id": "internxt-annual",
+    "title": "Internxt – Offerta speciale per i tuoi piani annuali!",
+    "description": "Ottieni uno sconto su qualsiasi piano annuale di Internxt. Tutti i piani includono archiviazione cloud privata, VPN e antivirus."
+  },
+  {
+    "id": "internxt-metadata-remover",
+    "title": "Internxt Rimozione Metadati – Come pulire i metadati in PDF, foto e documenti online",
+    "description": "Rimuovi i dati nascosti dai tuoi file in pochi secondi. Il Rimuovi Metadati di Internxt pulisce i tuoi documenti per la massima privacy prima della condivisione."
+  },
+  {
+    "id": "zerogpt-ai-checker",
+    "title": "Internxt Rilevatore di AI – Rilevatore di testo AI gratuito",
+    "description": "Internxt Rilevatore di AI. Scansiona gratuitamente i contenuti per verificare se sono stati scritti da ChatGPT, Gemini o altre piattaforme di intelligenza artificiale."
+  },
+  {
+    "id": "special-offer",
+    "title": "Offerta speciale — Internxt",
+    "description": "Ottieni i piani annuali e a vita di Internxt con uno sconto esclusivo dell’80 %. Goditi privacy e sicurezza con fino a 10 TB di spazio di archiviazione."
+  },
+  {
+    "id": "file-compressor",
+    "title": "Compressore di file – Internxt",
+    "description": "Il compressore di file di Internxt, il miglior strumento per ridurre gratuitamente le dimensioni di video, foto e documenti."
+  },
+  {
+    "id": "compress-mov",
+    "title": "Compressore di video Internxt",
+    "description": "Internxt ti permette di comprimere gratuitamente i video per ridurre le dimensioni del file e inviarli online senza preoccuparti dei limiti di dimensione."
+  },
+  {
+    "id": "compress-pdf",
+    "title": "Compressore di file PDF Internxt",
+    "description": "Internxt ti permette di comprimere gratuitamente i file PDF per proteggere e inviare facilmente i tuoi documenti."
+  },
+  {
+    "id": "compress-jpg",
+    "title": "Compressore di file JPG Internxt",
+    "description": "Comprimi gratuitamente i tuoi file JPG con Internxt per proteggere e inviare facilmente le tue immagini."
+  },
+  {
+    "id": "compress-png",
+    "title": "Compressore di file PNG Internxt",
+    "description": "Comprimi gratuitamente i tuoi file PNG con Internxt per proteggere e inviare facilmente le tue immagini."
+  },
+  {
+    "id": "compress-ppt",
+    "title": "Compressore di file PPT Internxt",
+    "description": "Comprimi gratuitamente i tuoi file PPT con Internxt per ridurre le dimensioni del file e facilitare la gestione dell'archiviazione e della condivisione dei file."
+  },
+  {
+    "id": "compress-word",
+    "title": "Compressore di file Word online Internxt",
+    "description": "Comprimi gratuitamente i file Word (DOC) online per ridurre le dimensioni e facilitare l'archiviazione e la condivisione."
+  },
+  {
+    "id": "compress-excel",
+    "title": "Compressore di file Excel Internxt",
+    "description": "Compressore gratuito per file Excel (XLS) – Riduci le dimensioni per facilitare l'archiviazione e la condivisione dei file."
+  },
+  {
+    "id": "compress-zip",
+    "title": "Compressore ZIP online – Internxt",
+    "description": "Un compressore ZIP online riduce le dimensioni dei tuoi file ZIP per risparmiare spazio di archiviazione, condividere e caricare senza preoccuparti dei limiti di dimensione del file."
+  },
+  {
+    "id": "cloud-for-videos",
+    "title": "Internxt – Archiviazione Cloud per File Video",
+    "description": "Internxt offre archiviazione cloud per file video per memorizzare video HD, 4K e 8K che sono protetti con crittografia post–quantistica per la massima privacy."
+  },
+  {
+    "id": "internxt-cleaner",
+    "title": "Internxt cleaner",
+    "description": "Internxt Cleaner – Trova ed elimina file spazzatura per migliorare velocità, reattività e prestazioni"
+  },
+  {
+    "id": "cloud-for-videos",
+    "title": "Internxt - Archiviazione Cloud per File Video",
+    "description": "Internxt offre archiviazione cloud per file video per memorizzare video HD, 4K e 8K che sono protetti con crittografia post-quantistica per la massima privacy."
+  },
+  {
+    "id": "dropbox-alternative",
+    "title": "Internxt — Un'alternativa sicura e crittografata a Dropbox",
+    "description": "L'archiviazione cloud di Internxt è un'alternativa sicura a Dropbox. Proteggiamo i tuoi file con crittografia end-to-end, software open source e funzionalità incentrate sulla privacy."
+  },
+  {
+    "id": "pcloud-alternative",
+    "title": "Internxt — Un'alternativa sicura, crittografata e open source a pCloud",
+    "description": "L'archiviazione cloud di Internxt è un'alternativa sicura a pCloud. Proteggiamo i tuoi file con crittografia end-to-end, software open source e funzionalità incentrate sulla privacy."
+  },
+  {
+    "id": "mega-alternative",
+    "title": "Internxt — Un'alternativa sicura, crittografata e open source a Mega",
+    "description": "L'archiviazione cloud di Internxt è un'alternativa sicura a Mega. Proteggiamo i tuoi file con crittografia end-to-end, software open source e funzionalità incentrate sulla privacy."
+  },
+  {
+    "id": "koofr-alternative",
+    "title": "Internxt — Alternativa Sicura a Koofr con Crittografia Zero-Knowledge",
+    "description": "Passa a Internxt, l'alternativa a Koofr con crittografia post-quantistica e a conoscenza zero per la privacy totale dei tuoi file, senza dipendere da vault separati."
+  },
+  {
+    "id": "teams-alternative",
+    "title": "La migliore alternativa sicura a Teams",
+    "description": "Passa a Internxt per un'alternativa open-source a Teams. Videochiamate post-quantistiche e a conoscenza zero per la totale privacy delle tue chiamate."
+  },
+  {
+    "id": "icedrive-alternative",
+    "title": "Internxt — Alternativa Open-Source a Icedrive",
+    "description": "Passa a Internxt, un'alternativa open-source a Icedrive. Ottieni archiviazione cloud con crittografia post-quantistica e a conoscenza zero per una privacy totale, disponibile in tutti i piani."
+  },
+  {
+    "id": "onedrive-alternative",
+    "title": "Internxt — Alternativa Privata e Sicura a OneDrive",
+    "description": "Passa a Internxt, un'alternativa open-source a OneDrive. La crittografia post-quantistica e a conoscenza zero garantisce la privacy completa dei tuoi documenti e file multimediali."
+  },
+  {
+    "id": "google-drive-alternative",
+    "title": "Internxt — Come Google Drive, ma Privato",
+    "description": "DeGoogleizza la tua vita con Internxt, la migliore alternativa a Google Drive che rispetta la tua privacy. Ottieni crittografia a conoscenza zero e controllo totale sui dati."
+  },
+  {
+    "id": "elephantdrive-alternative",
+    "title": "Internxt — Alternativa Privata e Sicura a ElephantDrive",
+    "description": "Passa a Internxt per un'alternativa open-source a ElephantDrive. L'archiviazione cloud crittografata post-quantistica e a conoscenza zero garantisce la piena privacy dei tuoi documenti e file multimediali."
+  },
+  {
+    "id": "degoo-alternative",
+    "title": "Internxt — Alternativa Privata e Sicura a Degoo",
+    "description": "Passa a Internxt per un'alternativa open-source a Degoo. L'archiviazione cloud crittografata post-quantistica e a conoscenza zero garantisce la piena privacy dei tuoi documenti e file multimediali."
+  },
+  {
+    "id": "drime-alternative",
+    "title": "Internxt — Alternativa Privata e Sicura a Drime",
+    "description": "Passa a Internxt per un'alternativa open-source a Drime. L'archiviazione cloud crittografata post-quantistica e a conoscenza zero garantisce la piena privacy dei tuoi documenti e file multimediali."
+  },
+  {
+    "id": "filejump-alternative",
+    "title": "Internxt — Alternativa Privata e Sicura a FileJump",
+    "description": "Passa a Internxt per un'alternativa open-source a FileJump. L'archiviazione cloud crittografata post-quantistica e a conoscenza zero garantisce la piena privacy dei tuoi documenti e file multimediali."
+  },
+  {
+    "id": "zoom-alternative",
+    "title": "Internxt — Alternativa a Zoom",
+    "description": "Passa a Internxt per un'alternativa open-source a Zoom. Include archiviazione cloud post-quantistica e altro per la massima privacy online."
+  },
+  {
+    "id": "idrive-alternative",
+    "title": "Internxt — Alternativa a IDrive",
+    "description": "Passa a Internxt per un'alternativa a IDrive completamente privata. Archiviazione cloud post-quantistica e con crittografia zero-knowledge per la massima privacy dei tuoi file."
+  },
+  {
+    "id": "proton-drive-alternative",
+    "title": "Internxt — Alternativa a Proton Drive",
+    "description": "Passa a Internxt per una suite completa per la privacy e un'alternativa a Proton Drive. Archiviazione cloud post-quantistica e con crittografia zero-knowledge."
+  },
+  {
+    "id": "sync-alternative",
+    "title": "Internxt — Alternativa a Sync",
+    "description": "Passa a Internxt per un'alternativa open-source a Sync. Archiviazione cloud post-quantistica e con crittografia zero-knowledge per la massima privacy dei tuoi file."
+  },
+  {
+    "id": "filen-alternative",
+    "title": "Internxt — Alternativa a Filen",
+    "description": "Passa a Internxt per un'alternativa a Filen. Archiviazione cloud post-quantistica e con crittografia zero-knowledge per la massima privacy dei tuoi file."
+  },
+  {
+    "id": "google-meet-alternative",
+    "title": "Internxt — Alternativa a Google Meet",
+    "description": "Passa a Internxt per un'alternativa open-source a Google Meet. Video riunioni post-quantistiche e con crittografia zero-knowledge per la massima privacy delle tue chiamate."
+  },
+  {
+    "id": "terabox-alternative",
+    "title": "Internxt — Alternativa a Terabox",
+    "description": "Passa a Internxt per un'alternativa open-source a Terabox. Archiviazione cloud post-quantistica e con crittografia zero-knowledge per la massima privacy dei tuoi file."
+  },
+  {
+    "id": "meet",
+    "title": "Internxt Meet – Videochiamate Sicure e Private",
+    "description": "Meet offre videochiamate private con crittografia post-quantistica e end-to-end per le videoconferenze più sicure."
+  },
+  {
+    "id": "nas",
+    "title": "Migliore soluzione di Backup Cloud per NAS (QNAP e Synology) — Internxt",
+    "description": "Esegui il backup dei tuoi dispositivi NAS QNAP e Synology in modo sicuro nel cloud con la crittografia post-quantistica di Internxt. Il backup NAS più sicuro."
+  },
+  {
+    "id": "coupons",
+    "title": "Internxt — Sconti, Coupon e Promozioni",
+    "description": "Difendi la privacy, passa a Internxt. I servizi di archiviazione cloud open source di Internxt proteggono il tuo diritto alla privacy. Internxt Drive, Photos, Send e altro ancora."
+  },
+  {
+    "id": "free-cloud-storage-deals",
+    "title": "Internxt — Offerte di Cloud Storage Gratuito",
+    "description": "Offerte di cloud storage gratuito direttamente da Internxt per aggiornare il tuo piano con l'85% di sconto su cloud storage sicuro e crittografato e altro ancora"
+  },
+  {
+    "id": "free-cloud-storage-lifetime-deals",
+    "title": "Internxt — Offerte Ufficiali di Archiviazione Cloud a Vita Internxt con 85% di Sconto",
+    "description": "Ottieni le migliori offerte di archiviazione cloud a vita da Internxt. Paga una volta per ottenere l'85% di sconto sull'archiviazione cloud privata e crittografata, per sempre."
+  },
+  {
+    "id": "deals",
+    "title": "Internxt — Offerte ufficiali Internxt con 85% di sconto su tutti i piani",
+    "description": "Richiedi il tuo sconto esclusivo dell'85%. Queste offerte Internxt includono cloud storage privato e crittografato, e altro a un prezzo imbattibile."
+  },
+  {
+    "id": "reviews",
+    "title": "Internxt — Leggi le recensioni dei clienti su Internxt",
+    "description": "Leggi recensioni oneste su Internxt secondo le valutazioni di esperti tecnologici e utenti. Scopri cosa rende Internxt il servizio più affidabile per la tua privacy online."
+  },
+  {
+    "id": "cloud-data-centers",
+    "title": "Internxt — Data Center e Certificazioni",
+    "description": "Mantieni i tuoi dati al sicuro con Internxt. Crittografia end-to-end, data center cloud affidabili e conformità al GDPR e ad altri standard."
+  },
+  {
+    "id": "alternative-to-chatgpt",
+    "title": "Internxt — Alternativa a ChatGPT",
+    "description": "Passa a Internxt per un'alternativa a ChatGPT privata e crittografata. Internxt mantiene le tue chat private, crittografate e accessibili solo a te."
+  },
+  {
+    "id": "alternative-to-copilot",
+    "title": "Internxt — Alternativa a Copilot",
+    "description": "Passa a Internxt per un'alternativa a Copilot privata e crittografata. Internxt mantiene le tue chat private, crittografate e accessibili solo a te."
+  },
+  {
+    "id": "alternative-to-deepseek",
+    "title": "Internxt — Alternativa a DeepSeek",
+    "description": "Passa a Internxt per un'alternativa a DeepSeek privata e crittografata. Internxt mantiene le tue chat private, crittografate e accessibili solo a te."
+  },
+  {
+    "id": "alternative-to-gemini",
+    "title": "Internxt — Alternativa a Gemini",
+    "description": "Passa a Internxt per un'alternativa a Gemini privata e crittografata. Internxt mantiene le tue chat private, crittografate e accessibili solo a te."
+  },
+  {
+    "id": "alternative-to-grok",
+    "title": "Internxt — Alternativa a Grok",
+    "description": "Passa a Internxt per un'alternativa a Grok privata e crittografata. Internxt mantiene le tue chat private, crittografate e accessibili solo a te."
+  },
+  {
+    "id": "wire-alternative",
+    "title": "Internxt — Alternative to Wire",
+    "description": "Switch to Internxt for an open-source alternative to Wire. Post-quantum and zero-knowledge video meetings for full privacy of your calls."
+  },
+  {
+    "id": "whereby-alternative",
+    "title": "Internxt — Alternative to Whereby",
+    "description": "Switch to Internxt for an open-source alternative to Whereby. Post-quantum and zero-knowledge video meetings for full privacy of your calls."
+  },
+  {
+    "id": "annual",
+    "title": "Offerta Piani Annuali Internxt: Archiviazione Cloud Sicura e Crittografata",
+    "description": "Ottieni i piani annuali di Internxt per un'archiviazione cloud sicura e crittografata. Proteggi i tuoi file con la tecnologia a conoscenza zero e la sicurezza post-quantistica. Risparmia di più oggi stesso!"
+  },
+  {
+    "id": "aws-alternative",
+    "title": "Internxt — Alternativa ad AWS",
+    "description": "Passa a Internxt per un'alternativa AWS privata e crittografata. Internxt mantiene i tuoi dati privati, crittografati e accessibili solo a te."
+  },
+  {
+    "id": "azure-alternative",
+    "title": "Internxt — Alternativa a Microsoft Azure",
+    "description": "Passa a Internxt S3 per un'alternativa open-source ad Azure. Archiviazione di oggetti cloud conveniente e sicura per le aziende."
+  },
+  {
+    "id": "backblaze-alternative",
+    "title": "Internxt — Alternativa a Backblaze",
+    "description": "Passa a Internxt S3 per un'alternativa open-source a Backblaze. Archiviazione di oggetti cloud conveniente e sicura per le aziende."
+  },
+  {
+    "id": "idrivee2-alternative",
+    "title": "Internxt — Alternativa a IDrive e2",
+    "description": "Passa a Internxt S3 per un'alternativa open-source a IDrive. Archiviazione di oggetti cloud conveniente e sicura per le aziende."
+  },
+  {
+    "id": "google-cloud-alternative",
+    "title": "Internxt — Alternativa a Google Cloud",
+    "description": "Passa a Internxt S3 per un'alternativa open-source a Google Cloud. Archiviazione di oggetti cloud conveniente e sicura per le aziende."
+  },
+  {
+    "id": "alternative-to-avast",
+    "title": "Internxt — Alternativa a Avast",
+    "description": "Passa a Internxt per un'alternativa open-source a Avast. Include archiviazione cloud crittografata post-quantistica e zero-knowledge e altro ancora."
+  },
+  {
+    "id": "alternative-to-avg",
+    "title": "Internxt — Alternativa a AVG",
+    "description": "Passa a Internxt per un'alternativa open-source a AVG. Include archiviazione cloud crittografata post-quantistica e zero-knowledge e altro ancora."
+  },
+  {
+    "id": "alternative-to-avira",
+    "title": "Internxt — Alternativa a Avira",
+    "description": "Passa a Internxt per un'alternativa open-source a Avira. Include archiviazione cloud crittografata post-quantistica e zero-knowledge e altro ancora."
+  },
+  {
+    "id": "alternative-to-bitdefender",
+    "title": "Internxt — Alternativa a Bitdefender",
+    "description": "Passa a Internxt per un'alternativa open-source a Bitdefender. Include archiviazione cloud crittografata post-quantistica e zero-knowledge e altro ancora."
+  },
+  {
+    "id": "alternative-to-ccleaner",
+    "title": "Internxt — Alternativa a CCleaner",
+    "description": "Passa a Internxt per un'alternativa open-source a CCleaner. Include archiviazione cloud crittografata post-quantistica e zero-knowledge e altro ancora."
+  },
+  {
+    "id": "alternative-to-clean-my-mac",
+    "title": "Internxt — Alternativa a CleanMyMac",
+    "description": "Passa a Internxt per un'alternativa open-source a CleanMyMac. Include archiviazione cloud crittografata post-quantistica e zero-knowledge e altro ancora."
+  },
+  {
+    "id": "alternative-to-malwarebytes",
+    "title": "Internxt — Alternativa a Malwarebytes",
+    "description": "Passa a Internxt per un'alternativa open-source a Malwarebytes. Include archiviazione cloud crittografata post-quantistica e zero-knowledge e altro ancora."
+  },
+  {
+    "id": "alternative-to-mcafee",
+    "title": "Internxt — Alternativa a McAfee",
+    "description": "Passa a Internxt per un'alternativa open-source a McAfee. Include archiviazione cloud crittografata post-quantistica e zero-knowledge e altro ancora."
+  },
+  {
+    "id": "alternative-to-norton",
+    "title": "Internxt — Alternativa a Norton",
+    "description": "Passa a Internxt per un'alternativa open-source a Norton. Include archiviazione cloud crittografata post-quantistica e zero-knowledge e altro ancora."
+  },
+  {
+    "id": "alternative-to-totalav",
+    "title": "Internxt — Alternativa a TotalAV",
+    "description": "Passa a Internxt per un'alternativa open-source a TotalAV. Include archiviazione cloud crittografata post-quantistica e zero-knowledge e altro ancora."
+  },
+  {
+    "id": "levante-ud",
+    "title": "Internxt — Partner cloud ufficiale del Levante UD",
+    "description": "Internxt è un partner ufficiale di Levante UD, che fornisce archiviazione cloud crittografata e backup per proteggere i preziosi dati del club.",
+    "og:title": "Internxt — Partner cloud ufficiale del Levante UD",
+    "og:description": "Internxt è un partner ufficiale di Levante UD, che fornisce archiviazione cloud crittografata e backup per proteggere i preziosi dati del club."
+  },
+  {
+    "id": "nas-synology",
+    "title": "Backup Cloud per NAS Synology — Archiviazione NAS Sicura | Internxt",
+    "description": "Esegui il backup del tuo NAS Synology nel cloud con Internxt. Archiviazione cloud sicura, crittografata e privata per il tuo dispositivo Synology."
+  },
+  {
+    "id": "nas-qnap",
+    "title": "Backup Cloud per NAS QNAP — Archiviazione NAS Sicura | Internxt",
+    "description": "Esegui il backup del tuo NAS QNAP nel cloud con Internxt. Archiviazione cloud sicura, crittografata e privata per il tuo dispositivo QNAP."
+  },
+  {
+    "id": "cloud-partner",
+    "title": "Programma Cloud Partner di Internxt",
+    "description": "Diventa un rivenditore dell'archiviazione a oggetti Internxt S3 per le aziende. Archiviazione cloud a caldo e più conveniente di AWS, Azure e Google Cloud."
+  },
+  {
+    "id": "internxt-cloud-storage-backup-solutions",
+    "title": "Internxt – Soluzioni di backup con cloud storage",
+    "description": "Le soluzioni di backup con cloud storage di Internxt utilizzano una crittografia pluripremiata e la ridondanza che protegge te e la tua azienda dalla perdita di dati."
+  },
+  {
+    "id": "thankyou",
+    "title": "Lista d'attesa offerta speciale — Internxt",
+    "description": "Iscriviti a Internxt per ricevere il tuo sconto esclusivo sull'archiviazione cloud privata e crittografata di cui puoi fidarti."
+  },
+  {
+    "id": "internxt-private-cloud-storage-solutions",
+    "title": "Internxt – Soluzioni di archiviazione su cloud privato",
+    "description": "Scopri un'esperienza di archiviazione dati su cloud privato di altissimo livello. Offriamo soluzioni di archiviazione su cloud privato di prima classe per garantire la sicurezza e l'organizzazione dei tuoi dati. Inizia con il tuo piano gratuito!"
+  },
+  {
+    "id": "cloud-storage-for-documents",
+    "title": "Internxt - Archiviazione cloud per documenti",
+    "description": "Internxt offre un archiviazione cloud sicura per i documenti, protetta da crittografia post-quantistica per la massima privacy."
+  },
+  {
+    "id": "secure-file-transfer",
+    "title": "Internxt - Trasferimento file sicuro",
+    "description": "Internxt offre un servizio di trasferimento file sicuro per crittografare e proteggere i tuoi file, così puoi controllare chi può accedere ai tuoi dati."
+  },
+  {
+    "id": "mail",
+    "title": "Internxt Mail - La migliore email crittografata per la privacy.",
+    "description": "Internxt Mail è una soluzione di posta elettronica crittografata che mantiene al sicuro la tua casella di posta. Grazie alla crittografia post-quantistica, Internxt è il servizio di posta elettronica più sicuro per la privacy."
+  },
+  {
+    "id": "photos",
+    "title": "Internxt Foto – Archiviazione cloud sicura per le foto",
+    "description": "Internxt Foto è un'app di archiviazione foto privata e sicura per il backup automatico e la sincronizzazione. Zero-knowledge, open source e privata."
+  }
+]

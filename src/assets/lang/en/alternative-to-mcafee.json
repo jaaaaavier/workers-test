@@ -1,0 +1,239 @@
+{
+  "HeroSection": {
+    "title": "Internxt. Like McAfee,\n but **private**",
+    "description": "Switch to Internxt, the best alternative to McAfee that respects your privacy",
+    "getPrivacy": " Select your plan and get {{percentage}}% off  ",
+    "cta": "Make the switch"
+  },
+  "HeaderSection": {
+    "title": "Internxt vs McAfee overview",
+    "description": "Discover the key features and differences that allow Internxt to give you back control over your data",
+    "tableSection": {
+      "comparisons": [
+        "Open-source",
+        "Zero-knowledge privacy",
+        "Data collection",
+        "Price and features",
+        "Other features",
+        "Security audits",
+        "User experience",
+        "Privacy policy",
+        "Privacy laws"
+      ],
+      "internxtFeatures": [
+        "Yes",
+        "Yes, zero-knowledge encryption",
+        "None",
+        "Affordable annual and lifetime plans",
+        "Includes Drive, VPN, Antivirus, Cleaner, Meet, and more",
+        "Regular security audits",
+        "Smooth and non-intrusive",
+        "Strict no-logs policy",
+        "Full privacy: GDPR, Spanish Data Protection Laws"
+      ],
+      "competitorFeatures": [
+        "No",
+        "No zero-knowledge encryption",
+        "Extensive telemetry",
+        "Expensive renewal rates",
+        "Basic antivirus and firewall tools",
+        "Rarely audited",
+        "Constant intrusive notifications",
+        "Extensive data sharing",
+        "Less privacy: US surveillance laws"
+      ]
+    }
+  },
+  "PrivacyViolationsSection": {
+    "title": "Why you need a McAfee alternative",
+    "description": "McAfee is often pre-installed on devices, but it is known for intrusive popups and heavy resource use. Switch to Internxt for a cleaner, more private experience.",
+    "scrollableSection": {
+      "titles": [
+        "Intrusive 'Bloatware' notifications",
+        "High resource consumption",
+        "Complex cancellation process",
+        "Limited product suite"
+      ],
+      "descriptions": [
+        "McAfee is notorious for frequent and aggressive popup notifications and 'scareware' tactics that urge users to renew or buy additional services.",
+        "Like many legacy antivirus tools, McAfee can take up significant system resources, slowing down your PC's performance during daily tasks.",
+        "Users often report difficulties when trying to cancel subscriptions or remove the software completely from their systems, leading to frustrating experiences.",
+        "McAfee focus is primarily on device protection. Internxt provides a complete, encrypted ecosystem including cloud storage, a VPN, and antivirus, giving you total protection in one plan."
+      ]
+    }
+  },
+  "WhyNeedAlternativeSection": {
+    "title": "Features",
+    "description": "",
+    "cards": {
+      "titles": [
+        "Open source and audited",
+        "Full product suite",
+        "Affordable plans"
+      ],
+      "descriptions": [
+        "Internxt is fully open source and independently audited, so you can rest assured there are no backdoors to your data and that your information is handled transparently. Anyone can review the code for maximum trust and accountability.",
+        "Internxt offers Cleaner and a full privacy ecosystem to give you everything you need to clear junk files from your device, store and share files with zero-knowledge encryption with Drive, and more benefits, including VPN, Meet, Mail, and more.",
+        "Get started with Internxt for just €1.60 a month, or avoid subscriptions with our affordable lifetime plans to pay once and use forever. With lifetime plans, you get access to all features forever, and you can upgrade whenever you need."
+      ]
+    }
+  },
+  "VersusSection": {
+    "title": "Internxt vs McAfee",
+    "description": "Internxt offers unrivaled privacy and security thanks to zero-knowledge, post-quantum encryption, giving you the best protection for your data.",
+    "mainTable": {
+      "inxtTable": {
+        "title": "Internxt: Total privacy, transparency, and trust",
+        "features": [
+          {
+            "title": "Open source",
+            "description": "Internxt makes its code public on GitHub, ensuring transparency and preventing hidden vulnerabilities or backdoors."
+          },
+          {
+            "title": "Zero-knowledge Encryption",
+            "description": "Your files and data are encrypted on your device, guaranteeing that only you can access them."
+          },
+          {
+            "title": "Based in Europe",
+            "description": "Internxt is based in Spain and complies with strict GDPR laws, ensuring your personal information is protected by law."
+          },
+          {
+            "title": "Free and affordable plans",
+            "description": "Internxt is free to start and offers affordable lifetime plans up to 5TB. Access our full suite of privacy tools forever for {{percentage}}% off."
+          }
+        ]
+      },
+      "competitorTable": {
+        "title": "McAfee: What about your privacy?",
+        "features": [
+          {
+            "title": "Closed-source software",
+            "description": "Proprietary software that makes it impossible for users to verify how their system data is handled."
+          },
+          {
+            "title": "No zero-knowledge encryption",
+            "description": "McAfee lacks true end-to-end encryption for user data, maintaining potential access to sensitive info."
+          },
+          {
+            "title": "Data collection",
+            "description": "Collects detailed system telemetry and usage data, often shared with a network of partners and affiliates."
+          },
+          {
+            "title": "Auto-renewal tactics",
+            "description": "Known for aggressive auto-renewal policies that often charge users at significantly higher rates after initial trials."
+          }
+        ]
+      }
+    }
+  },
+  "WhyBestAlternativeSection": {
+    "title": "Why Internxt is the best alternative to McAfee",
+    "description": "Internxt offers a comprehensive suite of products alongside its private antivirus and security tools to give you a secure McAfee alternative.",
+    "scrollableSection": {
+      "imagesPathname": [
+        "drive",
+        "antivirus",
+        "vpn",
+        "cleaner",
+        "meet",
+        "hero"
+      ],
+      "titles": [
+        "Internxt Drive",
+        "Antivirus",
+        "VPN",
+        "Cleaner",
+        "Meet",
+        "Advanced tools"
+      ],
+      "descriptions": [
+        "Internxt Drive offers secure, zero-knowledge and post-quantum encrypted cloud storage with advanced sharing, versioning, NAS, and rclone support.",
+        "Internxt Antivirus is built directly into your app to protect against malware, ransomware, and spyware with full or custom scans.",
+        "Internxt’s VPN encrypts your connection, blocks ads and trackers, and protects your identity while browsing online.",
+        "Internxt Cleaner helps you identify and remove junk or duplicate files to keep your storage organized and efficient.",
+        "Internxt Meet enables secure, private video calls protected with post-quantum encryption and free from trackers or ads.",
+        "Available on Windows, Mac, Linux, and mobile, with WebDAV, Rclone, and NAS support for advanced users."
+      ]
+    }
+  },
+  "CtaSection": {
+    "title": "Choose Internxt for the best McAfee alternative",
+    "description": "Internxt gives you full private encryption by default, transparent open source software, and a full privacy suite to keep your data and files secure online.",
+    "cta": "Make the switch"
+  },
+  "tableSection": {
+    "title": "Your all-in-one privacy ally",
+    "hotLabel": "{{discount}}% off 🔥",
+    "planTitles": {
+      "header": "Your all-in-one privacy ally"
+    },
+    "billingFrequency": {
+      "annually": "Annual",
+      "lifetime": "Lifetime"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Free",
+      "description": "Use Internxt for free with private encrypted storage and antivirus tools",
+      "cta": "Select plan"
+    },
+    "features": {
+      "openSource": "Open-source and audited",
+      "premiumSupport": "Premium customer support",
+      "guarantee": "30-day money-back guarantee"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "FaqSection": {
+    "title": "Questions? We have answers",
+    "faq": [
+      {
+        "question": "Is Internxt a more secure and private alternative to McAfee?",
+        "answer": [
+          "Yes, Internxt uses post-quantum and zero-knowledge encryption that guarantees nobody but you can view your files.",
+          "Internxt Drive includes VPN, Antivirus, Cleaner, Meet, and Mail giving you more services than McAfee to ensure you get the best security and privacy online."
+        ]
+      },
+      {
+        "question": "What is post-quantum encryption, and is it more secure?",
+        "answer": [
+          "Unlike standard encryption, post-quantum encryption algorithms are built to resist powerful quantum attacks.",
+          "This cryptography method is used by Internxt to ensure that your lifetime cloud storage plan protects you against future cybersecurity threats and is available for all plans at no extra cost."
+        ]
+      },
+      {
+        "question": "Where is Internxt based?",
+        "answer": [
+          "Internxt is based in Valencia, Spain, making it a GDPR compliant cloud storage solution that follows strict laws to ensure your data and privacy are protected."
+        ]
+      },
+      {
+        "question": "Is McAfee more expensive than Internxt?",
+        "answer": [
+          "With your exclusive 85% discount, all our plans are cheaper than McAfee's pricing options currently available, with the benefit of offering many more features."
+        ]
+      },
+      {
+        "question": "How do I contact support?",
+        "answer": [
+          "If you have any more questions, requests, or need assistance, you can contact hello@internxt.com and our Customer Success Team will be happy to help."
+        ]
+      },
+      {
+        "question": "Can I add more storage to my lifetime plan?",
+        "answer": [
+          "Yes, you can upgrade your plan from the settings of your Internxt account if you need to add more storage. Or purchase a new plan at internxt.com/pricing with your current Internxt account, and your storage will be automatically stacked."
+        ]
+      },
+      {
+        "question": "Can I pay with credit card, PayPal, or cryptocurrency?",
+        "answer": [
+          "Internxt currently accepts debit and credit cards (Mastercard, VISA, American Express, etc). You can also pay via PayPal, iDEAL, Sofort, Cryptocurrency, and Klarna."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+import { GetServerSidePropsContext } from 'next';
+
+const Cookies = require('cookies');
+const moment = require('moment');
+const url = require('url');
+const queryString = require('querystring');
+
+const GCLID_COOKIE_LIFESPAN_DAYS = 90;
+const CELLO_EXPIRATION_DAYS = 30;
+const MILLISECONDS_PER_DAY = 24 * 60 * 60 * 1000;
+
+export const TRACKING_PARAMS = [
+  'utm_medium',
+  'utm_source',
+  'utm_campaign',
+  'utm_name',
+  'utm_id',
+  'gclid',
+  'irclickid',
+  'ga_campaign',
+  'ga_adgroup',
+  'ga_keyword',
+  'ga_network',
+  'irgwc',
+  'afsrc',
+] as const;
+
+function parseUri(ctx: GetServerSidePropsContext) {
+  const { query } = url.parse(ctx.req.url);
+  const parsedQuery = queryString.parse(query);
+  return parsedQuery;
+}
+
+function setCookie({
+  cookieName,
+  cookieValue,
+  expiration,
+}: {
+  cookieName: string;
+  cookieValue: string;
+  expiration?: Date;
+}) {
+  const domain = process.env.NODE_ENV === 'production' ? '.internxt.com' : 'localhost';
+
+  const expirationDate = expiration ? new Date(expiration).toUTCString() : moment().add(100, 'days').toDate();
+
+  const cookie = `${cookieName}=${cookieValue};expires=${expirationDate};domain=${domain}; Path=/`;
+
+  document.cookie = cookie;
+}
+
+function getCookie(cookieName: string): string {
+  const cookie = {};
+  if (typeof document !== 'undefined') {
+    document.cookie.split(';').forEach((el) => {
+      const [key, value] = el.split('=');
+      cookie[key.trim()] = value;
+    });
+  }
+  return cookie[cookieName];
+}
+
+function setReferralCookie(ctx: GetServerSidePropsContext): void {
+  const parsedUri = parseUri(ctx);
+
+  if (!parsedUri.ref) {
+    return;
+  }
+
+  const referralId = parsedUri.ref;
+
+  const expires = moment().add(2, 'days').toDate();
+  const cookies = new Cookies(ctx.req, ctx.res);
+
+  cookies.set('REFERRAL', referralId, {
+    domain: process.env.NODE_ENV === 'production' ? '.internxt.com' : 'localhost',
+    expires,
+    overwrite: true,
+    httpOnly: false,
+  });
+
+  // httpOnly must be false in order to be accesible by JavaScript
+}
+
+function setPublicCookie(ctx: GetServerSidePropsContext, name: string, value: string, expires: Date): void {
+  const cookies = new Cookies(ctx.req, ctx.res);
+
+  cookies.set(name, value, {
+    domain: process.env.NODE_ENV === 'production' ? '.internxt.com' : 'localhost',
+    expires,
+    overwrite: true,
+    httpOnly: false,
+  });
+}
+
+export const saveGclidToCookie = (gclid: string) => {
+  const expiryDate = new Date();
+  expiryDate.setTime(expiryDate.getTime() + GCLID_COOKIE_LIFESPAN_DAYS * MILLISECONDS_PER_DAY);
+  setCookie({
+    cookieName: 'gclid',
+    cookieValue: gclid,
+    expiration: expiryDate,
+  });
+};
+
+export const saveTrackingParamsToCookies = () => {
+  if (typeof window === 'undefined') return;
+
+  const params = new URLSearchParams(window.location.search);
+
+  const expiryDate = new Date();
+
+  expiryDate.setTime(
+    expiryDate.getTime() +
+      GCLID_COOKIE_LIFESPAN_DAYS * MILLISECONDS_PER_DAY,
+  );
+
+  TRACKING_PARAMS.forEach((param) => {
+    const value = params.get(param);
+
+    if (!value) return;
+
+    setCookie({
+      cookieName: param,
+      cookieValue: value,
+      expiration: expiryDate,
+    });
+  });
+}
+
+export const getTrackingParams = (): Record<string, string> => {
+  if (typeof window === 'undefined') return {};
+
+  const urlParams = new URLSearchParams(window.location.search);
+  const trackingParams: Record<string, string> = {};
+
+  TRACKING_PARAMS.forEach((param) => {
+    const value = urlParams.get(param) ?? getCookie(param);
+
+    if (value) {
+      trackingParams[param] = value;
+    }
+  });
+
+  return trackingParams;
+};
+
+export const getGclidFromURL = (): string | null => {
+  if (typeof window === 'undefined') return null;
+  const params = new URLSearchParams(window.location.search);
+  return params.get('gclid');
+};
+
+export const saveCelloFirstVisit = (): void => {
+  if (typeof window === 'undefined') return;
+  if (localStorage.getItem('cello_first_visit') === null) {
+    localStorage.setItem('cello_first_visit', new Date().toISOString());
+  }
+};
+
+export const getCelloFirstVisitDate = (): string | null => {
+  if (typeof window === 'undefined') return null;
+  return localStorage.getItem('cello_first_visit');
+};
+
+export const isCelloExpired = (): boolean => {
+  const storedDate = getCelloFirstVisitDate();
+  if (!storedDate) return false;
+  return Date.now() - new Date(storedDate).getTime() > CELLO_EXPIRATION_DAYS * MILLISECONDS_PER_DAY;
+};
+
+const cookies = {
+  parseUri,
+  setCookie,
+  getCookie,
+  setReferralCookie,
+  setPublicCookie,
+  saveCelloFirstVisit,
+  getCelloFirstVisitDate,
+  isCelloExpired,
+  saveTrackingParamsToCookies,
+  getTrackingParams,
+};
+
+export default cookies;

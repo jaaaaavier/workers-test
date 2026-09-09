@@ -1,0 +1,142 @@
+{
+  "HeroSection": {
+    "title": "为您的 **Home Assistant 备份** 提供安全的云存储",
+    "description": "自动化的零知识异地备份。源自欧洲，为您提供极高的隐私保障与数据控制权。",
+    "features": [
+      "定时计划您的备份",
+      "跨多个服务器分布式备份",
+      "开源且经过安全审计"
+    ],
+    "guarantee": "30天退款保证",
+    "claimDeal": "获取优惠"
+  },
+  "MadeInEuropeSection": {
+    "title": "欧洲制造",
+    "description": "结合屡获殊荣的加密技术，您的数据受欧洲严格的合规法律法规保护。",
+    "cards": {
+      "images": [
+        "/images/drive/GDPR.webp",
+        "/images/drive/redundancy.webp",
+        "/images/drive/sustainability.webp"
+      ],
+      "imagesMobile": [
+        "/images/drive/GDPR2.webp",
+        "/images/drive/Redundancy2.webp",
+        "/images/drive/Sustainability2.webp"
+      ],
+      "titles": [
+        "欧洲数据中心",
+        "冗余备份",
+        "致力于可持续发展 "
+      ],
+      "descriptions": [
+        "Internxt 总部位于西班牙瓦伦西亚， our 的数据中心位于欧洲及全球其他地区，为您提供安全、高速和合规的服务。",
+        "您的文件通过冗余系统、环境控制和 24/7 全天候现场安全监控获得全面保护。无论发生什么，您的文件都将始终保持安全并可随时访问。",
+        "Internxt 率先推行高效能节能做法，致力于打造更清洁、更可持续的云存储解决方案。"
+      ],
+      "cta": [
+        "了解更多",
+        "",
+        "了解更多"
+      ]
+    }
+  },
+  "TrustedBySection": {
+    "description": "Internxt 旨在让您掌握掌控权。有了 Internxt，您可以安心无忧，因为您的数据经过加密保护，数字生活完全属于您自己。"
+  },
+  "ThreeCardsSection": {
+    "title": "核心价值",
+    "cards": {
+      "titles": [
+        "零知识加密",
+        "可靠的数据恢复",
+        "隐私至上"
+      ],
+      "descriptions": [
+        "端到端客户端加密。您的配置文件和 API 密钥保持严格私密。",
+        "妥善保存 HA 快照的安全异地副本，以防硬件故障或升级问题。",
+        "托管于欧盟，完全符合 GDPR 规范，独立于 Big Tech 大企。"
+      ]
+    }
+  },
+  "CoreFeatures": {
+    "title": "我们安全云存储的核心功能",
+    "description": "全面保护您的数据安全，满足您保持文件安全和私密所需的一切",
+    "accordionCards": {
+      "titles": [
+        "完全私密的生态系统",
+        "安全协作",
+        "像本地硬盘一样的云盘"
+      ],
+      "descriptions": [
+        "Internxt 集成了加密存储、备份、VPN、杀毒软件、清理工具、Meet、Mail 等——助您彻底摆脱科技巨头的束缚。",
+        "通过加密链接、密码和访问控制发送文件。在保持数据私密的同时与团队进行实时协作。",
+        "将 Internxt 用作虚拟硬盘，无缝同步、上传和访问文件——就像在电脑上一样方便，但更加安全且时刻保持最新。"
+      ]
+    },
+    "cards": {
+      "titles": [
+        "端到端加密",
+        "访问控制",
+        "加密备份"
+      ],
+      "descriptions": [
+        "所有文件均采用抗量子和零知识加密技术进行加密。除了您或您选择分享的对象外，没有人可以查看其内容。",
+        "您可以精准控制谁可以访问分享的文件，支持随时撤销加密且带密码保护的链接。",
+        "通过定期的加密备份，确保您的文件免受勒索软件和意外丢失的影响，提供额外的安全保障。"
+      ]
+    }
+  },
+  "TableSection": {
+    "title": "Internxt 方案",
+    "valentinesTitle": "安全之爱 - ",
+    "hotLabel": "立省 {{discount}}%",
+    "planTitles": {
+      "header": "选择您的套餐",
+      "lifetimeHeader": "选择您的终身套餐",
+      "individuals": "年度套餐",
+      "homePage": "选择最适合您的套餐",
+      "lifetime": "终身套餐",
+      "business": "企业套餐",
+      "lifetimeCampaign": {
+        "blueText": "50% 折扣",
+        "normalText": "适用于我们所有专属终身套餐"
+      }
+    },
+    "lifetimeDescription": "一次付费，终身享有隐私与安全",
+    "planDescription": "所有 Internxt 套餐均包含完整功能，可全面使用我们屡获殊荣的隐私套件，包括 Internxt Drive、Send、VPN、Antivirus、Cleaner、Dark Web Monitor、Meet 和 Mail。",
+    "businessDescription": "我们目前正在开发全新的 Internxt 企业方案，专为保护您的业务、员工和盈利能力而设计。",
+    "businessDescription2": "使用 Internxt 的加密云存储方案，确保您公司的数据安全。",
+    "billingFrequency": {
+      "monthly": "按月",
+      "annually": "按年",
+      "lifetime": "终身",
+      "individual": "个人",
+      "business": "企业"
+    },
+    "freePlanCard": {
+      "eyeBrow": "免费",
+      "description": "免费获取 1 GB 加密云存储空间",
+      "cta": "选择套餐"
+    },
+    "features": {
+      "endToEnd": "端到端加密",
+      "openSource": "开源且经过审计",
+      "anonymousAccount": "匿名创建账户",
+      "premiumSupport": "尊享客户支持",
+      "guarantee": "30 天退款保证"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "ReviewSection": {
+    "forbes": "Internxt 巩固了其作为科技巨头之欧洲替代方案的地位",
+    "deloitte": "荣获 Deloitte Fast 50 大奖，表彰增长最快的企业",
+    "techradar": "Internxt 是一款出色的云存储服务：实惠、直观且可靠",
+    "fortune": "Internxt 正在构建一个隐私和安全至上的互联网",
+    "trustpilot": "考虑到所提供的安全性和丰富功能，具有极高性价比。卓越的服务与支持。"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "HeroSection": {
+    "title": {
+      "normalText": "Costruire la fiducia attraverso il potere di",
+      "blueText": "Open Source"
+    },
+    "description": "Qui a Internxt, ci impegniamo a fornire alle persone il massimo livello di privacy e sicurezza. Questo approccio privacy-by-design fa parte della nostra filosofia di costruire tecnologie che proteggano la vostra privacy e mantengano i vostri dati al sicuro."
+  },
+  "WhatIsOSS": {
+    "title": "Cos'è il software open source?",
+    "description": "Il software open source, o OSS, è il codice del computer utilizzato per creare progetti e liberamente disponibile al pubblico. Con l'OSS, è possibile visualizzare il codice che ha costruito il sito web e, con le conoscenze adeguate, modificarne o migliorarne la sicurezza, correggere i bug o aggiungere nuove funzionalità.",
+    "imgHeader": "Utilizziamo software open source nelle nostre app Drive, Photos e Send, assicurandoci di aggiornare e migliorare costantemente il nostro codice sorgente. Questo impegno ci permette di offrirvi la migliore esperienza possibile.",
+    "section": [
+      "La privacy e la sicurezza sono in primo piano nel modo in cui costruiamo le nostre app, il che è reso possibile grazie alla potenza del software open source. Scegliendo Internxt, potete essere certi che saremo sempre chiari su come proteggiamo i vostri file importanti.",
+      "Grazie alla potenza del software open source, Internxt è in grado di fornire un servizio che enfatizza la trasparenza, la sicurezza e la privacy sopra ogni altra cosa."
+    ]
+  },
+  "WhatAreTheBenefits": {
+    "title": "Quali sono i vantaggi del software open source?",
+    "description": "L'OSS ha numerosi vantaggi che si allineano alla nostra visione di un Internet in cui la privacy degli utenti viene prima di tutto",
+    "cards": [
+      {
+        "title": "Trasparenza",
+        "description": "Con il codice di Internxt, ciò che si vede è ciò che si ottiene. Chiunque può visualizzare, modificare o migliorare il nostro codice per garantire che rimanga aggiornato e sicuro e che non comprometta i vostri dati o la vostra privacy."
+      },
+      {
+        "title": "Sicurezza migliorata",
+        "description": "Open source significa che un maggior numero di persone può ispezionare il codice in modo da poter correggere rapidamente i problemi o le vulnerabilità, lasciando poco o nessun tempo alle persone per sfruttare eventuali problemi con il codice."
+      },
+      {
+        "title": "Collaborazione",
+        "description": "Una comunità attiva di sviluppatori e utenti può contribuire attivamente ai miglioramenti del software. Questi aggiornamenti consentono di utilizzare sempre il software più sicuro e aggiornato e di avere la migliore esperienza possibile."
+      },
+      {
+        "title": "Longevità",
+        "description": "L'OSS rimane accessibile al pubblico anche se l'azienda termina, consentendo alle persone di continuare a lavorare sul codice; ciò garantisce la continuità ed elimina la necessità di pagare per un nuovo servizio o la perdita di dati."
+      },
+      {
+        "title": "Agilità",
+        "description": "Il software open source significa che gli sviluppatori possono risolvere rapidamente i bug piuttosto che aspettare giorni perché i team di sviluppo risolvano il problema, in modo che le persone possano continuare a utilizzare il software in modo sicuro e senza ritardi."
+      },
+      {
+        "title": "Affidabile",
+        "description": "Poiché il codice sorgente viene costantemente aggiornato, si può essere certi di utilizzare la versione migliore del software."
+      }
+    ]
+  },
+  "CtaSection1": {
+    "title": "La privacy viene dalla fonte",
+    "description": "Proteggi i tuoi file con il cloud storage open-source di Internxt",
+    "cta": "Unisciti a Internxt oggi"
+  },
+  "LearningWithOSCommunity": {
+    "title": "Imparare e migliorare con la comunità Open-Source",
+    "description": [
+      "La comunità open-source ha svolto un ruolo significativo nello sviluppo di framework, strumenti e librerie che consentono il miglioramento continuo di progetti o aziende",
+      "Internxt tiene in grande considerazione la comunità open-source, in quanto un maggior numero di occhi sul nostro codice significa che è sottoposto a un controllo costante per essere il più sicuro possibile",
+      "Incoraggiamo chiunque sia interessato allo sviluppo di software a visualizzare il nostro codice sorgente, a imparare dalla comunità open-source e a unirsi a noi nel nostro viaggio verso un Internet più sicuro."
+    ]
+  },
+  "DifferencesBetweenOpenAndCloseSS": {
+    "title": "Quali sono le differenze tra software open e closed source?",
+    "description": "I pro e i contro del software open source sono fondamentali per decidere quale software fa al caso vostro. Le principali differenze tra software OSS e software closed-source sono le seguenti:",
+    "table": {
+      "OpenSource": {
+        "title": "Open Source",
+        "feat": [
+          "Chiunque può visualizzare, modificare o cambiare il codice e migliorarlo",
+          "La disponibilità aperta e la trasparenza del codice sorgente significa che chiunque può esaminare il codice per individuare potenziali problemi",
+          "Il software può essere mantenuto e corretto rapidamente",
+          "Più efficiente dal punto di vista dei costi, poiché non ci sono costi di licenza da pagare",
+          "Più accessibile grazie alla sua flessibilità nell'aggiungere funzionalità e apportare modifiche."
+        ]
+      },
+      "CloseSource": {
+        "title": "Closed Source",
+        "disadvantages": [
+          "Il codice sorgente è accessibile solo a chi lo ha creato",
+          "Il codice è inaccessibile al pubblico, il che significa che poche persone possono verificare la presenza di falle nella sicurezza",
+          "L'aggiornamento del codice richiede tempo, rendendolo vulnerabile agli attacchi",
+          "Il software può essere costoso e richiede una licenza d'uso",
+          "Il cambiamento dipende dall'azienda e può richiedere del tempo."
+        ]
+      }
+    },
+    "footer": "In generale, tuttavia, molti servizi utilizzano un modello ibrido di software OSS e closed-source nelle loro piattaforme, anche se aziende come Internxt scelgono di rimanere completamente open-source."
+  },
+  "CtaSection2": {
+    "title": "Mantieni i tuoi file al sicuro",
+    "description": "Internxt utilizza software open source per mantenere i vostri file sicuri, privati e criptati",
+    "cta": "Unisciti a Internxt oggi"
+  },
+  "ExploreOurOSS": {
+    "title": "Esplora il nostro software open source",
+    "description": "Se desiderate esplorare sotto il cofano di Internxt e vedere come costruiamo la nostra app Drive su desktop, mobile e web, il codice sorgente è disponibile sul nostro GitHub. Buona programmazione!",
+    "DownloadLinks": {
+      "downloadTitle": "Scarica Internxt Drive",
+      "or": "o",
+      "downloadFor": "Scarica per",
+      "orDownloadFor": "O scarica per",
+      "downloadOnThe": "Scaricare sul sito",
+      "orDownloadOnThe": "O Scaricare sul sito",
+      "getOn": "Salire",
+      "orGetOn": "O salire",
+      "openDriveWeb": "Aprire Drive Web",
+      "iPhone": "App Store",
+      "iPad": "App Store",
+      "Android": "Play Store",
+      "Windows": "Windows",
+      "Linux": "Linux",
+      "UNIX": "Linux",
+      "MacOS": "Mac"
+    }
+  },
+  "CtaSection3": {
+    "title": "Entrare a far parte della comunità open source",
+    "description": "Scopri come Internxt protegge i tuoi dati con il nostro codice sorgente.",
+    "cta": "Visualizza il nostro GitHub"
+  }
+}

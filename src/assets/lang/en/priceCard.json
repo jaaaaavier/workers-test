@@ -1,0 +1,318 @@
+{
+  "mostPopular": "Recommended",
+  "perUserSlash": "/user",
+  "perYear": "/year",
+  "perMonth": "/month",
+  "cta": "Select plan",
+  "gifts": {
+    "line1": "Enter our holiday raffle!",
+    "outCard": "Win a gift card redeemable in your favorite merchants (Amazon, Steam, Apple...) or as a Visa prepaid card",
+    "prices": {
+      "essentials": "Chance to win a €100 gift card",
+      "standard": "Standard",
+      "premium": "Chance to win a €300 gift card",
+      "ultimate": "Chance to win a €1000 gift card"
+    }
+  },
+  "renewsInfo": "Annual plan, billed at {{priceNow}} for the first month, then renews at {{price}}/mo",
+  "productFeatures": {
+    "planTypes": {
+      "essentials": "Essential",
+      "standard": "Standard",
+      "premium": "Premium",
+      "ultimate": "Ultimate",
+      "pro": "Pro",
+      "family": {
+        "1TB": "Family Essentials",
+        "2TB": "Family Premium"
+      }
+    },
+    "comingSoonLabel": "Coming soon",
+    "individualPlans": {
+      "1TB": [
+        {
+          "name": "**1TB** encrypted storage",
+          "status": "available"
+        },
+        {
+          "name": "Try risk-free for 30 days",
+          "status": "available"
+        },
+        {
+          "name": "Post-quantum encryption",
+          "status": "available"
+        },
+        {
+          "name": "Zero-knowledge encryption",
+          "status": "available"
+        },
+        {
+          "name": "Two-factor authentication ",
+          "status": "available"
+        },
+        {
+          "name": "Backup your computer",
+          "status": "available"
+        },
+        {
+          "name": "Password-protected file sharing",
+          "status": "available"
+        },
+        {
+          "name": "Encrypted VPN",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        }
+      ],
+      "3TB": [
+        {
+          "name": "**3TB** encrypted storage",
+          "status": "available"
+        },
+        {
+          "name": "Try risk-free for 30 days",
+          "status": "available"
+        },
+        {
+          "name": "Post-quantum encryption",
+          "status": "available"
+        },
+        {
+          "name": "Zero-knowledge encryption",
+          "status": "available"
+        },
+        {
+          "name": "Two-factor authentication ",
+          "status": "available"
+        },
+        {
+          "name": "Backup your computer",
+          "status": "available"
+        },
+        {
+          "name": "Password-protected file sharing",
+          "status": "available"
+        },
+        {
+          "name": "Invite, share & collaborate",
+          "status": "available"
+        },
+        {
+          "name": "File versioning",
+          "status": "available"
+        },
+        {
+          "name": "Encrypted VPN",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        }
+      ],
+      "5TB": [
+        {
+          "name": "**5TB** encrypted storage",
+          "status": "available"
+        },
+        {
+          "name": "Try risk-free for 30 days",
+          "status": "available"
+        },
+        {
+          "name": "Post-quantum encryption",
+          "status": "available"
+        },
+        {
+          "name": "Zero-knowledge encryption",
+          "status": "available"
+        },
+        {
+          "name": "Two-factor authentication ",
+          "status": "available"
+        },
+        {
+          "name": "Backup your computer",
+          "status": "available"
+        },
+        {
+          "name": "Password-protected file sharing",
+          "status": "available"
+        },
+        {
+          "name": "Invite, share & collaborate",
+          "status": "available"
+        },
+        {
+          "name": "File versioning",
+          "status": "available"
+        },
+        {
+          "name": "Photos",
+          "status": "available"
+        },
+        {
+          "name": "CLI & WebDav support",
+          "status": "available"
+        },
+        {
+          "name": "NAS & Rclone support",
+          "status": "available"
+        },
+        {
+          "name": "Encrypted VPN",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        },
+        {
+          "name": "Mail",
+          "status": "available"
+        }
+      ]
+    },
+    "business": {
+      "1TB": [
+        {
+          "name": "**1TB** encrypted storage per user",
+          "status": "available"
+        },
+        {
+          "name": "Post-quantum encryption",
+          "status": "available"
+        },
+        {
+          "name": "Zero-knowledge encryption",
+          "status": "available"
+        },
+        {
+          "name": "Two-factor authentication",
+          "status": "available"
+        },
+        {
+          "name": "Backup your computer",
+          "status": "available"
+        },
+        {
+          "name": "Password-protected file sharing",
+          "status": "available"
+        },
+        {
+          "name": "Invite, share & collaborate",
+          "status": "available"
+        },
+        {
+          "name": "GDPR compliance",
+          "status": "available"
+        },
+        {
+          "name": "CLI & WebDav",
+          "status": "available"
+        },
+        {
+          "name": "Organization management",
+          "status": "available"
+        },
+        {
+          "name": "Encrypted VPN",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        }
+      ],
+      "2TB": [
+        {
+          "name": "**2TB** encrypted storage per user",
+          "status": "available"
+        },
+        {
+          "name": "Post-quantum encryption",
+          "status": "available"
+        },
+        {
+          "name": "Zero-knowledge encryption",
+          "status": "available"
+        },
+        {
+          "name": "Two-factor authentication",
+          "status": "available"
+        },
+        {
+          "name": "Backup your computer",
+          "status": "available"
+        },
+        {
+          "name": "Password-protected file sharing",
+          "status": "available"
+        },
+        {
+          "name": "Invite, share & collaborate",
+          "status": "available"
+        },
+        {
+          "name": "GDPR compliance",
+          "status": "available"
+        },
+        {
+          "name": "CLI, WebDav, Rclone & NAS support",
+          "status": "available"
+        },
+        {
+          "name": "Organization management",
+          "status": "available"
+        },
+        {
+          "name": "Encrypted VPN",
+          "status": "available"
+        },
+        {
+          "name": "Antivirus",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        },
+        {
+          "name": "File Versioning",
+          "status": "available"
+        },
+        {
+          "name": "Mail",
+          "status": "available"
+        }
+      ]
+    }
+  }
+}

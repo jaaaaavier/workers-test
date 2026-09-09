@@ -1,0 +1,221 @@
+{
+  "HeroSection": {
+    "title": "Internxt AI. Como Copilot, \n pero **privado**",
+    "description": "Cámbiate a Internxt AI, la mejor alternativa a Copilot que respeta tu privacidad",
+    "getPrivacy": " Selecciona tu plan y obtén un 85% de descuento  ",
+    "cta": "Haz el cambio"
+  },
+  "HeaderSection": {
+    "title": "Resumen de Internxt vs Copilot",
+    "description": "Descubre las funciones clave y las diferencias que permiten a Internxt devolverte el control sobre tus datos.",
+    "tableSection": {
+      "comparisons": [
+        "Transparencia del código",
+        "Chats cifrados",
+        "Chats revisados por humanos",
+        "Precios y almacenamiento",
+        "Otras funciones",
+        "Auditorías de seguridad",
+        "Aprendizaje automático",
+        "Política de privacidad",
+        "Leyes de privacidad"
+      ],
+      "internxtFeatures": [
+        "Código abierto",
+        "Sí, cifrado en tu dispositivo",
+        "Nunca",
+        "Gratis, almacenamiento de por vida hasta 5TB",
+        "Internxt AI, Drive, VPN, Antivirus, Cleaner, Meet, Mail y Send",
+        "Auditorías de seguridad periódicas",
+        "Los chats nunca se usan para entrenar nuestra IA",
+        "Nunca puede acceder a tus chats",
+        "Privacidad total: RGPD, Leyes Españolas de Protección de Datos"
+      ],
+      "competitorFeatures": [
+        "Código cerrado",
+        "Sin cifrado de extremo a extremo",
+        "Sí",
+        "Almacenamiento en la nube hasta 6TB, costes de 1,99 € a 12,99 €/mes",
+        "Microsoft Copilot, OneDrive y Office",
+        "Auditorías de seguridad periódicas",
+        "Tus chats se usan para entrenar y mejorar Copilot",
+        "Los humanos pueden acceder y revisar tus chats",
+        "Menor privacidad: Marco de Privacidad de Datos UE-EE. UU."
+      ]
+    }
+  },
+  "PrivacyViolationsSection": {
+    "title": "Copilot rastrea, comparte y monitoriza tus chats. Internxt los protege.",
+    "description": "Copilot puede ser seguro, pero es una pesadilla para tu privacidad. Cámbiate a Internxt AI para conversaciones seguras y privadas que se mantienen totalmente confidenciales y cifradas.",
+    "scrollableSection": {
+      "titles": [
+        "Microsoft puede ver tus chats",
+        "Las conversaciones se guardan en los servidores de Microsoft",
+        "Copilot puede acceder y compartir datos con otras aplicaciones conectadas",
+        "Los chats no están cifrados de extremo a extremo"
+      ],
+      "descriptions": [
+        "Copilot te avisa de que puede usar tus entradas de chat para entrenar y perfeccionar sus modelos de IA. Ciertas conversaciones podrían ser revisadas por personal humano, creando el riesgo de que tus charlas personales sean vistas por empleados de Microsoft.",
+        "Los chats de Copilot y sus metadatos (como información del dispositivo e idioma) se guardan en tu cuenta de Microsoft por defecto hasta 18 meses. Puedes acortarlo a 3 meses, pero los límites predeterminados restringen el control sobre tus datos.",
+        "Si conectas Copilot a apps como Gmail, WhatsApp o servicios de Microsoft, puede compartir datos entre ellos. Cualquier información sensible de tus chats podría procesarse en múltiples servicios, aumentando el riesgo de filtraciones.",
+        "Por defecto, los chats de Copilot no tienen cifrado de extremo a extremo. Esta falta de cifrado total permite a Microsoft acceder y procesar tus chats, lo que podría comprometer la confidencialidad de tu información personal."
+      ]
+    }
+  },
+  "WhyNeedAlternativeSection": {
+    "title": "Por qué necesitas una alternativa privada a Copilot",
+    "description": "Lo que Copilot ofrece en seguridad le falta en privacidad. Obtén seguridad total y chats cifrados con Internxt AI.",
+    "cards": {
+      "titles": ["Privacidad", "Sin cifrado no hay privacidad", "Recolección de datos"],
+      "descriptions": [
+        "Copilot almacena, revisa y usa tus chats para mejorar su IA. Con Internxt, tus chats son completamente privados, nunca se usan para entrenamiento y solo tú puedes acceder a ellos.",
+        "Sin cifrado de extremo a extremo, las conversaciones de Copilot son legibles para los sistemas de Microsoft. Los detalles confidenciales compartidos podrían ser almacenados o usados para entrenar la IA, dejándote vulnerable.",
+        "Microsoft Copilot recopila tus chats, metadatos e información de uso. Algunas charlas pueden ser revisadas por humanos, y la integración con otros servicios amplía la recolección masiva de datos personales."
+      ]
+    }
+  },
+  "VersusSection": {
+    "title": "Internxt AI vs Copilot",
+    "description": "Internxt ofrece una privacidad inigualable gracias al cifrado de conocimiento cero y post-cuántico, dándote la mejor protección contra ciberataques.",
+    "mainTable": {
+      "inxtTable": {
+        "title": "Internxt: Privacidad total, transparencia y confianza",
+        "features": [
+          {
+            "title": "Código abierto",
+            "description": "Internxt AI publica su código en GitHub para que cualquiera pueda examinar su seguridad. Esta transparencia garantiza que no haya vulnerabilidades ocultas."
+          },
+          {
+            "title": "Cifrado de conocimiento cero",
+            "description": "Tus chats se cifran en tu dispositivo, garantizando que solo tú puedas acceder a ellos."
+          },
+          {
+            "title": "Basado en Europa",
+            "description": "Internxt tiene su sede en España y cumple con el RGPD, HIPAA, ISO 27001 y SOC 2. Está totalmente auditado para asegurar que no haya acceso externo."
+          },
+          {
+            "title": "Planes gratuitos y asequibles",
+            "description": "Internxt AI es gratuito y puedes combinarlo con Internxt Drive con planes de por vida de hasta 5TB con un 85% de descuento."
+          }
+        ]
+      },
+      "competitorTable": {
+        "title": "Copilot: ¿Qué pasa con tu privacidad?",
+        "features": [
+          {
+            "title": "Software propietario",
+            "description": "Copilot mantiene su código oculto. Sin transparencia, no hay forma de saber con certeza cómo maneja o protege tus datos."
+          },
+          {
+            "title": "Sin cifrado de extremo a extremo",
+            "description": "Microsoft guarda las llaves de cifrado, lo que significa que podrían descifrar y acceder a tus datos si reciben una solicitud legal."
+          },
+          {
+            "title": "Chats guardados en EE. UU.",
+            "description": "Los datos en la nube de Microsoft están sujetos a las leyes de vigilancia de EE. UU., que permiten el acceso a tus datos bajo ciertas condiciones."
+          },
+          {
+            "title": "Basado en suscripción",
+            "description": "Los planes de pago van desde 1,99 €/mes hasta 19,99 €/mes."
+          }
+        ]
+      }
+    }
+  },
+  "WhyBestAlternativeSection": {
+    "title": "Por qué Internxt es la mejor alternativa a Copilot",
+    "description": "Internxt ofrece una suite completa de productos junto a su IA privada para darte una alternativa segura a Copilot.",
+    "scrollableSection": {
+      "imagesPathname": ["drive", "antivirus", "vpn", "cleaner", "meet", "hero"],
+      "titles": ["Internxt Drive", "Antivirus", "VPN", "Cleaner", "Meet", "Herramientas avanzadas"],
+      "descriptions": [
+        "Internxt Drive ofrece almacenamiento en la nube seguro con cifrado de conocimiento cero y post-cuántico. Incluye funciones avanzadas para compartir, control de versiones, NAS y rclone.",
+        "Protección integrada contra malware directamente en tu app de Drive. Realiza escaneos completos para mantener tu dispositivo libre de ransomware o spyware.",
+        "La VPN de Internxt protege tu navegación, bloquea anuncios y mantiene tu ubicación privada. Cifra tu conexión wifi para evitar el espionaje y el robo de identidad.",
+        "Internxt Cleaner te ayuda a eliminar archivos basura o duplicados para mantener tu almacenamiento organizado y asegurar que tu dispositivo funcione con eficiencia.",
+        "Internxt Meet es tu alternativa privada a Teams. Organiza videollamadas libres de rastreadores y anuncios, protegidas con cifrado post-cuántico.",
+        "Disponible en Windows, Mac, Linux y móvil. Para usuarios avanzados, Internxt ofrece soporte para WebDAV, Rclone y NAS."
+      ]
+    }
+  },
+  "CtaSection": {
+    "title": "Elige Internxt como la mejor alternativa a Copilot",
+    "description": "Internxt te ofrece IA privada y cifrada, además de almacenamiento seguro y una suite de privacidad con un 85% de descuento.",
+    "cta": "Haz el cambio"
+  },
+  "tableSection": {
+    "title": "Tu aliado de privacidad todo en uno",
+    "hotLabel": "85% dto. 🔥",
+    "planTitles": {
+      "header": "Tu aliado de privacidad todo en uno"
+    },
+    "billingFrequency": {
+      "annually": "Anual",
+      "lifetime": "De por vida"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Gratis",
+      "description": "Usa Internxt AI gratis con conversaciones privadas y cifradas",
+      "cta": "Seleccionar plan"
+    },
+    "features": {
+      "openSource": "Código abierto y auditado",
+      "premiumSupport": "Soporte al cliente premium",
+      "guarantee": "30 días de garantía de reembolso"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "FaqSection": {
+    "title": "¿Tienes preguntas? Tenemos respuestas",
+    "faq": [
+      {
+        "question": "¿Es Internxt AI una alternativa a Copilot más segura y privada?",
+        "answer": [
+          "Sí, Internxt cifra todos tus chats y nunca los almacena. Copilot no los cifra, por lo que puede usarlos para entrenar su IA.",
+          "Internxt también incluye Drive, VPN, Antivirus, Cleaner, Meet y Mail para protegerte contra hackers y brechas de datos."
+        ]
+      },
+      {
+        "question": "¿Es gratis usar Internxt AI?",
+        "answer": ["Sí, puedes usar nuestra IA gratis sin necesidad de iniciar sesión ni introducir datos de pago."]
+      },
+      {
+        "question": "¿Qué es el cifrado post-cuántico y por qué es más seguro?",
+        "answer": [
+          "A diferencia del cifrado estándar, el post-cuántico resiste ataques de ordenadores cuánticos potentes, lo que lo hace una opción más segura a largo plazo.",
+          "Este método asegura que tus datos estén protegidos contra futuras amenazas de ciberseguridad."
+        ]
+      },
+      {
+        "question": "¿Dónde tiene su sede Internxt?",
+        "answer": [
+          "Estamos en Valencia, España, por lo que cumplimos estrictamente con el RGPD para asegurar tu privacidad."
+        ]
+      },
+      {
+        "question": "¿Es Copilot más caro que Internxt?",
+        "answer": [
+          "Internxt AI es gratuito, y con el descuento del 85%, nuestros planes premium son más económicos que las opciones actuales de Copilot."
+        ]
+      },
+      {
+        "question": "¿Cómo contacto con el soporte?",
+        "answer": ["Puedes escribir a hello@internxt.com y nuestro equipo de Customer Success te ayudará encantado."]
+      },
+      {
+        "question": "¿Puedo añadir más almacenamiento a mi plan de por vida?",
+        "answer": [
+          "Sí, puedes mejorar tu plan desde los ajustes o comprar uno nuevo; el almacenamiento se sumará automáticamente."
+        ]
+      },
+      {
+        "question": "¿Qué métodos de pago aceptáis?",
+        "answer": ["Aceptamos tarjetas de crédito/débito, PayPal, iDEAL, Sofort, Criptomonedas y Klarna."]
+      }
+    ]
+  }
+}

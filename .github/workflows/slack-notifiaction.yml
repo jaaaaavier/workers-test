@@ -1,0 +1,49 @@
+name: Check website every 6 hours
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  cypress_tests:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [22.x]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+          registry-url: 'https://npm.pkg.github.com'
+      - run: echo '${{ secrets.CYPRESS_ENV }}' > cypress.env.json
+      - run: echo '${{ secrets.ENV_LOCAL }}' > .env.local
+
+      - name: Cypress run
+        uses: cypress-io/github-action@v6
+
+        with:
+          install: yarn
+          build: yarn build
+          start: yarn start
+          browser: chrome
+
+      # - name: Cypress artifacts
+      #   uses: actions/upload-artifact@v4
+      #   if: always()
+      #   with:
+      #     name: cypress-videos
+      #     path: cypress/videos/**/*
+
+      - name: Send Slack notification
+        uses: rtCamp/action-slack-notify@v2
+        if: failure()
+        env:
+          SLACK_CHANNEL: website-monitoring
+          SLACK_COLOR: ${{ job.status }}
+          SLACK_MESSAGE: 'STATUS: ${{ job.status }}'
+          SLACK_TITLE: WEBSITE MONITORING
+          SLACK_WEBHOOK: ${{ secrets.SLACK_NOTIFICATIONS_URL }}

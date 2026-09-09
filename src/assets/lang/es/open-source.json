@@ -1,0 +1,120 @@
+{
+  "HeroSection": {
+    "title": {
+      "normalText": "Confianza a través del",
+      "blueText": "Código Abierto"
+    },
+    "description": "En Internxt, estamos comprometidos a proporcionar el más alto nivel de privacidad y seguridad. Este enfoque de privacidad es parte de nuestra filosofía para construir tecnologías que protejan su privacidad y mantengan tus datos seguros."
+  },
+  "WhatIsOSS": {
+    "title": "¿Qué es el software de código abierto?",
+    "description": "El software de código abierto, u OSS (Open Source Software), es el código informático que se utiliza para crear proyectos y que está a libre disposición del público. Con el OSS, se puede ver el código con el que se creó el sitio web y, con los conocimientos adecuados, modificar o mejorar su seguridad, corregir errores o añadir nuevas funciones.",
+    "imgHeader": "Utilizamos software de código abierto en nuestras aplicaciones Drive, Photos y Send, lo que garantiza que actualizamos y mejoramos constantemente nuestro código fuente. Este compromiso nos permite ofrecerte la mejor experiencia posible.",
+    "section": [
+      "La privacidad y la seguridad están a la vanguardia de cómo construimos nuestras apps, lo que es posible gracias al poder del software de código abierto. Al elegir Internxt, puedes estar seguro de que siempre tendremos claro cómo protegemos tus archivos importantes.",
+      "Gracias al poder del software de código abierto, Internxt puede ofrecer un servicio que hace hincapié en la transparencia, la seguridad y la privacidad por encima de todo."
+    ]
+  },
+  "WhatAreTheBenefits": {
+    "title": "¿Cuáles son los beneficios del software de código abierto?",
+    "description": "El OSS tiene numerosos beneficios que se alinean con nuestra visión de un internet donde la privacidad del usuario es lo primero",
+    "cards": [
+      {
+        "title": "Transparencia",
+        "description": "Con el código de Internxt, lo que ves es lo que hay. Cualquiera puede ver, modificar o mejorar nuestro código para garantizar que se mantiene actualizado y seguro y que no comprometerá tus datos ni tu privacidad."
+      },
+      {
+        "title": "Seguridad mejorada",
+        "description": "El código abierto significa que más personas pueden inspeccionar el código para que puedan corregir los problemas o vulnerabilidades rápidamente, dejando poco o ningún tiempo para que la gente explote cualquier problema con el código."
+      },
+      {
+        "title": "Colaboración",
+        "description": "Una comunidad activa de desarrolladores y usuarios puede contribuir activamente a mejorar el software. Estas actualizaciones hacen que siempre utilices el software más seguro y actualizado y que tengas la mejor experiencia posible."
+      },
+      {
+        "title": "Longevidad",
+        "description": "El OSS sigue siendo accesible al público incluso si la empresa termina, lo que permite a la gente seguir trabajando en el código; esto garantiza la continuidad y elimina la necesidad de pagar por un nuevo servicio o la pérdida de datos."
+      },
+      {
+        "title": "Agilidad",
+        "description": "El software de código abierto significa que los desarrolladores pueden resolver rápidamente los errores en lugar de esperar días, por lo que la gente puede seguir utilizando el software de forma segura y sin demora."
+      },
+      {
+        "title": "Fiable",
+        "description": "Como el código fuente se actualiza constantemente, puedes estar seguro de que estás utilizando la mejor versión del software."
+      }
+    ]
+  },
+  "CtaSection1": {
+    "title": "Privacidad desde la raíz",
+    "description": "Protege tus archivos con el almacenamiento en la nube de código abierto de Internxt",
+    "cta": "Únete hoy a Internxt"
+  },
+  "LearningWithOSCommunity": {
+    "title": "Aprendiendo y mejorando con la comunidad Open-Source",
+    "description": [
+      "La comunidad open-source ha jugado un papel importante en el desarrollo de frameworks, herramientas y librerías que permiten la mejora continua de proyectos o negocios",
+      "Internxt valora la comunidad de código abierto, ya que tener más ojos en nuestro código significa que está bajo constante escrutinio para ser lo más seguro posible",
+      "Animamos a cualquier persona interesada en el desarrollo de software a ver nuestro código fuente, aprender de la comunidad y unirse a nosotros en nuestro viaje hacia una internet más segura."
+    ]
+  },
+  "DifferencesBetweenOpenAndCloseSS": {
+    "title": "¿Cuáles son las diferencias entre el software de código abierto y cerrado?",
+    "description": "Los pros y los contras del software de código abierto son esenciales a la hora de decidir qué software es el adecuado para ti. Las principales diferencias entre el software de código abierto y el de código cerrado son las siguientes:",
+    "table": {
+      "OpenSource": {
+        "title": "Open Source",
+        "feat": [
+          "Cualquiera puede ver, modificar o cambiar el código y mejorarlo",
+          "La disponibilidad y la transparencia del código fuente significa que cualquiera puede revisar el código para detectar problemas",
+          "El software se puede mantener y arreglar rápidamente",
+          "Más rentable, ya que no hay que pagar licencias",
+          "Más accesible, gracias a su flexibilidad para añadir funciones y cambios."
+        ]
+      },
+      "CloseSource": {
+        "title": "Closed Source",
+        "disadvantages": [
+          "El código fuente sólo es accesible para quienes lo crearon",
+          "El código es inaccesible al público, lo que significa que unas pocas personas pueden comprobar los fallos de seguridad",
+          "Actualizar el código lleva tiempo, lo que lo hace vulnerable a los ataques",
+          "El software puede ser caro y requiere una licencia para utilizarlo",
+          "El cambio depende de la empresa y puede llevar algún tiempo."
+        ]
+      }
+    },
+    "footer": "Sin embargo, muchos servicios utilizan un modelo híbrido de OSS y software de código cerrado en sus plataformas, aunque empresas como Internxt optan por seguir siendo completamente de código abierto."
+  },
+  "CtaSection2": {
+    "title": "Mantén tus archivos seguros",
+    "description": "Internxt utiliza software de código abierto para mantener tus archivos seguros y cifrados",
+    "cta": "Únete a Internxt hoy"
+  },
+  "ExploreOurOSS": {
+    "title": "Explore nuestro software de código abierto",
+    "description": "Si deseas explorar Internxt y ver cómo construimos nuestra aplicación a través de escritorio, móvil y web, el código fuente para ellos está disponible en nuestro GitHub.",
+    "DownloadLinks": {
+      "downloadTitle": "Descargar Internxt Drive",
+      "or": "o",
+      "downloadFor": "Descargar para",
+      "orDownloadFor": "O descarga para",
+      "downloadOnThe": "Descargar en ",
+      "orDownloadOnThe": "O descarga en",
+      "getOn": "Descarga",
+      "orGetOn": "O conseguir en",
+      "openDriveWeb": "Abrir Drive Web",
+      "iPhone": "App Store",
+      "iPad": "App Store",
+      "Android": "Play Store",
+      "Windows": "Windows",
+      "Linux": "Linux",
+      "UNIX": "Linux",
+      "MacOS": "Mac"
+    }
+  },
+  "CtaSection3": {
+    "title": "Únete a la comunidad de código abierto",
+    "description": "Descubre cómo Internxt protege tus datos con nuestro código fuente",
+    "cta": "Ver nuestro GitHub"
+  }
+}

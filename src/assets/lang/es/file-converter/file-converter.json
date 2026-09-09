@@ -1,0 +1,200 @@
+{
+  "HeroSection": {
+    "title": "Convertidor de archivos",
+    "description": {
+      "normal": "Convierte múltiples formatos de archivo de forma segura al instante con nuestro convertidor de archivos en línea gratuito."
+    },
+    "cards": [
+      {
+        "title": "Word a PDF",
+        "description": "Un convertidor de Word a PDF gratuito.",
+        "pathname": "word-to-pdf"
+      },
+      {
+        "title": "PNG a PDF",
+        "description": "Un convertidor de PNG a PDF gratuito.",
+        "pathname": "png-to-pdf"
+      },
+      {
+        "title": "PPTX a PDF",
+        "description": "Un convertidor de PPTX a PDF gratuito.",
+        "pathname": "pptx-to-pdf"
+      },
+      {
+        "title": "Excel a PDF",
+        "description": "Un convertidor de Excel a PDF gratuito.",
+        "pathname": "excel-to-pdf"
+      },
+      {
+        "title": "HTML a PDF",
+        "description": "Un convertidor de HTML a PDF gratuito.",
+        "pathname": "html-to-pdf"
+      },
+      {
+        "title": "Imagen a Texto",
+        "description": "Un convertidor de imagen a texto gratuito.",
+        "pathname": "image-to-text"
+      },
+      {
+        "title": "PDF a HTML",
+        "description": "Un convertidor de PDF a HTML gratuito.",
+        "pathname": "pdf-to-html"
+      },
+      {
+        "title": "JPG a PNG",
+        "description": "Un convertidor de JPG a PNG gratuito.",
+        "pathname": "jpg-to-png"
+      },
+      {
+        "title": "JPG a WebP",
+        "description": "Un convertidor de JPG a WebP gratuito.",
+        "pathname": "jpg-to-webp"
+      },
+      {
+        "title": "PNG a JPG",
+        "description": "Un convertidor de PNG a JPG gratuito.",
+        "pathname": "png-to-jpg"
+      },
+      {
+        "title": "PNG a WebP",
+        "description": "Un convertidor de PNG a WebP gratuito.",
+        "pathname": "png-to-webp"
+      },
+      {
+        "title": "WebP a PNG",
+        "description": "Un convertidor de WebP a PNG gratuito.",
+        "pathname": "webp-to-png"
+      },
+      {
+        "title": "WebP a JPG",
+        "description": "Un convertidor de WebP a JPG gratuito.",
+        "pathname": "webp-to-jpg"
+      },
+      {
+        "title": "HEIC a JPG",
+        "description": "Un convertidor de HEIC a JPG gratuito.",
+        "pathname": "heic-to-jpg"
+      },
+      {
+        "title": "HEIC a PNG",
+        "description": "Un convertidor de HEIC a PNG gratuito.",
+        "pathname": "heic-to-png"
+      }
+    ]
+  },
+  "FeaturesSection": {
+    "inxtFileConverter": {
+      "title": "Convertidor de archivos gratuito de Internxt",
+      "description": [
+        "Nuestro Convertidor de Archivos elimina el estrés de la gestión y almacenamiento de archivos al ofrecer una solución simple, segura y rápida para convertir tus PDFs, Word (Doc), imágenes, y más.",
+        "En solo unos sencillos pasos, puedes tomar un archivo no compatible y convertirlo a tu formato preferido para que puedas editar, proteger y colaborar en tus archivos con facilidad. Dile adiós a los formatos no compatibles con nuestro convertidor de archivos gratuito, seguro y privado."
+      ]
+    },
+    "howUseFileConverter": {
+      "title": "Cómo usar el convertidor de archivos de Internxt",
+      "steps": [
+        {
+          "step": "Paso 1:",
+          "description": "Sube el archivo que deseas desde tu dispositivo, o haz clic y arrástralo en la página."
+        },
+        {
+          "step": "Paso 2:",
+          "description": "Espera unos segundos para que convirtamos tu archivo."
+        },
+        {
+          "step": "Paso 3:",
+          "description": "Tu descarga comenzará automáticamente."
+        }
+      ]
+    },
+    "whyUseFileConverter": {
+      "title": "Por qué usar un convertidor de archivos",
+      "description": "El convertidor de archivos de Internxt elimina las dificultades de descargar archivos incompatibles y te brinda múltiples opciones para asegurar, editar y colaborar en documentos. Nuestro convertidor de archivos en línea gratuito elimina la dependencia de terceros o descargas costosas que podrían suponer riesgos para la privacidad de tus archivos."
+    },
+    "cards": [
+      {
+        "title": "Convertir múltiples formatos de archivo",
+        "description": "Ofrecemos las conversiones de archivos más populares para aumentar la eficiencia, personalización y versatilidad al trabajar en proyectos, presentaciones o hojas de cálculo."
+      },
+      {
+        "title": "Privacidad garantizada",
+        "description": "Los archivos se cargan utilizando encriptación a través de HTTPS para proteger tu contenido. Internxt no almacena los archivos que utilizas con nuestro convertidor de archivos."
+      },
+      {
+        "title": "No se requiere registro",
+        "description": "Convierte tus archivos en total privacidad, sin necesidad de compartir información personal como correo electrónico, nombres de usuario o información de facturación."
+      },
+      {
+        "title": "Integrarse con el ecosistema de Internxt",
+        "description": "Nuestro convertidor de archivos se integra perfectamente con todos los productos de Internxt para convertir, almacenar y compartir tus archivos en completa privacidad."
+      },
+      {
+        "title": "Accede y convierte tus archivos desde cualquier lugar",
+        "description": "Utiliza nuestro convertidor de archivos desde cualquier lugar para acceder rápidamente a los archivos que necesitas sin limitaciones."
+      },
+      {
+        "title": "Múltiples usos",
+        "description": "El convertidor de archivos de Internxt es perfecto para la gestión de archivos profesional, educativa o personal."
+      }
+    ]
+  },
+  "CtaSection": {
+    "title": "Internxt Drive",
+    "description": "Privacidad total y cifrado de conocimiento cero para tus archivos.",
+    "cta": "Seguridad del almacenamiento en la nube"
+  },
+  "CtaSection2": {
+    "title": "Gestión de archivos, simplificada.",
+    "description": "Convierte y almacena archivos de forma segura con Internxt Drive.",
+    "cta": "Crear cuenta"
+  },
+  "QASection": {
+    "title": "¿Preguntas? Tenemos respuestas",
+    "faq": [
+      {
+        "question": "¿Qué formatos de archivo soporta nuestro convertidor de archivos?",
+        "answer": [
+          "Ofrecemos opciones populares de convertidor de archivos PDF, incluido un convertidor gratuito de PDF a Word. También admitimos opciones para convertir archivos PNG, JPG, Excel, PowerPoint, WEBP y HTML."
+        ]
+      },
+      {
+        "question": "¿Hay un límite de tamaño de archivo?",
+        "answer": ["Nuestro convertidor de archivos actualmente admite tamaños de archivo de 1 GB."]
+      },
+      {
+        "question": "¿Están seguros mis archivos durante la conversión?",
+        "answer": [
+          "Encriptamos los archivos que cargas con el cifrado AES 256 estándar de la industria que los mezcla durante todo el proceso de conversión. Tus archivos se eliminan automáticamente de nuestros servidores una vez que se completa la conversión."
+        ]
+      },
+      {
+        "question": "¿Se almacenan los archivos convertidos en sus servidores?",
+        "answer": [
+          "Internxt no almacena ninguno de tus datos personales o archivos en nuestros servidores. Respetamos tu derecho a la privacidad y tomamos las medidas necesarias para garantizar que tus datos solo te pertenezcan a ti."
+        ]
+      },
+      {
+        "question": "¿Es gratuito usar nuestro convertidor de archivos?",
+        "answer": ["Sí, puedes usar nuestro convertidor de archivos de forma gratuita."]
+      },
+      {
+        "question": "¿Cuánto tiempo se tarda en convertir un archivo?",
+        "answer": [
+          "Una conexión a internet estable y confiable convertirá tus archivos en cuestión de segundos. Sin embargo, las conversiones de archivos variarán dependiendo de tu conexión a internet, el tamaño de tu archivo y a qué formato de archivo lo estás convirtiendo."
+        ]
+      },
+      {
+        "question": "¿Cómo descargo mi archivo convertido?",
+        "answer": [
+          "Una vez que el convertidor de archivos termine de convertir tus archivos, tu descarga comenzará automáticamente, o puedes hacer clic en 'descargar archivo' para comenzar la descarga manualmente."
+        ]
+      },
+      {
+        "question": "¿El Convertidor de Archivos de Internxt tiene límites de conversión?",
+        "answer": [
+          "No, puedes usar nuestro convertidor de archivos tanto como desees y descargar tantos archivos como necesites sin pagar planes premium."
+        ]
+      }
+    ]
+  }
+}

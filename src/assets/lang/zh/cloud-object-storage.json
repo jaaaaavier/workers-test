@@ -1,0 +1,194 @@
+{
+  "HeroSection": {
+    "label": "对象存储",
+    "title": {
+      "line1": "**Internxt S3**",
+      "line2": "兼容的对象存储"
+    },
+    "description": "一个高效、可扩展的云存储解决方案，用于存储、访问和管理大规模数据。",
+    "cta": "立即开始",
+    "cta2": "阅读文档"
+  },
+  "PredictablePricingSection": {
+    "title": "简单、可预测的价格\n 零手续费，无 API 费用",
+    "description": "告别难以预料的存储账单。Internxt 为存储容量提供透明的费率，无隐藏费用。",
+    "info": [
+      {
+        "title": "100% 热存储",
+        "description": "极速且可即时访问"
+      },
+      {
+        "title": "最高节省 80%",
+        "description": "比 AWS 更实惠"
+      },
+      {
+        "title": "零手续费",
+        "description": "免费数据传输"
+      }
+    ]
+  },
+  "PriceCardSection": {
+    "title": "Internxt 对象云存储\n 兼顾安全与效率",
+    "description": "Internxt 对象存储是一种经济高效的高性能解决方案，正在彻底改变在线数据存储，非常适合需要可靠基础设施的个人或组织。",
+    "payAsYouGoCard": {
+      "title": "按需付费！",
+      "description": "仅为您使用的存储空间付费。"
+    },
+    "cardText": {
+      "label": "S3",
+      "perTB": "每 TB/按月结算",
+      "price": "7",
+      "cta": "选择计划",
+      "whatsIncluded": {
+        "title": "包含内容",
+        "features": [
+          "按月结算",
+          "服务端加密",
+          "兼容 AWS S3 和 IAM API",
+          "速度提升",
+          "灵活存储",
+          "开源",
+          "符合 GDPR",
+          "优质客户支持"
+        ]
+      }
+    },
+    "oneTimePayment": "*账户验证需支付 1 欧元的单次费用"
+  },
+  "PartnersSection": {
+    "title": "适用于实际工作负载的安全对象存储",
+    "description": "从媒体档案到企业备份，各机构使用 Internxt S3 Storage 安全地存储、管理和分发大量数据，并享有完整的控制权和隐私保护。",
+    "companies": ["Prosegur", "Europa Press", "SPAR"],
+    "companiesInformation": [
+      {
+        "logo": "PROSEGUR3",
+        "image": "Prosegur-Truck",
+        "title": "企业备份与安全数据保留",
+        "description": "全球团队使用可扩展的对象存储，安全保留运营数据、备份及关键业务资产，同时对基础设施成本和隐私保持完整控制。",
+        "cta": "成为客户"
+      },
+      {
+        "logo": "EUROPAPRESS",
+        "image": "Europapress-Conference",
+        "title": "媒体存储与档案分发",
+        "description": "大型媒体库、视频资产和编辑内容可通过可靠的高容量对象存储基础设施安全存储、归档和分发。",
+        "cta": "成为客户"
+      },
+      {
+        "logo": "SPAR",
+        "image": "SPAR-supermarket",
+        "title": "分布式业务与基础设施备份",
+        "description": "拥有分布式运营的机构使用 S3 兼容存储集中备份、同步系统，并在各地点保护运营数据。",
+        "cta": "成为客户"
+      }
+    ]
+  },
+  "HowMuchYouNeedSection": {
+    "title": "您需要多少存储空间？",
+    "description": "了解使用 Internxt 对象存储可以节省多少成本。使用我们的成本计算器与主流云服务商进行对比。",
+    "pay-as-you-go": "按需付费定价",
+    "perMonth": "/每月",
+    "perYear": "/每年",
+    "storageAmount": "存储容量",
+    "percentDownloadPerMonth": "每月下载百分比",
+    "companies": ["Internxt", "Microsoft", "Amazon", "Google"]
+  },
+  "WhyChooseInternxtSection": {
+    "title": "为什么选择 Internxt 对象存储？",
+    "description": "Internxt 对象云存储的优势在于有效的数据管理和安全性。",
+    "scrollableSection": {
+      "titles": ["零流量费用 (Ingress/Egress)", "每 GB 成本", "持久性与可用性", "安全性", "简单存储服务", "速度"],
+      "descriptions": [
+        "零流入和流出费用消除了数据传输成本，使预算更可控。这对有大规模数据迁移需求的企业至关重要。",
+        "采用按需付费模式，您只需为实际使用的存储付费。对象存储处理非结构化数据的成本通常低于结构化数据。",
+        "我们在多个欧洲服务器上进行冗余存储，提供高达 99.999999999% (11个9) 的数据持久性保障。",
+        "数据在传输和静态存储时均经过加密。支持 HTTPS 协议和客户端提供密钥的服务端加密 (SSE-C)。",
+        "Internxt 使用 S3 协议简化数据工作流，在确保高可用性的同时，优先考虑安全性。",
+        "对象存储通过支持并发读写操作和丰富的元数据实现卓越的速度，数据检索更加高效。"
+      ]
+    },
+    "bannerText": {
+      "title": "Internxt 对象云存储",
+      "description": "体验卓越的数据管理、速度与效率",
+      "cta": "立即开始",
+      "separator": "|",
+      "cta2": "联系我们"
+    }
+  },
+  "FaqSection": {
+    "title": "常见问题解答",
+    "faq": [
+      {
+        "question": "什么是对象存储？",
+        "answer": [
+          "对象存储将照片、视频等大量数据作为带有唯一标识符的独立“对象”进行存储。",
+          "与传统文件系统不同，它在扁平地址空间中组织数据，更易于扩展且成本更低。"
+        ]
+      },
+      {
+        "question": "什么是 S3 协议？",
+        "answer": ["S3 协议是一套规则和标准，定义了如何访问和管理 Amazon S3 等云存储服务中的数据。"]
+      },
+      {
+        "question": "有最低存储政策吗？",
+        "answer": ["最低月度政策为 1TB。如果对象存储未满 30 天即删除，将按 30 天计费。这与 AWS 等服务商的政策一致。"]
+      }
+    ]
+  },
+  "ContactSales": {
+    "title": "联系销售",
+    "description": "填写联系表单，我们的团队将很快与您联系。",
+    "form": {
+      "name": "全名",
+      "email": "电子邮件地址",
+      "company": "公司名称",
+      "phone": "电话号码",
+      "howMuchStorage": "您需要多少存储空间？",
+      "totalCharacters": " /1000",
+      "options": ["请选择", "少于10TB", "10TB - 50TB", "50TB - 100 TB", "超过100TB"],
+      "howWeCanHelp": "我们能为您提供什么帮助？（可选）",
+      "howWeCanHelpPlaceHolder": "告诉我们更多关于您的需求",
+      "cta": "发送消息",
+      "ctaSending": "正在发送...",
+      "successMessage": "您的消息已成功发送。",
+      "errorMessage": "发生错误，请重试。"
+    }
+  },
+  "CtaSection": {
+    "title": "安全云对象存储",
+    "description": "Internxt 的云存储解决方案结合了安全性和效率",
+    "cta": "立即开始"
+  },
+  "CtaSectionV2": {
+    "title": "Internxt 云端对象存储",
+    "description": "Internxt 的云存储解决方案结合了安全性和效率",
+    "cta": "开始"
+  },
+  "SemanticAccordion": {
+    "title": "了解有关云对象存储的更多信息",
+    "items": [
+      {
+        "question": "什么是云对象存储？",
+        "answer": ["云对象存储是一种可扩展的数据存储架构，将数据作为对象进行管理，非常适合云中的大规模非结构化数据。"]
+      },
+      {
+        "question": "对象存储云是如何工作的？",
+        "answer": [
+          "对象存储云将数据存储在扁平地址空间中，为每个对象使用唯一标识符，从而实现海量可扩展性并便于在分布式网络中进行检索。"
+        ]
+      },
+      {
+        "question": "基于云的对象存储有什么好处？",
+        "answer": ["基于云的对象存储提供高耐用性、可用性和成本效益，特别适用于 Web 应用程序、备份和数据归档。"]
+      },
+      {
+        "question": "Internxt 是否提供私有云对象存储？",
+        "answer": ["是的，Internxt 提供具有服务端加密和 S3 兼容性的私有云对象存储，确保您的数据安全且受您控制。"]
+      },
+      {
+        "question": "Internxt 是否与 S3 云对象存储兼容？",
+        "answer": ["Internxt 完全兼容 S3 云对象存储协议，允许您无缝使用现有的 S3 兼容工具和应用程序。"]
+      }
+    ]
+  }
+}

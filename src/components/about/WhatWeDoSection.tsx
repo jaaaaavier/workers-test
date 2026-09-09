@@ -1,0 +1,130 @@
+import Image from 'next/image';
+import RevealX from '@/components/components/RevealX';
+import { getImage } from '@/lib/getImage';
+import { CaretRight } from '@phosphor-icons/react';
+
+const WhatWeDoSection = ({ textContent }) => {
+  return (
+    <section
+      className="w-full overflow-hidden"
+      style={{ background: 'linear-gradient(360deg, #F4F8FF 63.1%, #FFFFFF 100%)' }}
+    >
+      <div className="flex w-full flex-col items-center justify-center gap-8 py-10 lg:gap-16 lg:py-20">
+        <p className="w-[345px] text-start text-30 font-bold text-gray-100 lg:w-full lg:text-center lg:text-5xl">
+          {textContent.title}
+        </p>
+
+        <div className="flex w-full flex-col items-center justify-between gap-8 lg:flex-row lg:px-10 xl:px-32 3xl:px-80">
+          <div className="hidden flex-col gap-16 lg:flex">
+            <RevealX direction="right" className="hidden lg:flex">
+              <Image
+                src={getImage('/images/about/photos/team.webp')}
+                width={554}
+                height={743}
+                alt="Internxt Team"
+                loading="eager"
+                style={{
+                  maxWidth: '100%',
+                  height: 'auto',
+                }}
+                className="rounded-16"
+                quality={100}
+              />
+            </RevealX>
+            <RevealX direction="right" className="hidden lg:flex">
+              <Image
+                src={getImage('/images/about/photos/sticker.webp')}
+                width={554}
+                height={743}
+                alt="Internxt Team"
+                loading="eager"
+                style={{
+                  maxWidth: '100%',
+                  height: 'auto',
+                }}
+                className="rounded-16"
+                quality={100}
+              />
+            </RevealX>
+          </div>
+          <RevealX direction="right" className="flex lg:hidden">
+            <div
+              className="h-[195px] w-[345px] rounded-16 bg-cover lg:hidden"
+              style={{
+                backgroundImage: `url(${getImage('/images/about/photos/team.webp')})`,
+                backgroundPosition: '50% 0%',
+              }}
+            />
+          </RevealX>
+          <div className="flex w-[345px] flex-col items-center justify-center space-y-5 text-center lg:w-[554px] lg:text-left">
+            <p className="text-start text-sm font-normal leading-tight text-gray-55 lg:text-xl lg:font-medium">
+              {textContent.section1.title}
+            </p>
+            <div className="flex flex-col space-y-5">
+              {textContent.section1.description.map((text: string) => {
+                return (
+                  <p key={text} className="text-start text-sm font-normal leading-tight text-gray-55 lg:text-base">
+                    {text}
+                  </p>
+                );
+              })}
+            </div>
+            <div className="flex h-min w-full flex-col justify-center gap-4 rounded-16 bg-white p-6 lg:gap-6 lg:p-8">
+              <div className="hidden flex-row items-center justify-center gap-5 lg:flex">
+                <Image
+                  src={getImage('/images/about/logos/BitCoin.webp')}
+                  width={49}
+                  height={48}
+                  alt="BitCoin Logo"
+                  className="hidden lg:flex"
+                  quality={100}
+                  style={{
+                    maxWidth: '100%',
+                    height: 'auto',
+                  }}
+                />
+                <p className="text-xl font-medium leading-tight text-gray-95">{textContent.bitSection.title}</p>
+              </div>
+              <div className="flex flex-col gap-4 lg:hidden">
+                <div className="h-8 w-8">
+                  <Image
+                    src={getImage('/images/about/logos/BitCoin.webp')}
+                    height={48}
+                    width={48}
+                    alt="BitCoin Logo"
+                    className="hidden lg:flex"
+                    style={{
+                      maxWidth: '100%',
+                      height: 'auto',
+                    }}
+                  />
+                </div>
+                <p className="text-start text-sm font-medium leading-tight text-gray-95">
+                  {textContent.bitSection.title}
+                </p>
+              </div>
+              <p className="text-start text-xs font-normal leading-tight text-gray-55 lg:text-base">
+                {textContent.bitSection.description}
+              </p>
+              <span
+                onClick={() =>
+                  window.open(
+                    ' https://news.bitcoin.com/privacy-revolution-the-internxt-journey-with-founder-and-ceo-fran-villalba-segarra/',
+                    '_blank',
+                    'noopener,noreferrer',
+                  )
+                }
+                className="flex w-max cursor-pointer flex-row items-center gap-1 text-base font-normal leading-tight text-primary hover:text-primary-dark hover:underline"
+              >
+                {textContent.bitSection.cta}
+                <CaretRight className="pt-[2px] text-primary" size={24} />
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default WhatWeDoSection;

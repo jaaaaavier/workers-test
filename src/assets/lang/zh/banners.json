@@ -1,0 +1,182 @@
+{
+  "changeEmailBanner": {
+    "title": "更改电子邮件地址？",
+    "description": [
+      "此操作将删除您当前的电子邮件地址 ${{email}} 和收件箱中的所有电子邮件。",
+      "您将立即收到一个新的临时电子邮件地址。"
+    ],
+    "actionCta": "获取新电子邮件",
+    "cancelCta": "取消"
+  },
+  "FreeCardPromoBanner": {
+    "title": "获取独家折扣！",
+    "subtitle": {
+      "blue": "特别优惠：",
+      "normal": "更便宜地私人存储文件"
+    },
+    "getDealCta": "获取优惠",
+    "freePlanCta": "继续使用免费计划",
+    "guarantee": "30天退款保证"
+  },
+  "LoginBanner": {
+    "head": "Try before you buy.",
+    "title": "Get Internxt for free!",
+    "buttonText": "Sign up now",
+    "card": {
+      "title1": "Get 1GB free",
+      "title2": "Safe and secure cloud storage",
+      "title3": "Private file and photo backup",
+      "title4": "End-to-end encrypted transfers",
+      "title5": "No unauthorized access",
+      "title6": "Available on all devices"
+    }
+  },
+  "AndroidSmartBanner": {
+    "title": "Download Internxt Drive for Android"
+  },
+  "BFBanner": {
+    "head": "Save big on privacy.",
+    "title": "Internxt’s Black Friday Deal",
+    "buttonText": "Get the deal",
+    "card": {
+      "title1": "Get 60% off our 2TB plan",
+      "title2": "Safe and secure cloud storage",
+      "title3": "Private file and photo backup",
+      "title4": "End-to-end encrypted transfers",
+      "title5": "No unauthorized access",
+      "title6": "Available until Dec 5th"
+    }
+  },
+  "featuresBanner": {
+    "label": {
+      "blueText": "Get 85% off",
+      "text": "in all Plans"
+    },
+    "title": "Claim your exclusive discount!",
+    "subTitle": {
+      "blueText": "Special offer:",
+      "text": "store files in privacy for even less"
+    },
+    "ctaGet": "Accept invite",
+    "ctaContinue": "Continue free",
+    "guarantee": "30-day money-back guarantee",
+    "products": {
+      "drive": "Drive",
+      "antivirus": "Antivirus",
+      "cleaner": "Cleaner",
+      "vpn": "VPN",
+      "meet": "Meet",
+      "mail": "Mail",
+      "ai": "AI"
+    }
+  },
+  "s3StorageBanner": {
+    "label": "现已上线！",
+    "title": "兼容S3的对象存储",
+    "feat": [
+      "比AWS便宜多达80%",
+      "安全、可扩展、兼容S3",
+      "原生Rclone支持"
+    ],
+    "cta": "免费获取1TB",
+    "offerEnds": "*仅限首月优惠"
+  },
+  "tryOutInternxtGeneralBanner": {
+    "title": "Try Internxt",
+    "description": "Secure cloud storage based on total privacy and encryption.",
+    "cta": "Sign up for free"
+  },
+  "tryOutInternxtPasswordCheckerBanner": {
+    "title": "Try Internxt",
+    "description": "Secure file storage with password-protected technology for your files.",
+    "cta": "Sign up for free"
+  },
+  "SignUpPwdCheckerBanner": {
+    "line1": "Put that strong password to use with a",
+    "blueText": "free Internxt account"
+  },
+  "SignUpPCloudAlternativeBanner": {
+    "line1": "获取端到端加密的云存储，无需额外费用。",
+    "blueText": " 免费加入Internxt"
+  },
+  "SignUpPCloudAlternativeBanner2": {
+    "line1": "为更安全、开放、经济的云存储解决方案。",
+    "blueText": "切换到Internxt "
+  },
+  "SignUpVPNBanner": {
+    "line1": "上网时保持安全。",
+    "blueText": "使用 Internxt 享受更私密的在线体验"
+  },
+  "SignUpVirusScannerBanner": {
+    "line1": "Keep those now clean files safe,",
+    "blueText": "join Internxt for free"
+  },
+  "SignUpMetadataRemoverBanner": {
+    "line1": "去除文件中暴露隐私的元数据。",
+    "blueText": "用 Internxt 清理您的数字足迹"
+  },
+  "SignUpAiDetector": {
+    "line1": "检测AI内容，确保真实性，",
+    "blueText": "安心发布，尽在Internxt"
+  },
+  "SignUpByteConverterBanner": {
+    "line1": "Get bytes and bytes of secure cloud storage",
+    "blueText": "with Internxt"
+  },
+  "SignUpTempMailBanner": {
+    "line1": "Keep your email clean and your files safe",
+    "blueText": "with Internxt"
+  },
+  "SignUpCyberAwareness": {
+    "line1": "Now that you’re aware, protect yourself with",
+    "blueText": "Internxt secure cloud storage"
+  },
+  "SignUpPasswordGenerator": {
+    "line1": "Shield your accounts with unique passwords,",
+    "blueText": "join Internxt for free"
+  },
+  "privacyDirectoryBanner": {
+    "line1": "Join the fight for privacy and build a better internet",
+    "blueText": "with Internxt"
+  },
+  "GeneralBanner": {
+    "title": "Before you bounce...",
+    "description": "Get 80% off our 2TB plan for the first year.",
+    "cta": "Sure, I'll try it out",
+    "ctaCancel": "No, thanks"
+  },
+  "GoogleLPBanner": {
+    "line1": "别让 Google 从您的数据中获利，",
+    "blueText": "使用 Internxt 保护您的文件隐私"
+  },
+  "GoogleKnows": {
+    "title": "Max out your Google privacy settings with our What Google Knows page"
+  },
+  "TopBarBanner": {
+    "title": {
+      "boldText": "",
+      "normalText": "本季加入 Internxt 即可享受 85% 折扣，并参与我们的圣诞礼品卡抽奖活动。",
+      "cta": "选择你的套餐 "
+    }
+  },
+  "lifetimeBanner": {
+    "label": "永久保护您的文件",
+    "title": "通过Internxt获得终身访问安全的私人云存储！",
+    "cta": "选择您的计划",
+    "guarantee": "30天退款保证"
+  },
+  "BeforeCloseBanner": {
+    "title": {
+      "normal1": "等等！特别优惠 ",
+      "blue": "80% 折扣 ",
+      "normal2": "!"
+    },
+    "subtitle": "有一个独家优惠在等着你。",
+    "cta": "所有计划80% 折扣",
+    "guarantee": "30天退款保证"
+  },
+  "SignUpFileCompressorBanner": {
+    "line1": "使用 Internxt 节省存储空间",
+    "blueText": "免费压缩文件以优化您的云端"
+  }
+}

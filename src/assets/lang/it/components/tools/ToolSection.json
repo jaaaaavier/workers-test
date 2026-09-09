@@ -1,0 +1,55 @@
+{
+  "title": {
+    "text1": "Altro strumenti ",
+    "blueText": "gratuito ",
+    "text2": " di sicurezza online"
+  },
+  "free": "Gratis",
+  "toolsCard": [
+    {
+      "title": "Generatore di Password",
+      "cta": "Genera ora",
+      "pathname": "/password-generator"
+    },
+    {
+      "title": "Verificatore di Forza della Password",
+      "cta": "Verifica ora",
+      "pathname": "/password-checker"
+    },
+    {
+      "title": "Convertitore di Unità di Byte",
+      "cta": "Converti ora",
+      "pathname": "/byte-converter"
+    },
+    {
+      "title": "Email Temporanea",
+      "cta": "Invia ora",
+      "pathname": "/temporary-email"
+    },
+    {
+      "title": "Scanner Virus",
+      "cta": "Scansiona ora",
+      "pathname": "/virus-scanner"
+    },
+    {
+      "title": "Convertitore di file",
+      "cta": "Converti ora",
+      "pathname": "/file-converter"
+    },
+    {
+      "title": "Estensione VPN per Chrome",
+      "cta": "Scarica ora",
+      "pathname": "/vpn"
+    },
+    {
+      "title": "Eliminatore di Metadati",
+      "cta": "Elimina ora",
+      "pathname": "/metadata-remover"
+    },
+    {
+      "title": "Rilevatore AI",
+      "cta": "Verifica ora",
+      "pathname": "/ai-detector"
+    }
+  ]
+}

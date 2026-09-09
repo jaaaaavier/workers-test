@@ -1,0 +1,174 @@
+{
+  "HeroSection": {
+    "label": "NAS",
+    "title": "QNAP & Synology **NAS-Unterstützung**",
+    "subtitle": "Verbinden Sie Ihr NAS-Gerät mit Internxt Drive für sichere Dateispeicherung und Backups.",
+    "features": ["Synology und QNAP", "Sichere Übertragungen", "Verschlüsselte Synchronisierung und Backups"],
+    "cta": "Internxt erhalten"
+  },
+  "WhatIsNASSection": {
+    "title": "Was ist ein NAS-Gerät und warum sollte ich es verwenden?",
+    "description": [
+      "Ein NAS (Network Attached Storage) ist ein dediziertes Speichersystem, das sich mit Ihrem Heim- oder Büronetzwerk verbindet und als persönlicher Server für Ihre Dateien fungiert. Die Verwendung mit Internxt ermöglicht es Ihnen, Daten sicher zu sichern, zu synchronisieren und zu verwalten, während Sie die volle Kontrolle und das Eigentum an Ihren Dateien behalten.",
+      "Ihre Daten sind mit der Post-Quanten-Verschlüsselung von Internxt verschlüsselt und sicher, und die Schlüssel werden auf Ihrem Gerät verwaltet. Dies bietet den Komfort von NAS-Geräten mit der Sicherheit und Privatsphäre von Internxt Drive."
+    ]
+  },
+  "InternxtNASIntegrations": {
+    "title": "Internxt NAS-Integrationen",
+    "description": "Installieren Sie die Docker-App, um Ihr NAS mit Synology oder QNAP zu verbinden. Diese Einrichtung ermöglicht es Ihnen, Ihre Dateien sicher zu verwalten und zu synchronisieren, während Sie die volle Kontrolle über Ihre Daten behalten.",
+    "synologyBox": {
+      "title": "Synology",
+      "description": "Synology ist ein beliebtes NAS-System, mit dem Sie Ihre Dateien von mehreren Geräten aus speichern, organisieren und darauf zugreifen können. Sie können Apps ausführen, Ihre Backups verwalten und Daten sicher teilen.",
+      "image": "synology"
+    },
+    "QNAPBox": {
+      "title": "QNAP",
+      "description": "Durch die Verbindung von Internxt über Docker können Sie Ihre Dateien direkt auf Ihrem QNAP NAS sicher verwalten, synchronisieren und darauf zugreifen.",
+      "image": "QNAP"
+    }
+  },
+  "ctaSection": {
+    "title": "Internxt Drive für NAS",
+    "description": "Halten Sie Ihre Dateien sicher, zugänglich und privat",
+    "cta": "Internxt erhalten"
+  },
+  "horizontalScrollableSection": {
+    "title": "Sichern Sie Ihr NAS in der Cloud",
+    "description": "Verwalten, synchronisieren und sichern Sie Ihre Daten in der Cloud mit der NAS-Unterstützung von Internxt. Dank der Post-Quanten-Verschlüsselung von Internxt ist Ihre Privatsphäre immer gewährleistet.",
+    "scrollableSection": {
+      "titles": ["Datenverlustschutz", "Echtzeit-Synchronisierung", "Sicherheit", "Besitzen Sie Ihre Daten"],
+      "descriptions": [
+        "Machen Sie sich nie Sorgen über den Verlust Ihrer Dateien. Internxt synchronisiert Ihr NAS automatisch, sodass jedes Dokument, Foto und Projekt sicher in der Cloud gesichert ist. Dies schützt vor Hardwareausfällen oder versehentlichem Löschen.",
+        "Halten Sie Ihre Dateien auf allen Geräten auf dem neuesten Stand. Alle Änderungen, die Sie an Ihrem NAS oder in Internxt Drive vornehmen, werden automatisch überall reflektiert, sodass Ihr Team oder Ihre persönlichen Geräte immer über die neueste Version verfügen.",
+        "Ihre Daten sind mit Post-Quanten- und Zero-Knowledge-Verschlüsselung geschützt, sodass alle Schlüssel auf Ihrem Gerät für maximale Privatsphäre verwaltet und gespeichert werden. Nur Sie können auf Ihre Dateien zugreifen, und keine Hacker, Dritte oder sogar Internxt können Ihre Daten lesen.",
+        "Network Attached Storage oder NAS ermöglicht es Ihnen, Speicher zu verwalten, Berechtigungen festzulegen und Backups nach Ihren eigenen Bedingungen zu erstellen, was Ihnen Flexibilität und Eigentum an Ihren Informationen mit dem Komfort und der Privatsphäre von Internxt Drive bietet."
+      ]
+    }
+  },
+  "whatInternxtOffersSection": {
+    "title": "Was Internxt mit NAS-Geräten bietet",
+    "description": "Verbinden Sie Internxt Drive mit Ihrem NAS-System für eine sichere Cloud-Lösung zum Sichern und Synchronisieren Ihrer Dateien in völliger Privatsphäre.",
+    "cards": {
+      "titles": ["QNAP & Synology Geräte", "Zugriff von überall", "Ransomware-Schutz"],
+      "descriptions": [
+        "Genießen Sie alle Vorteile von Internxt mit der Flexibilität und Kontrolle von QNAP- und Synology-Geräten für müheloses Cloud-Speichermanagement.",
+        "Erhalten Sie sicheren Fernzugriff auf Ihre Dateien von überall aus, während Sie die volle Kontrolle über Ihre Daten behalten.",
+        "Schützen Sie Ihre Dateien vor Ransomware mit verschlüsselten Backups, die es Ihnen ermöglichen, von Ransomware oder versehentlichem Datenverlust betroffene Dateien schnell wiederherzustellen."
+      ]
+    }
+  },
+  "howSetupSection": {
+    "title": "So richten Sie Ihr NAS-Gerät mit Internxt ein",
+    "description": "Anweisungen zum Einrichten und Konfigurieren Ihres NAS-Geräts mit Internxt Drive:",
+    "cards": {
+      "titles": ["ReadMe", "Benutzerhandbuch", "Open Source"],
+      "descriptions": [
+        "Erhalten Sie die benötigten Informationen über NAS-Funktionen mit Internxt und Nutzungsanweisungen für verschiedene Plattformen von unserer GitHub-Seite.",
+        "Erfahren Sie, wie Sie Ihr Network Attached Storage-Gerät mit Internxt mit Beispielen und Erklärungen einrichten.",
+        "Überprüfen Sie die Sicherheit von Internxt und bleiben Sie über neue Updates und Funktionen auf dem Laufenden."
+      ],
+      "cta": ["Anleitung lesen", "Mehr erfahren", "Details ansehen"]
+    }
+  },
+  "ctaSectionV2": {
+    "title": "Ihre Dateien, Ihre Kontrolle",
+    "description": "Verwalten Sie Ihr NAS mit Internxt",
+    "cta": "Internxt erhalten"
+  },
+  "tableSection": {
+    "title": "Internxt Tarife",
+    "hotLabel": "{{discount}}% Rabatt",
+    "valentinesTitle": "Sichere Liebe - ",
+    "planTitles": {
+      "header": "Wählen Sie Ihren Plan",
+      "lifetimeHeader": "Wählen Sie Ihren lebenslangen Plan",
+      "individuals": "Jahrestärife",
+      "homePage": "Wählen Sie den richtigen Tarif für Sie",
+      "lifetime": "Lebenslange Tarife",
+      "business": "Business-Tarife",
+      "lifetimeCampaign": {
+        "blueText": "50% Rabatt",
+        "normalText": "auf alle unsere exklusiven lebenslangen Tarife"
+      }
+    },
+    "lifetimeDescription": "Einmal zahlen und lebenslang Privatsphäre und Sicherheit genießen",
+    "planDescription": "Alle Internxt-Tarife sind vollständig ausgestattet mit komplettem Zugang zu unserer preisgekrönten Privatsphäre-Suite bestehend aus Internxt Drive, Send, VPN, Antivirus, Cleaner, Meet und Mail.",
+    "businessDescription": "Wir arbeiten derzeit an neuen Internxt-Tarifen, die exklusiv dafür entwickelt wurden, Ihr Unternehmen zu verteidigen, Ihre Mitarbeiter zu schützen und Ihre Rentabilität zu sichern.",
+    "businessDescription2": "Stellen Sie die Datensicherheit Ihres Unternehmens mit Internxts verschlüsselten Cloud-Speicher-Tarifen sicher.",
+    "billingFrequency": {
+      "monthly": "Monatlich",
+      "annually": "Jährlich",
+      "lifetime": "Lebenslang",
+      "individual": "Individuell",
+      "business": "Business"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Kostenlos",
+      "description": "Erhalten Sie 1 GB verschlüsselten Cloud-Speicher kostenlos",
+      "cta": "Tarif auswählen"
+    },
+    "features": {
+      "endToEnd": "Ende-zu-Ende-Verschlüsselung",
+      "openSource": "Open Source und auditiert",
+      "anonymousAccount": "Anonyme Kontenerstellung",
+      "premiumSupport": "Premium-Kundensupport",
+      "guarantee": "30-Tage-Geld-zurück-Garantie"
+    },
+    "planStorage": {
+      "essential": "1TB",
+      "premium": "3TB",
+      "ultimate": "5TB"
+    }
+  },
+  "FaqSection": {
+    "title": "Fragen? Wir haben Antworten",
+    "faq": [
+      {
+        "question": "Wo hat Internxt seinen Sitz?",
+        "answer": [
+          "Internxt hat seinen Sitz in Valencia, Spanien. Internxt verfügt über zahlreiche europäische Cloud-Rechenzentren, um Ihre Daten gemäß der DSGVO und anderen Compliance-Vorschriften zu speichern."
+        ]
+      },
+      {
+        "question": "Wo befinden sich die Cloud-Rechenzentren von Internxt?",
+        "answer": [
+          "Internxt setzt eine Multi-Cloud-Netzwerkstrategie ein, die sicherstellt, dass Dateien über mehrere europäische Cloud-Rechenzentren gespeichert werden, um Ihnen die beste Leistung, Sicherheit und den Schutz Ihrer Dateien zu garantieren."
+        ]
+      },
+      {
+        "question": "Wie funktionieren die Rechenzentren von Internxt?",
+        "answer": [
+          "Internxt arbeitet mit OVHcloud zusammen, die über europäische Cloud-Rechenzentren und mehrere Standorte weltweit verfügen, um Ihre Cloud-Daten zu speichern.",
+          "Diese Rechenzentrumsinfrastrukturen beherbergen Tausende von Servern, um Verfügbarkeit, Leistung und Redundanz zu gewährleisten und einen schnellen und sicheren Zugriff auf Dateien zu ermöglichen, während Ihre Dateien geschützt bleiben."
+        ]
+      },
+      {
+        "question": "Was ist eine Verfügbarkeitszone?",
+        "answer": [
+          "Verfügbarkeitszonen sind eine Gruppe von einem oder mehreren Rechenzentren in einer Region. Jede Verfügbarkeitszone arbeitet unabhängig und verfügt über eine eigene Stromversorgung, Kühlung und ein eigenes Netzwerk, um Stromausfälle oder andere Ereignisse wie Infrastrukturausfälle zu verhindern.",
+          "Zonen innerhalb einer Region sind miteinander verknüpft, um eine höhere Verfügbarkeit und Verbindungen mit geringer Latenz zu bieten, sodass Anwendungen auch dann online bleiben können, wenn eine Zone ausfällt."
+        ]
+      },
+      {
+        "question": "Kann Internxt auf meine Dateien zugreifen?",
+        "answer": [
+          "Nein, niemand, auch nicht Internxt, kann auf Ihre Dateien zugreifen. Alle Ihre Dateien und Daten werden auf Ihrem Gerät mit Post-Quanten-Verschlüsselung verschlüsselt. Da die Schlüssel auf Ihrem Gerät gespeichert und verwaltet werden und nicht von uns oder unseren Dienstanbietern, können nur Sie oder Personen, mit denen Sie Dateien teilen möchten, diese entschlüsseln.",
+          "Alle in unseren Rechenzentren gespeicherten Dateien sind verschlüsselt, sodass weder Mitarbeiter noch Hacker deren Inhalt einsehen können."
+        ]
+      },
+      {
+        "question": "Wie kontaktiere ich den Support?",
+        "answer": [
+          "Sie finden nicht, was Sie suchen? Sie können unser technisches Support-Team über den Live-Chat oder per E-Mail an hello@internxt.com kontaktieren."
+        ]
+      }
+    ]
+  },
+  "Breadcrumbs": {
+    "home": "Verschlüsselter Cloud-Speicher",
+    "drive": "Sicherer Cloud-Speicher",
+    "nas": "NAS-Cloud-Backup",
+    "qnap": "QNAP-Cloud-Backup",
+    "synology": "Synology NAS-Cloud-Backup"
+  }
+}

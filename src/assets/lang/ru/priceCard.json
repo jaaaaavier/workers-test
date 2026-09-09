@@ -1,0 +1,318 @@
+{
+  "mostPopular": "Рекомендуемый",
+  "perUserSlash": "/пользователь",
+  "perYear": "/год",
+  "perMonth": "/мес",
+  "cta": "Выбрать план",
+  "gifts": {
+    "line1": "Участвуйте сейчас!",
+    "outCard": "Выиграйте карту (Amazon, Apple...) или Visa.",
+    "prices": {
+      "essentials": "Выиграйте карту на 100€",
+      "standard": "Standard",
+      "premium": "Выиграйте карту на 300€",
+      "ultimate": "Выиграйте карту на 1 000€"
+    }
+  },
+  "renewsInfo": "Годовой план, оплата {{priceNow}} за первый месяц, затем продление по цене {{price}}/месяц",
+  "productFeatures": {
+    "planTypes": {
+      "essentials": "Essential",
+      "standard": "Standard",
+      "premium": "Premium",
+      "ultimate": "Ultimate",
+      "pro": "Pro",
+      "family": {
+        "1TB": "Family Essential",
+        "2TB": "Family Premium"
+      }
+    },
+    "comingSoonLabel": "Скоро",
+    "individualPlans": {
+      "1TB": [
+        {
+          "name": "**1ТБ** зашифрованного хранилища",
+          "status": "available"
+        },
+        {
+          "name": "Попробуйте без риска в течение 30 дней",
+          "status": "available"
+        },
+        {
+          "name": "Постквантовая криптография",
+          "status": "available"
+        },
+        {
+          "name": "Шифрование с нулевым разглашением",
+          "status": "available"
+        },
+        {
+          "name": "Двухфакторная аутентификация",
+          "status": "available"
+        },
+        {
+          "name": "Резервное копирование вашего компьютера",
+          "status": "available"
+        },
+        {
+          "name": "Обмен файлами, защищенный паролем",
+          "status": "available"
+        },
+        {
+          "name": "Зашифрованный VPN",
+          "status": "available"
+        },
+        {
+          "name": "Антивирус",
+          "status": "available"
+        }
+      ],
+      "3TB": [
+        {
+          "name": "**3ТБ** зашифрованного хранилища",
+          "status": "available"
+        },
+        {
+          "name": "Попробуйте без риска в течение 30 дней",
+          "status": "available"
+        },
+        {
+          "name": "Постквантовая криптография",
+          "status": "available"
+        },
+        {
+          "name": "Шифрование с нулевым разглашением",
+          "status": "available"
+        },
+        {
+          "name": "Двухфакторная аутентификация",
+          "status": "available"
+        },
+        {
+          "name": "Резервное копирование вашего компьютера",
+          "status": "available"
+        },
+        {
+          "name": "Обмен файлами, защищенный паролем",
+          "status": "available"
+        },
+        {
+          "name": "Приглашать, делиться и сотрудничать",
+          "status": "available"
+        },
+        {
+          "name": "Управление версиями файлов",
+          "status": "available"
+        },
+        {
+          "name": "Зашифрованный VPN",
+          "status": "available"
+        },
+        {
+          "name": "Антивирус",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        }
+      ],
+      "5TB": [
+        {
+          "name": "**5ТБ** зашифрованного хранилища",
+          "status": "available"
+        },
+        {
+          "name": "Попробуйте без риска в течение 30 дней",
+          "status": "available"
+        },
+        {
+          "name": "Постквантовая криптография",
+          "status": "available"
+        },
+        {
+          "name": "Шифрование с нулевым разглашением",
+          "status": "available"
+        },
+        {
+          "name": "Двухфакторная аутентификация",
+          "status": "available"
+        },
+        {
+          "name": "Резервное копирование вашего компьютера",
+          "status": "available"
+        },
+        {
+          "name": "Обмен файлами, защищенный паролем",
+          "status": "available"
+        },
+        {
+          "name": "Приглашать, делиться и сотрудничать",
+          "status": "available"
+        },
+        {
+          "name": "Управление версиями файлов",
+          "status": "available"
+        },
+        {
+          "name": "Фото",
+          "status": "available"
+        },
+        {
+          "name": "Поддержка CLI и WebDav",
+          "status": "available"
+        },
+        {
+          "name": "Поддержка NAS и Rclone",
+          "status": "available"
+        },
+        {
+          "name": "Зашифрованный VPN",
+          "status": "available"
+        },
+        {
+          "name": "Антивирус",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        },
+        {
+          "name": "Mail",
+          "status": "available"
+        }
+      ]
+    },
+    "business": {
+      "1TB": [
+        {
+          "name": "**1ТБ** зашифрованного хранилища на пользователя",
+          "status": "available"
+        },
+        {
+          "name": "Постквантовая криптография",
+          "status": "available"
+        },
+        {
+          "name": "Шифрование с нулевым разглашением",
+          "status": "available"
+        },
+        {
+          "name": "Двухфакторная аутентификация",
+          "status": "available"
+        },
+        {
+          "name": "Резервное копирование вашего компьютера",
+          "status": "available"
+        },
+        {
+          "name": "Обмен файлами, защищенный паролем",
+          "status": "available"
+        },
+        {
+          "name": "Приглашать, делиться и сотрудничать",
+          "status": "available"
+        },
+        {
+          "name": "Соответствие GDPR",
+          "status": "available"
+        },
+        {
+          "name": "CLI и WebDav",
+          "status": "available"
+        },
+        {
+          "name": "Управление организацией",
+          "status": "available"
+        },
+        {
+          "name": "Зашифрованный VPN",
+          "status": "available"
+        },
+        {
+          "name": "Антивирус",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        }
+      ],
+      "2TB": [
+        {
+          "name": "**2ТБ** зашифрованного хранилища на пользователя",
+          "status": "available"
+        },
+        {
+          "name": "Постквантовая криптография",
+          "status": "available"
+        },
+        {
+          "name": "Шифрование с нулевым разглашением",
+          "status": "available"
+        },
+        {
+          "name": "Двухфакторная аутентификация",
+          "status": "available"
+        },
+        {
+          "name": "Резервное копирование вашего компьютера",
+          "status": "available"
+        },
+        {
+          "name": "Обмен файлами, защищенный паролем",
+          "status": "available"
+        },
+        {
+          "name": "Приглашать, делиться и сотрудничать",
+          "status": "available"
+        },
+        {
+          "name": "Соответствие GDPR",
+          "status": "available"
+        },
+        {
+          "name": "Поддержка CLI, WebDav, Rclone и NAS",
+          "status": "available"
+        },
+        {
+          "name": "Управление организацией",
+          "status": "available"
+        },
+        {
+          "name": "Зашифрованный VPN",
+          "status": "available"
+        },
+        {
+          "name": "Антивирус",
+          "status": "available"
+        },
+        {
+          "name": "Cleaner",
+          "status": "available"
+        },
+        {
+          "name": "Meet",
+          "status": "available"
+        },
+        {
+          "name": "Управление версиями файлов",
+          "status": "available"
+        },
+        {
+          "name": "Mail",
+          "status": "available"
+        }
+      ]
+    }
+  }
+}

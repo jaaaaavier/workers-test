@@ -1,0 +1,216 @@
+{
+  "HeroSection": {
+    "title": "Internxt : Comme Google Drive, mais **privé**",
+    "description": "DéGooglez votre vie avec Internxt, la meilleure alternative à Google Drive qui respecte votre vie privée",
+    "getPrivacy": "Obtenez une confidentialité totale avec {{percentage}} % de réduction",
+    "cta": "Profiter de l'offre"
+  },
+  "HeaderSection": {
+    "title": "Internxt vs {{competitor}} : Aperçu",
+    "description": "Découvrez les principales caractéristiques et différences qui permettent à Internxt de vous redonner le contrôle de vos données",
+    "tableSection": {
+      "comparisons": [
+        "Transparence du code",
+        "Chiffrement",
+        "Chiffrement post-quantique",
+        "Tarification et stockage",
+        "Fonctionnalités",
+        "Audits de sécurité",
+        "Support en direct",
+        "Politique de confidentialité",
+        "Lois sur la confidentialité"
+      ],
+      "internxtFeatures": [
+        "Open-source",
+        "Chiffré sur votre appareil",
+        "Oui",
+        "Compétitif, pas de coûts cachés, jusqu'à 5 To",
+        "Drive, VPN, Antivirus, Cleaner, Meet, Mail, et plus",
+        "Audits de sécurité réguliers",
+        "Oui",
+        "Ne peut jamais accéder à vos fichiers",
+        "Confidentialité totale : RGPD, Lois Espagnoles sur la Protection des Données"
+      ],
+      "competitorFeatures": [
+        "Closed-source (Propriétaire)",
+        "Chiffré par Google",
+        "Non",
+        "Plans plus chers, jusqu'à 2 To",
+        "Drive, Google Workspace, Intégration IA, Mail et Meet",
+        "Audits de sécurité réguliers",
+        "Non",
+        "Peut accéder aux fichiers sous certaines circonstances",
+        "Moins de confidentialité : Cadre de Confidentialité des Données UE-États-Unis"
+      ]
+    }
+  },
+  "PrivacyViolationsSection": {
+    "title": "Google paie des amendes pour violation de la vie privée. Internxt protège votre confidentialité.",
+    "description": "Google est peut-être sécurisé, mais c'est un cauchemar pour votre vie privée. Passez à Internxt pour une sécurité complète de vos fichiers, vidéos et photos. Avec Internxt, personne d'autre que vous ne peut accéder à vos fichiers, pas même nous.",
+    "scrollableSection": {
+      "titles": ["90 millions d'euros", "10 millions d'euros", "325 millions d'euros", "7 millions d'euros"],
+      "descriptions": [
+        "Le 31 décembre 2021, l'autorité française de protection des données, la CNIL, a infligé une amende de 90 millions d'euros à Google pour avoir rendu plus difficile pour les utilisateurs de refuser les cookies, une pratique qui soutenait le modèle de revenus basé sur la publicité et le suivi de l'entreprise.",
+        "L'autorité espagnole de protection des données a infligé une amende à Google pour avoir enfreint le RGPD en transmettant des informations d'identification de personnes ayant demandé une suppression à des tiers sans consentement.",
+        "En 2025, l'autorité française de protection des données, la CNIL, a de nouveau infligé une amende à Google pour avoir affiché des publicités entre les e-mails des utilisateurs de Gmail et pour avoir placé des cookies lors de la création de compte sans consentement valide des utilisateurs français.",
+        "L'Autorité suédoise de protection des données a imposé une amende à Google pour violation du droit à l'oubli. Google a été condamné à une amende en Suède pour ne pas avoir supprimé les résultats de recherche que les gens avaient demandé à effacer, exposant l'identité de ceux qui demandaient la confidentialité."
+      ]
+    }
+  },
+  "WhyNeedAlternativeSection": {
+    "title": "Pourquoi vous avez besoin d'une alternative privée à Google Drive",
+    "description": "Ce que Google démontre en matière de sécurité échoue en termes de confidentialité. Pour une confidentialité totale, optez pour une sécurité complète combinée au chiffrement Zero-Knowledge d'Internxt.",
+    "cards": {
+      "titles": ["Confidentialité", "Absence de chiffrement de bout en bout", "Collecte de données"],
+      "descriptions": [
+        "Google Drive et d'autres services cloud peuvent scanner ou analyser vos fichiers. Chez Internxt, il n'y a ni trackers, ni scan par IA, ni portes dérobées cachées. Internxt ne peut pas lire vos fichiers, donc vos photos, documents et vidéos restent privés. Vous avez le contrôle total sur votre cloud.",
+        "Google gère les clés de chiffrement sur ses serveurs, ce qui lui donne un contrôle total sur vos données. Par conséquent, stocker vos fichiers chez Google représente un risque énorme pour votre vie privée, car Google pourrait accéder à votre contenu, photos ou vidéos à tout moment.",
+        "Avec Google, votre nom, votre adresse e-mail, les sites web que vous visitez et d'autres activités sont tous surveillés, analysés et utilisés pour construire un profil détaillé de vous et tirer profit de vos données. Avec Google, vous et vos données devenez le produit."
+      ]
+    }
+  },
+  "VersusSection": {
+    "title": "Internxt vs {{competitor}}",
+    "description": "Internxt offre une sécurité inégalée avec des fonctionnalités que Google Drive ne peut pas égaler, telles que le chiffrement Zero-Knowledge, post-quantique et la protection contre les pirates informatiques.",
+    "mainTable": {
+      "inxtTable": {
+        "title": "Confidentialité totale, transparence et confiance",
+        "features": [
+          {
+            "title": "Open source",
+            "description": "Le code d'Internxt est ouvert à tous pour examen et vérification de sa sécurité via notre GitHub. Cette transparence garantit qu'aucune vulnérabilité n'est cachée."
+          },
+          {
+            "title": "Chiffrement Zero-Knowledge",
+            "description": "Vos données sont chiffrées côté client, garantissant que seul vous pouvez y accéder."
+          },
+          {
+            "title": "Audité et conforme",
+            "description": "Internxt a été audité en externe et est conforme aux normes RGPD, HIPAA, ISO 27001 et SOC 2."
+          },
+          {
+            "title": "Plans à vie (Lifetime)",
+            "description": "Évitez les abonnements répétés avec un paiement unique pour des plans allant jusqu'à 5 To. Accédez à nos services pour toujours avec {{percentage}} % de réduction."
+          }
+        ]
+      },
+      "competitorTable": {
+        "title": "Qu'en est-il de votre vie privée ?",
+        "features": [
+          {
+            "title": "Logiciel propriétaire",
+            "description": "Google garde son code source caché du public. Sans transparence, il n'y a aucun moyen de savoir avec certitude comment Google gère ou protège vos données."
+          },
+          {
+            "title": "Chiffré par Google",
+            "description": "Comme Google détient les clés de chiffrement, ils peuvent théoriquement déchiffrer et accéder aux fichiers s'ils reçoivent une demande légale (comme une assignation)."
+          },
+          {
+            "title": "Amendes de conformité",
+            "description": "Google a un historique d'amendes réglementaires pour ne pas avoir protégé les données des clients."
+          },
+          {
+            "title": "Basé sur abonnement",
+            "description": "N'offre que des abonnements mensuels ou annuels avec un stockage maximum de 2 To."
+          }
+        ]
+      }
+    }
+  },
+  "WhyBestAlternativeSection": {
+    "title": "Pourquoi Internxt est la meilleure alternative à Google Drive",
+    "description": "Internxt Drive propose une suite complète de produits conçus pour vous redonner le contrôle de votre confidentialité en ligne.",
+    "scrollableSection": {
+      "imagesPathname": ["Drive", "Terminal", "antivirus", "cleaner", "hero", "meet", "vpn"],
+      "titles": ["Drive", "Antivirus", "VPN", "Cleaner", "Meet", "Outils avancés"],
+      "descriptions": [
+        "Internxt Drive est livré avec le chiffrement post-quantique et Zero-Knowledge, de sorte que personne d'autre que vous ne peut accéder à vos fichiers. Obtenez un stockage cloud chiffré et des sauvegardes pour vos photos, vidéos et fichiers. \n\n De plus, les sauvegardes chiffrées et le partage de fichiers protégés par mot de passe offrent une protection maximale contre les rançongiciels et les fuites de données.",
+        "Tous les plans payants incluent également Internxt Antivirus pour une protection accrue contre les menaces croissantes auxquelles nous sommes confrontés en ligne. \n\n Exécutez des analyses complètes ou personnalisées depuis l'application Internxt pour vous défendre contre les logiciels malveillants, le phishing et les rançongiciels, et nettoyez et protégez votre appareil contre la perte ou la fuite de données.",
+        "Obtenez notre VPN ultra-rapide et illimité pour jusqu'à 5 emplacements afin de chiffrer et sécuriser votre connexion avec notre VPN privé. \n\n Chiffrez votre trafic pour empêcher l'espionnage externe de votre connexion, qui pourrait divulguer vos informations personnelles, et profitez d'une confidentialité totale lorsque vous naviguez en ligne.",
+        "Internxt Cleaner améliore les performances et la santé de votre appareil en supprimant les fichiers inutiles ou en double de votre ordinateur. \n\n Libérez de l'espace de stockage, améliorez la vitesse de l'appareil et protégez votre vie privée en supprimant les fichiers indésirables en un clic.",
+        "Internxt Meet propose des appels vidéo entièrement privés alimentés par la cryptographie post-quantique, garantissant que vos réunions sont sécurisées, confidentielles et exemptes de trackers. \n\n Organisez et rejoignez des appels vidéo avec des amis, la famille ou des coéquipiers en toute confidentialité, sans que des entreprises externes ne surveillent vos discussions.",
+        "Disponible sur Windows, Mac, Linux et mobile, Internxt vous permet de prendre le contrôle total de votre stockage cloud en accédant à votre cloud de n'importe où, sur n'importe quel appareil. \n\n Pour les utilisateurs avancés, Internxt offre un support pour WebDAV, Rclone et NAS, offrant tout ce dont vous avez besoin pour gérer vos fichiers en toute confidentialité."
+      ]
+    }
+  },
+  "CtaSection": {
+    "title": "Votre confidentialité, vos conditions",
+    "description": "Protection complète avec {{percentage}} % de réduction",
+    "cta": "Profiter de l'offre"
+  },
+  "tableSection": {
+    "title": "Votre allié de confidentialité tout-en-un",
+    "hotLabel": "{{discount}} % de réduction  ",
+    "planTitles": {
+      "header": "Votre allié de confidentialité tout-en-un"
+    },
+    "billingFrequency": {
+      "annually": "Annuel",
+      "lifetime": "À vie"
+    },
+    "freePlanCard": {
+      "eyeBrow": "Gratuit",
+      "description": "Obtenez 1 Go de stockage cloud chiffré gratuitement",
+      "cta": "Sélectionner le plan"
+    },
+    "features": {
+      "openSource": "Open-source et audité",
+      "premiumSupport": "Support client premium",
+      "guarantee": "Garantie de remboursement de 30 jours"
+    },
+    "planStorage": {
+      "essential": "1 To",
+      "premium": "3 To",
+      "ultimate": "5 To"
+    }
+  },
+  "FaqSection": {
+    "title": "Des questions ? Nous avons les réponses",
+    "faq": [
+      {
+        "question": "Internxt est-il une alternative plus sécurisée et privée à Google Drive ?",
+        "answer": [
+          "Oui, Internxt utilise le chiffrement post-quantique et Zero-Knowledge qui garantit que personne d'autre que vous ne peut consulter vos fichiers. Google Drive gère les clés de chiffrement sur ses propres serveurs, ce qui signifie qu'il pourrait accéder à vos fichiers ou donner accès au gouvernement ou aux forces de l'ordre.",
+          "Des fonctionnalités supplémentaires telles que VPN, Antivirus, Nettoyeur d'appareil (Device Cleaner), , Meet et Mail vous offrent également une protection supplémentaire contre les pirates et les fuites de données."
+        ]
+      },
+      {
+        "question": "Qu'est-ce que le chiffrement post-quantique, et est-il plus sécurisé ?",
+        "answer": [
+          "Contrairement au chiffrement standard, les algorithmes de chiffrement post-quantique sont conçus pour résister aux puissantes attaques quantiques, ce qui fait de l'EPC une alternative plus sûre à Google Drive.",
+          "Cette méthode de cryptographie est utilisée par Internxt pour garantir que votre plan de stockage cloud à vie vous protège contre les futures menaces de cybersécurité et est disponible pour tous les plans sans coût supplémentaire."
+        ]
+      },
+      {
+        "question": "Où est basé Internxt ?",
+        "answer": [
+          "Internxt est basé à Valence, en Espagne, ce qui en fait une solution de stockage cloud conforme au RGPD qui suit des lois strictes pour garantir que vos données et votre vie privée sont protégées."
+        ]
+      },
+      {
+        "question": "Google Drive est-il plus cher qu'Internxt ?",
+        "answer": [
+          "Avec votre réduction exclusive de {{percentage}} %, tous nos plans sont moins chers que les options de tarification de Google actuellement disponibles, avec l'avantage d'offrir beaucoup plus de fonctionnalités et de confidentialité que Google Drive."
+        ]
+      },
+      {
+        "question": "Comment contacter le support ?",
+        "answer": [
+          "Si vous avez d'autres questions, demandes ou avez besoin d'aide, vous pouvez contacter hello@internxt.com et notre Équipe Succès Client se fera un plaisir de vous aider."
+        ]
+      },
+      {
+        "question": "Puis-je ajouter plus de stockage à mon plan à vie ?",
+        "answer": [
+          "Oui, vous pouvez mettre à niveau votre plan depuis les paramètres de votre compte Internxt si vous avez besoin d'ajouter plus de stockage. Ou achetez un nouveau plan sur internxt.com/pricing avec votre compte Internxt actuel, et votre stockage sera automatiquement cumulé."
+        ]
+      },
+      {
+        "question": "Puis-je payer par carte de crédit, PayPal ou crypto-monnaie ?",
+        "answer": [
+          "Internxt accepte actuellement les cartes de débit et de crédit (Mastercard, VISA, American Express, etc.). Vous pouvez également payer via PayPal, iDEAL, Sofort, Crypto-monnaie et Klarna."
+        ]
+      }
+    ]
+  }
+}
