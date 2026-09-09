@@ -6,8 +6,9 @@ loadEnvConfig(process.cwd());
 
 const path = require('path');
 const envExample = require('dotenv').config({ path: path.join(__dirname, '..', '.env.local.example') }).parsed;
+// En CI las variables llegan por el entorno; en local se leen de .env.local
 const env =
-  process.env.VERCEL === '1'
+  process.env.CI === 'true'
     ? process.env
     : require('dotenv').config({ path: path.join(__dirname, '..', '.env.local') }).parsed;
 
