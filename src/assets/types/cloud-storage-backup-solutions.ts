@@ -59,7 +59,6 @@ interface FAQ {
   answer: string[];
 }
 
-
 interface FeaturesSection {
   title: string;
   description: string;
@@ -155,7 +154,7 @@ interface Position {
   bottom?: string;
 }
 
-interface ImageConfig {
+export interface ImageConfig {
   src: string;
   alt: string;
   animationDelay: number;
@@ -166,7 +165,6 @@ interface ImageConfig {
   borderRadius?: string;
   className?: string;
 }
-
 
 interface AnimationProps {
   images: ImageConfig[];
