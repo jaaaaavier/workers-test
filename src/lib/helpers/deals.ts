@@ -1,4 +1,4 @@
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import { PromoCodeName } from '@/lib/types';
 
 interface DealConfig {
@@ -19,7 +19,7 @@ interface DealContent {
   jsonFileName: string;
 }
 
-export const getDealsProps = async (ctx: GetServerSidePropsContext, config: DealConfig, content: DealContent) => {
+export const getDealsProps = async (ctx: GetStaticPropsContext, config: DealConfig, content: DealContent) => {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

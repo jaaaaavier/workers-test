@@ -22,7 +22,7 @@ const Legal = ({ lang, metatagsDescriptions, textContent, navbarLang, footerLang
   );
 };
 
-export async function getServerSideProps(ctx) {
+export async function getStaticProps(ctx) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

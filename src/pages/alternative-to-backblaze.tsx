@@ -1,5 +1,5 @@
 import { ComparisonPage } from '@/components/templates/comparisonPageTemplate';
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 
 const BackblazeComparison = (props: any) => (
   <ComparisonPage
@@ -12,7 +12,7 @@ const BackblazeComparison = (props: any) => (
   />
 );
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);
   const langJson = require(`@/assets/lang/${lang}/backblaze-alternative.json`);

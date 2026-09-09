@@ -3,7 +3,7 @@ import Footer from "@/components/layout/footers/Footer";
 import Layout from "@/components/layout/Layout";
 import Navbar from "@/components/layout/navbars/Navbar";
 import HeroSection from "@/components/levanteud/HeroSection";
-import { GetServerSidePropsContext } from "next";
+import { GetStaticPropsContext } from "next";
 import Image from "next/image";
 import DigitalIndependenceSection from "@/components/levanteud/DigitalIndependenceSection";
 import LeadingOrganizationsSection from "@/components/levanteud/LeadingOrganitationsSection";
@@ -11,7 +11,7 @@ import FloatingCtaSectionv2 from "@/components/shared/FloatingCtaSectionV2";
 import { getImage } from "@/lib/getImage";
 
 interface LevanteProps {
-  lang: GetServerSidePropsContext['locale'];
+  lang: GetStaticPropsContext['locale'];
   textContent: any;
   metatagsDescriptions: MetatagsDescription[];
   navbarLang: NavigationBarText;
@@ -73,7 +73,7 @@ const LevantePage = ({ metatagsDescriptions, textContent, lang, navbarLang, foot
   );
 };
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

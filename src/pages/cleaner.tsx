@@ -1,4 +1,4 @@
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
 import Footer from '@/components/layout/footers/Footer';
 import Layout from '@/components/layout/Layout';
@@ -16,7 +16,7 @@ import Script from 'next/script';
 import { sm_breadcrumb_list } from '@/components/utils/schema-markup-generator';
 
 interface CleanerProps {
-  lang: GetServerSidePropsContext['locale'];
+  lang: GetStaticPropsContext['locale'];
   metatagsDescriptions: MetatagsDescription[];
   navbarLang: NavigationBarText;
   textContent: CleanerText;
@@ -97,7 +97,7 @@ const CleanerPage = ({
   );
 };
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

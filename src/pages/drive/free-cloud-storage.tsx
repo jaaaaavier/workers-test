@@ -179,7 +179,7 @@ const Drive = ({
   );
 };
 
-export async function getServerSideProps(ctx) {
+export async function getStaticProps(ctx) {
   const download = await downloadDriveLinks();
   const lang = ctx.locale;
 
@@ -197,6 +197,8 @@ export async function getServerSideProps(ctx) {
       navbarLang,
       footerLang,
     },
+    // Los enlaces de descarga vienen de releases de GitHub: se refrescan por ISR.
+    revalidate: 3600,
   };
 }
 

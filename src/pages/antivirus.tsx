@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
 import Footer from '@/components/layout/footers/Footer';
 import Layout from '@/components/layout/Layout';
@@ -22,7 +22,7 @@ import { sm_breadcrumb_list } from '@/components/utils/schema-markup-generator';
 
 
 interface AntivirusProps {
-  lang: GetServerSidePropsContext['locale'];
+  lang: GetStaticPropsContext['locale'];
   metatagsDescriptions: MetatagsDescription[];
   navbarLang: NavigationBarText;
   langJson: AntivirusText;
@@ -182,7 +182,7 @@ const AntivirusPage = ({
   );
 };
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const download = await downloadDriveLinks();
   const lang = ctx.locale;
 
@@ -202,6 +202,8 @@ export async function getServerSideProps(ctx: GetServerSidePropsContext) {
       download,
       relationalLinksText,
     },
+    // Los enlaces de descarga vienen de releases de GitHub: se refrescan por ISR.
+    revalidate: 3600,
   };
 }
 

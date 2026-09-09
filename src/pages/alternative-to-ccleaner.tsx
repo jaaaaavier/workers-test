@@ -1,6 +1,6 @@
 import { ComparisonPage } from '@/components/templates/comparisonPageTemplate';
 import { PromoCodeName } from '@/lib/types';
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 
 const ccleanerComparison = (props: any) => (
   <ComparisonPage
@@ -15,7 +15,7 @@ const ccleanerComparison = (props: any) => (
   />
 );
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);
   const langJson = require(`@/assets/lang/${lang}/alternative-to-ccleaner.json`);

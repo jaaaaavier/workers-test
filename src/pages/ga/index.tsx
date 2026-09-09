@@ -1,4 +1,4 @@
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import { HomeText } from '@/assets/types/home';
 import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
 import HeroSection from '@/components/home/HeroSection';
@@ -18,7 +18,7 @@ import { MinimalNavbar } from '@/components/layout/navbars/MinimalNavbar';
 import { MinimalFooter } from '@/components/layout/footers/MinimalFooter';
 
 interface HomeProps {
-  lang: GetServerSidePropsContext['locale'];
+  lang: GetStaticPropsContext['locale'];
   metatagsDescriptions: MetatagsDescription[];
   navbarLang: NavigationBarText;
   textContent: HomeText;
@@ -132,7 +132,7 @@ const HomePage = ({ metatagsDescriptions, textContent, lang, navbarLang, footerL
   );
 };
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

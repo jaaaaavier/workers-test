@@ -1,7 +1,7 @@
 import { TablesSection } from '@/components/comparison/TablesSection';
 import Layout from '@/components/layout/Layout';
 import Navbar from '@/components/layout/navbars/Navbar';
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import { PricingSectionWrapper } from '@/components/shared/pricing/PricingSectionWrapper';
 import { PromoCodeName } from '@/lib/types';
 import usePricing from '@/hooks/usePricing';
@@ -167,7 +167,7 @@ const KoofrComparison = ({ metatagsDescriptions, langJson, lang, navbarLang, foo
   );
 };
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

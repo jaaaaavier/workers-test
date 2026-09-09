@@ -1,9 +1,9 @@
 import { UltimateAnnualTemplate, UltimateAnnualTemplateProps } from "@/components/templates/ultimateAnnualTemplate";
-import { GetServerSidePropsContext } from "next";
+import { GetStaticPropsContext } from "next";
 
 const AnnualUltimate = (props: UltimateAnnualTemplateProps) => <UltimateAnnualTemplate {...props} />
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

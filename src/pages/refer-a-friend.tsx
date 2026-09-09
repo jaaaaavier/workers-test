@@ -1,4 +1,4 @@
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import { ReferAFriendText } from '@/assets/types/refer-a-friend';
 import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
 import Footer from '@/components/layout/footers/Footer';
@@ -14,7 +14,7 @@ import RewardSection from '@/components/refer-a-friend/RewardSection';
 import HowItWorksSection from '@/components/refer-a-friend/HowItWorksSection';
 
 interface ReferAFriendProps {
-  lang: GetServerSidePropsContext['locale'];
+  lang: GetStaticPropsContext['locale'];
   metatagsDescriptions: MetatagsDescription[];
   navbarLang: NavigationBarText;
   textContent: ReferAFriendText;
@@ -106,7 +106,7 @@ const ReferAFriendPage = ({
   );
 };
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

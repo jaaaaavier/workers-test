@@ -1,6 +1,6 @@
 import { ComparisonPage } from '@/components/templates/comparisonPageTemplate';
 import { PromoCodeName } from '@/lib/types';
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 
 const AwsComparison = (props: any) => (
   <ComparisonPage
@@ -13,7 +13,7 @@ const AwsComparison = (props: any) => (
   />
 );
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);
   const langJson = require(`@/assets/lang/${lang}/aws-alternative.json`);

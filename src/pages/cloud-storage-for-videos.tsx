@@ -2,7 +2,7 @@ import Footer from '@/components/layout/footers/Footer';
 import Navbar from '@/components/layout/navbars/Navbar';
 import Layout from '@/components/layout/Layout';
 import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import { BannersText } from '@/assets/types/components/banners';
 import AnimatedHeroSection from '@/components/shared/HeroSections/AnimatedHeroSection';
 import Link from 'next/link';
@@ -190,7 +190,7 @@ const CloudStorageForVideos = ({
   );
 };
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

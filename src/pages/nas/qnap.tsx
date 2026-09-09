@@ -1,4 +1,4 @@
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
 import Footer from '@/components/layout/footers/Footer';
 import Layout from '@/components/layout/Layout';
@@ -20,7 +20,7 @@ import { PromoCodeName } from '@/lib/types';
 import usePricing from '@/hooks/usePricing';
 
 interface NASPageProps {
-  lang: GetServerSidePropsContext['locale'];
+  lang: GetStaticPropsContext['locale'];
   metatagsDescriptions: MetatagsDescription[];
   navbarLang: NavigationBarText;
   textContent: NASPageText;
@@ -171,7 +171,7 @@ const QNAPNASPage = ({ metatagsDescriptions, textContent, lang, navbarLang, foot
   );
 };
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

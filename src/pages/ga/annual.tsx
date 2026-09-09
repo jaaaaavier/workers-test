@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
 import Layout from '@/components/layout/Layout';
 import { PromoCodeName } from '@/lib/types';
@@ -15,7 +15,7 @@ import { stripeService, Interval } from '@/services/stripe.service';
 import { SpecialOfferText } from '@/assets/types/specialOfferTemplate';
 
 interface AnnualProps {
-  lang: GetServerSidePropsContext['locale'];
+  lang: GetStaticPropsContext['locale'];
   metatagsDescriptions: MetatagsDescription[];
   navbarLang: NavigationBarText;
   langJson: SpecialOfferText;
@@ -104,7 +104,7 @@ const AnnualPage = ({ metatagsDescriptions, langJson, lang, footerLang, navbarLa
   );
 };
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

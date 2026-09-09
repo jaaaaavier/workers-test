@@ -1,6 +1,6 @@
 import { TablesSection } from '@/components/comparison/TablesSection';
 import Layout from '@/components/layout/Layout';
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import { PricingSectionWrapper } from '@/components/ppc/PricingSectionWrapper';
 import { PromoCodeName } from '@/lib/types';
 import usePricing from '@/hooks/usePricing';
@@ -134,7 +134,7 @@ const PCloudComparison = ({ metatagsDescriptions, langJson, lang, navbarLang, fo
   );
 };
 
-export async function getServerSideProps(ctx: GetServerSidePropsContext) {
+export async function getStaticProps(ctx: GetStaticPropsContext) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);

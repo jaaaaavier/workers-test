@@ -1,6 +1,6 @@
 import { FooterText, MetatagsDescription, NavigationBarText } from '@/assets/types/layout/types';
 import Layout from '@/components/layout/Layout';
-import { GetServerSidePropsContext } from 'next';
+import { GetStaticPropsContext } from 'next';
 import Navbar from '@/components/layout/navbars/Navbar';
 import Footer from '@/components/layout/footers/Footer';
 import { SustainabilityText } from '@/assets/types/sustainability';
@@ -14,7 +14,7 @@ import FeatureSectionV3 from '@/components/sustainability/FeatureSectionV3';
 
 interface SustainabilityProps {
   metatagsDescriptions: MetatagsDescription[];
-  lang: GetServerSidePropsContext['locale'];
+  lang: GetStaticPropsContext['locale'];
   navbarLang: NavigationBarText;
   langJson: SustainabilityText;
   footerLang: FooterText;
@@ -87,7 +87,7 @@ const Sustainability = ({
   );
 };
 
-export async function getServerSideProps(ctx) {
+export async function getStaticProps(ctx) {
   const lang = ctx.locale;
 
   const metatagsDescriptions = require(`@/assets/lang/${lang}/metatags-descriptions.json`);
