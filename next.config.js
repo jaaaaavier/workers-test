@@ -6,6 +6,10 @@ module.exports = {
   experimental: {
     //swcPlugins: [['swc-plugin-coverage-instrument', { coverage: true }]],
     scrollRestoration: true,
+    // Los imports de barrel de estas librerías arrastraban miles de módulos al
+    // bundle del servidor (@phosphor-icons pesaba tanto como Next entero).
+    // Necesario para no reventar el límite de tamaño del Worker.
+    optimizePackageImports: ['@phosphor-icons/react', '@iconscout/react-unicons', '@mui/material', 'lodash'],
   },
   webpack(config) {
     config.module.rules.push({

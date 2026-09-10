@@ -13,6 +13,9 @@
     "cypress:open": "cypress open",
     "cypress:run": "cypress run --browser chrome",
     "lint": "eslint --quiet './**/*.{js,ts,tsx}'",
+    "deploy": "node ./scripts/check-envs.js && opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "preview": "node ./scripts/check-envs.js && opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
     "add:npmrc": "echo \"registry=https://registry.yarnpkg.com/\" >> .npmrc && echo \"@internxt:registry=https://npm.pkg.github.com\" >> .npmrc && echo \"//npm.pkg.github.com/:_authToken=$NPM_TOKEN\" >> .npmrc && echo \"always-auth=true\" >> .npmrc"
   },
   "dependencies": {
@@ -21,10 +24,9 @@
     "@emotion/styled": "^11.11.5",
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@ffmpeg/util": "^0.12.2",
-    "@headlessui/react": "1.6.6",
+    "@headlessui/react": "^2",
     "@iconscout/react-unicons": "^1.1.6",
     "@internxt/sdk": "1.11.12",
-    "@mui/material": "^5.15.21",
     "@phosphor-icons/react": "^2.1.5",
     "@sendgrid/mail": "^8.1.0",
     "@stripe/react-stripe-js": "^2.7.3",
@@ -49,15 +51,15 @@
     "pdf-lib": "^1.17.1",
     "pdfjs-dist": "4.2.67",
     "random-words": "^2.0.0",
-    "react": "^18.2.0",
+    "react": "^19",
     "react-device-detect": "^1.17.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^19",
     "react-hook-form": "^7.52.2",
     "react-live-chat-loader": "^2.8.0",
     "react-loading-skeleton": "^3.3.1",
     "react-markdown": "6.0.3",
     "react-parallax": "^3.3.0",
-    "react-select": "^5.7.0",
+    "react-select": "^5.10",
     "react-toastify": "^9.1.1",
     "react-tooltip": "^5.27.0",
     "tesseract.js": "^7.0.0",
@@ -65,9 +67,12 @@
   },
   "devDependencies": {
     "@cypress/code-coverage": "^3.14.7",
+    "@opennextjs/cloudflare": "^1.20.6",
     "@types/jest": "^29.4.0",
     "@types/memory-cache": "^0.2.1",
     "@types/node": "22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
     "@typescript-eslint/eslint-plugin": "8.70.0",
     "@typescript-eslint/parser": "8.70.0",
     "cypress": "^13.12.0",
@@ -79,7 +84,8 @@
     "react-fast-marquee": "^1.6.5",
     "sass": "1.41.0",
     "tailwindcss": "^3.4.10",
-    "typescript": "6.0.3"
+    "typescript": "6.0.3",
+    "wrangler": "^4.130.0"
   },
   "browser": {
     "child_process": false
@@ -102,7 +108,9 @@
     "minimatch": "^10.2.3",
     "picomatch": "^2.3.2",
     "tinyglobby/picomatch": "^4.0.3",
-    "sharp": "^0.35.0"
+    "sharp": "^0.35.0",
+    "@floating-ui/utils": "^0.2.12",
+    "**/@floating-ui/utils": "^0.2.12"
   },
   "engines": {
     "node": ">=22.0.0"
