@@ -27,6 +27,7 @@
     "@headlessui/react": "^2",
     "@iconscout/react-unicons": "^1.1.6",
     "@internxt/sdk": "1.11.12",
+    "@opennextjs/cloudflare": "^1.20.6",
     "@phosphor-icons/react": "^2.1.5",
     "@sendgrid/mail": "^8.1.0",
     "@stripe/react-stripe-js": "^2.7.3",
@@ -63,11 +64,11 @@
     "react-toastify": "^9.1.1",
     "react-tooltip": "^5.27.0",
     "tesseract.js": "^7.0.0",
+    "wrangler": "^4.130.0",
     "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
     "@cypress/code-coverage": "^3.14.7",
-    "@opennextjs/cloudflare": "^1.20.6",
     "@types/jest": "^29.4.0",
     "@types/memory-cache": "^0.2.1",
     "@types/node": "22",
@@ -84,8 +85,7 @@
     "react-fast-marquee": "^1.6.5",
     "sass": "1.41.0",
     "tailwindcss": "^3.4.10",
-    "typescript": "6.0.3",
-    "wrangler": "^4.130.0"
+    "typescript": "6.0.3"
   },
   "browser": {
     "child_process": false
